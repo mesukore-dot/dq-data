@@ -1,6 +1,29 @@
   [
+      {
+    "id": "00001",
+    "name": "スライム",
+    "furigana": "すらいむ",
+    "english_name": "Slime",
+    "page_url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/02/スライム-Slime-関連.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["かわいい"],
+    "first_appearance": "DQ1",
+    "appearances": ["DQ1","DQ2","DQ3","DQ4","DQ5","DQ6","DQ7","DQ8","DQ9","DQ10", "DQ11",
+      "DQM1","DQM2", "DQM3","DQMCH","DQMJ","DQMJ2","DQMJ3",
+      "FTR1","FTR2","FTR3","FY1","KS","DQSW","DQH1","DQH2","DQB1","DQB2","DQTR",
+      "DQMB","DQBS","XB","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "voice_actor": "-",
+    "related_items": [
+      "item_dokubari"
+    ],
+    "related_characters": []
+  },
   {
-    "id": "scorpion_01",
+    "id": "00003",
     "name": "おおさそり",
     "furigana": "おおさそり",
     "english_name": "Scorpion",
@@ -8,13 +31,11 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おおさそり.webp",
     "monster_family": "おおさそり族",
     "search_keywords": ["おおさそり", "オオサソリ", "大サソリ"],
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おおさそり.webp",
     "first_appearance": "DQ1",
     "appearances": ["DQ1", "DQ10", "DQ11", "DQM3"],
     "main_family": "虫系",
     "sub_family": "自然系",
     "other_families": [],
-    "monster_family": "おおさそり族",
     "voice_actor": "-",
     "related_items": [
       "item_dokubari"
