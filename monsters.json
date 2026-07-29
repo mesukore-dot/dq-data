@@ -22,6 +22,29 @@
     ],
     "related_characters": []
   },
+      {
+    "id": "00002",
+    "name": "ドラキー",
+    "furigana": "どらきー",
+    "english_name": "Dracky",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/24/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラキー.webp",
+    "monster_family": "ドラキー族",
+    "search_keywords": ["ドラキュラ"],
+    "first_appearance": "DQ1",
+    "appearances": ["DQ1","DQ2","DQ5","DQ7","DQ8","DQ9","DQ10", "DQ11",
+      "DQM1","DQM2", "DQM3","DQMCH","DQMJ","DQMJ2","DQMJ3",
+      "FTR1","FTR2","FTR3","FY1","KS","DQSW","DQH1","DQH2","DQB1","DQB2","DQTR",
+      "DQMB","DQBS","XB","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
+    "main_family": "鳥系",
+    "sub_family": "あくま系",
+    "other_families": [],
+    "voice_actor": "-",
+    "related_items": [
+      "item_dokubari"
+    ],
+    "related_characters": []
+  },
   {
     "id": "00003",
     "name": "おおさそり",
