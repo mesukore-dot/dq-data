@@ -17,9 +17,28 @@
     "sub_family": "-",
     "other_families": [],
     "voice_actor": "-",
-    "related_items": [
-      "item_dokubari"
-    ],
+    "related_items": ["item_dokubari"],
+    "related_characters": []
+  },
+      {
+    "id": "00004",
+    "name": "ももんじゃ",
+    "furigana": "ももんじゃ",
+    "english_name": "Platypunk",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/12/momonja/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ももんじゃ.webp",
+    "monster_family": "ももんじゃ族",
+    "search_keywords": ["魔獣系"],
+    "first_appearance": "DQ4",
+    "appearances": ["DQ4","DQ10","DQ11",
+      "DQM1","DQM2", "DQM3","DQMCH","DQMJ","DQMJ2","DQMJ3",
+      "FTR1","FTR2","FTR3","FY1","SM1","SM2","SM3","DQH2",
+      "DQMB","DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
+    "main_family": "けもの系",
+    "sub_family": "魔獣系",
+    "other_families": [],
+    "voice_actor": "-",
+    "related_items": ["item_dokubari"],
     "related_characters": []
   },
       {
