@@ -41,6 +41,27 @@
     "related_items": ["item_dokubari"],
     "related_characters": []
   },
+          {
+    "id": "00006",
+    "name": "リカント",
+    "furigana": "りかんと",
+    "english_name": "Lycant",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/リカント.webp",
+    "monster_family": "リカント族",
+    "search_keywords": ["-"],
+    "first_appearance": "DQ1",
+    "appearances": ["DQ1","DQ7","DQ9","DQ10",
+      "DQM1","DQM2","DQMJ2",
+      "DQB1","DQB2",
+     "DQMSL","STAR","RIV","WALK","TACT","champ"],
+    "main_family": "けもの系",
+    "sub_family": "魔獣系",
+    "other_families": [],
+    "voice_actor": "-",
+    "related_items": ["item_dokubari"],
+    "related_characters": []
+  },
       {
     "id": "00004",
     "name": "ももんじゃ",
