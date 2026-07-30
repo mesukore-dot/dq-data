@@ -16,6 +16,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "other_families": [],
+    "release_date": "1986年5月27日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
@@ -37,6 +38,7 @@
     "main_family": "鳥系",
     "sub_family": "あくま系",
     "other_families": [],
+    "release_date": "1986年5月27日",
     "voice_actor": "-",
     "related_items": [
       "item_dokubari"
@@ -60,6 +62,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "other_families": [],
+    "release_date": "1987年1月26日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
@@ -81,6 +84,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "other_families": [],
+    "release_date": "1986年5月27日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
@@ -102,6 +106,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "other_families": ["メタル系"],
+    "release_date": "1986年5月27日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
@@ -123,6 +128,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "other_families": [],
+    "release_date": "1986年5月27日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
@@ -144,6 +150,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "other_families": [],
+    "release_date": "1986年5月27日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
@@ -165,6 +172,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "other_families": [],
+    "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
@@ -185,6 +193,7 @@
     "main_family": "虫系",
     "sub_family": "自然系",
     "other_families": [],
+    "release_date": "1986年5月27日",
     "voice_actor": "-",
     "related_items": [
       "item_dokubari"
