@@ -20,6 +20,27 @@
     "related_items": ["item_dokubari"],
     "related_characters": []
   },
+      {
+    "id": "00007",
+    "name": "メタルスライム",
+    "furigana": "めたるすらいむ",
+    "english_name": "Metal slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/メタルスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["メタル系"],
+    "first_appearance": "DQ1",
+    "appearances": ["DQ1","DQ1_HD2D","DQ2","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ4","DQ4_PS","DQ5","DQ5_PS2","DQ5_DS","DQ6","DQ7","DQ7_3D","DQ7_RM","DQ8","DQ9","DQ10","DQ10_OFF", "DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP", "DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FTR2","FTR3","FY1","KS","DQSW","DQH1","DQH2","DQB1","DQB2","DQTR",
+      "DQMB","DQBS","XB","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": ["メタル系"],
+    "voice_actor": "-",
+    "related_items": ["item_dokubari"],
+    "related_characters": []
+  },
        {
     "id": "00005",
     "name": "ドラゴン",
