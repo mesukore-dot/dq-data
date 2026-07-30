@@ -1,6 +1,6 @@
   [
       {
-    "id": "00001",
+    "id": "1F00001",
     "name": "スライム",
     "furigana": "すらいむ",
     "english_name": "Slime",
@@ -22,7 +22,7 @@
     "related_characters": []
   },
        {
-    "id": "00002",
+    "id": "1F00003",
     "name": "ドラキー",
     "furigana": "どらきー",
     "english_name": "Dracky",
@@ -46,7 +46,7 @@
     "related_characters": []
   },
          {
-    "id": "00009",
+    "id": "1F00004",
     "name": "バブルスライム",
     "furigana": "ばぶるすらいむ",
     "english_name": "Bubble-slime",
@@ -68,7 +68,7 @@
     "related_characters": []
   },
           {
-    "id": "00008",
+    "id": "2E00001",
     "name": "スライムベス",
     "furigana": "すらいむべす",
     "english_name": "She-slime",
@@ -90,7 +90,7 @@
     "related_characters": []
   },
       {
-    "id": "00007",
+    "id": "3D00001",
     "name": "メタルスライム",
     "furigana": "めたるすらいむ",
     "english_name": "Metal slime",
@@ -112,7 +112,7 @@
     "related_characters": []
   },
        {
-    "id": "00005",
+    "id": "4C00001",
     "name": "ドラゴン",
     "furigana": "どらごん",
     "english_name": "Green dragon",
@@ -134,7 +134,7 @@
     "related_characters": []
   },
           {
-    "id": "00006",
+    "id": "3D00002",
     "name": "リカント",
     "furigana": "りかんと",
     "english_name": "Lycant",
@@ -156,7 +156,7 @@
     "related_characters": []
   },
       {
-    "id": "00004",
+    "id": "1F00018",
     "name": "ももんじゃ",
     "furigana": "ももんじゃ",
     "english_name": "Platypunk",
@@ -178,7 +178,7 @@
     "related_characters": []
   },
   {
-    "id": "00003",
+    "id": "1F00093",
     "name": "おおさそり",
     "furigana": "おおさそり",
     "english_name": "Scorpion",
