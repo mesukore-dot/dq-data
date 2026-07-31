@@ -21,6 +21,28 @@
     "related_items": ["-"],
     "related_characters": []
   },
+         {
+    "id": "1F00015",
+    "name": "ゴースト",
+    "furigana": "ごーすと",
+    "english_name": "Ghost",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/29/ghost/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ゴースト.webp",
+    "monster_family": "ゴースト族",
+    "search_keywords": ["Ghost"],
+    "first_appearance": "DQ1",
+    "appearances": ["DQ1","DQ1_HD2D","DQ2_HD2D","DQ5","DQ7_3D","DQ10","DQ10_OFF"
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FTR1","FTR2","FTR3","FY1","ARK1","MRMR2","MRMR3","DQH2","DQB1","DQB2",
+      "DQMB","DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
+    "main_family": "ゾンビ系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1986年5月27日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
             {
     "id": "1F00014",
     "name": "とげぼうず",
