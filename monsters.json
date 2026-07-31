@@ -35,7 +35,7 @@
       "DQM1","DQM2","DQM2_3DS","DQM2_SP","DQMCH",
       "RIV","KSKS"],
     "main_family": "物質系",
-    "sub_family": -,
+    "sub_family":[],
     "other_families": [],
     "release_date": "1992年9月27日",
     "voice_actor": "-",
