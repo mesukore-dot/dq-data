@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+        {
+    "id": "1F00007",
+    "name": "モコッキー",
+    "furigana": "もこっきー",
+    "english_name": "Needler",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/30/needler/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/モコッキー.webp",
+    "monster_family": "モコッキー族",
+    "search_keywords": ["Needler","魔獣系"],
+    "first_appearance": "DQ11",
+    "appearances": ["DQ11",
+      "DQM1_SP","DQM2_SP",
+      "RIV","KSKS"],
+    "main_family": "怪人系",
+    "sub_family": "魔獣系",
+    "other_families": [],
+    "release_date": "2017年7月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
            {
     "id": "1F00006",
     "name": "おおがらす",
