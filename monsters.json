@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+               {
+    "id": "1F00011",
+    "name": "ホイップゴースト",
+    "furigana": "ほいっぷごーすと",
+    "english_name": "Soft serve spook",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/23/whip-ghost/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイップゴースト.webp",
+    "monster_family": "ホイップゴースト族",
+    "search_keywords": ["Soft serve spook"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF",
+      "DQM2_3DS","DQM2_SP", "DQM3","DQMJ3","DQMJ3_P",
+      "MSP","RIV"],
+    "main_family": "エレメント系",
+    "sub_family": "ゾンビ系",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
             {
     "id": "1F00010",
     "name": "ズッキーニャ",
