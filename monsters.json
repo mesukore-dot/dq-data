@@ -21,6 +21,28 @@
     "related_items": ["-"],
     "related_characters": []
   },
+           {
+    "id": "1F00006",
+    "name": "おおがらす",
+    "furigana": "おおがらす",
+    "english_name": "Stark raven",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/07/oogarasu-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おおがらす.webp",
+    "monster_family": "おおがらす族",
+    "search_keywords": ["Stark raven","自然系"],
+    "first_appearance": "DQ3",
+    "appearances": ["DQ3","DQ10","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP", "DQM3","DQMJ"."DQMJ2","DQMJ2_P",
+      "DQB2",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS","champ"],
+    "main_family": "鳥系",
+    "sub_family": "自然系","ゾンビ系",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
        {
     "id": "1F00005",
     "name": "モーモン",
