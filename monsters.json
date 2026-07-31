@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+           {
+    "id": "1F00008",
+    "name": "おむつっこり",
+    "furigana": "おむつっこり",
+    "english_name": "Bushy Baby",
+    "page_url": "https://dqfan527.xsrv.jp/2024/09/28/bushy-baby/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おむつっこり.webp",
+    "monster_family": "おむつっこり族",
+    "search_keywords": ["Bushy Baby","自然系"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF",
+      "DQMJ3","DQMJ3_P",
+      "RIV","TACT"],
+    "main_family": "植物系",
+    "sub_family": "自然系",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "1F00007",
     "name": "モコッキー",
