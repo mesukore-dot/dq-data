@@ -22,6 +22,27 @@
     "related_characters": []
   },
             {
+    "id": "1F00014",
+    "name": "とげぼうず",
+    "furigana": "とげぼうず",
+    "english_name": "Burr baby",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/31/togebouzu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/とげぼうず.webp",
+    "monster_family": "とげぼうず族",
+    "search_keywords": ["Burr baby"],
+    "first_appearance": "DQ5",
+    "appearances": ["DQ5",
+      "DQM1","DQM2","DQM2_3DS","DQM2_SP","DQMCH",
+      "RIV","KSKS"],
+    "main_family": "物質系",
+    "sub_family": -,
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+            {
     "id": "1F00013",
     "name": "ピンクボンボン",
     "furigana": "ぴんくぼんぼん",
