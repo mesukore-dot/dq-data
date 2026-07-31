@@ -31,7 +31,7 @@
     "monster_family": "ゴースト族",
     "search_keywords": ["Ghost"],
     "first_appearance": "DQ1",
-    "appearances": ["DQ1","DQ1_HD2D","DQ2_HD2D","DQ5","DQ7_3D","DQ10","DQ10_OFF"
+    "appearances": ["DQ1","DQ1_HD2D","DQ2_HD2D","DQ5","DQ7_3D","DQ10","DQ10_OFF",
       "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
       "FTR1","FTR2","FTR3","FY1","ARK1","MRMR2","MRMR3","DQH2","DQB1","DQB2",
       "DQMB","DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
