@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+          {
+    "id": "1F00009",
+    "name": "キリキリバッタ",
+    "furigana": "きりきりばった",
+    "english_name": "Walking stick",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/18/kirikiribatta/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キリキリバッタ.webp",
+    "monster_family": "キリキリバッタ族",
+    "search_keywords": ["Walking stick","自然系"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ4",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP",
+      ],
+    "main_family": "虫系",
+    "sub_family": "自然系",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
            {
     "id": "1F00008",
     "name": "おむつっこり",
