@@ -1,1 +1,23 @@
 
+{
+  "works": {
+    "DQ2": {
+      "logo": "https://xsrv.jp",
+      "link": "https://xsrv.jp"
+    },
+    "TACT": {
+      "logo": "https://xsrv.jp",
+      "link": "https://xsrv.jp"
+    }
+  },
+  "families": {
+    "スライム系": {
+      "icon": "https://xsrv.jp",
+      "link": "https://xsrv.jp"
+    },
+    "クリスマス": {
+      "icon": "https://xsrv.jp",
+      "link": "https://xsrv.jp"
+    }
+  }
+}
