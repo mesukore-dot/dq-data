@@ -1,4 +1,3 @@
-[
 {
   "title": {
     "DQ2": {
@@ -237,5 +236,5 @@
       "gradient_2": "linear-gradient(90deg, #1e0b36 0%, #a855f7 20%, #ea580c 40%, #facc15 50%, #ea580c 60%, #a855f7 80%, #1e0b36 100%)",
       "gradient_3": "linear-gradient(90deg, #1e0b36 0%, #a855f7 20%, #ea580c 40%, #facc15 50%, #ea580c 60%, #a855f7 80%, #1e0b36 100%)"
     }
-
-]
+}
+  }
