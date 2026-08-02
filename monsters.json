@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+          {
+    "id": "1F00029",
+    "name": "オニムカデ",
+    "furigana": "おにむかで",
+    "english_name": "nightcrawler",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/17/nightcrawler/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/オニムカデ.webp",
+    "monster_family": "どくあおむし族",
+    "search_keywords": ["自然系","nightcrawler"],
+    "first_appearance": "DQ7",
+    "appearances": ["DQ7","DQ7_3D","DQ7_RM",
+      "DQM2_SP", 
+    "STAR","RIV"],
+    "main_family": "虫系",
+    "sub_family":[],
+    "other_families": ["自然系"],
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
            {
     "id": "1F00028",
     "name": "はなカワセミ",
