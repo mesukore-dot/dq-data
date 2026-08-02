@@ -21,6 +21,28 @@
     "related_items": ["-"],
     "related_characters": []
   },
+              {
+    "id": "1F00031",
+    "name": "ホイミスライム",
+    "furigana": "ほいみすらいむ",
+    "english_name": "Healslime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/25/hoimi-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイミスライム.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Healslime"],
+    "first_appearance": "DQ2",
+    "appearances": ["DQ1_HD2D","DQ2","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ4","DQ4_PS","DQ5","DQ5_PS2","DQ5_DS","DQ6","DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF", "DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP", "DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "ARK1","ARK2","FTR1","FTR2","FTR3","FY1","MRMR1","MRMR2","MRMR3","KS","DQSW","DQH1","DQH2","DQB2",
+      "DQMB","DQBS","XB","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
              {
     "id": "1F00030",
     "name": "みならいあくま",
