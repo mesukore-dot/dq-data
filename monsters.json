@@ -239,7 +239,7 @@
     "monster_family": "スライムツリー族",
     "search_keywords": ["Buddy slime"],
     "first_appearance": "DQM1",
-    "appearances": ["DQ6",
+    "appearances": [
       "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP", "DQM3","DQM4",
     "RIV"],
     "main_family": "スライム系",
