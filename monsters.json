@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+             {
+    "id": "1F00022",
+    "name": "マンドラゴラ",
+    "furigana": "まんどらごら",
+    "english_name": "Scare root",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/16/mandoragora-dq6/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マンドラゴラ（DQ6）.webp",
+    "monster_family": "ダンスキャロット族",
+    "search_keywords": ["Scare root","自然系"],
+    "first_appearance": "DQ6",
+    "appearances": ["DQ6",
+      "FTR2","FTR3","FY1",
+    "STAR"],
+    "main_family": "植物系",
+    "sub_family":[],
+    "other_families": ["自然系"],
+    "release_date": "1995年12月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
               {
     "id": "1F00021",
     "name": "せみもぐら",
