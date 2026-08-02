@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+             {
+    "id": "1F00026",
+    "name": "しましまキャット",
+    "furigana": "しましまきゃっと",
+    "english_name": "Candy cat",
+    "page_url": ["https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/"],
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/しましまキャット.webp",
+    "monster_family": "プリズニャン族",
+    "search_keywords": ["Candy cat","魔獣系"],
+    "first_appearance": "DQ8","DQ8_3D","DQ10","DQ10_OFF",
+    "appearances": ["DQ2","DQ2_HD2D",
+     "FY1","DQM3","DQMJ3","DQMJ3_P","DQH2",
+    "DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","champ"],
+    "main_family": "けもの系",
+    "sub_family":[],
+    "other_families": ["魔獣系"],
+    "release_date": "2004年11月27日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
          {
     "id": "1F00025",
     "name": "アイアンアント",
