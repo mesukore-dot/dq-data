@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+         {
+    "id": "1F00025",
+    "name": "アイアンアント",
+    "furigana": "あいあんあんと",
+    "english_name": "Iron ant",
+    "page_url": ["https://dqfan527.xsrv.jp/2023/05/21/iron-ant/"],
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/アイアンアント.webp",
+    "monster_family": "ぐんたいアリ族",
+    "search_keywords": ["Iron ant","自然系"],
+    "first_appearance": "DQ2",
+    "appearances": ["DQ2","DQ2_HD2D",
+     "FTR2","FTR3","FY1","DQB2",
+    "DQMSL","STAR","RIV"],
+    "main_family": "虫系",
+    "sub_family":[],
+    "other_families": ["自然系"],
+    "release_date": "1987年1月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "1F00024",
     "name": "オコボルト",
