@@ -21,6 +21,26 @@
     "related_items": ["-"],
     "related_characters": []
   },
+             {
+    "id": "1F00030",
+    "name": "みならいあくま",
+    "furigana": "みならいあくま",
+    "english_name": "Winkster",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/23/minaraiakuma-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/みならいあくま.webp",
+    "monster_family": "ひとつめピエロ族",
+    "search_keywords": ["Winkster"],
+    "first_appearance": "DQ4",
+    "appearances": ["DQ4","DQ4_PS","DQ9","DQ10","DQ10_OFF",
+      "DQMSL","MSP","STAR","RIV","WALK","DQSG"],
+    "main_family": "あくま系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
           {
     "id": "1F00029",
     "name": "オニムカデ",
