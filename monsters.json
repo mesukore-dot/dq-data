@@ -21,6 +21,25 @@
     "related_items": ["-"],
     "related_characters": []
   },
+         {
+    "id": "1F00033",
+    "name": "ねずこうもり",
+    "furigana": "ねずこうもり",
+    "english_name": "Batatouille",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/16/nezukoumori/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ねずこうもり.webp",
+    "monster_family": "ねずこうもり族",
+    "search_keywords": ["Batatouille"],
+    "first_appearance": "DQ6",
+    "appearances": ["DQ6"],
+    "main_family": "鳥系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
           {
     "id": "1F00032",
     "name": "はさみくわがた",
