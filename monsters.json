@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+          {
+    "id": "1F00027",
+    "name": "マーブルン",
+    "furigana": "まーぶるん",
+    "english_name": "Kaleidocat",
+    "page_url": ["https://dqfan527.xsrv.jp/2023/04/10/marblen/"],
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+    "monster_family": "プリズニャン族",
+    "search_keywords": ["Kaleidocat","魔獣系","転生モンスター"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF",
+     "DQMJ3","DQMJ3_P",
+    "DQBS","MSP","RIV","WALK","TACT","champ"],
+    "main_family": "けもの系",
+    "sub_family":[],
+    "other_families": ["魔獣系"],
+    "release_date": "2013年5月16日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
              {
     "id": "1F00026",
     "name": "しましまキャット",
