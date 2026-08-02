@@ -21,6 +21,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+        {
+    "id": "1F00024",
+    "name": "オコボルト",
+    "furigana": "おこぼると",
+    "english_name": "Grublin",
+    "page_url": [],
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ページ未作成-エメラルド.webp",
+    "monster_family": "オコボルト族",
+    "search_keywords": ["Grublin","魔獣系"],
+    "first_appearance": "DQ11",
+    "appearances": ["DQ11",
+      "DQM2_SP",
+    "DQMSL","RIV"],
+    "main_family": "怪人系",
+    "sub_family":[],
+    "other_families": ["魔獣系"],
+    "release_date": "2017年7月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
             {
     "id": "1F00023",
     "name": "スライムツリー",
