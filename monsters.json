@@ -20,6 +20,24 @@
     "voice_actor": "-",
     "related_items": ["-"],
     "related_characters": []
+  },      {
+    "id": "8SS99000",
+    "name": "魔界神マデュラーシャ",
+    "furigana": "まかいしんまでゅらーしゃ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/10/makaishin-madexuraja/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/魔界神マデュラージャ.webp",
+    "monster_family": "魔界神マデュラーシャ族",
+    "search_keywords": ["ボス"],
+    "first_appearance": "DQMJ3P",
+    "appearances": ["DQM2_SP","DQMJ3P","DQMSL"],
+    "main_family": "？？？系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2017年2月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
   },
          {
     "id": "1F00033",
