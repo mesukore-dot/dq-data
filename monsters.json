@@ -20,7 +20,27 @@
     "voice_actor": "-",
     "related_items": ["-"],
     "related_characters": []
-  },      {
+  },  
+        {
+    "id": "8SS98999",
+    "name": "大魔王マデュラージャ",
+    "furigana": "だいまおうまでゅらーじゃ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/10/daimao-madexuraja/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/大魔王マデュラージャ.webp",
+    "monster_family": "大魔王マデュラージャ",
+    "search_keywords": ["ボス"],
+    "first_appearance": "DQMJ3P",
+    "appearances": ["DQM2_SP","DQMJ3P","DQMSL"],
+    "main_family": "？？？系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2017年2月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+    {
     "id": "8SS99000",
     "name": "魔界神マデュラーシャ",
     "furigana": "まかいしんまでゅらーしゃ",
