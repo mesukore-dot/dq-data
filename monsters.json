@@ -21,6 +21,25 @@
     "related_items": ["-"],
     "related_characters": []
   },  
+            {
+    "id": "7S01A0001",
+    "name": "ホイミン",
+    "furigana": "ほいみん",
+    "english_name": "Healie",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/27/healiedq4/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホイミン.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Healie"],
+    "first_appearance": "DQ4",
+    "appearances": ["DQ4","DQ6","DQBS","DQMSL","RIV","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
              {
     "id": "7S01S0001",
     "name": "ホミちょ",
