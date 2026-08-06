@@ -21,6 +21,28 @@
     "related_items": ["-"],
     "related_characters": []
   },  
+          {
+    "id": "01S4C0001",
+    "name": "はぐれメタル",
+    "furigana": "はぐれめたる",
+    "english_name": "liquid Metal slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/22/haguremetaru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/はぐれメタル.webp",
+    "monster_family": "バブルスライム族",
+    "search_keywords": ["liquid Metal slime","メタル系"],
+    "first_appearance": "DQ2",
+    "appearances": ["DQ1_HD2D","DQ2","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ4","DQ4_PS","DQ5","DQ5_PS2","DQ5_DS","DQ6","DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF", "DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP", "DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "ARK1","FTR1","FTR2","FTR3","FY1","KS","DQSW","DQH1","DQH2","DQB2",
+      "DQMB","DQBS","XB","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },  
         {
     "id": "14?8SS9000",
     "name": "大魔王マデュラージャ",
@@ -100,7 +122,7 @@
     "related_characters": []
   },
               {
-    "id": "1F00031",
+    "id": "01S1F0003",
     "name": "ホイミスライム",
     "furigana": "ほいみすらいむ",
     "english_name": "Healslime",
@@ -693,7 +715,7 @@
     "related_characters": []
   },
          {
-    "id": "1F00004",
+    "id": "01S1F0002",
     "name": "バブルスライム",
     "furigana": "ばぶるすらいむ",
     "english_name": "Bubble-slime",
