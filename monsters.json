@@ -34,7 +34,7 @@
     "appearances": ["DQ1_HD2D","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ4","DQ4_PS","DQ5","DQ5_PS2","DQ5_DS","DQ6","DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF", "DQ11",
      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
       "FTR2","FTR3","FY1","DQSW","DQH1","DQH2",
-      "DQBS","DQMSL","MSP","STAR","RIV",],
+      "DQBS","DQMSL","MSP","STAR","RIV"],
     "main_family": "スライム系",
     "sub_family":[],
     "other_families": [],
