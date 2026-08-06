@@ -1,6 +1,6 @@
   [
       {
-    "id": "01S1F0001",
+    "id": "1F01S0001",
     "name": "スライム",
     "furigana": "すらいむ",
     "english_name": "Slime",
@@ -22,7 +22,29 @@
     "related_characters": []
   },  
             {
-    "id": "01S2E0002",
+    "id": "4C01S0002",
+    "name": "ベホマスライム",
+    "furigana": "べほますらいむ",
+    "english_name": "Seaslime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/04/marine-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マリンスライム.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Seaslime"],
+    "first_appearance": "DQ3",
+    "appearances": ["DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ6","DQ7_RM","DQ10","DQ10_OFF", "DQ11",
+     "DQMJ3","DQMJ3_P",
+      "ARK1","ARK2","FY1",
+      "DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": ["水系"],
+    "release_date": "1988年2月10日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+            {
+    "id": "2E01S0002",
     "name": "マリンスライム",
     "furigana": "まりんすらいむ",
     "english_name": "Seaslime",
@@ -43,9 +65,8 @@
     "related_items": ["-"],
     "related_characters": []
   },
-        
               {
-    "id": "01S1F0004",
+    "id": "1F01S0004",
     "name": "スライムつむり",
     "furigana": "すらいむつむり",
     "english_name": "Shell slime",
@@ -67,7 +88,7 @@
     "related_characters": []
   },
           {
-    "id": "01S4C0001",
+    "id": "4C01S0001",
     "name": "はぐれメタル",
     "furigana": "はぐれめたる",
     "english_name": "liquid Metal slime",
@@ -89,7 +110,7 @@
     "related_characters": []
   },  
         {
-    "id": "14?8SS9000",
+    "id": "8SS14?9000",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
     "english_name": "-",
@@ -108,7 +129,7 @@
     "related_characters": []
   },
     {
-    "id": "14?8SS8999",
+    "id": "8SS14?8999",
     "name": "魔界神マデュラーシャ",
     "furigana": "まかいしんまでゅらーしゃ",
     "english_name": "-",
@@ -167,7 +188,7 @@
     "related_characters": []
   },
               {
-    "id": "01S1F0003",
+    "id": "1F01S0003",
     "name": "ホイミスライム",
     "furigana": "ほいみすらいむ",
     "english_name": "Healslime",
@@ -760,7 +781,7 @@
     "related_characters": []
   },
          {
-    "id": "01S1F0002",
+    "id": "1F01S0002",
     "name": "バブルスライム",
     "furigana": "ばぶるすらいむ",
     "english_name": "Bubble-slime",
@@ -782,7 +803,7 @@
     "related_characters": []
   },
           {
-    "id": "01S2E0001",
+    "id": "2E01S0001",
     "name": "スライムベス",
     "furigana": "すらいむべす",
     "english_name": "She-slime",
@@ -804,7 +825,7 @@
     "related_characters": []
   },
       {
-    "id": "01S3D0001",
+    "id": "3D01S0001",
     "name": "メタルスライム",
     "furigana": "めたるすらいむ",
     "english_name": "Metal slime",
