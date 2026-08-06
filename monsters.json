@@ -21,6 +21,25 @@
     "related_items": ["-"],
     "related_characters": []
   },  
+             {
+    "id": "7S01S0001",
+    "name": "ホミちょ",
+    "furigana": "ほみちょ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/04/behoma-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホマスライム.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQ3_HD2D",
+    "appearances": ["DQ3_HD2D"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2024年11月14日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
             {
     "id": "4C01S0002",
     "name": "ベホマスライム",
