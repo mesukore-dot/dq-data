@@ -21,6 +21,29 @@
     "related_items": ["-"],
     "related_characters": []
   },  
+            {
+    "id": "01S2E0002",
+    "name": "マリンスライム",
+    "furigana": "まりんすらいむ",
+    "english_name": "Seaslime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/04/marine-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マリンスライム.webp",
+    "monster_family": "スライムつむり族",
+    "search_keywords": ["Seaslime"],
+    "first_appearance": "DQ3",
+    "appearances": ["DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ6","DQ7_RM","DQ10","DQ10_OFF", "DQ11",
+     "DQMJ3","DQMJ3_P",
+      "ARK1","ARK2","FY1",
+      "DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": ["水系"],
+    "release_date": "1988年2月10日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        
               {
     "id": "01S1F0004",
     "name": "スライムつむり",
@@ -33,7 +56,7 @@
     "first_appearance": "DQ3",
     "appearances": ["DQ1_HD2D","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ6","DQ7_RM","DQ10","DQ10_OFF", "DQ11",
       "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP", "DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
-      "FY1","KS","DQH1",
+      "FY1","KS",
       "DQMB","DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
     "main_family": "スライム系",
     "sub_family":[],
