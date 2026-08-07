@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+           {
+    "id": "3D01S0007-1",
+    "name": "ももいろ三姉妹",
+    "furigana": "ももいろさんしまい",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ももいろ三姉妹.webp",
+    "monster_family": "スライムタワー族",
+    "search_keywords": ["転生モンスター"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF",
+      "DQMJ3","DQMJ3_P",
+      "DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","champ"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2013年11月7日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
          {
     "id": "2E01S0008",
     "name": "クリスマスライム",
