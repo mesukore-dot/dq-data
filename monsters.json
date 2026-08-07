@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+           {
+    "id": "3D01S0009",
+    "name": "つららスライム",
+    "furigana": "つららすらいむ",
+    "english_name": "Coal slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/turara-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つららスライム.webp",
+    "monster_family": "スライムつむり族",
+    "search_keywords": ["Coal slime","雪・氷"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF", "DQ11",
+    "DQM2_3DS","DQM2_SP","DQM3","DQMJ3","DQMJ3_P",
+    "DQBS",
+    "MSP","STAR","RIV","WALK","TACT","champ"],
+    "main_family": "スライム系",
+    "sub_family": ["雪・氷"],
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
           {
     "id": "6A01S0004",
     "name": "デンガー",
