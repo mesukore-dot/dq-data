@@ -21,6 +21,28 @@
     "related_items": ["-"],
     "related_characters": []
   },  
+          {
+    "id": "6A01S0002",
+    "name": "メタルキング",
+    "furigana": "めたるきんぐ",
+    "english_name": "Metal king slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/10/metal-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルキング.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": ["Metal king slime","メタル系"],
+    "first_appearance": "DQ4",
+    "appearances": ["DQ4","DQ4_PS","DQ5","DQ5_PS2","DQ5_DS","DQ6","DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF", "DQ11",
+     "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+     "ARK1","FTR3","FY1","KS","DQSW","DQH1","DQH2","DQB2","DQTR",
+      "DQMB","DQBS","DQMSL","MSP","STAR""RIV","WALK","TACT","KSKS"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
              {
     "id": "4C01S0004",
     "name": "スライムベホマズン",
