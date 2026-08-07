@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "2E01S0005",
+    "name": "ベホイミスライム",
+    "furigana": "べほいみすらいむ",
+    "english_name": "Medislime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/10/behoimi-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホイミスライム.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Medislime"],
+    "first_appearance": "DQ4",
+    "appearances": ["DQ4","DQ4_PS","DQ7_3D","DQ9","DQ10","DQ10_OFF", "DQ11",
+    "DQBS",
+    "MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
            {
     "id": "4C01S0007",
     "name": "ゴールデントーテム",
