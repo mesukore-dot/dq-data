@@ -23,6 +23,26 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+          {
+    "id": "6A01S0005",
+    "name": "スライムエネルゴン",
+    "furigana": "すらいむえねるごん",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/04/08/slime-energon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムエネルゴン.webp",
+    "monster_family": "ゴールデンスライム族",
+    "search_keywords": ["ボス"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"
+      ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2017年11月16日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
          {
     "id": "4C01S0012",
     "name": "ハートボイルド",
@@ -31,7 +51,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2025/02/21/heart-boiled/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートボイルド.webp",
     "monster_family": "ゴールデンスライム族",
-    "search_keywords": [],
+    "search_keywords": ["ボス"],
     "first_appearance": "DQ10",
     "appearances": ["DQ10","DQ10_OFF"
       ],
