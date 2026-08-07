@@ -21,6 +21,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "5B01S0003",
+    "name": "スライムエンペラー",
+    "furigana": "すらいむえんぺらー",
+    "english_name": "Emperor slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-emperor/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムエンペラー.webp",
+    "monster_family": "ゴールデンスライム族",
+    "search_keywords": ["Emperor slime"],
+    "first_appearance": "DQ7",
+    "appearances": ["DQ7","DQ7_3D","DQ7_RM","DQ10","DQ10_OFF",
+      "DQM3","DQMJ3","DQMJ3_P",
+      "FTR3","FY1",
+       "DQMSL","MSP","STAR","TACT","KSKS"],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
          {
     "id": "4C01S0005",
     "name": "ワンダーエッグ",
