@@ -23,6 +23,26 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+             {
+    "id": "4C01S0008",
+    "name": "スラマシンZ",
+    "furigana": "すらましんぜっと",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/03/スラマシンZ.png",
+    "monster_family": "スライムボーグ族",
+    "search_keywords": [],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10",
+　　　"WALK"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2022年3月17日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
            {
     "id": "5B01S0006",
     "name": "クイーンスライム",
