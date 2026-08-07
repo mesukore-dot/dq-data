@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+             {
+    "id": "1F01S0003-1",
+    "name": "メタルホイミン",
+    "furigana": "めたるほいみん",
+    "english_name": "Metal healie",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/27/metal-healie/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルホイミン.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Metal healie","メタル系","転生モンスター"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF", 
+      "DQMJ3","DQMJ3_P",
+      "MSP","WALK","TACT","champ"],
+    "main_family": "スライム系",
+    "sub_family":["メタル系"],
+    "other_families": [],
+    "release_date": "2013年9月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
             {
     "id": "5B01S0007",
     "name": "ピンキーマッシュ",
