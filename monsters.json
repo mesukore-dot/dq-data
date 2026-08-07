@@ -23,6 +23,25 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "8SS01S0001",
+    "name": "ホーリーキング",
+    "furigana": "ほーりーきんぐ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/06/holly-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホーリーキング.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2021年11月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
           {
     "id": "2E01S0009",
     "name": "ダークネスマリン",
