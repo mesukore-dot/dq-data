@@ -21,6 +21,26 @@
     "related_items": ["-"],
     "related_characters": []
   },  
+          {
+    "id": "3D01S0004",
+    "name": "しびれスライム",
+    "furigana": "しびれすらいむ",
+    "english_name": "Sting slime",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/27/sting-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/しびれスライム.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Sting slime"],
+    "first_appearance": "DQ7",
+    "appearances": ["DQ7","DQ7_3D","DQ7_RM",
+       "MSP"],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
            {
     "id": "3D01S0003",
     "name": "ぶちベホマラー",
