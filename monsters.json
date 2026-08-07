@@ -21,6 +21,28 @@
     "related_items": ["-"],
     "related_characters": []
   },  
+         {
+    "id": "4C01S0004",
+    "name": "スライムブレス",
+    "furigana": "すらいむぶれす",
+    "english_name": "Dragon slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/25/slime-bless/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムブレス.webp",
+    "monster_family": "ドラゴスライム族",
+    "search_keywords": ["Dragon slime"],
+    "first_appearance": "DQ7",
+    "appearances": ["DQ7","DQ7_3D","DQ7_RM","DQ10",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FTR3",
+       "DQMSL","MSP","STAR","RIV","WALK","TACT","champ"],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
           {
     "id": "3D01S0004",
     "name": "しびれスライム",
