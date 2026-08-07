@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "2E01S0008",
+    "name": "クリスマスライム",
+    "furigana": "くりすますらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/xmas-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クリスマスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["クリスマス"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10",
+    "DQBS","XB",
+    "DQMSL","STAR","WALK"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2013年12月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
           {
     "id": "4C01S0009",
     "name": "チョコタワー",
