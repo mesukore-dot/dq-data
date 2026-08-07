@@ -24,6 +24,25 @@
     "related_characters": []
   }, 
         {
+    "id": "2E01S0010",
+    "name": "クリームつむり",
+    "furigana": "くりーむつむり",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/28/cream-roll/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クリームつむり.webp",
+    "monster_family": "スライムつむり族",
+    "search_keywords": ["お菓子","モンスターシール"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2020年1月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "8SS01S0001",
     "name": "ホーリーキング",
     "furigana": "ほーりーきんぐ",
