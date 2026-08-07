@@ -1141,7 +1141,7 @@
     "related_characters": []
   },
        {
-    "id": "1F00003",
+    "id": "1F05B0001",
     "name": "ドラキー",
     "furigana": "どらきー",
     "english_name": "Dracky",
@@ -1231,7 +1231,7 @@
     "related_characters": []
   },
        {
-    "id": "4C00001",
+    "id": "4C02D0001",
     "name": "ドラゴン",
     "furigana": "どらごん",
     "english_name": "Green dragon",
@@ -1253,7 +1253,7 @@
     "related_characters": []
   },
           {
-    "id": "3D00002",
+    "id": "3D03B0001",
     "name": "リカント",
     "furigana": "りかんと",
     "english_name": "Lycant",
@@ -1297,7 +1297,7 @@
     "related_characters": []
   },
   {
-    "id": "1F00093",
+    "id": "1F06B0001",
     "name": "おおさそり",
     "furigana": "おおさそり",
     "english_name": "Scorpion",
@@ -1314,9 +1314,7 @@
     "other_families": [],
     "release_date": "1986年5月27日",
     "voice_actor": "-",
-    "related_items": [
-      "item_dokubari"
-    ],
+    "related_items": [],
     "related_characters": []
   }
 ]
