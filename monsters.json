@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+             {
+    "id": "3D01S0007",
+    "name": "スライムタワー",
+    "furigana": "すらいむたわー",
+    "english_name": "Slime stack",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/03/slime-pudding/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムプディング.webp",
+    "monster_family": "スライムタワー族",
+    "search_keywords": ["Slime stack"],
+    "first_appearance": "DQ9",
+    "appearances": ["DQ7_RM","DQ9","DQ10","DQ10_OFF",
+    "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+    "DQMB","DQBS",
+    "DQMSL","MSP","STAR","RIV","WALK","TACT","champ"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
           {
     "id": "5B01S0004",
     "name": "スライムプディング",
