@@ -23,6 +23,26 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+           {
+    "id": "3D01S0008",
+    "name": "ベホイムスライム",
+    "furigana": "べほいむすらいむ",
+    "english_name": "Sootheslime",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/18/sootheslime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホイムスライム.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Sootheslime"],
+    "first_appearance": "DQ9",
+    "appearances": ["DQ9","DQ10","DQ10_OFF",
+    "MSP","RIV","WALK","TACT","DQSG"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
         {
     "id": "2E01S0005",
     "name": "ベホイミスライム",
