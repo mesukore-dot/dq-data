@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+              {
+    "id": "4C01S0006",
+    "name": "メタルブラザーズ",
+    "furigana": "めたるぶらざーず",
+    "english_name": "Metal medley",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
+    "monster_family": "スライムタワー族",
+    "search_keywords": ["Metal medley","メタル系"],
+    "first_appearance": "DQ9",
+    "appearances": ["DQ7_RM","DQ9","DQ10","DQ10_OFF",
+    "DQMJ3","DQMJ3_P",
+    "DQBS",
+    "DQMSL","MSP","STAR","RIV","WALK","champ","DQSG"],
+    "main_family": "スライム系",
+    "sub_family": ["メタル系"],
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
              {
     "id": "3D01S0007",
     "name": "スライムタワー",
