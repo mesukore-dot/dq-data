@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+           {
+    "id": "4C01S0007",
+    "name": "ゴールデントーテム",
+    "furigana": "ごーるでんとーてむ",
+    "english_name": "Gem jamboree",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/25/golden-totem/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールデントーテム.webp",
+    "monster_family": "スライムタワー族",
+    "search_keywords": ["Gem jamboree","ゴールデン"],
+    "first_appearance": "DQ9",
+    "appearances": ["DQ7_RM","DQ9","DQ10","DQ10_OFF",
+    "DQMJ3","DQMJ3_P",
+    "DQBS",
+    "DQMSL","MSP","STAR","RIV","WALK","TACT","champ"],
+    "main_family": "スライム系",
+    "sub_family": ["ゴールデン"],
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
               {
     "id": "4C01S0006",
     "name": "メタルブラザーズ",
