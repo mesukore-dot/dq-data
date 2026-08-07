@@ -24,6 +24,27 @@
     "related_characters": []
   }, 
            {
+    "id": "5B01S0005",
+    "name": "ゴッドライダー",
+    "furigana": "ごっどらいだー",
+    "english_name": "Slionheart",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/god-rider/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴッドライダー.webp",
+    "monster_family": "スライムジェネラル族",
+    "search_keywords": ["Slionheart"],
+    "first_appearance": "DQ9",
+    "appearances": ["DQ9",
+    "DQM3",
+    "DQMSL","MSP","STAR","RIV","WALK","TACT"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+           {
     "id": "3D01S0008",
     "name": "ベホイムスライム",
     "furigana": "べほいむすらいむ",
