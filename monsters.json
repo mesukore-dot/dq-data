@@ -23,6 +23,25 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+          {
+    "id": "3D01S0005",
+    "name": "エレキスライム",
+    "furigana": "えれきすらいむ",
+    "english_name": "Electroslime",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/27/electroslime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/エレキスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["Electroslime"],
+    "first_appearance": "DQ7_3D",
+    "appearances": ["DQ7_3D"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2013年2月7日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
         {
     "id": "7S01S0002",
     "name": "プラチナキング",
