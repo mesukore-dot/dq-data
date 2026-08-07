@@ -23,6 +23,25 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+           {
+    "id": "3D01S0011",
+    "name": "のっかりゼラチン",
+    "furigana": "のっかりぜらちん",
+    "english_name": "-",
+    "page_url": [],
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": ["防衛軍"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2020年12月23日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
             {
     "id": "2E01S0013",
     "name": "マリンスライム・塔",
