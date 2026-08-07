@@ -23,6 +23,26 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+          {
+    "id": "6A01S0004",
+    "name": "デンガー",
+    "furigana": "でんがー",
+    "english_name": "Prime slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/denga/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/デンガー.webp",
+    "monster_family": "スライムジェネラル族",
+    "search_keywords": ["Prime slime"],
+    "first_appearance": "DQ9",
+    "appearances": ["DQ9","DQ10",
+    "DQMSL","MSP","STAR","RIV"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
            {
     "id": "5B01S0005",
     "name": "ゴッドライダー",
