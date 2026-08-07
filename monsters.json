@@ -23,6 +23,25 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+          {
+    "id": "7S01S0003",
+    "name": "ダークアドミラル",
+    "furigana": "だーくあどみらる",
+    "english_name": "-",
+    "page_url": [],
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
+    "monster_family": "スライムジェネラル族",
+    "search_keywords": ["ボス","未作成"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2026年6月25日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
         {
     "id": "6A01S0008",
     "name": "冥光冠パニスライム",
@@ -37,7 +56,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "other_families": [],
-    "release_date": "2026年12月10日",
+    "release_date": "2026年3月25日",
     "voice_actor": "-",
     "related_items": [],
     "related_characters": []
