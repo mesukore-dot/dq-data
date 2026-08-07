@@ -23,6 +23,26 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "4C01S0012",
+    "name": "ハートボイルド",
+    "furigana": "はーとぼいるど",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/02/21/heart-boiled/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートボイルド.webp",
+    "monster_family": "ゴールデンスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF"
+      ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2014年2月27日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
            {
     "id": "4C01S0011",
     "name": "コスモスライム",
