@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "2E01S0004-1",
+    "name": "ハートナイト",
+    "furigana": "はーとないと",
+    "english_name": "Snooty slime knight",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/02/heart-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートナイト.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": ["転生"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF","DQ11",
+      "DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P",
+      "DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2012年12月26日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
             {
     "id": "1F01S0004-1",
     "name": "つむりんママ",
