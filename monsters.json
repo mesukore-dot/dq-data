@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+          {
+    "id": "4C01S0009",
+    "name": "チョコタワー",
+    "furigana": "ちょこたわー",
+    "english_name": "Cococoa blobelisk",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
+    "monster_family": "スライムタワー族",
+    "search_keywords": ["バレンタイン","お菓子"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"
+    "DQM3",
+    "STAR","RIV"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2014年2月1日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
          {
     "id": "2E01S0007",
     "name": "はぐレモン",
@@ -31,7 +52,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2024/08/02/hagu-lemon/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/はぐレモン.webp",
     "monster_family": "バブルスライム族",
-    "search_keywords": [""],
+    "search_keywords": [],
     "first_appearance": "DQ10",
     "appearances": ["DQ10"],
     "main_family": "スライム系",
