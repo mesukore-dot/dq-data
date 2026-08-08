@@ -546,6 +546,27 @@
     "related_characters": []
   },
          {
+    "id": "3D01S0010-1",
+    "name": "メタルトリュフ",
+    "furigana": "めたるとりゅふ",
+    "english_name": "Metal tuffle slime",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/18/metal-truffle-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルトリュフ.webp",
+    "monster_family": "バブルスライム族",
+    "search_keywords": ["Metal tuffle slime","転生モンスター","メタル系"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF",
+    "DQMJ3","DQMJ3_P",
+    "DQMSL","RIV"],
+    "main_family": "スライム系",
+    "sub_family": ["メタル系"],
+    "other_families": [],
+    "release_date": "2014年6月5日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+         {
     "id": "3D01S0010",
     "name": "マッシュスライム",
     "furigana": "まっしゅすらいむ",
