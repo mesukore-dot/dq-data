@@ -23,6 +23,25 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "4C01S0003-1",
+    "name": "カイゼルスライム",
+    "furigana": "かいぜるすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/06/kaiser-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/カイゼルスライム.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": ["転生モンスター"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2026年6月24日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
          {
     "id": "3D01S0013",
     "name": "ヤミスライム",
