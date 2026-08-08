@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "5B01S0013",
+    "name": "スライムタール",
+    "furigana": "すらいむたーる",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/21/slime-tar/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムタール.webp",
+    "monster_family": "バブルスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQ11",
+    "appearances": ["DQ11",
+    "DQM2_SP","DQM3",
+    "DQMSL","RIV","WALK","TACT"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2017年7月29日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
           {
     "id": "5B01S0012-1",
     "name": "黄泉の花",
