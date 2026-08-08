@@ -23,6 +23,25 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "3D01S0013",
+    "name": "ヤミスライム",
+    "furigana": "やみすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/04/09/yami-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ヤミスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2024年10月24日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
           {
     "id": "8SS01S0002-1",
     "name": "レインボースライム",
