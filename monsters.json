@@ -23,6 +23,25 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "2E01S0015",
+    "name": "はんじゅくスライム",
+    "furigana": "はんじゅくすらいむ",
+    "english_name": "-",
+    "page_url": [],
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
+    "monster_family": "バブルスライム族",
+    "search_keywords": ["未作成"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10"],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "other_families": [],
+    "release_date": "2019年4月10日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
           {
     "id": "7S01S0004",
     "name": "ウォータスライダーク",
