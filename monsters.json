@@ -24,6 +24,28 @@
     "related_characters": []
   }, 
          {
+    "id": "3D01S0018",
+    "name": "スライムボーグ",
+    "furigana": "すらいむぼーぐ",
+    "english_name": "Cyber slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/slime-cyborg/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムボーグ.webp",
+    "monster_family": "スライムボーグ族",
+    "search_keywords": ["Cyber slime"],
+    "first_appearance": "DQM1",
+    "appearances": ["DQ10",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
+      "DQBS",
+    "DQMSL","RIV","WALK","TACT","DQSG"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1998年9月25日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+         {
     "id": "3D01S0017",
     "name": "スライムファング",
     "furigana": "すらいむふぁんぐ",
