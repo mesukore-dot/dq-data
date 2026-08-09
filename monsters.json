@@ -24,6 +24,26 @@
     "related_characters": []
   }, 
        {
+    "id": "3D01S0027",
+    "name": "スラ忍パープル",
+    "furigana": "すらにんぱーぷる",
+    "english_name": "Purple ninja slime",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/14/suranin-purple/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/スラ忍パープル.webp",
+    "monster_family": "スラ忍パープル族",
+    "search_keywords": ["Purple ninja slime","和風"],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2012年5月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
     "id": "3D01S0026",
     "name": "スラ忍ブラック",
     "furigana": "すらにんぶらっく",
