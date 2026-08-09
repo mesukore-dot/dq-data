@@ -24,6 +24,27 @@
     "related_characters": []
   }, 
           {
+    "id": "3D01S0019",
+    "name": "スラ忍レッド",
+    "furigana": "すらにんれっど",
+    "english_name": "Red ninja slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/25/red-ninja-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラ忍レッド.webp",
+    "monster_family": "スラ忍レッド族",
+    "search_keywords": ["Red ninja slime","和風"],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
+    "DQMSL","KSKS"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2012年5月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+          {
     "id": "5B01S0014",
     "name": "ぶちキング",
     "furigana": "ぶちきんぐ",
