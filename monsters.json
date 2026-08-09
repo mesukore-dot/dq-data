@@ -23,6 +23,48 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "4C01S0020",
+    "name": "ライムスライム",
+    "furigana": "らいむすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lime-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ライムスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "MSP",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP",
+    "MSP","STAR","RIV","TACT","DQSG"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2013年9月2日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+          {
+    "id": "4C01S0019",
+    "name": "レモンスライム",
+    "furigana": "れもんすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lemon-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レモンスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "MSP",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP",
+    "MSP","STAR","RIV","TACT","DQSG"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2013年8月22日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
            {
     "id": "4C01S0018",
     "name": "チェリースライム",
