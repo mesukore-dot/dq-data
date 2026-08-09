@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "7S01S0005",
+    "name": "グランスライム",
+    "furigana": "ぐらんすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/gran-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/グランスライム.webp",
+    "monster_family": "グランスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P",
+    "DQMSL","MSP","STAR","RIV"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2001年3月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "4C01S0017",
     "name": "ピエロスライム",
@@ -44,7 +65,7 @@
     "related_characters": []
   },
           {
-    "id": "1F01S0009",
+    "id": "1F01S0011",
     "name": "パールスライム",
     "furigana": "ぱーるすらいむ",
     "english_name": "-",
@@ -502,7 +523,7 @@
     "related_characters": []
   },
              {
-    "id": "1F01S0009",
+    "id": "1F01S0010",
     "name": "ドラゴスライム",
     "furigana": "どらごすらいむ",
     "english_name": "Drake slime",
@@ -524,7 +545,7 @@
     "related_characters": []
   },
           {
-    "id": "1F01S0008",
+    "id": "1F01S0009",
     "name": "はねスライム",
     "furigana": "はねすらいむ",
     "english_name": "Wing slime",
@@ -545,7 +566,7 @@
     "related_characters": []
   },
           {
-    "id": "1F01S0007",
+    "id": "1F01S0008",
     "name": "スライムツリー",
     "furigana": "すらいむつりー",
     "english_name": "Buddy slime",
@@ -650,7 +671,7 @@
     "related_characters": []
   },
        {
-    "id": "1F01S0006",
+    "id": "1F01S0007",
     "name": "マンドラ",
     "furigana": "まんどら",
     "english_name": "-",
@@ -1876,7 +1897,7 @@
     "related_characters": []
   },
          {
-    "id": "1F01S0005",
+    "id": "1F01S0006",
     "name": "タマゴロン",
     "furigana": "たまごろん",
     "english_name": "Bad egg",
@@ -2003,7 +2024,7 @@
     "related_characters": []
   },
            {
-    "id": "1F01S0004",
+    "id": "1F01S0005",
     "name": "ぶちスライム",
     "furigana": "ぶちすらいむ",
     "english_name": "Mottle slime",
