@@ -24,6 +24,27 @@
     "related_characters": []
   }, 
           {
+    "id": "5B01S0014",
+    "name": "ぶちキング",
+    "furigana": "ぶちきんぐ",
+    "english_name": "Mottle king slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/27/buchi-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちキング.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": ["Mottle king slime"],
+    "first_appearance": "DQM1",
+    "appearances": [
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM4","DQMJ2_P",
+    "DQMSL","STAR","RIV"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1998年9月25日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+          {
     "id": "4C01S0016",
     "name": "スラッピー",
     "furigana": "すらっぴー",
