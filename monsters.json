@@ -23,6 +23,47 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "4C01S0017",
+    "name": "ピエロスライム",
+    "furigana": "ぴえろすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/pierrot-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ピエロスライム.webp",
+    "monster_family": "ピエロスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2","DQM2_3DS","DQM2_SP","DQM4"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2001年3月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+          {
+    "id": "1F01S0009",
+    "name": "パールスライム",
+    "furigana": "ぱーるすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/16/perl-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/パールスライム.webp",
+    "monster_family": "パールスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ3","DQMJ3_P",
+    "RIV"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2001年3月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
          {
     "id": "2E01S0018",
     "name": "トロピカルスライム",
