@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+           {
+    "id": "4C01S0018",
+    "name": "チェリースライム",
+    "furigana": "ちぇりーすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チェリースライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "DQM2_3DS",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP",
+    "MSP","STAR","RIV","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2014年2月6日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
          {
     "id": "7S01S0005",
     "name": "グランスライム",
