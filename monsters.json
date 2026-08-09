@@ -24,6 +24,27 @@
     "related_characters": []
   }, 
             {
+    "id": "2E01S0017",
+    "name": "ボックススライム",
+    "furigana": "ぼっくすすらいむ",
+    "english_name": "Box slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/24/box-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ボックススライム.webp",
+    "monster_family": "ボックススライム族",
+    "search_keywords": ["Box slime"],
+    "first_appearance": "DQM1",
+    "appearances": [
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3",
+    "DQMSL","RIV"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1998年9月25日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+            {
     "id": "3D01S0016",
     "name": "ストーンスライム",
     "furigana": "すとーんすらいむ",
