@@ -23,6 +23,48 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+          {
+    "id": "8SS01S0005",
+    "name": "メタルスター",
+    "furigana": "めたるすたー",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-star/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルスター.webp",
+    "monster_family": "メタルスター族",
+    "search_keywords": [],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
+    "DQMSL","STAR"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2012年5月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "6A01S0009",
+    "name": "スライダーキッズ",
+    "furigana": "すらいだーきっず",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/05/suraida-kids/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/スライダーキッズ.webp",
+    "monster_family": "スライダーキッズ族",
+    "search_keywords": [],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ3_P",
+    "DQMSL","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2012年5月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
          {
     "id": "8SS01S0004",
     "name": "スラ忍ゴールド",
@@ -2136,7 +2178,7 @@
     "related_characters": []
   },  
         {
-    "id": "8SS14?9000",
+    "id": "8SS14?8999",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
     "english_name": "-",
@@ -2155,7 +2197,7 @@
     "related_characters": []
   },
     {
-    "id": "8SS14?8999",
+    "id": "8SS14?9000",
     "name": "魔界神マデュラーシャ",
     "furigana": "まかいしんまでゅらーしゃ",
     "english_name": "-",
