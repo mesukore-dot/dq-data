@@ -23,6 +23,48 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "8SS01S0004",
+    "name": "スラ忍ゴールド",
+    "furigana": "すらにんごーるど",
+    "english_name": "Gold ninja slime",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/01/suranin-gold/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/スラ忍ゴールド.webp",
+    "monster_family": "スラ忍ゴールド族",
+    "search_keywords": ["Gold ninja slime","和風"],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
+    "DQMSL"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2012年5月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+         {
+    "id": "8SS01S0003",
+    "name": "スラ忍シルバー",
+    "furigana": "すらにんしるばー",
+    "english_name": "Silver ninja slime",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/01/suranin-silver/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラ忍シルバー.webp",
+    "monster_family": "スラ忍シルバー族",
+    "search_keywords": ["Silver ninja slime","和風","美女"],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
+    "DQMSL"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2012年5月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
        {
     "id": "3D01S0027",
     "name": "スラ忍パープル",
@@ -51,7 +93,7 @@
     "page_url": [],
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
     "monster_family": "スラ忍ブラック族",
-    "search_keywords": ["Black ninja slime","和風","未作成"],
+    "search_keywords": ["Black ninja slime","和風","美女","未作成"],
     "first_appearance": "DQM1_3DS",
     "appearances": [
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP"],
@@ -91,7 +133,7 @@
     "page_url": [],
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ピンクスピネル.webp",
     "monster_family": "スラ忍ピンク族",
-    "search_keywords": ["Pink ninja slime","和風","未作成"],
+    "search_keywords": ["Pink ninja slime","和風","美女","未作成"],
     "first_appearance": "DQM1_3DS",
     "appearances": [
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
@@ -133,7 +175,7 @@
     "page_url": [],
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オパール.webp",
     "monster_family": "スラ忍オレンジ族",
-    "search_keywords": ["Orange ninja slime","和風","未作成"],
+    "search_keywords": ["Orange ninja slime","和風","美女","未作成"],
     "first_appearance": "DQM1_3DS",
     "appearances": [
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP"],
