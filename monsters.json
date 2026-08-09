@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+             {
+    "id": "1F01S0009",
+    "name": "ドラゴスライム",
+    "furigana": "どらごすらいむ",
+    "english_name": "Drake slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/23/drago-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴスライム.webp",
+    "monster_family": "ドラゴスライム族",
+    "search_keywords": ["Drake slime"],
+    "first_appearance": "DQM1",
+    "appearances": ["DQ7","DQ7_3D","DQ7_RM","DQ10","DQ10_OFF", "DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FTR3",
+    "DQMSL","MSP","STAR","RIV","WALK","TACT","champ"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1998年9月25日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
           {
     "id": "1F01S0008",
     "name": "はねスライム",
