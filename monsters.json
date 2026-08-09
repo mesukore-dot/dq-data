@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+          {
+    "id": "4C01S0016",
+    "name": "スラッピー",
+    "furigana": "すらっぴー",
+    "english_name": "Slabbit",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/19/slabbit/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラッピー.webp",
+    "monster_family": "スラッピー族",
+    "search_keywords": ["Slabbit"],
+    "first_appearance": "DQM1",
+    "appearances": [
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP",
+    "DQMSL","RIV"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "1998年9月25日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
          {
     "id": "3D01S0018",
     "name": "スライムボーグ",
