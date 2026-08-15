@@ -1,1 +1,86 @@
-
+[
+  {
+    "id": "001",
+    "name": "スライム",
+    "rarity": "よく見かける",
+    "color": "青",
+    "system": "スライム系",
+    "category": "ノーマル",
+    "cost": 5,
+    "available": true,
+    "image": "images/001.png",
+    "url": "https://example.com",
+    "panels": [
+      "勇者パネル1"
+    ],
+    "status": {
+      "hp": 20,
+      "attack": 8,
+      "magic_attack": 5,
+      "magic_heal": 5,
+      "defense": 10,
+      "magic_defense": 8,
+      "dexterity": 12
+    },
+    "effects": [
+      "スライム系へのダメージ +3%"
+    ]
+  },
+  {
+    "id": "009",
+    "name": "ライムスライム",
+    "rarity": "超めずらしい",
+    "color": "青",
+    "system": "スライム系",
+    "category": "ノーマル",
+    "cost": 40,
+    "available": true,
+    "image": "images/009.png",
+    "url": "https://example.com",
+    "panels": [
+      "賢者パネル6"
+    ],
+    "status": {
+      "hp": 95,
+      "attack": 20,
+      "magic_attack": 40,
+      "magic_heal": 35,
+      "defense": 30,
+      "magic_defense": 32,
+      "dexterity": 28
+    },
+    "effects": [
+      "最初からアロー強化【ボミエ】を所持",
+      "物理耐性 +2%"
+    ]
+  },
+  {
+    "id": "042",
+    "name": "あくましんかん",
+    "rarity": "めずらしい",
+    "color": "紫",
+    "system": "あくま系",
+    "category": "イベント",
+    "cost": 25,
+    "available": false,
+    "image": "images/042.png",
+    "url": "https://example.com",
+    "panels": [
+      "賢者パネル6",
+      "魔法使いパネル2"
+    ],
+    "status": {
+      "hp": 110,
+      "attack": 15,
+      "magic_attack": 45,
+      "magic_heal": 30,
+      "defense": 35,
+      "magic_defense": 40,
+      "dexterity": 22
+    },
+    "effects": [
+      "最初からバギボール所持",
+      "呪文ダメージ +5%"
+    ]
+  }
+]
