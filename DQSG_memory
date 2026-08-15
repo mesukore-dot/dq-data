@@ -1,0 +1,49 @@
+[
+  {
+    "id": "001",
+    "name": "スライム",
+    "color": "青",
+    "system": "スライム系",
+    "category": "ノーマル",
+    "cost": 5,
+    "available": true,
+    "image": "images/001.png",
+    "url": "https://example.com",
+    "status": {
+      "hp": 20,
+      "attack": 8,
+      "magic_attack": 5,
+      "magic_heal": 5,
+      "defense": 10,
+      "magic_defense": 8,
+      "dexterity": 12
+    },
+    "effects": [
+      "スライム系へのダメージ +3%"
+    ]
+  },
+  {
+    "id": "042",
+    "name": "あくましんかん",
+    "color": "紫",
+    "system": "あくま系",
+    "category": "イベント",
+    "cost": 25,
+    "available": false,
+    "image": "images/042.png",
+    "url": "https://example.com",
+    "status": {
+      "hp": 110,
+      "attack": 15,
+      "magic_attack": 45,
+      "magic_heal": 30,
+      "defense": 35,
+      "magic_defense": 40,
+      "dexterity": 22
+    },
+    "effects": [
+      "最初からバギボール所持",
+      "呪文ダメージ +5%"
+    ]
+  }
+]
