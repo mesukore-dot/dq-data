@@ -1,4 +1,26 @@
 [
+    {
+    "id": "0006",
+            "name": "ドラキー",
+            "furigana": "どらきー",
+            "rarity": "よくみかける",
+            "color": "紫",
+            "system": "鳥系",
+            "cost": 15,
+            "available": true,
+            "image": "",
+            "url": [],
+            "panels": [],
+            "status": { 
+              "hp": 9,
+              "attack": 4, 
+              "magic_attack": 11, 
+              "magic_heal": 6, 
+              "defense": 5, 
+              "magic_defense": 11, 
+              "dexterity": 5 },
+            "effects": ["闇属性ダメージ +2%"]
+  },
   {
     "id": "0005",
             "name": "ホイミスライム",
