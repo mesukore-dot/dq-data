@@ -393,7 +393,7 @@
               "defense": 44, 
               "magic_defense": 51, 
               "dexterity": 30 },
-            "effects": ["最初からボール強化【いやし】","けもの系にダメージ +10%"]
+            "effects": ["最初からボール強化【いやし】を所持","けもの系にダメージ +10%"]
   },
                     {
     "id": "0039",
@@ -591,29 +591,7 @@
               "defense": 49, 
               "magic_defense": 43, 
               "dexterity": 57 },
-            "effects": ["最初からスパイク強化【ボミエ】","ブレス耐性 +2%"]
-  },
-             {
-    "id": "0030",
-            "name": "ベホイムスライム",
-            "furigana": "べほいむすらいむ",
-            "rarity": "めずらしい",
-            "color": "紫",
-            "system": "スライム系",
-            "cost": 50,
-            "available": true,
-            "image": "",
-            "url": [],
-            "panels": [],
-            "status": { 
-              "hp": 43,
-              "attack": 17, 
-              "magic_attack": 50, 
-              "magic_heal": 28, 
-              "defense": 24, 
-              "magic_defense": 49, 
-              "dexterity": 23 },
-            "effects": ["魔力の暴走率 +3%"]
+            "effects": ["最初からスパイク強化【ボミエ】を所持","ブレス耐性 +2%"]
   },
              {
     "id": "0030",
@@ -833,7 +811,7 @@
               "defense": 43, 
               "magic_defense": 35, 
               "dexterity": 42 },
-            "effects": ["最初からソード強化【いやし】","呪文耐性 +2%"]
+            "effects": ["最初からソード強化【いやし】を所持","呪文耐性 +2%"]
   },
            {
     "id": "0020",
@@ -1097,7 +1075,7 @@
               "defense": 25, 
               "magic_defense": 51, 
               "dexterity": 24 },
-            "effects": ["最初からアロー強化【ボミエ】","物理耐性 +2%"]
+            "effects": ["最初からアロー強化【ボミエ】を所持","物理耐性 +2%"]
   },
         {
     "id": "0008",
