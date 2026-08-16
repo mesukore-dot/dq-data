@@ -1,4 +1,26 @@
 [ 
+        {
+    "id": "E0001",
+            "name": "スライムナイト",
+            "furigana": "すらいむないと",
+            "rarity": "強敵",
+            "color": "黄",
+            "system": "スライム系",
+            "cost": 40,
+            "available": false,
+            "image": "",
+            "url": [],
+            "panels": [],
+            "status": { 
+              "hp": 65,
+              "attack": 31, 
+              "magic_attack": 12, 
+              "magic_heal": 8, 
+              "defense": 36, 
+              "magic_defense": 24, 
+              "dexterity": 15 },
+            "effects": ["炎属性の物理ダメージ +5%"]
+  },
      {
     "id": "0057",
             "name": "サタンメイル",
@@ -19,7 +41,7 @@
               "defense": 43, 
               "magic_defense": 61, 
               "dexterity": 39 },
-            "effects": ["土属性耐性 +2%"]
+            "effects": ["土属性の耐性 +2%"]
   },
    {
     "id": "0056",
