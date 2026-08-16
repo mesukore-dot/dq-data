@@ -206,7 +206,7 @@
             "system": "？？？系",
             "cost": 102,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/幻魔王デスタムーア-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -228,7 +228,7 @@
             "system": "？？？系",
             "cost": 94,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/大魔王デスタムーア-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -250,7 +250,7 @@
             "system": "？？？系",
             "cost": 91,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/老王デスタムーア-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -2098,8 +2098,8 @@
             "system": "怪人系",
             "cost": 10,
             "available": true,
-            "image": "",
-            "url": [],
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/リリパット-メモリ.webp",
+            "url": "",
             "panels": [],
             "status": { 
               "hp": 8,
