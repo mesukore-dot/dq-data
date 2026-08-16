@@ -24,21 +24,21 @@
     "id": "001",
             "name": "スライム",
             "rarity": "よく見かける",
-            "color": "青",
+            "color": "黄",
             "system": "スライム系",
             "cost": 5,
             "available": true,
-            "image": "images/001.webp",
-            "url": "https://example.com",
-            "panels": ["勇者1"],
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライム-メモリ.webp",
+            "url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/",
+            "panels": [],
             "status": { 
-              "hp": 20,
-              "attack": 8, 
-              "magic_attack": 5, 
-              "magic_heal": 5, 
-              "defense": 10, 
-              "magic_defense": 8, 
-              "dexterity": 12 },
-            "effects": ["スライム系へのダメージ +3%"]
+              "hp": 8,
+              "attack": 4, 
+              "magic_attack": 2, 
+              "magic_heal": 1, 
+              "defense": 5, 
+              "magic_defense": 3, 
+              "dexterity": 2 },
+            "effects": ["物理ダメージ +2%"]
   }
 ]
