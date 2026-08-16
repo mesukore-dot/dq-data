@@ -426,7 +426,7 @@
             "system": "ドラゴン系",
             "cost": 90,
             "available": false,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/08/リザードマン-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -448,7 +448,7 @@
             "system": "マシン系",
             "cost": 62,
             "available": false,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/たけやりへい-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -514,7 +514,7 @@
             "system": "エレメント系",
             "cost": 82,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/ほのおのせんし-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -558,7 +558,7 @@
             "system": "？？？系",
             "cost": 81,
             "available": false,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/あくまのきし軍-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -580,7 +580,7 @@
             "system": "？？？系",
             "cost": 90,
             "available": false,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/りゅうおう-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -602,7 +602,7 @@
             "system": "あくま系",
             "cost": 64,
             "available": false,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/あくまのきし-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -800,7 +800,7 @@
             "system": "あくま系",
             "cost": 86,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/あくましんかん-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -822,7 +822,7 @@
             "system": "マシン系",
             "cost": 84,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/プロトキラー-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -844,7 +844,7 @@
             "system": "物質系",
             "cost": 80,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/アイスゴーレム-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -932,7 +932,7 @@
             "system": "鳥系",
             "cost": 85,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/04/ムーンキメラ-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1064,7 +1064,7 @@
             "system": "スライム系",
             "cost": 80,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/03/レモンスライム-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
