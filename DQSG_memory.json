@@ -1,4 +1,48 @@
 [ 
+        {
+    "id": "E0043",
+            "name": "マリンスライム",
+            "furigana": "まりんすらいむ",
+            "rarity": "強敵",
+            "color": "緑",
+            "system": "水系",
+            "cost": 84,
+            "available": true,
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マリンスライム-メモリ.webp",
+            "url": [],
+            "panels": [],
+            "status": { 
+              "hp": 102,
+              "attack": 38, 
+              "magic_attack": 87, 
+              "magic_heal": 80, 
+              "defense": 52, 
+              "magic_defense": 57, 
+              "dexterity": 41 },
+            "effects": ["賢者時：風属性の呪文ダメージ +10%"]
+  },
+       {
+    "id": "E0042",
+            "name": "スイカ岩",
+            "furigana": "すいかいわ",
+            "rarity": "イベスト",
+            "color": "黄",
+            "system": "植物系",
+            "cost": 68,
+            "available": true,
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スイカ岩-メモリ.webp",
+            "url": [],
+            "panels": [],
+            "status": { 
+              "hp": 73,
+              "attack": 56, 
+              "magic_attack": 26, 
+              "magic_heal": 15, 
+              "defense": 39, 
+              "magic_defense": 33, 
+              "dexterity": 20 },
+            "effects": ["炎属性の物理ダメージ +3%"]
+  },
      {
     "id": "E0041",
             "name": "レンジャー【青】",
@@ -866,7 +910,7 @@
             "system": "？？？系",
             "cost": 50,
             "available": false,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴーレム軍-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -888,7 +932,7 @@
             "system": "スライム系",
             "cost": 40,
             "available": false,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/スライムナイト-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1042,7 +1086,7 @@
             "system": "鳥系",
             "cost": 60,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/エビルホーク-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1130,7 +1174,7 @@
             "system": "鳥系",
             "cost": 51,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/キメラ-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1196,7 +1240,7 @@
             "system": "水系",
             "cost": 55,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/しびれくらげ-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1218,7 +1262,7 @@
             "system": "水系",
             "cost": 54,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/プチアーノン-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1240,7 +1284,7 @@
             "system": "ゾンビ系",
             "cost": 50,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぼうれい剣士-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1262,7 +1306,7 @@
             "system": "けもの系",
             "cost": 49,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールドオーク-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1328,7 +1372,7 @@
             "system": "植物系",
             "cost": 47,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/じんめんじゅ-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1350,7 +1394,7 @@
             "system": "虫系",
             "cost": 49,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メーダ-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1372,7 +1416,7 @@
             "system": "けもの系",
             "cost": 43,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ビッグスロース-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
