@@ -1,4 +1,26 @@
 [ 
+           {
+    "id": "E0044",
+            "name": "目隠しおおきづち",
+            "furigana": "めかくしおおきづち",
+            "rarity": "マルチ",
+            "color": "紫",
+            "system": "怪人系",
+            "cost": 70,
+            "available": true,
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/目隠しおおきづち-メモリ.webp",
+            "url": [],
+            "panels": [],
+            "status": { 
+              "hp": 91,
+              "attack": 51, 
+              "magic_attack": 79, 
+              "magic_heal": 70, 
+              "defense": 52, 
+              "magic_defense": 57, 
+              "dexterity": 46 },
+            "effects": ["呪文ダメージ +2%","植物系への耐性 +2%"]
+  },
         {
     "id": "E0043",
             "name": "マリンスライム",
