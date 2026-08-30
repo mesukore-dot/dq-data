@@ -23,6 +23,46 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "4C01S026",
+    "name": "スライムフェアリー",
+    "furigana": "すらいむふぇありー",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/08/slime-fairy/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムフェアリー.webp",
+    "monster_family": "はねスライム",
+    "search_keywords": [],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "2E01S019",
+    "name": "ジャングラー",
+    "furigana": "じゃんぐらー",
+    "english_name": "Feral slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/24/jungler/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ジャングラー.webp",
+    "monster_family": "スライムファング族",
+    "search_keywords": ["Feral slime"],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
        {
     "id": "4C01S025",
     "name": "コロネホワイト",
