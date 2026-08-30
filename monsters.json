@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "1F01S015",
+    "name": "リーファ",
+    "furigana": "りーふぁ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/04/19/ri-fa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/リーファ.webp",
+    "monster_family": "リーファ族",
+    "search_keywords": [""],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMCH","DQMJ2","DQMJ2_P"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "6S01S006",
     "name": "ダークキング",
