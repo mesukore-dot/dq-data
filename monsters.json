@@ -24,6 +24,48 @@
     "related_characters": []
   }, 
         {
+    "id": "3D01S031",
+    "name": "スノーム",
+    "furigana": "すのーむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/25/snowm/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スノーム.webp",
+    "monster_family": "スノーム族",
+    "search_keywords": [],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH",
+      "RIV"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "4C01S028",
+    "name": "こんぺいとう",
+    "furigana": "こんぺいとう",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/konpeitou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/こんぺいとう.webp",
+    "monster_family": "こんぺいとう族",
+    "search_keywords": [],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "3D01S030",
     "name": "マグマスライム",
     "furigana": "まぐますらいむ",
