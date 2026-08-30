@@ -24,6 +24,48 @@
     "related_characters": []
   }, 
        {
+    "id": "7S01S009",
+    "name": "スラキャンサー",
+    "furigana": "すらきゃんさー",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-kyanser/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラキャンサー.webp",
+    "monster_family": "スラキャンサー族",
+    "search_keywords": ["黄道十二星座"],
+    "first_appearance": "DQMJ2",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQMSL","MSP","STAR"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2010年4月28日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "5B01S018",
+    "name": "ルーファ",
+    "furigana": "るーふぁ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/06/ru-fa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/ルーファ.webp",
+    "monster_family": "リーファ族",
+    "search_keywords": [],
+    "first_appearance": "DQMJ2",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2010年4月28日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
     "id": "7S01S014",
     "name": "スライムマデュラ",
     "furigana": "すらいむまでゅら",
