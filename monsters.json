@@ -2372,7 +2372,7 @@
     "appearances": ["DQ2_HD2D","DQ3","DQ3_SFC","DQ3_HD2D","DQ6","DQ7_RM","DQ10","DQ10_OFF", "DQ11",
      "DQMJ3","DQMJ3_P",
       "ARK1","ARK2","FY1",
-      "DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
+      "DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
     "main_family": "スライム系",
     "sub_family":[],
     "other_families": ["水系"],
