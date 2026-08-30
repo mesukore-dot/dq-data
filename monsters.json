@@ -23,6 +23,26 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "2E01S020",
+    "name": "おにぎりスライム",
+    "furigana": "おにぎりすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/25/riceball-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おにぎりスライム.webp",
+    "monster_family": "おにぎりスライム",
+    "search_keywords": ["たべもの","おむすび"],
+    "first_appearance": "DQM4",
+    "appearances": [
+      "DQM4"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2026年12月3日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "1F01S014",
     "name": "バーガースライム",
