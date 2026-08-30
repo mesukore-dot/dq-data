@@ -23,6 +23,48 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+       {
+    "id": "4C01S025",
+    "name": "コロネホワイト",
+    "furigana": "ころねほわいと",
+    "english_name": "Pasty pastry",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/04/korone-white/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/コロネホワイト.webp",
+    "monster_family": "スライムコロネ族",
+    "search_keywords": ["Pasty pastry","パン","たべもの"],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3",
+    "WALK","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "1F01S013",
+    "name": "スライムコロネ",
+    "furigana": "すらいむころね",
+    "english_name": "Goonache goodie",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムコロネ.webp",
+    "monster_family": "スライムコロネ族",
+    "search_keywords": ["Goonache goodie","パン","たべもの"],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3","DQM4",
+    "WALK","TACT","KSKS"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "8SS01S007",
     "name": "メタルゴッデス",
