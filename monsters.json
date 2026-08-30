@@ -23,6 +23,48 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+       {
+    "id": "5B01S015",
+    "name": "バブルキング",
+    "furigana": "ばぶるきんぐ",
+    "english_name": "King bubble slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/bubble-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バブルキング.webp",
+    "monster_family": "バブルキング族",
+    "search_keywords": ["King bubble slime"],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P",
+      "DQMSL","RIV","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "2E01S021",
+    "name": "スピンスライム",
+    "furigana": "すぴんすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/spin-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スピンスライム.webp",
+    "monster_family": "スピンスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "3D01S031",
     "name": "スノーム",
