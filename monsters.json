@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "6A01S014",
+    "name": "メタルカイザー",
+    "furigana": "めたるかいざー",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/metal-kaiser/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルカイザー.webp",
+    "monster_family": "グランスライム族",
+    "search_keywords": ["メタル系"],
+    "first_appearance": "DQMJ",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ","DQMJ2","DQMJ2_P",
+      "DQMSL","TACT","KSKS"],
+    "main_family": "スライム系",
+    "sub_family":["メタル系"],
+    "other_families": [],
+    "release_date": "2006年12月28日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
       {
     "id": "2E01S022",
     "name": "スライムカルゴ",
