@@ -24,6 +24,48 @@
     "related_characters": []
   }, 
         {
+    "id": "7S01S0013",
+    "name": "スライムファミリー",
+    "furigana": "すらいむふぁみりー",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/17/slime-family/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/スライムファミリー.webp",
+    "monster_family": "スライムファミリー族",
+    "search_keywords": [],
+    "first_appearance": "DQMJ2_P",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3_P",
+      "DQMSL"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2011年3月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+          {
+    "id": "8SS01S0008",
+    "name": "はぐれメタルキング",
+    "furigana": "はぐれめたるきんぐ",
+    "english_name": "Liquid metal slime king",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/17/stray-metal-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/はぐれメタルキング.webp",
+    "monster_family": "はぐれメタルキング族",
+    "search_keywords": ["Liquid metal slime king","メタル系"],
+    "first_appearance": "DQMJ2_P",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3_P",
+      "DQMSL"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2011年3月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "8SS01S0007",
     "name": "ダイヤモンドスライム",
     "furigana": "だいやもんどすらいむ",
