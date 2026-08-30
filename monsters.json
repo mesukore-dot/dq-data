@@ -23,6 +23,27 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "4C01S0022",
+    "name": "ピーチスライム",
+    "furigana": "ぴーちすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/02/peach-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ピーチスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "DQM2_3DS",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP",
+    "MSP","STAR"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2014年2月6日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
            {
     "id": "4C01S0021",
     "name": "ベリースライム",
