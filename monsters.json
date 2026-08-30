@@ -23,6 +23,48 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "3D01S030",
+    "name": "マグマスライム",
+    "furigana": "まぐますらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/01/23/magma-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マグマスライム.webp",
+    "monster_family": "マグマスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP","DQMCH"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+         {
+    "id": "3D01S029",
+    "name": "アクアスライム",
+    "furigana": "あくあすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/21/aqua-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/アクアスライム.webp",
+    "monster_family": "アクアスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP","DQMCH","DQM4",
+      "RIV"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
          {
     "id": "2E01S020",
     "name": "おにぎりスライム",
@@ -30,7 +72,7 @@
     "english_name": "",
     "page_url": "https://dqfan527.xsrv.jp/2026/07/25/riceball-slime/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おにぎりスライム.webp",
-    "monster_family": "おにぎりスライム",
+    "monster_family": "おにぎりスライム族",
     "search_keywords": ["たべもの","おむすび"],
     "first_appearance": "DQM4",
     "appearances": [
@@ -50,7 +92,7 @@
     "english_name": "",
     "page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バーガースライム.webp",
-    "monster_family": "スライムタワー",
+    "monster_family": "スライムタワー族",
     "search_keywords": ["マクドナルド","たべもの","ハンバーガー"],
     "first_appearance": "DQM3",
     "appearances": [
@@ -70,7 +112,7 @@
     "english_name": "Goomlonimbus",
     "page_url": "https://dqfan527.xsrv.jp/2023/11/30/hurai-slime/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ふうらいスライム.webp",
-    "monster_family": "ふうらいスライム",
+    "monster_family": "ふうらいスライム族",
     "search_keywords": ["Goomlonimbus"],
     "first_appearance": "DQM3",
     "appearances": [
@@ -90,7 +132,7 @@
     "english_name": "Tar king",
     "page_url": "https://dqfan527.xsrv.jp/2023/11/30/tar-king/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/タールキング.webp",
-    "monster_family": "バブルキング",
+    "monster_family": "バブルキング族",
     "search_keywords": ["Tar king"],
     "first_appearance": "DQM3",
     "appearances": [
@@ -110,7 +152,7 @@
     "english_name": "",
     "page_url": "https://dqfan527.xsrv.jp/2023/12/07/king-joker/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/キングジョーカー.webp",
-    "monster_family": "キングスライム",
+    "monster_family": "キングスライム族",
     "search_keywords": [],
     "first_appearance": "DQM3",
     "appearances": [
@@ -130,7 +172,7 @@
     "english_name": "",
     "page_url": "https://dqfan527.xsrv.jp/2023/12/07/slime-joker/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムジョーカー.webp",
-    "monster_family": "ダークスライム",
+    "monster_family": "ダークスライム族",
     "search_keywords": [],
     "first_appearance": "DQM3",
     "appearances": [
@@ -150,7 +192,7 @@
     "english_name": "",
     "page_url": "https://dqfan527.xsrv.jp/2023/12/08/slime-fairy/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムフェアリー.webp",
-    "monster_family": "はねスライム",
+    "monster_family": "はねスライム族",
     "search_keywords": [],
     "first_appearance": "DQM3",
     "appearances": [
