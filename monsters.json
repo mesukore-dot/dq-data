@@ -23,6 +23,48 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "8SS01S009",
+    "name": "ダイヤモンドスライム",
+    "furigana": "だいやもんどすらいむ",
+    "english_name": "Diamond slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/27/diamond-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダイヤモンドスライム.webp",
+    "monster_family": "ダイヤモンドスライム族",
+    "search_keywords": ["Diamond slime","メタル系"],
+    "first_appearance": "DQMJ2_P",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P",
+      "DQMSL","RIV","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2011年3月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "8SS01S008",
+    "name": "スラ・ブラスター",
+    "furigana": "すら・ぶらすたー",
+    "english_name": "Liquid metal slime king",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/28/slime-blastar/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラ・ブラスター.webp",
+    "monster_family": "スラ・ブラスター族",
+    "search_keywords": ["Liquid metal slime king"],
+    "first_appearance": "DQMJ2_P",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P",
+      "DQMSL","MSP"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2011年3月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
        {
     "id": "8SS01S007",
     "name": "スライダークロボ",
