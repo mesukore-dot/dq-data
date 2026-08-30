@@ -24,6 +24,46 @@
     "related_characters": []
   }, 
         {
+    "id": "4C01S0024",
+    "name": "ホイップスライム",
+    "furigana": "ほいっぷすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/06/whip-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイップスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "DQM2_3DS",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2014年2月6日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "4C01S0023",
+    "name": "プリンスライム",
+    "furigana": "ぷりんすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/06/purine-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/プリンスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "DQM2_3DS",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2014年2月6日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "4C01S0022",
     "name": "ピーチスライム",
     "furigana": "ぴーちすらいむ",
