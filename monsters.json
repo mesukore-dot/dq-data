@@ -23,8 +23,51 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
-       {
+         {
+    "id": "7S01S011",
+    "name": "死神スライダーク",
+    "furigana": "しにがみすらいだーく",
+    "english_name": "Nemeslime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/28/shinigami-slidark/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/死神スライダーク.webp",
+    "monster_family": "死神スライダーク族",
+    "search_keywords": ["Nemeslime"],
+    "first_appearance": "DQMJ2",
+    "appearances": ["DQ10",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQBS",
+      "DQMSL","RIV","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2010年4月28日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+         {
     "id": "7S01S010",
+    "name": "スライダーヒーロー",
+    "furigana": "すらいだーひーろー",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/28/slider-hero/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライダーヒーロー.webp",
+    "monster_family": "スライダーヒーロー族",
+    "search_keywords": [],
+    "first_appearance": "DQMJ2",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQMSL","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2010年4月28日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "7S01S009",
     "name": "スラキャンサー",
     "furigana": "すらきゃんさー",
     "english_name": "",
@@ -66,7 +109,7 @@
     "related_characters": []
   },
        {
-    "id": "7S01S009",
+    "id": "7S01S008",
     "name": "スライムマデュラ",
     "furigana": "すらいむまでゅら",
     "english_name": "",
