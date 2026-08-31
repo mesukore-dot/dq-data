@@ -23,6 +23,28 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "8SS01S0010",
+    "name": "空の神ホアカリ",
+    "furigana": "そらのかみほあかり",
+    "english_name": "",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ピンクスピネル.webp",
+    "monster_family": "メタルゴッデス族",
+    "search_keywords": ["産星神"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "DQMSL"
+      ],
+    "main_family": "スライム系",
+    "sub_family":["？？？系"],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "6A01S0016",
     "name": "ゴールドパール",
