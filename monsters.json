@@ -23,6 +23,72 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+        {
+    "id": "6A01S0016",
+    "name": "ゴールドパール",
+    "furigana": "ごーるどぱーる",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/15/gold-pearl/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールドパール.webp",
+    "monster_family": "パールスライム族",
+    "search_keywords": ["メタル系"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "STAR"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "5B01S0020",
+    "name": "メタルパール",
+    "furigana": "めたるぱーる",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/15/metal-pearl/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルパール.webp",
+    "monster_family": "パールスライム族",
+    "search_keywords": ["メタル系"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "STAR"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "5B01S0019",
+    "name": "メタルエンゼル",
+    "furigana": "めたるえんぜる",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/01/11/metal-angel/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルエンゼル.webp",
+    "monster_family": "エンゼルスライム族",
+    "search_keywords": ["メタル系"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
        {
     "id": "4C01S0030",
     "name": "凶メタルスライム",
