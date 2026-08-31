@@ -23,6 +23,72 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+       {
+    "id": "4C01S0030",
+    "name": "凶メタルスライム",
+    "furigana": "きょうめたるすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/kyoumetarusuraimu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶メタルスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["メタル系","ブレイク"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "DQMSL"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "3D01S0035",
+    "name": "凶スライムベス",
+    "furigana": "きょうすらいむべす",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/kyousuraimubesu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶スライムベス.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["ブレイク"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "DQMSL"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "2E01S0023",
+    "name": "凶スライム",
+    "furigana": "きょうすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/27/evil-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶スライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["ブレイク"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "DQMSL"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "8SS01S0009",
     "name": "キングホイミスライム",
