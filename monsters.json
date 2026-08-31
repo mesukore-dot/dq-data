@@ -24,6 +24,48 @@
     "related_characters": []
   }, 
         {
+    "id": "8SS01S0009",
+    "name": "キングホイミスライム",
+    "furigana": "きんぐほいみすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/25/king-hoimi-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/キングホイミスライム.webp",
+    "monster_family": "キングホイミスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQM2_SP","DQMJ3","DQMJ3_P"
+      ],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "3D01S0009-1",
+    "name": "石炭つむり",
+    "furigana": "せきたんつむり",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
+    "monster_family": "スライムつむり族",
+    "search_keywords": [],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQM3","DQMJ3","DQMJ3_P",
+      "RIV","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "6A01S0015",
     "name": "ゴールドエンゼル",
     "furigana": "ごーるどえんぜる",
