@@ -24,6 +24,48 @@
     "related_characters": []
   }, 
         {
+    "id": "6A01S0015",
+    "name": "ゴールドエンゼル",
+    "furigana": "ごーるどえんぜる",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/09/21/gold-angel/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールドエンゼル.webp",
+    "monster_family": "エンゼルスライム族",
+    "search_keywords": ["ゴールデン"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "3D01S0034",
+    "name": "スライムゴールド",
+    "furigana": "すらいむごーるど",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/16/slime-gold/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムゴールド.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["ゴールデン","ぐろう","こがね"],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3","DQMJ3_P",
+      "MSP","STAR","TACT"],
+    "main_family": "スライム系",
+    "sub_family":[],
+    "other_families": [],
+    "release_date": "2016年3月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "7S01S0013",
     "name": "スライムファミリー",
     "furigana": "すらいむふぁみりー",
