@@ -2801,7 +2801,7 @@
       "DQBS",
       "RIV","WALK","TACT","champ"],
     "main_family": "スライム系",
-    "sub_family": [],
+    "sub_family": ["-"],
     "other_families": [],
     "release_date": "2013年7月25日",
     "voice_actor": "-",
