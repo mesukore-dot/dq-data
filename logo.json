@@ -12,8 +12,8 @@
   },
   "families": {
     "スライム系": {
-      "icon": "https://xsrv.jp",
-      "link": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライム系アイコン-Ver.2.webp",
+      "link": "https://dqfan527.xsrv.jp/home/monster-slime/",
       "badge_bg": "#0284c7",
       "shadow": "0 0 4px #2563eb, 0 0 10px #60a5fa",
       "gradient_1": "linear-gradient(90deg, #1e3a8a 0%, #3b82f6 50%, #1e3a8a 100%)",
@@ -21,7 +21,7 @@
       "gradient_3": "linear-gradient(90deg, #064e3b 0%, #10b981 50%, #064e3b 100%)"
     },
     "ドラゴン系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴン系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#b91c1c",
       "shadow": "0 0 4px #dc2626, 0 0 10px #f87171",
@@ -30,7 +30,7 @@
       "gradient_3": "linear-gradient(90deg, #7f1d1d 0%, #dc2626 25%, #fca5a5 50%, #dc2626 75%, #7f1d1d 100%)"
     },
     "けもの系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/けもの系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#c2410c",
       "shadow": "0 0 4px #ea580c, 0 0 10px #f97316",
@@ -39,7 +39,7 @@
       "gradient_3": "linear-gradient(90deg, #78350f 0%, #ea580c 25%, #fed7aa 50%, #ea580c 75%, #78350f 100%)"
     },
     "植物系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/植物系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#047857",
       "shadow": "0 0 4px #10b981, 0 0 10px #34d399",
@@ -48,7 +48,7 @@
       "gradient_3": "linear-gradient(90deg, #064e3b 0%, #10b981 25%, #a7f3d0 50%, #10b981 75%, #064e3b 100%)"
     },
     "鳥系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/鳥系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#4b5563",
       "shadow": "0 0 4px #9ca3af, 0 0 10px #e5e7eb",
@@ -57,7 +57,7 @@
       "gradient_3": "linear-gradient(90deg, #4b5563 0%, #cbd5e1 25%, #ffffff 50%, #cbd5e1 75%, #4b5563 100%)"
     },
     "虫系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/虫系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#b45309",
       "shadow": "0 0 4px #f59e0b, 0 0 10px #facc15",
@@ -66,7 +66,7 @@
       "gradient_3": "linear-gradient(90deg, #451a03 0%, #f59e0b 25%, #fef08a 50%, #f59e0b 75%, #451a03 100%)"
     },
     "水系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/水系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#0369a1",
       "shadow": "0 0 4px #0284c7, 0 0 10px #38bdf8",
@@ -75,7 +75,7 @@
       "gradient_3": "linear-gradient(90deg, #0f172a 0%, #0284c7 25%, #bae6fd 50%, #0284c7 75%, #0f172a 100%)"
     },
     "あくま系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/あくま系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#6d28d9",
       "shadow": "0 0 4px #7c3aed, 0 0 10px #a78bfa",
@@ -84,7 +84,7 @@
       "gradient_3": "linear-gradient(90deg, #3b0764 0%, #7c3aed 25%, #edd8ff 50%, #7c3aed 75%, #3b0764 100%)"
     },
     "怪人系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/怪人系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#78350f",
       "shadow": "0 0 4px #b45309, 0 0 10px #d97706",
@@ -93,7 +93,7 @@
       "gradient_3": "linear-gradient(90deg, #451a03 0%, #b45309 25%, #fef3c7 50%, #b45309 75%, #451a03 100%)"
     },
     "物質系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/物質系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#334155",
       "shadow": "0 0 4px #64748b, 0 0 10px #94a3b8",
@@ -102,7 +102,7 @@
       "gradient_3": "linear-gradient(90deg, #1e293b 0%, #64748b 25%, #f1f5f9 50%, #64748b 75%, #1e293b 100%)"
     },
     "マシン系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マシン系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#1e3a8a",
       "shadow": "0 0 4px #1e3a8a, 0 0 10px #60a5fa",
@@ -111,7 +111,7 @@
       "gradient_3": "linear-gradient(90deg, #0f172a 0%, #1e3a8a 25%, #60a5fa 45%, #ffffff 50%, #60a5fa 55%, #1e3a8a 75%, #0f172a 100%)"
     },
     "エレメント系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/エレメント系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#475569",
       "shadow": "0 0 4px #64748b, 0 0 10px #94a3b8",
@@ -120,7 +120,7 @@
       "gradient_3": "linear-gradient(90deg, #1e293b 0%, #64748b 25%, #f1f5f9 50%, #64748b 75%, #1e293b 100%)"
     },
     "ゾンビ系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゾンビ系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#86198f",
       "shadow": "0 0 4px #c026d3, 0 0 10px #f472b6",
@@ -129,7 +129,7 @@
       "gradient_3": "linear-gradient(90deg, #4c0519 0%, #c026d3 25%, #38bdf8 45%, #ffffff 50%, #38bdf8 55%, #c026d3 75%, #4c0519 100%)"
     },
     "？？？系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/？？？系アイコン-Ver.2.webp",
       "link": "https://xsrv.jp",
       "badge_bg": "#7c2d12",
       "shadow": "0 0 4px #b45309, 0 0 10px #eab308",
@@ -138,7 +138,7 @@
       "gradient_3": "linear-gradient(90deg, #27130a 0%, #b45309 25%, #eab308 45%, #ffffff 50%, #eab308 55%, #b45309 75%, #27130a 100%)"
     },
       "クリスマス": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/08/クリスマス.png",
       "link": "https://xsrv.jp",
       "badge_bg": "#064e3b",
       "shadow": "0 0 4px #b91c1c, 0 0 10px #10b981",
@@ -147,7 +147,7 @@
       "gradient_3": "linear-gradient(90deg, #b91c1c 0%, #064e3b 25%, #ffd700 45%, #ffffff 50%, #ffd700 55%, #064e3b 75%, #b91c1c 100%)"
     },
     "メタル系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/01/メタル系アイコン.png",
       "link": "https://xsrv.jp",
       "badge_bg": "#4b5563",
       "shadow": "0 0 4px #9ca3af, 0 0 10px #ffffff",
@@ -156,7 +156,7 @@
       "gradient_3": "linear-gradient(90deg, #4b5563 0%, #d1d5db 25%, #ffffff 50%, #d1d5db 75%, #4b5563 100%)"
     },
     "ゴールデン": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/07/黄金・ゴールデン.png",
       "link": "https://xsrv.jp",
       "badge_bg": "#78350f",
       "shadow": "0 0 4px #eab308, 0 0 10px #fde047",
@@ -165,7 +165,7 @@
       "gradient_3": "linear-gradient(90deg, #78350f 0%, #eab308 20%, #fef08a 40%, #ffffff 50%, #fef08a 60%, #eab308 80%, #78350f 100%)"
     },
     "炎・マグマ": {
-      "icon": "https://xsrv.jp・マグマ.png",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/12/炎系.png",
       "link": "https://xsrv.jp",
       "badge_bg": "#450a0a",
       "shadow": "0 0 4px #dc2626, 0 0 10px #f97316",
