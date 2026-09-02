@@ -31,6 +31,29 @@
     "related_characters": []
   }, 
         {
+    "id": "7S01S0016",
+    "name": "スライムジェネラル",
+    "furigana": "すらいむじぇねらる",
+    "english_name": "Shogum",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-general/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムジェネラル.webp",
+    "monster_family": "スライムジェネラル族",
+    "search_keywords": ["Shogum"],
+    "first_appearance": "DQMB",
+    "appearances": ["DQ9","DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ2","DQMJ2_P",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2008年5月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "7S01S0015",
     "name": "ホミロン",
     "furigana": "ほみろん",
