@@ -3901,7 +3901,7 @@
     "related_characters": []
   },
           {
-    "id": "1F00027",
+    "id": "1F03B0003-1",
     "name": "マーブルン",
     "furigana": "まーぶるん",
     "english_name": "Kaleidocat",
@@ -3922,7 +3922,7 @@
     "related_characters": []
   },
              {
-    "id": "1F00026",
+    "id": "1F03B0003",
     "name": "しましまキャット",
     "furigana": "しましまきゃっと",
     "english_name": "Candy cat",
@@ -4151,7 +4151,7 @@
     "related_characters": []
   },
             {
-    "id": "1F00013",
+    "id": "1F03B0001-1",
     "name": "ピンクボンボン",
     "furigana": "ぴんくぼんぼん",
     "english_name": "Pink bonbon",
@@ -4172,7 +4172,7 @@
     "related_characters": []
   },
             {
-    "id": "1F00012",
+    "id": "1F03B0001",
     "name": "ファーラット",
     "furigana": "ふぁーらっと",
     "english_name": "Feralball",
