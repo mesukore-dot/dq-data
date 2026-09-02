@@ -31,6 +31,27 @@
     "related_characters": []
   }, 
         {
+    "id": "7S01S0015",
+    "name": "ホミロン",
+    "furigana": "ほみろん",
+    "english_name": "Healix",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["Healix"],
+    "first_appearance": "DQH1",
+    "appearances": ["DQH1","DQH2",
+      "DQMSL","MSP","RIV"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2015年2月26日",
+    "voice_actor": "釘宮理恵",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "6A01S0017",
     "name": "キングエメラルド",
     "furigana": "きんぐえめらるど",
