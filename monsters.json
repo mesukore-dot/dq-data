@@ -31,6 +31,48 @@
     "related_characters": []
   }, 
         {
+    "id": "4C01S0033",
+    "name": "プリズムタワー",
+    "furigana": "ぷりずむたわー",
+    "english_name": "Prism stack",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/17/prism-tower/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プリズムタワー.webp",
+    "monster_family": "スライムタワー族",
+    "search_keywords": ["Prism stack"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","RIV"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2015年8月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "4C01S0032",
+    "name": "プリンセスライム",
+    "furigana": "ぷりんせすらいむ",
+    "english_name": "Princess slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/27/princess-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プリンセスライム.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": ["Princess slime"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2015年8月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "5B01S0021",
     "name": "スライムかがみもち",
     "furigana": "すらいむかがみもち",
