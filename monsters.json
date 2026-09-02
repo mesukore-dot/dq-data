@@ -31,6 +31,27 @@
     "related_characters": []
   }, 
         {
+    "id": "5B01S0021",
+    "name": "スライムかがみもち",
+    "furigana": "すらいむかがみもち",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/14/slime-kagamimoti/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムかがみもち.webp",
+    "monster_family": "スライムタワー族",
+    "search_keywords": ["お正月"],
+    "first_appearance": "DQMSL",
+    "appearances": ["DQ10",
+      "DQMSL","MSP","RIV","WALK","KSKS"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"お正月",
+    "other_families": [],
+    "release_date": "2014年12月31日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "7S01S0016",
     "name": "スライムジェネラル",
     "furigana": "すらいむじぇねらる",
