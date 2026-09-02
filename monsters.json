@@ -4026,7 +4026,7 @@
     "related_characters": []
   },
                 {
-    "id": "1F00020",
+    "id": "1F04P0002",
     "name": "ナスビナーラ",
     "furigana": "なすびなーら",
     "english_name": "Woebergine",
@@ -4047,7 +4047,7 @@
     "related_characters": []
   },
               {
-    "id": "1F00019",
+    "id": "1F03B0002-1",
     "name": "もじゃらきラクーン",
     "furigana": "もじゃらきラクーン",
     "english_name": "-",
@@ -4079,7 +4079,7 @@
     "appearances": ["DQTR",
     "TACT"],
     "main_family": "スライム系",
-    "sub_family":[],
+    "sub_family": "-",
     "other_families": [],
     "release_date": "2022年12月9日",
     "voice_actor": "-",
@@ -4214,7 +4214,7 @@
     "related_characters": []
   },
             {
-    "id": "1F00010",
+    "id": "1F04P0003",
     "name": "ズッキーニャ",
     "furigana": "ずっきーにゃ",
     "english_name": "Cruelcumber",
@@ -4236,7 +4236,7 @@
     "related_characters": []
   },
           {
-    "id": "1F00009",
+    "id": "1F06B0002",
     "name": "キリキリバッタ",
     "furigana": "きりきりばった",
     "english_name": "Walking stick",
@@ -4257,7 +4257,7 @@
     "related_characters": []
   },
            {
-    "id": "1F00008",
+    "id": "1F04P0001",
     "name": "おむつっこり",
     "furigana": "おむつっこり",
     "english_name": "Bushy Baby",
@@ -4278,7 +4278,7 @@
     "related_characters": []
   },
         {
-    "id": "1F00007",
+    "id": "1F09M0001",
     "name": "モコッキー",
     "furigana": "もこっきー",
     "english_name": "Needler",
@@ -4299,7 +4299,7 @@
     "related_characters": []
   },
            {
-    "id": "1F00006",
+    "id": "1F05B0001",
     "name": "おおがらす",
     "furigana": "おおがらす",
     "english_name": "Stark raven",
@@ -4321,7 +4321,7 @@
     "related_characters": []
   },
        {
-    "id": "1F00005",
+    "id": "1F08D0001",
     "name": "モーモン",
     "furigana": "もーもん",
     "english_name": "Teeny sanguini",
@@ -4484,7 +4484,7 @@
     "related_characters": []
   },
       {
-    "id": "1F00018",
+    "id": "1F03B0002",
     "name": "ももんじゃ",
     "furigana": "ももんじゃ",
     "english_name": "Platypunk",
@@ -4506,7 +4506,7 @@
     "related_characters": []
   },
   {
-    "id": "1F06B0001",
+    "id": "1F06B0002",
     "name": "おおさそり",
     "furigana": "おおさそり",
     "english_name": "Scorpion",
