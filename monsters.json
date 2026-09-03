@@ -30,6 +30,69 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+         {
+    "id": "4C01S0035",
+    "name": "勇車プチリンガル",
+    "furigana": "ゆうしゃぷちりんがる",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/05/yusya-puchiringal/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/勇車プチリンガル.webp",
+    "monster_family": "勇車スラリンガル族",
+    "search_keywords": [],
+    "first_appearance": "STAR",
+    "appearances": [
+      "STAR","TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2020年7月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "6A01S0018",
+    "name": "ハロウィンキング",
+    "furigana": "はろうぃんきんぐ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/16/halloween-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンキング.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": [],
+    "first_appearance": "STAR",
+    "appearances": [
+      "STAR","TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2019年10月20日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "7S01S0015-1",
+    "name": "チョコリンガル",
+    "furigana": "ちょこりんがる",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/16/chocolate-lingual/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/チョコリンガル.webp",
+    "monster_family": "勇車スラリンガル族",
+    "search_keywords": ["バレンタイン","たべもの"],
+    "first_appearance": "STAR",
+    "appearances": [
+      "STAR","TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2021年2月5日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
        {
     "id": "2E01S0028",
     "name": "だんごスライム",
@@ -39,9 +102,10 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/だんごスライム.webp",
     "monster_family": "スライムタワー族",
     "search_keywords": ["春","たべもの"],
-    "first_appearance": "DQSB",
+    "first_appearance": "MSP",
     "appearances": [
-      "DQBS"
+      "DQM3",
+      "MSP","RIV","TACT"
       ],
     "main_family": "スライム系",
     "sub_family":"-",
