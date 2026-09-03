@@ -31,6 +31,48 @@
     "related_characters": []
   }, 
         {
+    "id": "2E01S0027",
+    "name": "マシュマロスライム",
+    "furigana": "ましゅまろすらいむ",
+    "english_name": "Candyslime",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marshmallow-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マシュマロスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["Candyslime","お菓子","ホワイトデー","たべもの"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2014年3月7日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+         {
+    "id": "2E01S0026",
+    "name": "チョコスライム",
+    "furigana": "ちょこすらいむ",
+    "english_name": "Chocoslime",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/27/chocolate-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/チョコスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["Chocoslime","お菓子","バレンタイン","たべもの"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2014年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "4C01S0033",
     "name": "プリズムタワー",
     "furigana": "ぷりずむたわー",
