@@ -31,6 +31,71 @@
     "related_characters": []
   }, 
         {
+    "id": "8SS01S0012",
+    "name": "スラワッショイ",
+    "furigana": "すらわっしょい",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/09/surawashoi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラワッショイ.webp",
+    "monster_family": "スラワッショイ族",
+    "search_keywords": [],
+    "first_appearance": "DQSB",
+    "appearances": [
+      "DQBS"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2017年8月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "5B01S0024",
+    "name": "ベスキング",
+    "furigana": "べすきんぐ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/22/king-she-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ベスキング.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": [],
+    "first_appearance": "MSP",
+    "appearances": ["DQ10",
+      "DQMJ3","DQMJ3_P",
+      "DQTR",
+      "MSP","STAR","RIV","WALK","TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2013年9月2日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "5B01S0023",
+    "name": "旅人スライム",
+    "furigana": "たびびとすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/31/traveler-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/旅人スライム.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": [],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2019年1月23日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "4C01S0034",
     "name": "レモンキング",
     "furigana": "れもんきんぐ",
