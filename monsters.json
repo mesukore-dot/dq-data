@@ -4077,7 +4077,7 @@
     "related_characters": []
   },  
         {
-    "id": "8SS14?8999",
+    "id": "9X14?0001",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
     "english_name": "-",
@@ -4096,7 +4096,7 @@
     "related_characters": []
   },
     {
-    "id": "8SS14?9000",
+    "id": "9X14?0002",
     "name": "魔界神マデュラーシャ",
     "furigana": "まかいしんまでゅらーしゃ",
     "english_name": "-",
@@ -4134,7 +4134,7 @@
     "related_characters": []
   },
           {
-    "id": "1F00032",
+    "id": "1F06B0004",
     "name": "はさみくわがた",
     "furigana": "はさみくわがた",
     "english_name": "Scissor beatle",
@@ -4184,7 +4184,7 @@
     "related_characters": []
   },
              {
-    "id": "1F00030",
+    "id": "1F08D0002",
     "name": "みならいあくま",
     "furigana": "みならいあくま",
     "english_name": "Winkster",
@@ -4204,7 +4204,7 @@
     "related_characters": []
   },
           {
-    "id": "1F00029",
+    "id": "1F06B0003",
     "name": "オニムカデ",
     "furigana": "おにむかで",
     "english_name": "nightcrawler",
@@ -4288,7 +4288,7 @@
     "related_characters": []
   },
          {
-    "id": "1F00025",
+    "id": "1F06B0001",
     "name": "アイアンアント",
     "furigana": "あいあんあんと",
     "english_name": "Iron ant",
@@ -4309,7 +4309,7 @@
     "related_characters": []
   },
         {
-    "id": "1F00024",
+    "id": "2E09M0001",
     "name": "オコボルト",
     "furigana": "おこぼると",
     "english_name": "Grublin",
@@ -4351,7 +4351,7 @@
     "related_characters": []
   },
               {
-    "id": "1F00021",
+    "id": "1F06B0002",
     "name": "せみもぐら",
     "furigana": "せみもぐら",
     "english_name": "Boring bug",
@@ -4433,7 +4433,7 @@
     "related_characters": []
   },
         {
-    "id": "1F00016",
+    "id": "1F13Z0001-1",
     "name": "キョンシーゴースト",
     "furigana": "きょんしーごーすと",
     "english_name": "Jiangshi ghost",
@@ -4445,7 +4445,7 @@
     "appearances": ["DQ10","DQ10_OFF",
     "TACT"],
     "main_family": "ゾンビ系",
-    "sub_family":[],
+    "sub_family": "-",
     "other_families": [],
     "release_date": "2019年10月24日",
     "voice_actor": "-",
@@ -4453,7 +4453,7 @@
     "related_characters": []
   },
          {
-    "id": "1F00015",
+    "id": "1F13Z0001",
     "name": "ゴースト",
     "furigana": "ごーすと",
     "english_name": "Ghost",
@@ -4467,7 +4467,7 @@
       "FTR1","FTR2","FTR3","FY1","ARK1","MRMR2","MRMR3","DQH2","DQB1","DQB2",
       "DQMB","DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
     "main_family": "ゾンビ系",
-    "sub_family":[],
+    "sub_family": "-",
     "other_families": [],
     "release_date": "1986年5月27日",
     "voice_actor": "-",
@@ -4475,7 +4475,7 @@
     "related_characters": []
   },
             {
-    "id": "1F00014",
+    "id": "1F10M0001",
     "name": "とげぼうず",
     "furigana": "とげぼうず",
     "english_name": "Burr baby",
@@ -4539,7 +4539,7 @@
     "related_characters": []
   },
                {
-    "id": "1F00011",
+    "id": "1F12E0001",
     "name": "ホイップゴースト",
     "furigana": "ほいっぷごーすと",
     "english_name": "Soft serve spook",
@@ -4845,14 +4845,14 @@
       "DQMB","DQBS","DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
     "main_family": "けもの系",
     "sub_family": "魔獣系",
-    "other_families": [],
+    "other_families": "-",
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": ["item_dokubari"],
     "related_characters": []
   },
   {
-    "id": "1F06B0002",
+    "id": "1F06B0005",
     "name": "おおさそり",
     "furigana": "おおさそり",
     "english_name": "Scorpion",
