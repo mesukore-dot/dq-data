@@ -1224,7 +1224,7 @@
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMCH","DQMJ2","DQMJ2_P"
       ],
     "main_family": "スライム系",
-    "sub_family":[],
+    "sub_family": "-",
     "other_families": [],
     "release_date": "2003年3月29日",
     "voice_actor": "-",
