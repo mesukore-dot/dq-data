@@ -31,6 +31,27 @@
     "related_characters": []
   }, 
       {
+    "id": "5B01S0027",
+    "name": "ふじやまスライム",
+    "furigana": "ふじやますらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/27/fuji-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ふじやまスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2023年1月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+      {
     "id": "7S01S0018",
     "name": "コメットスライム",
     "furigana": "こめっとすらいむ",
