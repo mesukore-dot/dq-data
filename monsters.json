@@ -54,6 +54,29 @@
     "related_characters": []
   },
        {
+    "id": "9X02D0003",
+    "name": "マスタードラゴン",
+    "furigana": "ますたーどらごん",
+    "english_name": "Zenith Dragon",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/10/master-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マスタードラゴン.webp",
+    "monster_family": "マスタードラゴン族",
+    "search_keywords": ["Zenith Dragon"],
+    "first_appearance": "DQ4",
+    "appearances": ["DQ4","DQ4_PS","DQ5","DQ5_PS2","DQ5_DS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQBS",
+      "DQMSL","STAR","TACT"
+      ],
+    "main_family": "ドラゴン系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
     "id": "4C07W0001",
     "name": "マッドルーパー",
     "furigana": "まっどるーぱー",
