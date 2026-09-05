@@ -31,6 +31,48 @@
     "related_characters": []
   }, 
       {
+    "id": "7S01S0018",
+    "name": "コメットスライム",
+    "furigana": "こめっとすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/18/comet-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/コメットスライム.webp",
+    "monster_family": "魔星王メテオスライム族",
+    "search_keywords": [],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2025年11月13日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "CP-SP01S0001",
+    "name": "DDスライム",
+    "furigana": "だいやもんどどるふぃんずすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/DDスライム.webp",
+    "monster_family": "ダイヤモンドスライム族",
+    "search_keywords": ["DD","バスケットボール","コラボ"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2026年4月12日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+      {
     "id": "CP-YS01S0003",
     "name": "どんぶりキング",
     "furigana": "どんぶりきんぐ",
