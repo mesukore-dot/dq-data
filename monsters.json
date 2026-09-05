@@ -30,6 +30,69 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+       {
+    "id": "CP-CO01S0002",
+    "name": "かじゅうナイト",
+    "furigana": "かじゅうないと",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": [],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2025年10月30日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "CP-CO01S0001",
+    "name": "エナジーバブル",
+    "furigana": "えなじーばぶる",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/15/energy-bubble/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エナジーバブル.webp",
+    "monster_family": "バブルスライム族",
+    "search_keywords": [],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2022年11月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+      {
+    "id": "7S01S0017",
+    "name": "スラミチ",
+    "furigana": "すらみち",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/22/uramiti/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラミチ.webp",
+    "monster_family": "スライム族",
+    "search_keywords": [],
+    "first_appearance": "WALK",
+    "appearances": ["DQ10",
+      "DQMSL","WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2019年9月12日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
       {
     "id": "5B01S0026",
     "name": "ホワイトキング",
