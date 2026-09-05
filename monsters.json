@@ -51,6 +51,69 @@
     "related_items": ["-"],
     "related_characters": []
   },
+        {
+    "id": "1F01S0016",
+    "name": "テツスライム",
+    "furigana": "てつすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/29/tetsu-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/テツスライム.webp",
+    "monster_family": "スライムボーグ族",
+    "search_keywords": [],
+    "first_appearance": "KSKS",
+    "appearances": [
+      "TACT","KSKS"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2024年1月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
+    "id": "6A01S0019",
+    "name": "ジェノライダー",
+    "furigana": "じぇのらいだー",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": [],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2025年9月30日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "3D01S0037",
+    "name": "パティシエナイト",
+    "furigana": "ぱてぃしえないと",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パティシエナイト.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": ["バレンタイン"],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2021年2月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
       {
     "id": "5B01S0027",
     "name": "ふじやまスライム",
