@@ -30,6 +30,69 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+      {
+    "id": "CP-YS01S0003",
+    "name": "どんぶりキング",
+    "furigana": "どんぶりきんぐ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": ["吉野家","コラボ"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2026年7月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "CP-YS01S0002",
+    "name": "つゆだくスライム",
+    "furigana": "つゆだくすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["吉野家","コラボ"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2026年7月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "CP-YS01S0001",
+    "name": "どんぶりスライム",
+    "furigana": "どんぶりすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["吉野家","コラボ"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2026年7月1日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
        {
     "id": "CP-CO01S0002",
     "name": "かじゅうナイト",
@@ -38,7 +101,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
     "monster_family": "スライムナイト族",
-    "search_keywords": [],
+    "search_keywords": ["コカ・コーラCokeON","コラボ"],
     "first_appearance": "WALK",
     "appearances": [
       "WALK"
@@ -59,7 +122,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2023/03/15/energy-bubble/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エナジーバブル.webp",
     "monster_family": "バブルスライム族",
-    "search_keywords": [],
+    "search_keywords": ["コカ・コーラCokeON","コラボ"],
     "first_appearance": "WALK",
     "appearances": [
       "WALK"
