@@ -30,6 +30,31 @@
     "related_items": ["-"],
     "related_characters": []
   }, 
+       {
+    "id": "2E03B0001",
+    "name": "アルミラージ",
+    "furigana": "あるみらーじ",
+    "english_name": "Spiked hare",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/05/arumira-ji/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アルミラージ.webp",
+    "monster_family": "アルミラージ族",
+    "search_keywords": ["Spiked hare"],
+    "first_appearance": "DQ3",
+    "appearances": ["DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ7_3D",
+      "DQ8","DQ8_3D","DQ10","DQ10_OFF","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQB1","DQB2",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+      ],
+    "main_family": "けもの系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "1F03B0004",
     "name": "いっかくウサギ",
@@ -41,8 +66,8 @@
     "search_keywords": ["Bunicorn"],
     "first_appearance": "DQ3",
     "appearances": ["DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ7_3D",
-      "DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF","DQ11",
-      "DQM3","DQMJ3","DQMJ3_P",
+      "DQ8","DQ8_3D","DQ10","DQ10_OFF","DQ11",
+      "DQM3","DQM4","DQMJ3","DQMJ3_P",
       "MRMR1","MRMR2","MRMR3","DQB1","DQB2",
       "DQMB","DQBS",
       "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"
