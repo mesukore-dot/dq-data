@@ -5260,6 +5260,13 @@
     "name": "スライムベス",
     "furigana": "すらいむべす",
     "english_name": "She-slime",
+    "taiwan_name": "紅史萊姆",
+    "korean_name": "슬라임베스",
+    "chinese_name": "红史莱姆",
+    "french_name": "Gluante",
+    "german_name": "Schleimette",
+    "italian_name": "Limetta",
+    "spanish_name": "Limabesa",
     "page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/スライムベス.webp",
     "monster_family": "スライム族",
@@ -5274,7 +5281,7 @@
     "other_families": [],
     "release_date": "1986年5月27日",
     "voice_actor": "-",
-    "related_items": ["item_dokubari"],
+    "related_items": [""],
     "related_characters": []
   },
       {
