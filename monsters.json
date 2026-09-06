@@ -31,6 +31,28 @@
     "related_characters": []
   }, 
        {
+    "id": "2E03B0001-1",
+    "name": "ゴールデンコーン",
+    "furigana": "ごーるでんこーん",
+    "english_name": "24-carrot bunicorn",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
+    "monster_family": "アルミラージ族",
+    "search_keywords": ["24-carrot bunicorn","転生"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10","DQ10_OFF","DQ11",
+      "DQM2_3DS","DQM2_SP","DQMJ3","DQMJ3_P",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+      ],
+    "main_family": "けもの系",
+    "sub_family": "ゴールデン",
+    "other_families": [],
+    "release_date": "2012年10月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
     "id": "2E03B0001",
     "name": "アルミラージ",
     "furigana": "あるみらーじ",
