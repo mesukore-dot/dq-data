@@ -508,6 +508,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+       {
+    "id": "3D04P0001-1",
+    "name": "さくらんじゅ",
+    "furigana": "さくらんじゅ",
+    "english_name": "Cherreevil blossom",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/16/confusion-tree/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/さくらんじゅ.webp",
+    "monster_family": "じんめんじゅ族",
+    "search_keywords": ["Cherreevil blossom","春","公式イラストあり"],
+    "first_appearance": "DQ8_3D",
+    "appearances": ["DQ8_3D",
+      "TACT"
+      ],
+    "main_family": "植物系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2015年8月27日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
         {
     "id": "3D04P0001",
     "name": "じんめんじゅ",
