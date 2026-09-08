@@ -1,4 +1,26 @@
 [ 
+        {
+    "id": "E0046",
+            "name": "スカルゴン",
+            "furigana": "すかるごん",
+            "rarity": "強敵",
+            "color": "緑",
+            "system": "ゾンビ系",
+            "cost": 95,
+            "available": true,
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スカルゴン-メモリ.webp",
+            "url": [],
+            "panels": [],
+            "status": { 
+              "hp": 145,
+              "attack": 75, 
+              "magic_attack": 32, 
+              "magic_heal": 42, 
+              "defense": 71, 
+              "magic_defense": 78, 
+              "dexterity": 38 },
+            "effects": ["パラディン時：炎属性の物理ダメージ +10%"]
+  },
                   {
     "id": "E0045",
             "name": "キングスイカ岩",
