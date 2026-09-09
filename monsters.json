@@ -31,6 +31,28 @@
     "related_characters": []
   }, 
         {
+    "id": "7S02D0003",
+    "name": "イブール",
+    "furigana": "いぶーる",
+    "english_name": "King Korol",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/30/ibu-ru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/イブール.webp",
+    "monster_family": "イブール族",
+    "search_keywords": ["King Korol","ボス","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": ["DQ5","DQ5_PS2","DQ5_DS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQMSL","STAR","RIV","WALK","TACT"
+      ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "3D02D0006",
     "name": "ドラゴンキッズ",
     "furigana": "どらごんきっず",
