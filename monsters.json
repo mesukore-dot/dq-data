@@ -1525,6 +1525,27 @@
     "related_characters": []
   },
         {
+    "id": "8SS01S0014",
+    "name": "ホルトン",
+    "furigana": "ほるとん",
+    "english_name": "Augoostus",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/12/augoostus/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホルトン.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["Augoostus","公式イラストあり"],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2020年7月16日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "2E01S0029",
     "name": "海賊スライム",
     "furigana": "かいぞくすらいむ",
