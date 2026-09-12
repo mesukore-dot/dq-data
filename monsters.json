@@ -1932,6 +1932,27 @@
     "related_characters": []
   },
         {
+    "id": "7S01S0020",
+    "name": "スラクト",
+    "furigana": "すらくと",
+    "english_name": "Majellan",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラクト.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["Majellan","公式イラストあり"],
+    "first_appearance": "TACT",
+    "appearances": [
+      "DQ10","TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2020年7月16日",
+    "voice_actor": "水橋かおり",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+        {
     "id": "6A01S0018",
     "name": "ハロウィンキング",
     "furigana": "はろうぃんきんぐ",
