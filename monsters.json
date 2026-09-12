@@ -1150,6 +1150,26 @@
     "related_items": ["-"],
     "related_characters": []
   },
+           {
+    "id": "1F04P0005-1",
+    "name": "あやシイタケ",
+    "furigana": "あやしいたけ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/12/ayashitake/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/あやシイタケ.webp",
+    "monster_family": "おばけキノコ族",
+    "search_keywords": ["たべもの","転生モンスター","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10",
+    "WALK"],
+    "main_family": "植物系",
+    "sub_family":"-",
+    "other_families": ["自然系"],
+    "release_date": "2022年7月6日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
          {
     "id": "1F04P0005",
     "name": "おばけキノコ",
