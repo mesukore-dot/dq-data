@@ -1525,6 +1525,27 @@
     "related_characters": []
   },
         {
+    "id": "2E01S0029",
+    "name": "海賊スライム",
+    "furigana": "かいぞくすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/海賊スライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2024年8月5日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
     "id": "6A01S0019",
     "name": "ジェノライダー",
     "furigana": "じぇのらいだー",
@@ -2056,6 +2077,48 @@
     "sub_family":"-",
     "other_families": [],
     "release_date": "2014年6月24日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "4C01S0036",
+    "name": "ゴールデンチョコ",
+    "furigana": "ごーるでんちょこ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2025/02/20/golden-chocolate/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンチョコ.webp",
+    "monster_family": "ゴールデンスライム族",
+    "search_keywords": ["バレンタイン","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2025年2月20日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
+    "id": "7S01S0019",
+    "name": "プレミアムスライム",
+    "furigana": "ぷれみあむすらいむ",
+    "english_name": "Premium slime",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/03/premium-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プレミアムスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["Premium slim","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","MSP","RIV"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2014年3月31日",
     "voice_actor": "-",
     "related_items": ["-"],
     "related_characters": []
