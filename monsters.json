@@ -95,28 +95,6 @@
     "related_items": ["-"],
     "related_characters": []
   },
-        {
-    "id": "2E02D0008",
-    "name": "ウィッシュドラゴ",
-    "furigana": "うぃっしゅどらご",
-    "english_name": "Fiery dragling",
-    "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィッシュドラゴ.webp",
-    "monster_family": "ピクシードラゴン族",
-    "search_keywords": ["Fiery dragling","公式イラストあり"],
-    "first_appearance": "DQTR",
-    "appearances": [
-      "DQTR",
-      "STAR","TACT"
-      ],
-    "main_family": "ドラゴン系",
-    "sub_family": "-",
-    "other_families": [],
-    "release_date": "2022年12月9日",
-    "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
-  },
        {
     "id": "5B02D0012",
     "name": "デンダ",
@@ -5901,25 +5879,6 @@
     "related_items": ["-"],
     "related_characters": []
   },
-             {
-    "id": "7S01S0001",
-    "name": "ホミちょ",
-    "furigana": "ほみちょ",
-    "english_name": "-",
-    "page_url": "https://dqfan527.xsrv.jp/2025/03/02/homicho/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホミちょ.webp",
-    "monster_family": "ホイミスライム族",
-    "search_keywords": ["公式イラストあり"],
-    "first_appearance": "DQ3_HD2D",
-    "appearances": ["DQ3_HD2D"],
-    "main_family": "スライム系",
-    "sub_family":"-",
-    "other_families": [],
-    "release_date": "2024年11月14日",
-    "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
-  },
             {
     "id": "4C01S0002",
     "name": "ベホマスライム",
@@ -6727,6 +6686,28 @@
     "related_items": ["item_dokubari"],
     "related_characters": []
   },
+        {
+    "id": "2E02D0008",
+    "name": "ウィッシュドラゴ",
+    "furigana": "うぃっしゅどらご",
+    "english_name": "Fiery dragling",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィッシュドラゴ.webp",
+    "monster_family": "ピクシードラゴン族",
+    "search_keywords": ["Fiery dragling","公式イラストあり"],
+    "first_appearance": "DQTR",
+    "appearances": [
+      "DQTR",
+      "STAR","TACT"
+      ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2022年12月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
           {
     "id": "1F02D0004",
     "name": "ピクシードラゴン",
@@ -6745,6 +6726,25 @@
     "sub_family": "-",
     "other_families": [],
     "release_date": "2022年12月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+          {
+    "id": "7S01S0001",
+    "name": "ホミちょ",
+    "furigana": "ほみちょ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/02/homicho/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホミちょ.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQ3_HD2D",
+    "appearances": ["DQ3_HD2D"],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2024年11月14日",
     "voice_actor": "-",
     "related_items": ["-"],
     "related_characters": []
