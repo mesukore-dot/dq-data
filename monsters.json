@@ -31,6 +31,27 @@
     "related_characters": []
   }, 
        {
+    "id": "4C02D0012",
+    "name": "ゴルドロン",
+    "furigana": "ごるどろん",
+    "english_name": "Shiny dragling",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴルドロン.webp",
+    "monster_family": "ピクシードラゴン族",
+    "search_keywords": ["Shiny dragling","ゴールデン","公式イラストあり"],
+    "first_appearance": "DQTR",
+    "appearances": [
+      "DQTR"
+      ],
+    "main_family": "ドラゴン系",
+    "sub_family": "ゴールデン",
+    "other_families": [],
+    "release_date": "2022年12月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+       {
     "id": "3D02D0011",
     "name": "シャドラン",
     "furigana": "しゃどらん",
