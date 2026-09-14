@@ -38,6 +38,27 @@
     "related_characters": []
   }, 
     {
+    "id": "5B02D0014",
+    "name": "スノーエルダー",
+    "furigana": "すのーえるだー",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/17/snow-elder/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スノーエルダー.webp",
+    "monster_family": "フォレストドラゴ族",
+    "search_keywords": ["雪・氷","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": ["DQ10",
+    "RIV","WALK"
+      ],
+    "main_family": "ドラゴン系",
+    "sub_family": "雪・氷",
+    "other_families": [],
+    "release_date": "2015年4月30日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+  {
     "id": "5B02D0013",
     "name": "コキュードス",
     "furigana": "こきゅーどす",
