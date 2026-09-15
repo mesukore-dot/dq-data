@@ -1,0 +1,49 @@
+[
+    {
+    "id": "CH-N01-001",
+    "name": "ロトの血を引く者",
+    "furigana": "ろとのちをひくもの",
+    "english_name": "The Hero",
+    "taiwan_name": "羅ト的子孫",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/17/syujinkou1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/ロトの血を引く者.webp",
+    "monster_family": "ロトの血を引く者",
+    "search_keywords": ["主人公","勇者","ゆうしゃ","公式イラストあり"],
+    "gender": "male",
+    "first_appearance": "DQ1",
+    "appearances": ["DQ1","DQ1_HD2D",
+      "KS",
+      "DQMB","DQBS","XB",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS"],
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "voice_actor": "花江夏樹",
+    "quotes": [
+  ],
+    "related_items": ["-"],
+    "related_characters": []
+  },
+  {
+    "id": "CH-N01-002",
+    "name": "ローラ姫",
+    "furigana": "ろーらひめ",
+    "english_name": "Princess Gwaelin",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/17/syujinkou1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/ロトの血を引く者.webp",
+    "monster_family": "ロトの血を引く者",
+    "search_keywords": ["Princess Gwaelin","公式イラストあり"],
+    "gender": "woman",
+    "first_appearance": "DQ1",
+    "appearances": ["DQ1","DQ1_HD2D","DQ10","DQ11",
+      "KS","DQB",
+      "DQMB","DQBS","XB",
+      "RIV","TACT","KSKS"],
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "voice_actor": "茅野愛衣",
+    "quotes": [
+  ],
+    "related_items": ["-"],
+    "related_characters": []
+  }
+]
