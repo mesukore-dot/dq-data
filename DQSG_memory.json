@@ -1,4 +1,26 @@
 [ 
+  {
+    "id": "E0047",
+            "name": "スカルゴン軍",
+            "furigana": "すかるごんぐん",
+            "rarity": "マルチ",
+            "color": "黄",
+            "system": "？？？系",
+            "cost": 98,
+            "available": true,
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スカルゴン軍-メモリ.webp",
+            "url": [],
+            "panels": [],
+            "status": { 
+              "hp": 169,
+              "attack": 91, 
+              "magic_attack": 62, 
+              "magic_heal": 46, 
+              "defense": 92, 
+              "magic_defense": 76, 
+              "dexterity": 50 },
+            "effects": ["炎属性のダメージ +5%","ゾンビ系にダメージ +2%"]
+  },
         {
     "id": "E0046",
             "name": "スカルゴン",
@@ -1504,7 +1526,7 @@
             "system": "けもの系",
             "cost": 46,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/オーク-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1526,7 +1548,7 @@
             "system": "ゾンビ系",
             "cost": 48,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/メトロゴースト-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1548,7 +1570,7 @@
             "system": "植物系",
             "cost": 44,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おばけキノコ-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1614,7 +1636,7 @@
             "system": "スライム系",
             "cost": 50,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ベホイムスライム-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
@@ -1812,7 +1834,7 @@
             "system": "あくま系",
             "cost": 50,
             "available": true,
-            "image": "",
+            "image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ミニデーモン-メモリ.webp",
             "url": [],
             "panels": [],
             "status": { 
