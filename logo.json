@@ -121,5 +121,16 @@
     "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/06/短剣アイコン.png",
     "link": "https://dqfan527.xsrv.jp/home/weapon-tanken/"
   }
+},
+"skill_type_icon": {
+  "呪文": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/呪文アイコン-e1690782021199.png"
+  }
+},
+"element_type_icon": {
+  "メラ系・炎属性": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/07/メラ属性アイコン.png",
+    "link": "https://dqfan527.xsrv.jp/skill-merazangeki/"
+  }
 }
   }
