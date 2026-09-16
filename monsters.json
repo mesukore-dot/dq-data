@@ -2405,6 +2405,27 @@
     "related_items": ["-"],
     "related_characters": []
   },
+  {
+    "id": "3D04P0005",
+    "name": "スイカ岩",
+    "furigana": "すいかいわ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
+    "monster_family": "ばくだんいわ族",
+    "search_keywords": ["トロピカル・夏","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK","DQSG"
+      ],
+    "main_family": "植物系",
+    "sub_family":"トロピカル",
+    "other_families": [],
+    "release_date": "2020年5月9日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": ["1F01S0014"]
+  },
        {
     "id": "1F01S0014",
     "name": "スイカつむり",
@@ -2438,7 +2459,7 @@
       "や　やめてください〜！\nボクは　お祭りのデザートじゃありません！"
     ],
     "related_items": ["1W-03K-7M-1F01S0014-01"],
-    "related_characters": []
+    "related_characters": ["3D04P0005"]
   },
        {
     "id": "5B01S0022",
