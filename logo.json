@@ -132,6 +132,16 @@
     "link": "https://xsrv.jp"
   }
 },
+"accessory_type_icon": {
+  "ピアス": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/ピアスアイコン.png",
+    "link": "https://dqfan527.xsrv.jp/home/accessory-pierce/"
+  },
+  "ゆびわ": {
+    "icon": "https://xsrv.jp",
+    "link": "https://xsrv.jp"
+  }
+},
 "skill_genre_icon": {
   "こうげき": {
     "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/攻撃とくぎ.png"
