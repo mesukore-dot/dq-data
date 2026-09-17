@@ -169,6 +169,17 @@
     "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/くさアイコン.png",
     "link": "https://dqfan527.xsrv.jp/home/item-material-cooking-furniture/ha-kusa-koke/"
   }
+},
+"interior_type_icon": {
+  "イス": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/イスアイコン.png",
+    "link": "https://dqfan527.xsrv.jp/home/item-material-cooking-furniture/kazari-isu/"
+  },
+  "テーブル": {
+    "icon": "https://xsrv.jp",
+    "link": "https://xsrv.jp"
+  }
 }
+
 
   }
