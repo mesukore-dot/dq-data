@@ -1,0 +1,23 @@
+[
+    {
+        "id": "2D-01S-1J0001",
+        "name": "おなべのふた",
+        "furigana": "おなべのふた",
+        "english_name": "Pot lid",
+        "page_url": "https://dqfan527.xsrv.jp/2023/07/03/onabenohuta/",
+        "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おなべのフタ.webp",
+        "search_keywords": ["Pot lid","公式イラストあり"],
+        "armor_type": "盾",
+        "armor_series": "身近なモノシリーズ",
+        "first_appearance": "DQ5",
+        "appearances": ["DQ1_HD2D","DQ2_HD2D","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ6",
+        "DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ11",
+          "DQH2","DQB2","DQTR",
+          "DQMB",
+          "STAR"
+        ],
+        "release_date": "1992年9月27日",
+        "related_items": [],
+        "related_characters": []
+    }
+]
