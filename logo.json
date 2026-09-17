@@ -147,5 +147,18 @@
     "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/07/メラ属性アイコン.png",
     "link": "https://dqfan527.xsrv.jp/skill-merazangeki/"
   }
+},
+"item_type_icon": {
+  "どうぐ": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/どうぐアイコン.png",
+    "link": "https://dqfan527.xsrv.jp/home/item-material-cooking-furniture/syouhi-item/"
+  }
+},
+"item_genre_icon": {
+  "葉・草": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/くさアイコン.png",
+    "link": "https://dqfan527.xsrv.jp/home/item-material-cooking-furniture/ha-kusa-koke/"
+  }
 }
+
   }
