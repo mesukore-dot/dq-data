@@ -122,6 +122,16 @@
     "link": "https://dqfan527.xsrv.jp/home/weapon-tanken/"
   }
 },
+"armor_type_icon": {
+  "盾": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/たてアイコン.png",
+    "link": "https://dqfan527.xsrv.jp/home/armer-sealed/"
+  },
+  "よろい": {
+    "icon": "https://xsrv.jp",
+    "link": "https://xsrv.jp"
+  }
+},
 "skill_genre_icon": {
   "こうげき": {
     "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/攻撃とくぎ.png"
