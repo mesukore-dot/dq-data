@@ -2,12 +2,10 @@ import os
 import json
 from pathlib import Path
 
-# 📂 フォルダの場所を決めるよ
-SRC_DIR = Path("src_data")      # 元の10個のJSONを置くフォルダ
-DIST_INDIVIDUAL = Path("data/individual") # バラバラにした個別JSONの保存先
-DIST_FAMILY = Path("data/family")         # 一覧ページ用の系統別JSONの保存先
+SRC_DIR = Path("src_data")
+DIST_INDIVIDUAL = Path("data/individual")
+DIST_FAMILY = Path("data/family")
 
-# ディレクトリがなかったら自動で作るよ
 DIST_INDIVIDUAL.mkdir(parents=True, exist_ok=True)
 DIST_FAMILY.mkdir(parents=True, exist_ok=True)
 
@@ -19,7 +17,6 @@ def load_json(filename):
         return json.load(f)
 
 def main():
-    # 📥 1. 10個のファイルを全部読み込むよ！
     characters = load_json("character.json")
     monsters = load_json("monster.json")
     skills = load_json("skill.json")
@@ -29,48 +26,38 @@ def main():
     dishes = load_json("dish.json")
     items = load_json("item.json")
     interiors = load_json("interior.json")
-    mamechishiki = load_json("mamechishiki.json")  # 辞書型を想定
+    mamechishiki = load_json("mamechishiki.json")
 
     print(f"🔍 読み込み直後のモンスター数: {len(monsters)} 件")
 
-    # すべてのデータを1つの巨大なリストにまとめる（まめちしき以外）
     all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
-    
-    # 🔍 検索しやすくするために、IDをキーにした辞書（名簿）を頭の中に作るよ
     db = {item["id"]: item for item in all_data}
     print(f"🔍 名簿（db）に登録されたデータ総数: {len(db)} 件")
 
-    # --- 💡 ここから細かいルールの自動計算スタート！ ---
+    # 💡 ページがある・ないに関係なく、全員を大文字小文字無視で綺麗にID順に並べるよ！
+    all_data.sort(key=lambda x: x["id"].upper())
 
-    # 🛑 ルール①：URL（page_url）があるものだけを集めて、図鑑のNo.を計算するよ
-    valid_data = [item for item in all_data if item.get("page_url")]
-    valid_data.sort(key=lambda x: x["id"]) # IDの昇順（小さい順）
-
-    # 🔢 ルール②：No.の自動計算 ＆ 前後のIDと【実際のページURL】をセット
-    for i, item in enumerate(valid_data):
+    # 🔢 全員を一列に並べた状態で、隣のIDとURLを100%確実に仕込む処理
+    for i, item in enumerate(all_data):
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}"
         
+        # --- ◀ 前のモンスターのURL処理 ---
         if i > 0:
-            prev_item = valid_data[i - 1]
-            item["prev_id"] = prev_item["id"]
-            # 💡 隣のモンスターの本物のURLをそのままコピーして持ってくるよ！
-            item["prev_page_url"] = prev_item.get("page_url") or prev_item.get("url") or ""
+            item["prev_id"] = all_data[i - 1]["id"]
+            item["prev_page_url"] = str(all_data[i - 1].get("page_url", ""))
         else:
             item["prev_id"] = ""
             item["prev_page_url"] = ""
 
-        if i < len(valid_data) - 1:
-            next_item = valid_data[i + 1]
-            item["next_id"] = next_item["id"]
-            # 💡 隣のモンスターの本物のURLをそのままコピーして持ってくるよ！
-            item["next_page_url"] = next_item.get("page_url") or next_item.get("url") or ""
+        # --- ▶ 次のモンスターのURL処理 ---
+        if i < len(all_data) - 1:
+            item["next_id"] = all_data[i + 1]["id"]
+            item["next_page_url"] = str(all_data[i + 1].get("page_url", ""))
         else:
             item["next_id"] = ""
             item["next_page_url"] = ""
-
     # 🤝 ルール③：お友達リンク（色違い・シリーズ・関連データ・まめちしき）の合体
     for item in all_data:
-        # 💡 【エラー修正】ここで my_id を最初にカチッと定義するよ！
         my_id = item["id"]
         
         # 📘 まめちしきの合体（自分のIDと完全一致するものを1対1でくっつけるよ！）
@@ -82,7 +69,7 @@ def main():
         if "monster_family" in item and item["monster_family"]:
             family = item["monster_family"]
             item["color_variants"] = [
-                {"id": m["id"], "name": m["name"], "image_url": m.get("image_url", ""), "page_url": m.get("page_url", "")}
+                {"id": m["id"], "name": m["name"], "image_url": m.get("image_url", ""), "page_url": str(m.get("page_url", ""))}
                 for m in monsters if m.get("monster_family") == family and m["id"] != my_id
             ]
 
@@ -96,14 +83,14 @@ def main():
             series_items = []
             for eq in (weapons + armors + accessories):
                 if eq["id"] != my_id and (eq.get("weapon_series") == current_series or eq.get("armor_series") == current_series or eq.get("accessory_series") == current_series):
-                    series_items.append({"id": eq["id"], "name": eq["name"], "image_url": eq.get("image_url", ""), "page_url": eq.get("page_url", "")})
+                    series_items.append({"id": eq["id"], "name": eq["name"], "image_url": eq.get("image_url", ""), "page_url": str(eq.get("page_url", ""))})
             item["series_equipments"] = series_items
 
         # 🪑 家具シリーズのまとめ（家具はインテリアの中だけで探す！）
         if "interior_series" in item and item["interior_series"]:
             int_series = item["interior_series"]
             item["interior_series_items"] = [
-                {"id": f["id"], "name": f["name"], "image_url": f.get("image_url", ""), "page_url": f.get("page_url", "")}
+                {"id": f["id"], "name": f["name"], "image_url": f.get("image_url", ""), "page_url": str(f.get("page_url", ""))}
                 for f in interiors if f.get("interior_series") == int_series and f["id"] != my_id
             ]
 
@@ -117,43 +104,43 @@ def main():
                         detailed_list.append({
                             "id": rel_id,
                             "name": target["name"],
-                            "page_url": target.get("page_url", ""),
+                            "page_url": str(target.get("page_url", "")),
                             "image_url": target.get("image_url", "")
                         })
                 item[f"{rel_key}_details"] = detailed_list
 
     # 💾 4. ファイルを書き出すよ！
     
-    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON（URL関係なく全員分強制で作るよ！）
+    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON（大本命データ！）
     for item in all_data:
-        file_name = f"{item['id']}.json".lower() # 💡大文字小文字トラブルを防ぐため小文字名で統一して保存
+        file_name = f"{item['id']}.json".lower() # 大文字小文字トラブルを防ぐため小文字名で統一して保存
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)
 
     # 🅱️ 系統別のJSON（一覧ページ用）
     family_groups = {}
-    for m in monsters:
-        if not m.get("page_url"):
-            continue
-            
-        fam = m.get("main_family", "その他")
-        if fam not in family_groups:
-            family_groups[fam] = []
-        
-        family_groups[fam].append({
-            "id": m["id"],
-            "name": m["name"],
-            "furigana": m.get("furigana", ""),
-            "page_url": m.get("page_url", ""),
-            "image_url": m.get("image_url", ""),
-            "search_keywords": m.get("search_keywords", []),
-            "first_appearance": m.get("first_appearance", ""),
-            "appearances": m.get("appearances", []),
-            "main_family": m.get("main_family", ""),
-            "sub_family": m.get("sub_family", ""),
-            "release_date": m.get("release_date", ""),
-            "zukan_no": m.get("zukan_no", "No.-----")
-        })
+    for m in all_data:
+        # モンスター（idの頭文字が1または3または5などのモンスター系列）で、かつURLがあるものだけを一覧に入れる
+        if m.get("page_url"):
+            if m["id"].startswith("1") or m["id"].startswith("3"): 
+                fam = m.get("main_family", "その他")
+                if fam not in family_groups:
+                    family_groups[fam] = []
+                
+                family_groups[fam].append({
+                    "id": m["id"],
+                    "name": m["name"],
+                    "furigana": m.get("furigana", ""),
+                    "page_url": str(m.get("page_url", "")),
+                    "image_url": m.get("image_url", ""),
+                    "search_keywords": m.get("search_keywords", []),
+                    "first_appearance": m.get("first_appearance", ""),
+                    "appearances": m.get("appearances", []),
+                    "main_family": m.get("main_family", ""),
+                    "sub_family": m.get("sub_family", ""),
+                    "release_date": m.get("release_date", ""),
+                    "zukan_no": m.get("zukan_no", "No.-----")
+                })
 
     for fam_name, m_list in family_groups.items():
         m_list.sort(key=lambda x: x["id"])
