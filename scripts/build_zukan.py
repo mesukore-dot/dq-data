@@ -111,36 +111,38 @@ def main():
 
     # 💾 4. ファイルを書き出すよ！
     
-    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON（大本命データ！）
+    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON
     for item in all_data:
-        file_name = f"{item['id']}.json".lower() # 大文字小文字トラブルを防ぐため小文字名で統一して保存
+        file_name = f"{item['id']}.json".lower()
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)
 
     # 🅱️ 系統別のJSON（一覧ページ用）
     family_groups = {}
-    for m in all_data:
-        # モンスター（idの頭文字が1または3または5などのモンスター系列）で、かつURLがあるものだけを一覧に入れる
+    # 💡 【大修正】もともとの monsters のリストに載っていた全員から系統別を作る形に戻したよ！
+    for m in monsters:
         if m.get("page_url"):
-            if m["id"].startswith("1") or m["id"].startswith("3"): 
-                fam = m.get("main_family", "その他")
-                if fam not in family_groups:
-                    family_groups[fam] = []
-                
-                family_groups[fam].append({
-                    "id": m["id"],
-                    "name": m["name"],
-                    "furigana": m.get("furigana", ""),
-                    "page_url": str(m.get("page_url", "")),
-                    "image_url": m.get("image_url", ""),
-                    "search_keywords": m.get("search_keywords", []),
-                    "first_appearance": m.get("first_appearance", ""),
-                    "appearances": m.get("appearances", []),
-                    "main_family": m.get("main_family", ""),
-                    "sub_family": m.get("sub_family", ""),
-                    "release_date": m.get("release_date", ""),
-                    "zukan_no": m.get("zukan_no", "No.-----")
-                })
+            fam = m.get("main_family", "その他")
+            if fam not in family_groups:
+                family_groups[fam] = []
+            
+            # dbから、前半で zukan_no や前後のURLを計算し終えた最新データを引っ張ってくるよ！
+            latest_m = db.get(m["id"], m)
+            
+            family_groups[fam].append({
+                "id": latest_m["id"],
+                "name": latest_m["name"],
+                "furigana": latest_m.get("furigana", ""),
+                "page_url": str(latest_m.get("page_url", "")),
+                "image_url": latest_m.get("image_url", ""),
+                "search_keywords": latest_m.get("search_keywords", []),
+                "first_appearance": latest_m.get("first_appearance", ""),
+                "appearances": latest_m.get("appearances", []),
+                "main_family": latest_m.get("main_family", ""),
+                "sub_family": latest_m.get("sub_family", ""),
+                "release_date": latest_m.get("release_date", ""),
+                "zukan_no": latest_m.get("zukan_no", "No.-----")
+            })
 
     for fam_name, m_list in family_groups.items():
         m_list.sort(key=lambda x: x["id"])
