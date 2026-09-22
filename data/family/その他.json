@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1W-01S-1J0001",
+    "name": "ひのきのぼう",
+    "furigana": "ひのきのぼう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/26/hinokinobou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/ひのきのぼう.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ6",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQTR",
+      "DQMSL",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "",
+    "sub_family": "",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00058"
+  },
+  {
+    "id": "1W-03K-7M-1F01S0014-01",
+    "name": "スイカつむりダガー",
+    "furigana": "すいかつむりだがー",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/16/suikatumuri-dagger/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむりダガー.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+    ],
+    "main_family": "",
+    "sub_family": "",
+    "release_date": "2026年8月31日",
+    "zukan_no": "No.00059"
+  },
+  {
+    "id": "3A-04P-4E01F001",
+    "name": "炎のイヤリング",
+    "furigana": "ほのおのいやりんぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/03/15/hono-earring/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/炎のイヤリング.webp",
+    "search_keywords": [
+      "Asbestos earrings",
+      "炎属性",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ3_HD2D",
+      "DQ11",
+      "DQM3",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "",
+    "sub_family": "",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00106"
+  }
+]
