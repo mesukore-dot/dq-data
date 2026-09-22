@@ -35,7 +35,17 @@
   "zukan_no": "No.00009",
   "prev_id": "1F01S0007",
   "next_id": "1F01S0009",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成10年）1998年9月25日「ドラゴンクエストモンスターズ テリーのワンダーランド（DQM1）」から登場。",
+      "works_count": "4作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "草をむしゃむしゃと　たべすぎて　アタマに葉っぱが生えてしまったスライム。植物のように　光合成ができるようになった。",
+      "ecology": "日の当たるところで　おひるねするのが　好き。お気に入りのスポットが　たくさんあるらしい。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

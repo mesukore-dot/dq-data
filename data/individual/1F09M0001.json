@@ -31,7 +31,18 @@
   "zukan_no": "No.00049",
   "prev_id": "1F08D0002",
   "next_id": "1F10M0001",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "6作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "おじいちゃんのような　しろいモコモコヒゲが特徴の　なぞのまもの。まるで　わたげのような感触。",
+      "ability": "手にした　おおきな針で　なんでも穴だらけにする。",
+      "ecology": "毛量がおおいのに　無理やりマスクをかぶったため　これでもかというほど　ハミ出てしまった。でも　そんなに気にしていない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

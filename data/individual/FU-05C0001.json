@@ -21,7 +21,13 @@
   "zukan_no": "No.00329",
   "prev_id": "CP-YS01S0003",
   "next_id": "IT-05H1N0001",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成24年）2012年8月2日「ドラゴンクエストXオンライン 目覚めし五つの種族（DQ10）」から登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "どこにでもある　いたって　ごくふつうのイス。\nニスや着色などは　いっさい　ほどこしていない。"
+    }
+  ],
   "interior_series_items": [],
   "related_characters_details": [],
   "related_items_details": []

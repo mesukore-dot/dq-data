@@ -34,7 +34,17 @@
   "zukan_no": "No.00044",
   "prev_id": "1F06B0003",
   "next_id": "1F06B0005",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成12年）2000年8月26日、PlayStation版「ドラゴンクエストVII エデンの戦士たち（DQ7）」から登場。",
+      "works_count": "4作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "鬼のように真っ赤な　ムカデのまもの。こわいカオのせいで　強そうに見えるが　かなりよわい。",
+      "ecology": "どくがあるように見える紫色のトゲトゲ。しかし　実際はどくはない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

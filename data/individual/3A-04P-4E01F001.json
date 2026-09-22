@@ -27,7 +27,14 @@
   "zukan_no": "No.00102",
   "prev_id": "2E09M0001",
   "next_id": "3D01S0001",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "6作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "炎のチカラを宿した　イヤリング。ほのかに　熱を感じる。",
+      "ability": "炎のこうげきに　強くなる。邪悪な炎には　聖なる炎を。"
+    }
+  ],
   "series_equipments": [],
   "related_characters_details": [],
   "related_items_details": []

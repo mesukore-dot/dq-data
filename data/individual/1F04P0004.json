@@ -43,7 +43,19 @@
   "zukan_no": "No.00033",
   "prev_id": "1F04P0003",
   "next_id": "1F04P0005",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成21年）2009年7月11日、NintendoDS用ソフト「ドラゴンクエストIX 星空の守り人（DQ9）」から登場。",
+      "works_count": "14作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "こどもが食べのこした　ズッキーニの怨念から生まれたまもの。うらみをこめた一撃で　ニンゲンを痛めつける。",
+      "form": "石槍を持った　ズッキーニのようなすがた。つねに　ベロを出しており　たおされると　手にしたヤリが　自分の顔面にブッ刺さる。",
+      "ability": "手にしたヤリで　さみだれ突き　などの攻撃を　くりだすぞ。",
+      "memory": "DQ9で　いちばん最初に　たたかうモンスター。ウォルロ村のちかくに　スライム2匹と　ともにあらわれる。岩かげに隠れ　リッカたちを襲おうとするが　守護天使イザヤールと主人公ナインに返り討ちにされてしまう。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []
