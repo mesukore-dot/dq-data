@@ -51,17 +51,19 @@ def main():
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}"
         
         if i > 0:
-            item["prev_id"] = valid_data[i - 1]["id"]
+            prev_item = valid_data[i - 1]
+            item["prev_id"] = prev_item["id"]
             # 💡 隣のモンスターの本物のURLをそのままコピーして持ってくるよ！
-            item["prev_page_url"] = valid_data[i - 1].get("page_url", "")
+            item["prev_page_url"] = prev_item.get("page_url") or prev_item.get("url") or ""
         else:
             item["prev_id"] = ""
             item["prev_page_url"] = ""
 
         if i < len(valid_data) - 1:
-            item["next_id"] = valid_data[i + 1]["id"]
+            next_item = valid_data[i + 1]
+            item["next_id"] = next_item["id"]
             # 💡 隣のモンスターの本物のURLをそのままコピーして持ってくるよ！
-            item["next_page_url"] = valid_data[i + 1].get("page_url", "")
+            item["next_page_url"] = next_item.get("page_url") or next_item.get("url") or ""
         else:
             item["next_id"] = ""
             item["next_page_url"] = ""
