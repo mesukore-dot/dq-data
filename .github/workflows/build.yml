@@ -1,0 +1,29 @@
+name: Build DQ Zukan Data
+
+on:
+  push:
+    paths:
+      - 'src_data/*.json' # src_dataフォルダの中のJSONが更新されたら動くよ
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pythonの準備
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 自動仕分けスクリプトを実行！
+        run: python scripts/build_zukan.py
+
+      - name: 出来上がったデータを自動でコミットして保存！
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: 自動データ更新 [skip ci]"
+          git push
