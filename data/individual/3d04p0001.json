@@ -55,7 +55,7 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00162",
+  "zukan_no": "No.00158",
   "prev_id": "3D03B0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/",
   "next_id": "3D04P0001-1",
@@ -63,16 +63,16 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "4C04P0001",
-      "name": "ウドラー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウドラー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/"
-    },
-    {
       "id": "3D04P0001-1",
       "name": "さくらんじゅ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/さくらんじゅ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/06/16/confusion-tree/"
+    },
+    {
+      "id": "4C04P0001",
+      "name": "ウドラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウドラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/"
     }
   ],
   "related_characters_details": [],

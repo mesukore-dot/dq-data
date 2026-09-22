@@ -24,7 +24,7 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00159",
+  "zukan_no": "No.00155",
   "prev_id": "3D02D0010",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/dragon-baggage/",
   "next_id": "3D02D0012",
@@ -43,16 +43,10 @@
   ],
   "color_variants": [
     {
-      "id": "8SS02D0002",
-      "name": "エンゼルゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
-    },
-    {
-      "id": "4C02D0012",
-      "name": "ゴルドロン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴルドロン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/"
+      "id": "1F02D0004",
+      "name": "ピクシードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ピクシードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/"
     },
     {
       "id": "2E02D0008",
@@ -61,10 +55,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/"
     },
     {
-      "id": "1F02D0004",
-      "name": "ピクシードラゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ピクシードラゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/"
+      "id": "4C02D0012",
+      "name": "ゴルドロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴルドロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/"
+    },
+    {
+      "id": "8SS02D0002",
+      "name": "エンゼルゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
     }
   ],
   "related_characters_details": [],

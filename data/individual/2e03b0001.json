@@ -61,7 +61,7 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00101",
+  "zukan_no": "No.00098",
   "prev_id": "2E02D0009",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/25/croco-march/",
   "next_id": "2E03B0001-1",
@@ -69,16 +69,16 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "2E03B0001-1",
-      "name": "ゴールデンコーン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/"
-    },
-    {
       "id": "1F03B0004",
       "name": "いっかくウサギ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/いっかくウサギ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/05/ikkakuusagi/"
+    },
+    {
+      "id": "2E03B0001-1",
+      "name": "ゴールデンコーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/"
     }
   ],
   "related_characters_details": [],

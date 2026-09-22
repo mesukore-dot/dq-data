@@ -42,16 +42,16 @@
   ],
   "color_variants": [
     {
-      "id": "4C01S0008",
-      "name": "スラマシンZ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラマシンZ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/"
-    },
-    {
       "id": "3D01S0018",
       "name": "スライムボーグ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムボーグ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/slime-cyborg/"
+    },
+    {
+      "id": "4C01S0008",
+      "name": "スラマシンZ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラマシンZ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/"
     }
   ],
   "related_characters_details": [],

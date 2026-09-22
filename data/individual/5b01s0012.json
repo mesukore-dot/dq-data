@@ -25,7 +25,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00232",
+  "zukan_no": "No.00228",
   "prev_id": "5B01S0011",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/04/08/the-silent-embodiment/",
   "next_id": "5B01S0012-1",
@@ -33,10 +33,10 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "5B01S0012-1",
-      "name": "黄泉の花",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/黄泉の花.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/04/10/flower-of-yomi/"
+      "id": "1F01S0007",
+      "name": "マンドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マンドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/18/mandora/"
     },
     {
       "id": "3D01S0015",
@@ -45,10 +45,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/tomatoma-re/"
     },
     {
-      "id": "1F01S0007",
-      "name": "マンドラ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マンドラ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/18/mandora/"
+      "id": "5B01S0012-1",
+      "name": "黄泉の花",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/黄泉の花.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/10/flower-of-yomi/"
     }
   ],
   "related_characters_details": [],

@@ -76,16 +76,16 @@
   ],
   "color_variants": [
     {
-      "id": "2E03B0001-1",
-      "name": "ゴールデンコーン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/"
-    },
-    {
       "id": "2E03B0001",
       "name": "アルミラージ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アルミラージ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/05/arumira-ji/"
+    },
+    {
+      "id": "2E03B0001-1",
+      "name": "ゴールデンコーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/"
     }
   ],
   "related_characters_details": [],

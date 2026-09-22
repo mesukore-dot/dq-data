@@ -25,7 +25,7 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00280",
+  "zukan_no": "No.00276",
   "prev_id": "6A01S0015",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/09/21/gold-angel/",
   "next_id": "6A01S0017",
@@ -33,16 +33,16 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "5B01S0020",
-      "name": "メタルパール",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルパール.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/01/15/metal-pearl/"
-    },
-    {
       "id": "1F01S0011",
       "name": "パールスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/パールスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/09/16/perl-slime/"
+    },
+    {
+      "id": "5B01S0020",
+      "name": "メタルパール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルパール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/15/metal-pearl/"
     }
   ],
   "related_characters_details": [],

@@ -81,13 +81,19 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00289",
+  "zukan_no": "No.00285",
   "prev_id": "6A02D0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/03/09/battlerex/",
   "next_id": "6S01S0006",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/dark-king/",
   "mamechishiki_pages": [],
   "color_variants": [
+    {
+      "id": "4C10M0001",
+      "name": "ストーンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ストーンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/"
+    },
     {
       "id": "5B10M0001",
       "name": "アイスゴーレム",
@@ -99,12 +105,6 @@
       "name": "ゴールドマン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールドマン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/"
-    },
-    {
-      "id": "4C10M0001",
-      "name": "ストーンマン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ストーンマン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/"
     }
   ],
   "related_characters_details": [],

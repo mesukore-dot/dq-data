@@ -103,22 +103,10 @@
   ],
   "color_variants": [
     {
-      "id": "CP-CO01S0001",
-      "name": "エナジーバブル",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エナジーバブル.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/03/15/energy-bubble/"
-    },
-    {
-      "id": "5B01S0013",
-      "name": "スライムタール",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムタール.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/04/21/slime-tar/"
-    },
-    {
-      "id": "2E01S0015",
-      "name": "はんじゅくスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
-      "page_url": "[]"
+      "id": "2E01S0007",
+      "name": "はぐレモン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/はぐレモン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/02/hagu-lemon/"
     },
     {
       "id": "2E01S0011",
@@ -127,22 +115,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/08/02/slime-syabon/"
     },
     {
-      "id": "5B01S0006",
-      "name": "じめじめバブル",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/じめじめバブル.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/jimejime-bubble/"
-    },
-    {
-      "id": "4C01S0010",
-      "name": "ぬかどこスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぬかどこスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/nukadoko-slime/"
-    },
-    {
-      "id": "3D01S0010-1",
-      "name": "メタルトリュフ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルトリュフ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/metal-truffle-slime/"
+      "id": "2E01S0015",
+      "name": "はんじゅくスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
+      "page_url": "[]"
     },
     {
       "id": "3D01S0010",
@@ -151,10 +127,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/18/mash-slime/"
     },
     {
-      "id": "2E01S0007",
-      "name": "はぐレモン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/はぐレモン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/02/hagu-lemon/"
+      "id": "3D01S0010-1",
+      "name": "メタルトリュフ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルトリュフ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/metal-truffle-slime/"
     },
     {
       "id": "4C01S0001",
@@ -163,10 +139,34 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/01/22/haguremetaru/"
     },
     {
+      "id": "4C01S0010",
+      "name": "ぬかどこスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぬかどこスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/nukadoko-slime/"
+    },
+    {
+      "id": "5B01S0006",
+      "name": "じめじめバブル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/じめじめバブル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/jimejime-bubble/"
+    },
+    {
       "id": "5B01S0007",
       "name": "ピンキーマッシュ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ピンキーマッシュ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/02/pinkie-mash/"
+    },
+    {
+      "id": "5B01S0013",
+      "name": "スライムタール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムタール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/21/slime-tar/"
+    },
+    {
+      "id": "CP-CO01S0001",
+      "name": "エナジーバブル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エナジーバブル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/03/15/energy-bubble/"
     }
   ],
   "related_characters_details": [],

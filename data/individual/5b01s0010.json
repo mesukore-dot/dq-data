@@ -20,7 +20,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00230",
+  "zukan_no": "No.00226",
   "prev_id": "5B01S0009",
   "prev_page_url": "[]",
   "next_id": "5B01S0011",
@@ -28,10 +28,52 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
+      "id": "2E01S0006",
+      "name": "シグナリズム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/シグナリズム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/06/15/signalizm/"
+    },
+    {
+      "id": "2E01S0014",
+      "name": "ホワイトタワー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
+      "page_url": "[]"
+    },
+    {
       "id": "2E01S0028",
       "name": "だんごスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/だんごスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/04/dango-slime/"
+    },
+    {
+      "id": "3D01S0007",
+      "name": "スライムタワー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムタワー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/24/slime-tower/"
+    },
+    {
+      "id": "3D01S0007-1",
+      "name": "ももいろ三姉妹",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ももいろ三姉妹.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/"
+    },
+    {
+      "id": "4C01S0006",
+      "name": "メタルブラザーズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
+    },
+    {
+      "id": "4C01S0007",
+      "name": "ゴールデントーテム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールデントーテム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/golden-totem/"
+    },
+    {
+      "id": "4C01S0009",
+      "name": "チョコタワー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/"
     },
     {
       "id": "4C01S0033",
@@ -50,48 +92,6 @@
       "name": "バーガースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バーガースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/"
-    },
-    {
-      "id": "2E01S0014",
-      "name": "ホワイトタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
-      "page_url": "[]"
-    },
-    {
-      "id": "3D01S0007-1",
-      "name": "ももいろ三姉妹",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ももいろ三姉妹.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/"
-    },
-    {
-      "id": "4C01S0009",
-      "name": "チョコタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/"
-    },
-    {
-      "id": "2E01S0006",
-      "name": "シグナリズム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/シグナリズム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/06/15/signalizm/"
-    },
-    {
-      "id": "4C01S0007",
-      "name": "ゴールデントーテム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールデントーテム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/golden-totem/"
-    },
-    {
-      "id": "4C01S0006",
-      "name": "メタルブラザーズ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
-    },
-    {
-      "id": "3D01S0007",
-      "name": "スライムタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムタワー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/24/slime-tower/"
     }
   ],
   "related_characters_details": [],

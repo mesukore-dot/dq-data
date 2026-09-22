@@ -42,7 +42,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00113",
+  "zukan_no": "No.00109",
   "prev_id": "3D01S0006",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/slime-dark/",
   "next_id": "3D01S0007-1",
@@ -50,16 +50,58 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
+      "id": "2E01S0006",
+      "name": "シグナリズム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/シグナリズム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/06/15/signalizm/"
+    },
+    {
+      "id": "2E01S0014",
+      "name": "ホワイトタワー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
+      "page_url": "[]"
+    },
+    {
       "id": "2E01S0028",
       "name": "だんごスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/だんごスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/04/dango-slime/"
     },
     {
+      "id": "3D01S0007-1",
+      "name": "ももいろ三姉妹",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ももいろ三姉妹.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/"
+    },
+    {
+      "id": "4C01S0006",
+      "name": "メタルブラザーズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
+    },
+    {
+      "id": "4C01S0007",
+      "name": "ゴールデントーテム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールデントーテム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/golden-totem/"
+    },
+    {
+      "id": "4C01S0009",
+      "name": "チョコタワー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/"
+    },
+    {
       "id": "4C01S0033",
       "name": "プリズムタワー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プリズムタワー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/05/17/prism-tower/"
+    },
+    {
+      "id": "5B01S0010",
+      "name": "レインボートーテム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レインボートーテム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-totem/"
     },
     {
       "id": "5B01S0021",
@@ -72,48 +114,6 @@
       "name": "バーガースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バーガースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/"
-    },
-    {
-      "id": "5B01S0010",
-      "name": "レインボートーテム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レインボートーテム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-totem/"
-    },
-    {
-      "id": "2E01S0014",
-      "name": "ホワイトタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
-      "page_url": "[]"
-    },
-    {
-      "id": "3D01S0007-1",
-      "name": "ももいろ三姉妹",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ももいろ三姉妹.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/"
-    },
-    {
-      "id": "4C01S0009",
-      "name": "チョコタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/"
-    },
-    {
-      "id": "2E01S0006",
-      "name": "シグナリズム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/シグナリズム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/06/15/signalizm/"
-    },
-    {
-      "id": "4C01S0007",
-      "name": "ゴールデントーテム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールデントーテム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/golden-totem/"
-    },
-    {
-      "id": "4C01S0006",
-      "name": "メタルブラザーズ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
     }
   ],
   "related_characters_details": [],

@@ -74,16 +74,16 @@
       "page_url": "[]"
     },
     {
-      "id": "5B01S0002",
-      "name": "ドラゴメタル",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴメタル.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/"
-    },
-    {
       "id": "4C01S0004",
       "name": "スライムブレス",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムブレス.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/25/slime-bless/"
+    },
+    {
+      "id": "5B01S0002",
+      "name": "ドラゴメタル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴメタル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/"
     }
   ],
   "related_characters_details": [],

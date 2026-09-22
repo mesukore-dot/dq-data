@@ -23,19 +23,13 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00270",
+  "zukan_no": "No.00266",
   "prev_id": "6A01S0005",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/04/08/slime-energon/",
   "next_id": "6A01S0007",
   "next_page_url": "[]",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "7S01S0011",
-      "name": "死神スライダーク",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/死神スライダーク.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/shinigami-slidark/"
-    },
     {
       "id": "5B01S0011",
       "name": "無声の化身",
@@ -47,6 +41,12 @@
       "name": "ウォータスライダーク",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アクアマリン.webp",
       "page_url": ""
+    },
+    {
+      "id": "7S01S0011",
+      "name": "死神スライダーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/死神スライダーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/shinigami-slidark/"
     }
   ],
   "related_characters_details": [],

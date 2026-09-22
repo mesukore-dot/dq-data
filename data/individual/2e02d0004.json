@@ -51,7 +51,7 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00095",
+  "zukan_no": "No.00092",
   "prev_id": "2E02D0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/07/baby-nyut/",
   "next_id": "2E02D0005",
@@ -59,16 +59,16 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
+      "id": "3D02D0007",
+      "name": "りゅうせんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうせんし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/ryusenshi/"
+    },
+    {
       "id": "4C02D0009",
       "name": "りゅうき兵",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうき兵.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mandrake-mercenary/"
-    },
-    {
-      "id": "5B02D0007-1",
-      "name": "アカツキショウグン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
     },
     {
       "id": "5B02D0007",
@@ -77,10 +77,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/08/10/shupringer/"
     },
     {
-      "id": "3D02D0007",
-      "name": "りゅうせんし",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうせんし.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/ryusenshi/"
+      "id": "5B02D0007-1",
+      "name": "アカツキショウグン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
     }
   ],
   "related_characters_details": [],

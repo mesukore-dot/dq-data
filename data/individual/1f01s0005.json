@@ -61,16 +61,16 @@
   ],
   "color_variants": [
     {
-      "id": "3D01S0003",
-      "name": "ぶちベホマラー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちベホマラー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/"
-    },
-    {
       "id": "2E01S0005",
       "name": "ぶちスライムベス",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちスライムベス.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-slimebesu/"
+    },
+    {
+      "id": "3D01S0003",
+      "name": "ぶちベホマラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちベホマラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/"
     }
   ],
   "related_characters_details": [],

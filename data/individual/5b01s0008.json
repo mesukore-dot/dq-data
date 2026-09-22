@@ -24,7 +24,7 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00228",
+  "zukan_no": "No.00224",
   "prev_id": "5B01S0007",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/pinkie-mash/",
   "next_id": "5B01S0009",
@@ -32,28 +32,16 @@
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "7S01S0016",
-      "name": "スライムジェネラル",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムジェネラル.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-general/"
-    },
-    {
-      "id": "7S01S0003",
-      "name": "ダークアドミラル",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
-      "page_url": "[]"
-    },
-    {
-      "id": "6A01S0007",
-      "name": "カラミティキング",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
-      "page_url": "[]"
-    },
-    {
       "id": "4C01S0014",
       "name": "撃滅隊長ジェリゴ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
       "page_url": "[]"
+    },
+    {
+      "id": "5B01S0005",
+      "name": "ゴッドライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴッドライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/god-rider/"
     },
     {
       "id": "6A01S0004",
@@ -62,10 +50,22 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/denga/"
     },
     {
-      "id": "5B01S0005",
-      "name": "ゴッドライダー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴッドライダー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/god-rider/"
+      "id": "6A01S0007",
+      "name": "カラミティキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
+      "page_url": "[]"
+    },
+    {
+      "id": "7S01S0003",
+      "name": "ダークアドミラル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
+      "page_url": "[]"
+    },
+    {
+      "id": "7S01S0016",
+      "name": "スライムジェネラル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムジェネラル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-general/"
     }
   ],
   "related_characters_details": [],
