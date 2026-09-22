@@ -30,32 +30,34 @@ def main():
 
     print(f"🔍 読み込み直後のモンスター数: {len(monsters)} 件")
 
+    # 全データを合体させた名簿（これは関連アイテム等の検索用として残すよ）
     all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
     db = {item["id"]: item for item in all_data}
-    print(f"🔍 名簿（db）に登録されたデータ総数: {len(db)} 件")
 
-    # 💡 ページがある・ないに関係なく、全員を大文字小文字無視で綺麗にID順に並べるよ！
-    all_data.sort(key=lambda x: x["id"].upper())
+    # 💡【大修正】左右のボタン（No.と前後のURL）は、純粋にモンスター（monsters）の中だけで計算するよ！
+    # 大文字小文字を無視して、文字の形だけで綺麗にID順に並べ替えます
+    monsters.sort(key=lambda x: x["id"].upper())
 
-    # 🔢 全員を一列に並べた状態で、隣のIDとURLを100%確実に仕込む処理
-    for i, item in enumerate(all_data):
+    # 🔢 モンスター限定の列で、隣のIDと本物のサイトURLを100%確実に仕込む！
+    for i, item in enumerate(monsters):
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}"
         
         # --- ◀ 前のモンスターのURL処理 ---
         if i > 0:
-            item["prev_id"] = all_data[i - 1]["id"]
-            item["prev_page_url"] = str(all_data[i - 1].get("page_url", ""))
+            item["prev_id"] = monsters[i - 1]["id"]
+            item["prev_page_url"] = str(monsters[i - 1].get("page_url", ""))
         else:
             item["prev_id"] = ""
             item["prev_page_url"] = ""
 
         # --- ▶ 次のモンスターのURL処理 ---
-        if i < len(all_data) - 1:
-            item["next_id"] = all_data[i + 1]["id"]
-            item["next_page_url"] = str(all_data[i + 1].get("page_url", ""))
+        if i < len(monsters) - 1:
+            item["next_id"] = monsters[i + 1]["id"]
+            item["next_page_url"] = str(monsters[i + 1].get("page_url", ""))
         else:
             item["next_id"] = ""
             item["next_page_url"] = ""
+
     # 🤝 ルール③：お友達リンク（色違い・シリーズ・関連データ・まめちしき）の合体
     for item in all_data:
         my_id = item["id"]
