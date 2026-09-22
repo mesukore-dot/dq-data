@@ -14,6 +14,7 @@ DIST_FAMILY.mkdir(parents=True, exist_ok=True)
 def load_json(filename):
     path = SRC_DIR / filename
     if not path.exists():
+        print(f"⚠️ 警告: {filename} が見つかりません。空のリストとして処理します。")
         return []
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -31,11 +32,18 @@ def main():
     interiors = load_json("interior.json")
     mamechishiki = load_json("mamechishiki.json")  # 辞書型を想定
 
+    # 🧪 【デバッグ】そもそもモンスターが何件読み込めているか確認
+    print(f"🔍 読み込み直後のモンスター数: {len(monsters)} 件")
+
     # すべてのデータを1つの巨大なリストにまとめる（まめちしき以外）
     all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
     
     # 🔍 検索しやすくするために、IDをキーにした辞書（名簿）を頭の中に作るよ
     db = {item["id"]: item for item in all_data}
+
+    # 🧪 【デバッグ】名簿（db）の中にモンスターが何件登録されたか確認
+    monster_in_db = [k for k in db.keys() if "monster" in str(k)]
+    print(f"🔍 名簿（db）に登録されたモンスターIDの数: {len(monster_in_db)} 件")
 
     # --- 💡 ここから細かいルールの自動計算スタート！ ---
 
@@ -109,24 +117,36 @@ def main():
                             "id": rel_id,
                             "name": target["name"],
                             "page_url": target.get("page_url", ""),
-                            "image_url": target.get("image_url", "") # とくぎ等で画像がなければ空文字、または無しになる
+                            "image_url": target.get("image_url", "")
                         })
-                # 新しいキー名（例：related_characters_details）で保存する
                 item[f"{rel_key}_details"] = detailed_list
 
     # 💾 4. ファイルを書き出すよ！
     
-    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON（★ここでURL関係なく全員分強制で作るよ！）
+    # 🧪 【デバッグ】書き出し直前にall_data内にモンスターが何件残っているか確認
+    monster_before_write = [x for x in all_data if "monster" in str(x.get("id", ""))]
+    print(f"🔍 書き出し直前のall_data内モンスター数: {len(monster_before_write)} 件")
+
+    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON
+    write_count = 0
+    monster_write_count = 0
     for item in all_data:
-        file_name = f"{item['id']}.json"
+        my_id = item["id"]
+        file_name = f"{my_id}.json"
+        
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)
+            
+        write_count += 1
+        if "monster" in str(my_id):
+            monster_write_count += 1
 
-    # 🅱️ 系統別のJSON（一覧ページ用）
-    # モンスターのmain_family（スライム系など）ごとに仕分けるよ
+    print(f"🧪 【デバッグ】実際に書き出した総ファイル数: {write_count} 件")
+    print(f"🧪 【デバッグ】そのうちモンスターのファイル数: {monster_write_count} 件")
+
+    # 🅱️ 系統別（一覧ページ用）のJSON書き出し
     family_groups = {}
     for m in monsters:
-        # 💡 URLが空欄のモンスターは一覧ページ（系統別）には入れないよ！
         if not m.get("page_url"):
             continue
             
@@ -134,7 +154,6 @@ def main():
         if fam not in family_groups:
             family_groups[fam] = []
         
-        # 10項目だけをギュッと絞り込む！
         family_groups[fam].append({
             "id": m["id"],
             "name": m["name"],
@@ -147,12 +166,10 @@ def main():
             "main_family": m.get("main_family", ""),
             "sub_family": m.get("sub_family", ""),
             "release_date": m.get("release_date", ""),
-            "zukan_no": m.get("zukan_no", "No.-----") # 自動計算したNo.
+            "zukan_no": m.get("zukan_no", "No.-----")
         })
 
-    # 系統ごとに「スライム系.json」みたいな名前で保存する
     for fam_name, m_list in family_groups.items():
-        # ID順に並び替えておく
         m_list.sort(key=lambda x: x["id"])
         with open(DIST_FAMILY / f"{fam_name}.json", "w", encoding="utf-8") as f:
             json.dump(m_list, f, ensure_ascii=False, indent=2)
@@ -161,4 +178,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
