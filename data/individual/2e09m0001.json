@@ -1,0 +1,53 @@
+{
+  "id": "2E09M0001",
+  "name": "オコボルト",
+  "furigana": "おこぼると",
+  "english_name": "Grublin",
+  "page_url": "https://dqfan527.xsrv.jp/2026/09/13/grublin/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/オコボルト.webp",
+  "monster_family": "オコボルト族",
+  "search_keywords": [
+    "Grublin",
+    "魔獣系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ11",
+    "DQM2_SP",
+    "DQMSL",
+    "RIV"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": [
+    "魔獣系"
+  ],
+  "release_date": "2017年7月29日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00101",
+  "prev_id": "2E04P0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/",
+  "next_id": "3A-04P-4E01F001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/03/15/hono-earring/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "4作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ぎんの短剣を持った　ゴブリンのような　まもの。\nなまえの通り　つねに　イライラしている。",
+      "ability": "落ちつきがなく　物にも　ニンゲンにも　八つ当たりする。\nたたかいになると　意外と冷静。",
+      "personality": "短気な　せいかくに　周囲は慣れっこだが\n逆に怒っていないと　なにがあったんだと\n不安になってしまう。",
+      "connection": "周囲に　緊張感が走るほどのホンキで　怒ると\nマジオコボルトになり　手をつけられないような\n神の怒りを通りこすと　ゲキオコボルトになる。\n感情をコントロールできるようになった　エリートだけが\nハチを乗りこなす　ビーライダーになれる。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_characters_details": [],
+  "related_items_details": []
+}

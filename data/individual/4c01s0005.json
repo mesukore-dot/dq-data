@@ -1,0 +1,52 @@
+{
+  "id": "4C01S0005",
+  "name": "ワンダーエッグ",
+  "furigana": "わんだーえっぐ",
+  "english_name": "Rotten egg",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ワンダーエッグ.webp",
+  "monster_family": "タマゴロン族",
+  "search_keywords": [
+    "Rotten egg",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR3",
+    "DQMSL",
+    "STAR"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00164",
+  "prev_id": "4C01S0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/10/slimebehomazun/",
+  "next_id": "4C01S0006",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0006",
+      "name": "タマゴロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/タマゴロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

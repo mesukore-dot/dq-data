@@ -1,0 +1,51 @@
+{
+  "id": "4C02D0005",
+  "name": "ヘルバイパー",
+  "furigana": "へるばいぱー",
+  "english_name": "Diethon",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/19/diethon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヘルバイパー（DQ6）.webp",
+  "monster_family": "ウィングスネーク族",
+  "search_keywords": [
+    "Diethon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ9",
+    "DQ11",
+    "DQMSL"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00198",
+  "prev_id": "4C02D0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/04/snow-dragon/",
+  "next_id": "4C02D0006",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/11/guardian-dq4/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B02D0005",
+      "name": "オーシャンナーガ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/オーシャンナーガ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/13/sail-serpent/"
+    },
+    {
+      "id": "3D02D0004",
+      "name": "ウィングスネーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィングスネーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/wing-snake/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

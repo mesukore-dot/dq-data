@@ -1,0 +1,44 @@
+{
+  "id": "CP-SP01S0001",
+  "name": "DDスライム",
+  "furigana": "だいやもんどどるふぃんずすらいむ",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/DDスライム.webp",
+  "monster_family": "ダイヤモンドスライム族",
+  "search_keywords": [
+    "DD",
+    "バスケットボール",
+    "コラボ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "WALK",
+  "appearances": [
+    "WALK"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年4月12日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00325",
+  "prev_id": "CP-MC01S0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/",
+  "next_id": "CP-YS01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "8SS01S0007",
+      "name": "ダイヤモンドスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダイヤモンドスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/27/diamond-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

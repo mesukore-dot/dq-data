@@ -1,0 +1,71 @@
+{
+  "id": "1F03B0003",
+  "name": "しましまキャット",
+  "furigana": "しましまきゃっと",
+  "english_name": "Candy cat",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/しましまキャット.webp",
+  "monster_family": "プリズニャン族",
+  "search_keywords": [
+    "Candy cat",
+    "魔獣系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "FY1",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00027",
+  "prev_id": "1F03B0002-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/12/mojaraki-rakoon/",
+  "next_id": "1F03B0003-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成16年）2004年11月27日、PlayStation2版「ドラゴンクエストVIII 空と海と大地と呪われし姫君（DQ8）」から登場。",
+      "works_count": "14作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "しましま模様のネコのまもの。しましまと　長いベロは　一部に人気があるらしい。",
+      "personality": "とにかく　のんびり屋でマイペース。ただし　ごはんのときは別。",
+      "ecology": "1年ごとにシマが1本ずつ増えていく。ネコに限りなく近く　うごくものには積極的に反応し　戦闘中でも関係なく顔をあらう。",
+      "doctor": "白地に　しまもようなのか　白いラインが　しまなのか　長い間　論争になっており　決着がついていない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F03B0003-1",
+      "name": "マーブルン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

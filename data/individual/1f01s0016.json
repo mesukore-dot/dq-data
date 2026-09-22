@@ -1,0 +1,59 @@
+{
+  "id": "1F01S0016",
+  "name": "テツスライム",
+  "furigana": "てつすらいむ",
+  "english_name": "Tetsu slime",
+  "page_url": "https://dqfan527.xsrv.jp/2024/07/29/tetsu-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/テツスライム.webp",
+  "monster_family": "スライムボーグ族",
+  "search_keywords": [
+    "Tetsu slime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "KSKS",
+  "appearances": [
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2024年1月1日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00017",
+  "prev_id": "1F01S0015",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/04/19/ri-fa/",
+  "next_id": "1F02D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/10/kodora/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和6年）2024年1月1日、スマートフォン向けアプリ「ドラゴンクエストけしケシ！（ドラけし）」から登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "機械工たちによって生み出された　機械型スライム。カラダだけではなく　くちもかたい。",
+      "habitat": "砂漠や荒野に　大量発生している。はるか昔に　量産されていたのだろうか。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "4C01S0008",
+      "name": "スラマシンZ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラマシンZ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/"
+    },
+    {
+      "id": "3D01S0018",
+      "name": "スライムボーグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムボーグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/slime-cyborg/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

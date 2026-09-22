@@ -1,0 +1,61 @@
+{
+  "id": "2E03B0001-1",
+  "name": "ゴールデンコーン",
+  "furigana": "ごーるでんこーん",
+  "english_name": "24-carrot bunicorn",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
+  "monster_family": "アルミラージ族",
+  "search_keywords": [
+    "24-carrot bunicorn",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "ゴールデン",
+  "other_families": [],
+  "release_date": "2012年10月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00098",
+  "prev_id": "2E03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/arumira-ji/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E03B0001",
+      "name": "アルミラージ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アルミラージ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/arumira-ji/"
+    },
+    {
+      "id": "1F03B0004",
+      "name": "いっかくウサギ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/いっかくウサギ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/ikkakuusagi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

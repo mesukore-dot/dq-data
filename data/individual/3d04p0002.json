@@ -1,0 +1,45 @@
+{
+  "id": "3D04P0002",
+  "name": "ポイズンキッス",
+  "furigana": "ぽいずんきっす",
+  "english_name": "Gnashturtium",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/30/poison-kiss/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポイズンキッス.webp",
+  "monster_family": "マンイーター族",
+  "search_keywords": [
+    "Gnashturtium",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ11",
+    "RIV"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00153",
+  "prev_id": "3D04P0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/06/16/confusion-tree/",
+  "next_id": "3D04P0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/07/ma-jimatango/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E04P0001",
+      "name": "マンイーター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マンイーター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

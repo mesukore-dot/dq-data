@@ -1,0 +1,57 @@
+{
+  "id": "3D04P0004",
+  "name": "パプリカン",
+  "furigana": "ぱぷりかん",
+  "english_name": "Paprikan",
+  "page_url": "https://dqfan527.xsrv.jp/2024/09/27/paprikan/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パプリカン.webp",
+  "monster_family": "くしざしツインズ族",
+  "search_keywords": [
+    "Paprikan",
+    "野菜系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00155",
+  "prev_id": "3D04P0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/07/ma-jimatango/",
+  "next_id": "3D04P0005",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成16年）2004年11月27日、PlayStation2版「ドラゴンクエストVIII 空と海と大地と呪われし姫君（DQ8）」から登場。",
+      "works_count": "3作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "赤と黄色のパプリカのまもの。こどもたちから　人気がないことを　ひそかに　気にかけている。",
+      "ability": "コンビネーションアタックで　相手を蹴とばす。マホトーンをつかうこともあるぞ。",
+      "ecology": "よくケンカをする仲だが　赤と黄色の色合いを　よくホメられるため　なかなか離れられずにいる。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F04P0006",
+      "name": "くしざしツインズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/くしざしツインズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/20/kushizashi-twins/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

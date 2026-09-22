@@ -1,0 +1,51 @@
+{
+  "id": "2E01S0018",
+  "name": "トロピカルスライム",
+  "furigana": "とろぴかるすらいむ",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/03/22/tropical-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/トロピカルスライム.webp",
+  "monster_family": "トロピカルスライム族",
+  "search_keywords": [
+    "トロピカル",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM2",
+  "appearances": [
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM4"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "トロピカル",
+  "other_families": [],
+  "release_date": "2001年3月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00075",
+  "prev_id": "2E01S0017",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/24/box-slime/",
+  "next_id": "2E01S0019",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/24/jungler/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成13年）2001年3月9日、ゲームボーイ用ソフト「ドラゴンクエストモンスターズ2 マルタのふしぎな鍵」から登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ヤシの木から生まれた　ヤシの実のようなスライム。こうげきするときは　ヤシの木から降りて　こうげきする。",
+      "habitat": "さわやかな海辺のビーチに　本物のヤシの木にまぎれて　生活している。うっかり　さわってしまわないよう注意。",
+      "ecology": "夜になると　うねうねと根っこをあやつり　歩きだす。雨がふっているときにも　おさんぽするので　太陽がニガテ？",
+      "birth": "ヤシの木が　地中にねむった　スライムたちの養分を吸いとり　スライム型の実をつけたという。本当は　植物系のまもの　なのかもしれない。",
+      "doctor": "ヤシの木の状態で　歩くときもあれば　ヤシの実だけが　歩いているときもある。呼び方を変えるのも　めんどうなので　どちらもトロピカルスライム　と言うことにした。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_characters_details": [],
+  "related_items_details": []
+}

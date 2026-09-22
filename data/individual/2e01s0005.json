@@ -1,0 +1,64 @@
+{
+  "id": "2E01S0005",
+  "name": "ぶちスライムベス",
+  "furigana": "ぶちすらいむべす",
+  "english_name": "Mottle She-slime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-slimebesu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちスライムベス.webp",
+  "monster_family": "ぶちスライム族",
+  "search_keywords": [
+    "Mottle She-slime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQM2_SP",
+    "DQM3",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00066",
+  "prev_id": "2E01S0004-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/02/heart-knight/",
+  "next_id": "2E01S0006",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/06/15/signalizm/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成7年）1995年12月9日、スーパーファミコン版「ドラゴンクエストVI 幻の大地（DQ6）」から登場。",
+      "works_count": "7作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "あおいからだに　みずたま模様がついた　すこし　おおきなスライム。ぶちスライムが　成長し　新たなチカラを得た。",
+      "ability": "まねまねで　あいてのとくぎを　見よう見まねで　お返しする。マネマネも　おどろく　バトルの天才。",
+      "ecology": "スライム界のファッションリーダーだと　じぶんはおもっているが　理解してくれるスライムは　すくない。キバツな柄のせいで　病気だとおもわれている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "3D01S0003",
+      "name": "ぶちベホマラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちベホマラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/"
+    },
+    {
+      "id": "1F01S0005",
+      "name": "ぶちスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ぶちスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/17/buchi-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

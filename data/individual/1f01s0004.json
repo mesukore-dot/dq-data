@@ -1,0 +1,154 @@
+{
+  "id": "1F01S0004",
+  "name": "スライムつむり",
+  "furigana": "すらいむつむり",
+  "english_name": "Shell slime",
+  "taiwan_name": "蝸牛史萊姆",
+  "korean_name": "달팽이스라임",
+  "chinese_name": "贝壳史莱姆/蜗牛史莱姆",
+  "french_name": "Escarglu",
+  "german_name": "Schneckenchleim",
+  "italian_name": "Chiocciolimo",
+  "spanish_name": "Caracolimo",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/20/slime-tumuri/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムつむり.webp",
+  "monster_family": "スライムつむり族",
+  "search_keywords": [
+    "Shell slime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_HD2D",
+    "DQ6",
+    "DQ7_RM",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "KS",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00004",
+  "prev_id": "1F01S0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/25/hoimi-slime/",
+  "next_id": "1F01S0004-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/05/18/shellies-mother/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和63年）1988年2月10日、ファミコン版「ドラゴンクエストIII そして伝説へ…（DQ3）」から登場。",
+      "works_count": "21作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "かたいカラをかぶった　緑色のスライム。恥ずかしがり屋な\n性格で　すぐにカラに閉じこもってしまう。",
+      "ecology": "成長するにつれて　身体も大きくなるので　海や浜辺で　自分のサイズにフィットする　まき貝をさがしウロウロしている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F01S0014",
+      "name": "スイカつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/"
+    },
+    {
+      "id": "3D01S0009-1",
+      "name": "石炭つむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/"
+    },
+    {
+      "id": "2E01S0022",
+      "name": "スライムカルゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/スライムカルゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/slime-escargot/"
+    },
+    {
+      "id": "2E01S0016",
+      "name": "ショコラパーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ショコラパーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/chocolate-perm/"
+    },
+    {
+      "id": "2E01S0013",
+      "name": "マリンスライム・塔",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
+      "page_url": []
+    },
+    {
+      "id": "2E01S0012",
+      "name": "スライムアンノウン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ブラッドルビー.webp",
+      "page_url": []
+    },
+    {
+      "id": "2E01S0010",
+      "name": "クリームつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クリームつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/cream-roll/"
+    },
+    {
+      "id": "2E01S0009",
+      "name": "ダークネスマリン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークネスマリン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/dark-marine-slime/"
+    },
+    {
+      "id": "3D01S0009",
+      "name": "つららスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つららスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/turara-slime/"
+    },
+    {
+      "id": "2E01S0002",
+      "name": "マリンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マリンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/marine-slime/"
+    },
+    {
+      "id": "1F01S0004-1",
+      "name": "つむりんママ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つむりんママ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/shellies-mother/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

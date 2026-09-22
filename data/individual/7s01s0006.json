@@ -1,0 +1,122 @@
+{
+  "id": "7S01S0006",
+  "name": "ホイミン",
+  "furigana": "ほいみん",
+  "english_name": "Healie",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/27/healiedq4/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホイミン.webp",
+  "monster_family": "ホイミスライム族",
+  "search_keywords": [
+    "Healie",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ6",
+    "DQBS",
+    "DQMSL",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "高野麻里佳",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00277",
+  "prev_id": "7S01S0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/gran-slime/",
+  "next_id": "7S01S0007",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/master-slime/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日　ファミコン版「ドラゴンクエストIV 導かれし者たち」から登場",
+      "works_count": "7作品(リメイク・アニメ・マンガ等は含めない数字)",
+      "what_kind": "とある王宮の戦士と　共にした　ホイミスライム。\nいつか　ニンゲンになることを夢見て　冒険の旅へ出る。",
+      "ability": "ぼうぎょで　身をまもることが多いが　なかまのキズは\nほうっておけず　ホイミで　いやしてあげる。",
+      "voice_actor": {
+        "name": "高野麻里佳（たかの まりか）",
+        "works": "\n｢ウマ娘 プリティーダービー｣サイレンススズカ 役",
+        "dq_series": ""
+      },
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "6A01S0020",
+      "name": "ホミロット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/"
+    },
+    {
+      "id": "7S01S0015",
+      "name": "ホミロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/"
+    },
+    {
+      "id": "5B01S0017",
+      "name": "まどうスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/まどうスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/21/magic-slime/"
+    },
+    {
+      "id": "4C01S0013",
+      "name": "メタルホイミン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/メタルホイミン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/metal-healie/"
+    },
+    {
+      "id": "4C01S0011",
+      "name": "コスモスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/コスモスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/cosmoslime/"
+    },
+    {
+      "id": "2E01S0003",
+      "name": "ベホイミスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホイミスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/behoimi-slime/"
+    },
+    {
+      "id": "4C01S0002",
+      "name": "ベホマスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホマスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/behoma-slime/"
+    },
+    {
+      "id": "7S01S0001",
+      "name": "ホミちょ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホミちょ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/02/homicho/"
+    },
+    {
+      "id": "3D01S0008",
+      "name": "ベホイムスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホイムスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/sootheslime/"
+    },
+    {
+      "id": "3D01S0004",
+      "name": "しびれスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/しびれスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/sting-slime/"
+    },
+    {
+      "id": "1F01S0003",
+      "name": "ホイミスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイミスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/25/hoimi-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

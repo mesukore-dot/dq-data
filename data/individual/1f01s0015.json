@@ -1,0 +1,58 @@
+{
+  "id": "1F01S0015",
+  "name": "リーファ",
+  "furigana": "りーふぁ",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/04/19/ri-fa/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/リーファ.webp",
+  "monster_family": "リーファ族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMCH",
+  "appearances": [
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMCH",
+    "DQMJ2",
+    "DQMJ2_P"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2003年3月29日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00016",
+  "prev_id": "1F01S0014",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/",
+  "next_id": "1F01S0016",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/07/29/tetsu-slime/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成15年）2003年3月29日、ゲームボーイアドバンス用ソフト「ドラゴンクエストモンスターズ キャラバンハート」から登場。",
+      "works_count": "4作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ハデな葉っぱを身につけた　茶色いスライム。スライムらしからぬ　手足がはえている。",
+      "habitat": "森の中や　トンネルの中にいる。群れになって　フラフラおどっている。",
+      "ecology": "しょくぶつ系モンスターから　愛され　アイドル扱いされているらしい。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "5B01S0018",
+      "name": "ルーファ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/ルーファ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/06/ru-fa/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

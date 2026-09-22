@@ -1,0 +1,47 @@
+{
+  "id": "2E04P0001",
+  "name": "マンイーター",
+  "furigana": "まんいーたー",
+  "english_name": "Chewlip",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マンイーター.webp",
+  "monster_family": "マンイーター族",
+  "search_keywords": [
+    "Chewlip",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ11",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00099",
+  "prev_id": "2E03B0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/",
+  "next_id": "2E04P0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D04P0002",
+      "name": "ポイズンキッス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポイズンキッス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/poison-kiss/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

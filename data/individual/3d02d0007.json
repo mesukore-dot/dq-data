@@ -1,0 +1,70 @@
+{
+  "id": "3D02D0007",
+  "name": "りゅうせんし",
+  "furigana": "りゅうせんし",
+  "english_name": "Mandrake marauder",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/10/ryusenshi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうせんし.webp",
+  "monster_family": "リザードマン族",
+  "search_keywords": [
+    "Mandrake marauder",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00144",
+  "prev_id": "3D02D0006-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/28/little-wyvern/",
+  "next_id": "3D02D0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/08/10/dentazauls/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C02D0009",
+      "name": "りゅうき兵",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうき兵.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mandrake-mercenary/"
+    },
+    {
+      "id": "5B02D0007-1",
+      "name": "アカツキショウグン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
+    },
+    {
+      "id": "5B02D0007",
+      "name": "シュプリンガー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シュプリンガー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/shupringer/"
+    },
+    {
+      "id": "2E02D0004",
+      "name": "リザードマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リザードマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/lizard-man/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

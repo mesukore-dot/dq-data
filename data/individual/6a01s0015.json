@@ -1,0 +1,50 @@
+{
+  "id": "6A01S0015",
+  "name": "ゴールドエンゼル",
+  "furigana": "ごーるどえんぜる",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2025/09/21/gold-angel/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールドエンゼル.webp",
+  "monster_family": "エンゼルスライム族",
+  "search_keywords": [
+    "ゴールデン",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMJ3",
+  "appearances": [
+    "DQMJ3",
+    "DQMJ3_P",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": [],
+  "other_families": [],
+  "release_date": "2016年3月24日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00262",
+  "prev_id": "6A01S0014",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/metal-kaiser/",
+  "next_id": "6A01S0016",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/15/gold-pearl/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B01S0019",
+      "name": "メタルエンゼル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルエンゼル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/01/11/metal-angel/"
+    },
+    {
+      "id": "3D01S0028",
+      "name": "エンゼルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/エンゼルスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/angel-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

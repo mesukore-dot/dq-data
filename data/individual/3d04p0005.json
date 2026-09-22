@@ -1,0 +1,57 @@
+{
+  "id": "3D04P0005",
+  "name": "スイカ岩",
+  "furigana": "すいかいわ",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
+  "monster_family": "ばくだんいわ族",
+  "search_keywords": [
+    "トロピカル・夏",
+    "公式イラストあり"
+  ],
+  "first_appearance": "WALK",
+  "appearances": [
+    "WALK",
+    "DQSG"
+  ],
+  "main_family": "植物系",
+  "sub_family": "トロピカル",
+  "other_families": [],
+  "release_date": "2020年5月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [
+    "1F01S0014"
+  ],
+  "zukan_no": "No.00156",
+  "prev_id": "3D04P0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/27/paprikan/",
+  "next_id": "3D10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和2年）2020年5月9日、スマートフォン向けアプリ「ドラゴンクエストウォーク」から登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "スイカそっくりな　ばくだんのまもの。\nたおすと破裂し　スイカの汁とタネが　ブシャッと飛び散る。",
+      "ability": "ふつうの　ばくだんいわのメガンテとは違い\n敵味方関係なく　まきぞえにする。",
+      "ecology": "夏になると　浜辺に大量発生する。と思いきや\n親玉がいるらしく　そいつがスイカ岩を　無限に産み出している。",
+      "cooking": "じゃあくな果汁を抜いたあとは　ちゃんと\nたべることができますよ。ちまたでは\nスイカのデザートをはじめとした　スイカ料理が流行っているようです。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_characters_details": [
+    {
+      "id": "1F01S0014",
+      "name": "スイカつむり",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp"
+    }
+  ],
+  "related_items_details": []
+}

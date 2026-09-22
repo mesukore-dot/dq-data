@@ -1,0 +1,65 @@
+{
+  "id": "5B01S0002",
+  "name": "ドラゴメタル",
+  "furigana": "どらごめたる",
+  "english_name": "Metal dragon slime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴメタル.webp",
+  "monster_family": "ドラゴスライム族",
+  "search_keywords": [
+    "Metal dragon slime",
+    "メタル系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ10",
+    "DQ11",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR3",
+    "DQMSL",
+    "MSP",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "メタル系",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00209",
+  "prev_id": "4C10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/",
+  "next_id": "5B01S0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-emperor/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0010",
+      "name": "ドラゴスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/23/drago-slime/"
+    },
+    {
+      "id": "3D01S0012",
+      "name": "ぶちドス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
+      "page_url": []
+    },
+    {
+      "id": "4C01S0004",
+      "name": "スライムブレス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムブレス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/slime-bless/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

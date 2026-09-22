@@ -1,0 +1,71 @@
+{
+  "id": "1W-01S-1J0001",
+  "name": "ひのきのぼう",
+  "furigana": "ひのきのぼう",
+  "english_name": "Cypress stick",
+  "page_url": "https://dqfan527.xsrv.jp/2023/03/26/hinokinobou/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/ひのきのぼう.webp",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "weapon_type": "片手剣",
+  "weapon_series": "身近なモノシリーズ",
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ4",
+    "DQ4_PS",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ11",
+    "DQH1",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQTR",
+    "DQMSL",
+    "WALK",
+    "TACT"
+  ],
+  "release_date": "1987年1月26日",
+  "flavor_text": [],
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00058",
+  "prev_id": "1F13Z0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/10/15/jiangshi-ghost/",
+  "next_id": "1W-03K-7M-1F01S0014-01",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/09/16/suikatumuri-dagger/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和62年）1987年1月26日、ファミコン版「ドラゴンクエストII 悪霊の神々（DQ2）」から登場。",
+      "works_count": "15作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "その辺で拾った　ただの木の棒を武器にしたもの。\n武器と言えば　武器になるのだ。",
+      "form": "太めの枝。持ち手のところには　くるくると　ほうたいを巻きつけ　長時間にぎっても　痛くないように　ほどこした。ゴボウではない。",
+      "ability": "ブンブンふりまわし　バシバシと　しばく。意外と痛い。",
+      "merchant": "森を歩いている間に　ひらめいた。この落ちている枝を　武器にすれば　荒稼ぎできるのでは？武器屋に置いてみたが　だれも買ってくれない。"
+    }
+  ],
+  "series_equipments": [
+    {
+      "id": "2D-01S-1J0001",
+      "name": "おなべのふた",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おなべのフタ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/03/onabenohuta/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

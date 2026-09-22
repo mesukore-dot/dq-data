@@ -1,0 +1,46 @@
+{
+  "id": "4C01S0025",
+  "name": "コロネホワイト",
+  "furigana": "ころねほわいと",
+  "english_name": "Pasty pastry",
+  "page_url": "https://dqfan527.xsrv.jp/2023/12/04/korone-white/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/コロネホワイト.webp",
+  "monster_family": "スライムコロネ族",
+  "search_keywords": [
+    "Pasty pastry",
+    "パン",
+    "たべもの",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM3",
+  "appearances": [
+    "DQM3",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年12月1日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00183",
+  "prev_id": "4C01S0024",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/06/whip-slime/",
+  "next_id": "4C01S0026",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/12/08/slime-fairy/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0013",
+      "name": "スライムコロネ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムコロネ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,138 @@
+{
+  "id": "2E01S0004",
+  "name": "スライムナイト",
+  "furigana": "すらいむないと",
+  "english_name": "Slime knight",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムナイト.webp",
+  "monster_family": "スライムナイト族",
+  "search_keywords": [
+    "Slime knight",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "ARK2",
+    "FTR2",
+    "FTR3",
+    "MRMR1",
+    "MRMR2",
+    "MRMR3",
+    "DQSW",
+    "DQH1",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ",
+    "DQSG"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00064",
+  "prev_id": "2E01S0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/behoimi-slime/",
+  "next_id": "2E01S0004-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/02/heart-knight/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
+      "works_count": "31作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "スライムたちの　平和をまもる　ほこり高きナイト。\nかよわき者を助け　今日もパトロール。",
+      "ability": "ジャンプ斬りで　斬撃をとばすことができる。スライムと\nナイトの　ばつぐんのコンビネーションを　とくと見よ！",
+      "habitat": "スライムとナイトは　一心同体。一方が　やすらかにねむれば　相棒も自然と　ねむりにつく。",
+      "connection": "ケンカ別れした　ライムスライムは　今度はボクが上に乗る！と言い　スライムタワーが完成したのである。",
+      "doctor": "スライムから　ナイトが生えている。\nそんなウワサが絶えないが　そんなワケあるか！",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "6A01S0019",
+      "name": "ジェノライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/"
+    },
+    {
+      "id": "3D01S0037",
+      "name": "パティシエナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パティシエナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/"
+    },
+    {
+      "id": "CP-CO01S0002",
+      "name": "かじゅうナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/"
+    },
+    {
+      "id": "5B01S0016",
+      "name": "ダークナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークナイト（DQMCH）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/dark-knight-ch/"
+    },
+    {
+      "id": "3D01S0011",
+      "name": "のっかりゼラチン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+      "page_url": []
+    },
+    {
+      "id": "2E01S0004-1",
+      "name": "ハートナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/heart-knight/"
+    },
+    {
+      "id": "3D01S0002",
+      "name": "メタルライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/metal-rider/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
