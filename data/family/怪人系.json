@@ -22,5 +22,28 @@
     "sub_family": "-",
     "release_date": "2017年7月29日",
     "zukan_no": "No.00049"
+  },
+  {
+    "id": "2E09M0001",
+    "name": "オコボルト",
+    "furigana": "おこぼると",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/13/grublin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/オコボルト.webp",
+    "search_keywords": [
+      "Grublin",
+      "魔獣系",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM2_SP",
+      "DQMSL",
+      "RIV"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00105"
   }
 ]

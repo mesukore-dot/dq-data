@@ -238,6 +238,78 @@
     "zukan_no": "No.00036"
   },
   {
+    "id": "2E04P0001",
+    "name": "マンイーター",
+    "furigana": "まんいーたー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マンイーター.webp",
+    "search_keywords": [
+      "Chewlip",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ11",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00103"
+  },
+  {
+    "id": "2E04P0002",
+    "name": "マタンゴ",
+    "furigana": "またんご",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マタンゴ.webp",
+    "search_keywords": [
+      "Morphean mushroom",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00104"
+  },
+  {
     "id": "3D04P0001",
     "name": "じんめんじゅ",
     "furigana": "じんめんじゅ",
@@ -417,5 +489,42 @@
     "sub_family": "トロピカル",
     "release_date": "2020年5月9日",
     "zukan_no": "No.00167"
+  },
+  {
+    "id": "4C04P0001",
+    "name": "ウドラー",
+    "furigana": "うどらー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウドラー.webp",
+    "search_keywords": [
+      "Treevil",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00218"
   }
 ]
