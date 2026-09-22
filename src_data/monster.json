@@ -3413,7 +3413,7 @@
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
       "DQMSL","STAR"],
     "main_family": "スライム系",
-    "sub_family":[],
+    "sub_family":"-",
     "other_families": [],
     "release_date": "2006年12月28日",
     "voice_actor": "-",
