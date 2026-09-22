@@ -29,7 +29,7 @@ def main():
     dishes = load_json("dish.json")
     items = load_json("item.json")
     interiors = load_json("interior.json")
-    mamechishiki = load_json("mamechishiki.json")  # 辞書型（"1F13Z0001-1": {...}）を想定
+    mamechishiki = load_json("mamechishiki.json")  # 辞書型を想定
 
     # すべてのデータを1つの巨大なリストにまとめる（まめちしき以外）
     all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
@@ -39,11 +39,11 @@ def main():
 
     # --- 💡 ここから細かいルールの自動計算スタート！ ---
 
-    # 🛑 ルール①：URL（page_url）が空欄のものはスキップして、ID順に並べる
+    # 🛑 ルール①：URL（page_url）があるものだけを集めて、図鑑のNo.を計算するよ
     valid_data = [item for item in all_data if item.get("page_url")]
     valid_data.sort(key=lambda x: x["id"]) # IDの昇順（小さい順）
 
-    # 🔢 ルール②：No.の自動計算 ＆ 前後のIDをセット
+    # 🔢 ルール②：No.の自動計算 ＆ 前後のIDをセット（ページがあるもの限定）
     for i, item in enumerate(valid_data):
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}" # No.00001 の形にする
         
@@ -51,7 +51,6 @@ def main():
         item["prev_id"] = valid_data[i - 1]["id"] if i > 0 else ""
         # 1つ次のID（最後データのときは空欄）
         item["next_id"] = valid_data[i + 1]["id"] if i < len(valid_data) - 1 else ""
-
     # 🤝 ルール③：お友達リンク（色違い・シリーズ・関連データ・まめちしき）の合体
     for item in all_data:
         my_id = item["id"]
@@ -117,7 +116,7 @@ def main():
 
     # 💾 4. ファイルを書き出すよ！
     
-    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON
+    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON（★ここでURL関係なく全員分強制で作るよ！）
     for item in all_data:
         file_name = f"{item['id']}.json"
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
@@ -127,12 +126,15 @@ def main():
     # モンスターのmain_family（スライム系など）ごとに仕分けるよ
     family_groups = {}
     for m in monsters:
-        # URLが空欄のものは一覧にも出さない場合は、ここでif m.get("page_url"): を挟むといいよ！
+        # 💡 URLが空欄のモンスターは一覧ページ（系統別）には入れないよ！
+        if not m.get("page_url"):
+            continue
+            
         fam = m.get("main_family", "その他")
         if fam not in family_groups:
             family_groups[fam] = []
         
-        # ユーザーちゃん指定の10項目だけをギュッと絞り込む！
+        # 10項目だけをギュッと絞り込む！
         family_groups[fam].append({
             "id": m["id"],
             "name": m["name"],
@@ -145,7 +147,7 @@ def main():
             "main_family": m.get("main_family", ""),
             "sub_family": m.get("sub_family", ""),
             "release_date": m.get("release_date", ""),
-            "zukan_no": m.get("zukan_no", "No.-----") # 自動計算したNo.もついでに入れておいたよ！
+            "zukan_no": m.get("zukan_no", "No.-----") # 自動計算したNo.
         })
 
     # 系統ごとに「スライム系.json」みたいな名前で保存する
@@ -159,3 +161,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
