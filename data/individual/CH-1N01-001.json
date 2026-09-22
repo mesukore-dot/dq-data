@@ -40,7 +40,21 @@
   "zukan_no": "No.00320",
   "prev_id": "AF-1V0002",
   "next_id": "CH-1N01-002",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "(昭和61年) 1986年5月27日\nファミコン版「ドラゴンクエスト」から登場。",
+      "works_count": "11作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "はるか昔　大魔王をたおし　世界を救った　伝説の勇者ロトの血と意志を受け継ぐ青年。悪の化身りゅうおうによって　闇におおわれてしまった　アレフガルドを救うべく　たったひとりで旅立つ。",
+      "ability": "とくぎから　じゅもんや　回復まで　なんでもひとりでこなす。ラダトームの王女ローラ姫を　抱きかかえたままだと　さらに強くなるらしい？",
+      "voice_actor": {
+        "name": "花江夏樹（はなえ なつき）",
+        "works": "\n｢鬼滅の刃｣竈門炭治郎 役"
+      },
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "related_characters_details": [],
   "related_items_details": []
 }

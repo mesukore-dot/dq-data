@@ -36,7 +36,18 @@
   "zukan_no": "No.00048",
   "prev_id": "1F08D0001",
   "next_id": "1F09M0001",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日、ファミコン版「ドラゴンクエストIV 導かれし者たち（DQ4）」から登場。",
+      "works_count": "8作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ぷかぷか浮いた　修行中の　ビギナー魔法使い。あと6人の　いのちをうばえば　みならいから卒業できる。",
+      "ability": "メラを撃つことができるが　1発しか撃てないため　MPをふやすことに専念したい。",
+      "ecology": "毎日　寝る間をおしんで　じゅもんの勉強。ひそかに　本を開き　今日も勉強。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

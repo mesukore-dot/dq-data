@@ -43,7 +43,18 @@
   "zukan_no": "No.00045",
   "prev_id": "1F06B0004",
   "next_id": "1F06B0006",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日、ファミコン版「ドラゴンクエストIV 導かれし者たち（DQ4）」から登場。",
+      "works_count": "9作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "二足歩行の巨大なクワガタのまもの。なぜか　くつを履いている。",
+      "ability": "アゴのチカラは百人力！大木すら　斬り落とすぞ。",
+      "ecology": "身体能力が高く　きように　ハサミをつかって　木の上にぶらさがっていることもある。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

@@ -35,7 +35,18 @@
   "zukan_no": "No.00050",
   "prev_id": "1F09M0001",
   "next_id": "1F10M0002",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
+      "works_count": "6作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "まるまるとした　からだに　何本ものトゲが生えた　緑色のまもの。トゲは　意外にも　ぷにぷにしている。",
+      "personality": "元気すぎるぐらい　やんちゃな性格。",
+      "ecology": "トゲをさわると　爆発する。スリルを求める　他のまものの　おもちゃにされている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

@@ -34,7 +34,18 @@
   "zukan_no": "No.00079",
   "prev_id": "2E01S0021",
   "next_id": "2E01S0023",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成18年）2006年12月28日、NintendoDS用ソフト「ドラゴンクエストモンスターズ ジョーカー（DQMJ）」から登場。",
+      "works_count": "7作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "自分よりも　おおきな　アンモナイトを背負った　マリンスライムの亜種。",
+      "ability": "まき貝が　おもいせいで　すばやさが下がってしまったが　メタルスライムをおびやかす　しゅび力を手に入れた。",
+      "ecology": "まき貝は　年をとるごとに　年々　おおきくなっていく。人が住めるほどの　おおきさまで　育った記録があるという。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0014",

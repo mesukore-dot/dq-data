@@ -46,7 +46,18 @@
   "zukan_no": "No.00015",
   "prev_id": "1F01S0013",
   "next_id": "1F01S0015",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和2年）2020年7月31日、スマートフォン向けアプリ「ドラゴンクエストモンスターズ スーパーライト（DQMSL）」から登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "スイカの皮を　すみかにした　スライムつむり。ちかづくと　スイカのいい香りがする。",
+      "ability": "くちから　スイカのタネを　とばし　チーズみたいに　穴だらけにする。",
+      "ecology": "あまりにも　おいしそうなので　まものにたべられそうになる。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D01S0009-1",

@@ -33,7 +33,17 @@
   "zukan_no": "No.00043",
   "prev_id": "1F06B0002",
   "next_id": "1F06B0004",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日、ファミコン版「ドラゴンクエストIV 導かれし者たち（DQ4）」から登場。",
+      "works_count": "3作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ぴょんぴょん飛びまわる　巨大なバッタのまもの。とにかく　落ちつきがない。",
+      "ecology": "ちいさい動物もたべる　恐怖のバッタ。虫アミで　とらえられると　胃がキリキリと痛むらしい。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

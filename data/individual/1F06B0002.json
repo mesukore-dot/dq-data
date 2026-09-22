@@ -43,7 +43,18 @@
   "zukan_no": "No.00042",
   "prev_id": "1F06B0001",
   "next_id": "1F06B0003",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
+      "works_count": "6作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "せみともぐらのチカラを持つまもの。じめんの土を自在にあやつる。",
+      "ability": "土の中から　ひっそりとねらいすまし　ルカニやボミエで　よわらせ　ツメでこうげきする。",
+      "ecology": "普段はアタマと上半身だけ　ひょっこり。雨の日は　じめんから出て　ぴょんぴょん跳ねまわる。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

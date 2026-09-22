@@ -39,7 +39,20 @@
   "zukan_no": "No.00039",
   "prev_id": "1F05B0002",
   "next_id": "1F05B0004",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成10年）1998年9月25日「ドラゴンクエストモンスターズ テリーのワンダーランド（DQM1）」から登場。",
+      "works_count": "5作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "花びらになりすました　美しい鳥のまもの。長いくちばしで　花のみつをすう。",
+      "ecology": "虫も大好物で　ぜんしんから　あまいにおいを放ち　かおの前までおびきよせ　つかまえる。",
+      "habitat": "森やジャングルを好む。マルタの国の海岸にもいる。",
+      "connection": "あまいにおいに　つられるのは　虫だけではなく…。キラーエイプが天敵で　いちもくさんに　にげる。",
+      "links": {
+        "variants_url": "#色違い",
+        "job_url": "https://dqfan527.xsrv.jp/2025/09/15/hanakawasemi-job/"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

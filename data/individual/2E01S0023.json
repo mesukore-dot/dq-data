@@ -28,19 +28,23 @@
   "zukan_no": "No.00080",
   "prev_id": "2E01S0022",
   "next_id": "2E01S0024",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成28年）2016年3月24日\nNintendo3DS用ソフト「ドラゴンクエストモンスターズジョーカー3（DQMJ3）」から登場。",
+      "works_count": "2作品\n (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "まもののチカラの源である　マ素が凝縮された　結晶体マデュライトによって　おおきく影響を受けた　スライム。われをわすれ　凶暴化している。",
+      "form": "人気の秘訣である　ぷるぷるボディが　ガサガサのブレイクボディに　汚染されてしまった。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0001",
       "name": "スライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/02/スライム-Slime-関連.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/"
-    },
-    {
-      "id": "8SS01S0014",
-      "name": "ホルトン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホルトン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/augoostus/"
     },
     {
       "id": "2E01S0029",

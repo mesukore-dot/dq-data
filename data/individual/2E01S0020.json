@@ -27,7 +27,18 @@
   "zukan_no": "No.00077",
   "prev_id": "2E01S0019",
   "next_id": "2E01S0021",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和8年）2026年12月3日「ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ（DQM4）」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "おいしそうな　おむすび型のスライム。他にも　さまざまな味の　おにぎりスライムがいるらしい。",
+      "form": "うめぼし　ごもく　天むす　の定番おにぎり3種類。つけあわせに　たくあんも。兄弟なのか　ともだちグループなのかは　不明である。",
+      "ecology": "3匹のれんけいは　スライムタワーも　おすみつき。追いつめられると　トカゲのように　エビ天のしっぽをのこして　にげだす。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

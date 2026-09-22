@@ -14,7 +14,6 @@ DIST_FAMILY.mkdir(parents=True, exist_ok=True)
 def load_json(filename):
     path = SRC_DIR / filename
     if not path.exists():
-        print(f"⚠️ 警告: {filename} が見つかりません。空のリストとして処理します。")
         return []
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -32,7 +31,6 @@ def main():
     interiors = load_json("interior.json")
     mamechishiki = load_json("mamechishiki.json")  # 辞書型を想定
 
-    # 🧪 【デバッグ】そもそもモンスターが何件読み込めているか確認
     print(f"🔍 読み込み直後のモンスター数: {len(monsters)} 件")
 
     # すべてのデータを1つの巨大なリストにまとめる（まめちしき以外）
@@ -40,10 +38,7 @@ def main():
     
     # 🔍 検索しやすくするために、IDをキーにした辞書（名簿）を頭の中に作るよ
     db = {item["id"]: item for item in all_data}
-
-    # 🧪 【デバッグ】名簿（db）の中にモンスターが何件登録されたか確認
-    monster_in_db = [k for k in db.keys() if "monster" in str(k)]
-    print(f"🔍 名簿（db）に登録されたモンスターIDの数: {len(monster_in_db)} 件")
+    print(f"🔍 名簿（db）に登録されたデータ総数: {len(db)} 件")
 
     # --- 💡 ここから細かいルールの自動計算スタート！ ---
 
@@ -51,16 +46,30 @@ def main():
     valid_data = [item for item in all_data if item.get("page_url")]
     valid_data.sort(key=lambda x: x["id"]) # IDの昇順（小さい順）
 
-    # 🔢 ルール②：No.の自動計算 ＆ 前後のIDをセット（ページがあるもの限定）
+    # 🔢 ルール②：No.の自動計算 ＆ 前後のIDと【実際のページURL】をセット（ページがあるもの限定）
     for i, item in enumerate(valid_data):
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}" # No.00001 の形にする
         
-        # 1つ前のID（最初データのときは空欄）
-        item["prev_id"] = valid_data[i - 1]["id"] if i > 0 else ""
-        # 1つ次のID（最後データのときは空欄）
-        item["next_id"] = valid_data[i + 1]["id"] if i < len(valid_data) - 1 else ""
+        # --- ◀ 前のモンスターのURL処理 ---
+        if i > 0:
+            item["prev_id"] = valid_data[i - 1]["id"]
+            # 相手のデータに書いてある本物のURL（page_url）をそのままコピーして入れるよ！
+            item["prev_page_url"] = valid_data[i - 1].get("page_url", "")
+        else:
+            item["prev_id"] = ""
+            item["prev_page_url"] = ""
+
+        # --- ▶ 次のモンスターのURL処理 ---
+        if i < len(valid_data) - 1:
+            item["next_id"] = valid_data[i + 1]["id"]
+            # 相手のデータに書いてある本物のURL（page_url）をそのままコピーして入れるよ！
+            item["next_page_url"] = valid_data[i + 1].get("page_url", "")
+        else:
+            item["next_id"] = ""
+            item["next_page_url"] = ""
     # 🤝 ルール③：お友達リンク（色違い・シリーズ・関連データ・まめちしき）の合体
     for item in all_data:
+        # 💡 【エラー修正】ここで my_id を最初にカチッと定義するよ！
         my_id = item["id"]
         
         # 📘 まめちしきの合体（自分のIDと完全一致するものを1対1でくっつけるよ！）
@@ -71,7 +80,6 @@ def main():
         # 🦎 モンスターの色違い（〜族）のまとめ
         if "monster_family" in item and item["monster_family"]:
             family = item["monster_family"]
-            # 同じ〜族のモンスターの「ID、名前、画像、URL」をリストにして入れる
             item["color_variants"] = [
                 {"id": m["id"], "name": m["name"], "image_url": m.get("image_url", ""), "page_url": m.get("page_url", "")}
                 for m in monsters if m.get("monster_family") == family and m["id"] != my_id
@@ -82,17 +90,15 @@ def main():
         my_armor_series = item.get("armor_series")
         my_access_series = item.get("accessory_series")
         
-        # どれかのシリーズ名が入っている場合
         current_series = my_weapon_series or my_armor_series or my_access_series
         if current_series:
             series_items = []
-            # 武器・防具・アクセサリーから同じシリーズのものを集める
             for eq in (weapons + armors + accessories):
                 if eq["id"] != my_id and (eq.get("weapon_series") == current_series or eq.get("armor_series") == current_series or eq.get("accessory_series") == current_series):
                     series_items.append({"id": eq["id"], "name": eq["name"], "image_url": eq.get("image_url", ""), "page_url": eq.get("page_url", "")})
             item["series_equipments"] = series_items
 
-        # 🪑 家具シリーズのまとめ（家具は別枠だからインテリアの中だけで探す！）
+        # 🪑 家具シリーズのまとめ（家具はインテリアの中だけで探す！）
         if "interior_series" in item and item["interior_series"]:
             int_series = item["interior_series"]
             item["interior_series_items"] = [
@@ -105,7 +111,7 @@ def main():
             if rel_key in item:
                 detailed_list = []
                 for rel_id in item[rel_key]:
-                    if rel_id in db: # 相手のデータがデータベースにあれば、情報を抜き出す
+                    if rel_id in db:
                         target = db[rel_id]
                         detailed_list.append({
                             "id": rel_id,
@@ -117,28 +123,13 @@ def main():
 
     # 💾 4. ファイルを書き出すよ！
     
-    # 🧪 【デバッグ】書き出し直前にall_data内にモンスターが何件残っているか確認
-    monster_before_write = [x for x in all_data if "monster" in str(x.get("id", ""))]
-    print(f"🔍 書き出し直前のall_data内モンスター数: {len(monster_before_write)} 件")
-
-    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON
-    write_count = 0
-    monster_write_count = 0
+    # 🅰️ パターンA：IDごとの完全バラバラ個別JSON（URL関係なく全員分強制で作るよ！）
     for item in all_data:
-        my_id = item["id"]
-        file_name = f"{my_id}.json"
-        
+        file_name = f"{item['id']}.json".lower() # 💡大文字小文字トラブルを防ぐため小文字名で統一して保存
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)
-            
-        write_count += 1
-        if "monster" in str(my_id):
-            monster_write_count += 1
 
-    print(f"🧪 【デバッグ】実際に書き出した総ファイル数: {write_count} 件")
-    print(f"🧪 【デバッグ】そのうちモンスターのファイル数: {monster_write_count} 件")
-
-    # 🅱️ 系統別（一覧ページ用）のJSON書き出し
+    # 🅱️ 系統別のJSON（一覧ページ用）
     family_groups = {}
     for m in monsters:
         if not m.get("page_url"):

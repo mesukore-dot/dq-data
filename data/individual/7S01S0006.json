@@ -31,7 +31,22 @@
   "zukan_no": "No.00277",
   "prev_id": "7S01S0005",
   "next_id": "7S01S0007",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日　ファミコン版「ドラゴンクエストIV 導かれし者たち」から登場",
+      "works_count": "7作品(リメイク・アニメ・マンガ等は含めない数字)",
+      "what_kind": "とある王宮の戦士と　共にした　ホイミスライム。\nいつか　ニンゲンになることを夢見て　冒険の旅へ出る。",
+      "ability": "ぼうぎょで　身をまもることが多いが　なかまのキズは\nほうっておけず　ホイミで　いやしてあげる。",
+      "voice_actor": {
+        "name": "高野麻里佳（たかの まりか）",
+        "works": "\n｢ウマ娘 プリティーダービー｣サイレンススズカ 役",
+        "dq_series": ""
+      },
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "6A01S0020",
