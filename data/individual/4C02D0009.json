@@ -1,0 +1,67 @@
+{
+  "id": "4C02D0009",
+  "name": "りゅうき兵",
+  "furigana": "りゅうきへい",
+  "english_name": "mandrake mercenary",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mandrake-mercenary/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうき兵.webp",
+  "monster_family": "リザードマン族",
+  "search_keywords": [
+    "mandrake mercenary",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ10",
+    "DQ10_OFF",
+    "DQBS",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00202",
+  "prev_id": "4C02D0008",
+  "next_id": "4C02D0010",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B02D0007-1",
+      "name": "アカツキショウグン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
+    },
+    {
+      "id": "5B02D0007",
+      "name": "シュプリンガー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シュプリンガー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/shupringer/"
+    },
+    {
+      "id": "3D02D0007",
+      "name": "りゅうせんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうせんし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/ryusenshi/"
+    },
+    {
+      "id": "2E02D0004",
+      "name": "リザードマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リザードマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/lizard-man/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

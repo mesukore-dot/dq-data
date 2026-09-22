@@ -1,0 +1,56 @@
+{
+  "id": "1F04P0005-1",
+  "name": "あやシイタケ",
+  "furigana": "あやしいたけ",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/09/12/ayashitake/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/あやシイタケ.webp",
+  "monster_family": "おばけキノコ族",
+  "search_keywords": [
+    "たべもの",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "WALK"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [
+    "自然系"
+  ],
+  "release_date": "2022年7月6日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00035",
+  "prev_id": "1F04P0005",
+  "next_id": "1F04P0006",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D04P0003",
+      "name": "マージマタンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マージマタンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/ma-jimatango/"
+    },
+    {
+      "id": "2E04P0002",
+      "name": "マタンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マタンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/"
+    },
+    {
+      "id": "1F04P0005",
+      "name": "おばけキノコ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おばけキノコ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/obakekinoko/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

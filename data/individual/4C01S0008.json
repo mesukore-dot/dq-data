@@ -1,0 +1,44 @@
+{
+  "id": "4C01S0008",
+  "name": "スラマシンZ",
+  "furigana": "すらましんぜっと",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラマシンZ.webp",
+  "monster_family": "スライムボーグ族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "WALK"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2022年3月17日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00167",
+  "prev_id": "4C01S0007",
+  "next_id": "4C01S0009",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0016",
+      "name": "テツスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/テツスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/29/tetsu-slime/"
+    },
+    {
+      "id": "3D01S0018",
+      "name": "スライムボーグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムボーグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/slime-cyborg/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1F13Z0001-1",
+  "name": "キョンシーゴースト",
+  "furigana": "きょんしーごーすと",
+  "english_name": "Jiangshi ghost",
+  "page_url": "https://dqfan527.xsrv.jp/2024/10/15/jiangshi-ghost/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キョンシーゴースト.webp",
+  "monster_family": "ゴースト族",
+  "search_keywords": [
+    "Jiangshi ghost",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2019年10月24日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00057",
+  "prev_id": "1F13Z0001",
+  "next_id": "1W-01S-1J0001",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F13Z0001",
+      "name": "ゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/29/ghost/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

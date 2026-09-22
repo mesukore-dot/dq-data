@@ -1,0 +1,44 @@
+{
+  "id": "1F03B0002-1",
+  "name": "もじゃらきラクーン",
+  "furigana": "もじゃらきラクーン",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/09/12/mojaraki-rakoon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/もじゃらきラクーン.webp",
+  "monster_family": "ももんじゃ族",
+  "search_keywords": [
+    "魔獣系",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "WALK"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [
+    "魔獣系"
+  ],
+  "release_date": "2020年1月29日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00026",
+  "prev_id": "1F03B0002",
+  "next_id": "1F03B0003",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0002",
+      "name": "ももんじゃ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ももんじゃ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/12/momonja/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

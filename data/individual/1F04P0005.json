@@ -1,0 +1,104 @@
+{
+  "id": "1F04P0005",
+  "name": "おばけキノコ",
+  "furigana": "おばけきのこ",
+  "english_name": "Funghoul",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/07/obakekinoko/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おばけキノコ.webp",
+  "monster_family": "おばけキノコ族",
+  "search_keywords": [
+    "Funghoul",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ4",
+    "DQ4_PS",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ11",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQSW",
+    "DQB2",
+    "DQMB",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "DQSG"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00034",
+  "prev_id": "1F04P0004",
+  "next_id": "1F04P0005-1",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和4年）2022年7月6日\n「ドラゴンクエストXオンライン 目覚めし五つの種族」から登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "おばけキノコに　突然変異が起きた　レアなまもの。\nうまみ成分を　豊富にふくんだ　おばけキノコ界のスーパースター。",
+      "ability": "まがまがキノコをバラまき　爆発させるのだが\nこのキノコすら　美味いという。",
+      "ecology": "へんに気取らず　庶民的に人気なのも　ポイントが高く\nなりたいキノコランキングでは　3年連続トップに輝いた。",
+      "doctor": "なかなか　お目にかかれず　まだ食べたことはないのだが\n最近になって　さらに香りと深いあじわいをもたらした\nかぐわシイタケが発見されたらしい。それなら　こちらをたべてみたい。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "3D04P0003",
+      "name": "マージマタンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マージマタンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/ma-jimatango/"
+    },
+    {
+      "id": "2E04P0002",
+      "name": "マタンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マタンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/"
+    },
+    {
+      "id": "1F04P0005-1",
+      "name": "あやシイタケ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/あやシイタケ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/ayashitake/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

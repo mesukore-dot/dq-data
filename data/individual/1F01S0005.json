@@ -1,0 +1,64 @@
+{
+  "id": "1F01S0005",
+  "name": "ぶちスライム",
+  "furigana": "ぶちすらいむ",
+  "english_name": "Mottle slime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/17/buchi-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ぶちスライム.webp",
+  "monster_family": "ぶちスライム族",
+  "search_keywords": [
+    "Mottle slime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ10",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "DQSG"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00006",
+  "prev_id": "1F01S0004-1",
+  "next_id": "1F01S0006",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D01S0003",
+      "name": "ぶちベホマラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちベホマラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/"
+    },
+    {
+      "id": "2E01S0005",
+      "name": "ぶちスライムベス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちスライムベス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-slimebesu/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

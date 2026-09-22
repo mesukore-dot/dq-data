@@ -1,0 +1,51 @@
+{
+  "id": "1F03B0003-1",
+  "name": "マーブルン",
+  "furigana": "まーぶるん",
+  "english_name": "Kaleidocat",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+  "monster_family": "プリズニャン族",
+  "search_keywords": [
+    "Kaleidocat",
+    "魔獣系",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQBS",
+    "MSP",
+    "RIV",
+    "WALK",
+    "TACT",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2013年5月16日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00028",
+  "prev_id": "1F03B0003",
+  "next_id": "1F03B0004",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0003",
+      "name": "しましまキャット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/しましまキャット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

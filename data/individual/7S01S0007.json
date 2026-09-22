@@ -1,0 +1,49 @@
+{
+  "id": "7S01S0007",
+  "name": "マスタースライム",
+  "furigana": "ますたーすらいむ",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/26/master-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マスタースライム.webp",
+  "monster_family": "マスタースライム族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMCH",
+  "appearances": [
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMSL"
+  ],
+  "main_family": "スライム系",
+  "sub_family": [],
+  "other_families": [],
+  "release_date": "2003年3月29日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00278",
+  "prev_id": "7S01S0006",
+  "next_id": "7S01S0008",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B01S0022",
+      "name": "エルダースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エルダースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/elder-slime/"
+    },
+    {
+      "id": "3D01S0036",
+      "name": "トレーナースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/トレーナースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/trainer-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

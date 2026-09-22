@@ -1,0 +1,52 @@
+{
+  "id": "5B02D0003",
+  "name": "レッドドラゴン",
+  "furigana": "れっどどらごん",
+  "english_name": "Red Dragon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/red-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/レッドドラゴン.webp",
+  "monster_family": "アンドレアル族",
+  "search_keywords": [
+    "Red Dragon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ9",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00237",
+  "prev_id": "5B02D0002",
+  "next_id": "5B02D0004",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "7S02D0001",
+      "name": "アンドレアル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アンドレアル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/andorearu/"
+    },
+    {
+      "id": "4C02D0003",
+      "name": "グリーンドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/グリーンドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/green-dragon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

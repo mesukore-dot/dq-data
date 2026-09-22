@@ -1,0 +1,40 @@
+{
+  "id": "2E01S0019",
+  "name": "ジャングラー",
+  "furigana": "じゃんぐらー",
+  "english_name": "Feral slime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/24/jungler/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ジャングラー.webp",
+  "monster_family": "スライムファング族",
+  "search_keywords": [
+    "Feral slime",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQM3",
+  "appearances": [
+    "DQM3"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年12月1日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00076",
+  "prev_id": "2E01S0018",
+  "next_id": "2E01S0020",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D01S0017",
+      "name": "スライムファング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムファング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/17/slimefang/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

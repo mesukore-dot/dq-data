@@ -1,0 +1,134 @@
+{
+  "id": "1F01S0014",
+  "name": "スイカつむり",
+  "furigana": "すいかつむり",
+  "english_name": "Watermelon slime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
+  "monster_family": "スライムつむり族",
+  "search_keywords": [
+    "Watermelon slime",
+    "果物",
+    "たべもの",
+    "トロピカル・夏",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMSL",
+  "appearances": [
+    "DQMSL",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "トロピカル",
+  "other_families": [],
+  "release_date": "2020年7月31日",
+  "voice_actor": "-",
+  "quotes": [
+    "ボ　ボクは　スイカつむりといいます！\n実は　海の底で大変なことが…！\nどうか　ボクに　チカラを貸してください！",
+    "ありがとうございますー！\nさあ　みんなでぬしさまを\n楽しませましょうー！！",
+    "ボクは　竜宮城に住むモンスターです。\n今　海の底にある　その竜宮城で\nある事件が　起こってるんです！！",
+    "あ…あなたが　あのなんでも解決されると\n海でもウワサの…！！\nあの…お願いがあります！！",
+    "ボ　ボクはスイカじゃ　ありません！\nスイカつむりという　れっきとした\nモンスターです！",
+    "うわっ　まものが　こんなところにまで…！\nこの甘いニオイのせいで…！",
+    "ここが　地上…。\n例のニンゲンは　どこに…？",
+    "えっと…えっと…どうしよう！\nそのー…ボクたちは…。",
+    "はっ…！　これが例の地響きです…！\nまずい…今これが　鳴ったということは…。",
+    "ふう……あやうく\n食べられてしまうところでした…。",
+    "ううぅ…。\n地響きがするたびに　お祭りが始まって\nもう　ヘトヘトです…。",
+    "や　やめてください〜！\nボクは　お祭りのデザートじゃありません！"
+  ],
+  "related_items": [
+    "1W-03K-7M-1F01S0014-01"
+  ],
+  "related_characters": [
+    "3D04P0005"
+  ],
+  "zukan_no": "No.00015",
+  "prev_id": "1F01S0013",
+  "next_id": "1F01S0015",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D01S0009-1",
+      "name": "石炭つむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/"
+    },
+    {
+      "id": "2E01S0022",
+      "name": "スライムカルゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/スライムカルゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/slime-escargot/"
+    },
+    {
+      "id": "2E01S0016",
+      "name": "ショコラパーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ショコラパーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/chocolate-perm/"
+    },
+    {
+      "id": "2E01S0013",
+      "name": "マリンスライム・塔",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
+      "page_url": []
+    },
+    {
+      "id": "2E01S0012",
+      "name": "スライムアンノウン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ブラッドルビー.webp",
+      "page_url": []
+    },
+    {
+      "id": "2E01S0010",
+      "name": "クリームつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クリームつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/cream-roll/"
+    },
+    {
+      "id": "2E01S0009",
+      "name": "ダークネスマリン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークネスマリン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/dark-marine-slime/"
+    },
+    {
+      "id": "3D01S0009",
+      "name": "つららスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つららスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/turara-slime/"
+    },
+    {
+      "id": "2E01S0002",
+      "name": "マリンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マリンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/marine-slime/"
+    },
+    {
+      "id": "1F01S0004-1",
+      "name": "つむりんママ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つむりんママ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/shellies-mother/"
+    },
+    {
+      "id": "1F01S0004",
+      "name": "スライムつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/20/slime-tumuri/"
+    }
+  ],
+  "related_characters_details": [
+    {
+      "id": "3D04P0005",
+      "name": "スイカ岩",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp"
+    }
+  ],
+  "related_items_details": [
+    {
+      "id": "1W-03K-7M-1F01S0014-01",
+      "name": "スイカつむりダガー",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/16/suikatumuri-dagger/",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむりダガー.webp"
+    }
+  ]
+}

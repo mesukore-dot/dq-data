@@ -1,0 +1,51 @@
+{
+  "id": "4C02D0006",
+  "name": "ガーディアン",
+  "furigana": "がーでぃあん",
+  "english_name": "Dragooner",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/guardian-dq4/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガーディアン.webp",
+  "monster_family": "ドラゴンライダー族",
+  "search_keywords": [
+    "Dragooner",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ11",
+    "DQMSL",
+    "STAR",
+    "WALK"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00199",
+  "prev_id": "4C02D0005",
+  "next_id": "4C02D0007",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D02D0005",
+      "name": "ドラゴンライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-rider/"
+    },
+    {
+      "id": "5B02D0006",
+      "name": "ハデスナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/ハデスナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/hadesunaito/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1F01S0009",
+  "name": "はねスライム",
+  "furigana": "はねすらいむ",
+  "english_name": "Wing slime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/17/hane-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/はねスライム.webp",
+  "monster_family": "はねスライム族",
+  "search_keywords": [
+    "Wing slime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM1",
+  "appearances": [
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "RIV"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1998年9月25日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00010",
+  "prev_id": "1F01S0008",
+  "next_id": "1F01S0010",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C01S0026",
+      "name": "スライムフェアリー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムフェアリー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/12/08/slime-fairy/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

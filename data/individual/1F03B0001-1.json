@@ -1,0 +1,48 @@
+{
+  "id": "1F03B0001-1",
+  "name": "ピンクボンボン",
+  "furigana": "ぴんくぼんぼん",
+  "english_name": "Pink bonbon",
+  "page_url": "https://dqfan527.xsrv.jp/2026/06/08/pink-bonbon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/ピンクボンボン.webp",
+  "monster_family": "ファーラット族",
+  "search_keywords": [
+    "Pink bonbon",
+    "魔獣系",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "MSP",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年10月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00024",
+  "prev_id": "1F03B0001",
+  "next_id": "1F03B0002",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0001",
+      "name": "ファーラット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ファーラット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/farrat/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

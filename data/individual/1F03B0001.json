@@ -1,0 +1,76 @@
+{
+  "id": "1F03B0001",
+  "name": "ファーラット",
+  "furigana": "ふぁーらっと",
+  "english_name": "Feralball",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/21/farrat/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ファーラット.webp",
+  "monster_family": "ファーラット族",
+  "search_keywords": [
+    "Feralball",
+    "魔獣系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ7_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00023",
+  "prev_id": "1F02D0005",
+  "next_id": "1F03B0001-1",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成24年）2012年10月9日「ドラゴンクエストX オンライン 目覚めし五つの種族（DQ10）」から登場。",
+      "works_count": "5作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ケダモン　またはファーラットに　突然変異が起きた　レアなまもの。かわいいこそ正義　モンスター界のアイドルだ。",
+      "form": "ふかふかボディは　きせきのピンク色。きたない色じゃなくて　よかった。",
+      "ability": "ハッスルダンスや　おうえんで　他のまものをサポートする。ファンも多いぞ。",
+      "ecology": "足のうらに　血まめができるまで　今日もダンスの練習。",
+      "material": "ピンクボンボンの毛皮で　つくられた　アクセサリーは　若い女の子たちに大人気！",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F03B0001-1",
+      "name": "ピンクボンボン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/ピンクボンボン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/06/08/pink-bonbon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

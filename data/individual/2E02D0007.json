@@ -1,0 +1,75 @@
+{
+  "id": "2E02D0007",
+  "name": "デンデン竜",
+  "furigana": "でんでんりゅう",
+  "english_name": "Jargon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/24/dendenryu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/デンデン竜.webp",
+  "monster_family": "デンデン竜族",
+  "search_keywords": [
+    "Jargon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ11",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "MRMR2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "champ"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00094",
+  "prev_id": "2E02D0006",
+  "next_id": "2E02D0008",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B02D0012",
+      "name": "デンダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/デンダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/03/jarvis/"
+    },
+    {
+      "id": "4C02D0011",
+      "name": "ボボンガー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ボボンガー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/12/14/bobonga/"
+    },
+    {
+      "id": "3D02D0010",
+      "name": "ドラゴンバゲージ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンバゲージ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dragon-baggage/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

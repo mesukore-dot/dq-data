@@ -1,0 +1,88 @@
+{
+  "id": "1F03B0002",
+  "name": "ももんじゃ",
+  "furigana": "ももんじゃ",
+  "english_name": "Platypunk",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/12/momonja/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ももんじゃ.webp",
+  "monster_family": "ももんじゃ族",
+  "search_keywords": [
+    "魔獣系",
+    "Platypunk",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "SM1",
+    "SM2",
+    "SM3",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    "item_dokubari"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00025",
+  "prev_id": "1F03B0001-1",
+  "next_id": "1F03B0002-1",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和2年）2020年1月29日\n「ドラゴンクエストXオンライン 目覚めし五つの種族」\nから登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ももんじゃに　突然変異が起きた　レアなまもの。\n目にあまるほどの　あばれんぼうな　ももんじゃが　罰として　タヌキのような格好にさせられた。だが　反省の色はなし。",
+      "ability": "どんちゃん騒ぎで　周囲をめちゃくちゃに！酒を飲んでパワーアップし　ニンゲンをたべものに　へんげさせ　とどめのバギムーチョでやりたい放題！これが　もじゃらきラクーンの宴会芸だ。",
+      "ecology": "さらに貫禄が増し　絶大なチカラを手に入れ　巨匠となった　もじゃらきラクーンがいるらしい。",
+      "trivia_notes": "信楽焼（しがらきやき）滋賀県甲賀市にある信楽で作られている陶器で　縁起が良いタヌキの置物。笠は　災難をまもり　目は正しい判断　笑顔は商売繁盛　ふっくらしたおなかは決断力　帳簿は信頼　ふくろは金運　とっくりは人徳　しっぽは　終わりよければすべてよし　という8つの意味がある。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F03B0002-1",
+      "name": "もじゃらきラクーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/もじゃらきラクーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/mojaraki-rakoon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

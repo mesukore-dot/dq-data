@@ -1,0 +1,48 @@
+{
+  "id": "3D01S0003",
+  "name": "ぶちベホマラー",
+  "furigana": "ぶちべほまらー",
+  "english_name": "Mottle mendslime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちベホマラー.webp",
+  "monster_family": "ぶちスライム族",
+  "search_keywords": [
+    "Mottle mendslime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00105",
+  "prev_id": "3D01S0002",
+  "next_id": "3D01S0004",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E01S0005",
+      "name": "ぶちスライムベス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちスライムベス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-slimebesu/"
+    },
+    {
+      "id": "1F01S0005",
+      "name": "ぶちスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ぶちスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/17/buchi-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

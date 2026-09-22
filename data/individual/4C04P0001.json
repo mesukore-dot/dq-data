@@ -1,0 +1,64 @@
+{
+  "id": "4C04P0001",
+  "name": "ウドラー",
+  "furigana": "うどらー",
+  "english_name": "Treevil",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウドラー.webp",
+  "monster_family": "じんめんじゅ族",
+  "search_keywords": [
+    "Treevil",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00206",
+  "prev_id": "4C02D0012",
+  "next_id": "4C07W0001",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D04P0001-1",
+      "name": "さくらんじゅ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/さくらんじゅ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/06/16/confusion-tree/"
+    },
+    {
+      "id": "3D04P0001",
+      "name": "じんめんじゅ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/じんめんじゅ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

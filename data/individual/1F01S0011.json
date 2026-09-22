@@ -1,0 +1,54 @@
+{
+  "id": "1F01S0011",
+  "name": "パールスライム",
+  "furigana": "ぱーるすらいむ",
+  "english_name": "PearlGel",
+  "chinese_name": "珍珠史莱姆",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/16/perl-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/パールスライム.webp",
+  "monster_family": "パールスライム族",
+  "search_keywords": [
+    "PearlGel",
+    "珍珠史莱姆",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQM2",
+  "appearances": [
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "RIV"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2001年3月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00012",
+  "prev_id": "1F01S0010",
+  "next_id": "1F01S0012",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "6A01S0016",
+      "name": "ゴールドパール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールドパール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/15/gold-pearl/"
+    },
+    {
+      "id": "5B01S0020",
+      "name": "メタルパール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルパール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/15/metal-pearl/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

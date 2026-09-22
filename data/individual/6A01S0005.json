@@ -1,0 +1,92 @@
+{
+  "id": "6A01S0005",
+  "name": "スライムエネルゴン",
+  "furigana": "すらいむえねるごん",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/04/08/slime-energon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムエネルゴン.webp",
+  "monster_family": "ゴールデンスライム族",
+  "search_keywords": [
+    "ボス",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年11月16日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00255",
+  "prev_id": "6A01S0004",
+  "next_id": "6A01S0009",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C01S0036",
+      "name": "ゴールデンチョコ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンチョコ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/20/golden-chocolate/"
+    },
+    {
+      "id": "7S01S0008",
+      "name": "スライムマデュラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムマデュラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/19/slimemadexyura/"
+    },
+    {
+      "id": "4C01S0015",
+      "name": "幽冥の緑石帝",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/幽冥の緑石帝.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/08/the-greenstone-emperor-of-the-underworld/"
+    },
+    {
+      "id": "8SS01S0002-1",
+      "name": "レインボースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レインボースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-slime/"
+    },
+    {
+      "id": "8SS01S0002",
+      "name": "ゴールデンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ゴールデンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/golden-slime/"
+    },
+    {
+      "id": "6A01S0008",
+      "name": "冥光冠パニスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アクアマリン.webp",
+      "page_url": []
+    },
+    {
+      "id": "5B01S0009",
+      "name": "海溝の煌玉",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
+      "page_url": []
+    },
+    {
+      "id": "4C01S0012",
+      "name": "ハートボイルド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートボイルド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/21/heart-boiled/"
+    },
+    {
+      "id": "7S01S0002",
+      "name": "プラチナキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/プラチナキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/02/platina-king/"
+    },
+    {
+      "id": "5B01S0003",
+      "name": "スライムエンペラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムエンペラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-emperor/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

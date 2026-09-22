@@ -1,0 +1,52 @@
+{
+  "id": "4C07W0001",
+  "name": "マッドルーパー",
+  "furigana": "まっどるーぱー",
+  "english_name": "Axoloti",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/10/mad-ruper/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マッドルーパー.webp",
+  "monster_family": "ポイズンリザード族",
+  "search_keywords": [
+    "Axoloti",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ10_OFF",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00207",
+  "prev_id": "4C04P0001",
+  "next_id": "4C10M0001",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D02D0001",
+      "name": "ベビーサラマンダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ベビーサラマンダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/baby-salamander/"
+    },
+    {
+      "id": "2E02D0001",
+      "name": "ポイズンリザード",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポイズンリザード.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/poison-lizard/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

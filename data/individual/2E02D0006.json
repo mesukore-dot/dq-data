@@ -1,0 +1,73 @@
+{
+  "id": "2E02D0006",
+  "name": "ダッシュラン",
+  "furigana": "だっしゅらん",
+  "english_name": "Drag racer",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/25/dash-run/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ダッシュラン.webp",
+  "monster_family": "ダッシュラン族",
+  "search_keywords": [
+    "Drag racer",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "RIV",
+    "WALK",
+    "TACT",
+    "champ"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00093",
+  "prev_id": "2E02D0005",
+  "next_id": "2E02D0007",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B02D0011",
+      "name": "ヘルジュラシック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヘルジュラシック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/hell-jurashic/"
+    },
+    {
+      "id": "4C02D0010",
+      "name": "テラノライナー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/テラノライナー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/teranoraina/"
+    },
+    {
+      "id": "3D02D0009",
+      "name": "せつげんりゅう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/せつげんりゅう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/12/setugenryu/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
