@@ -51,17 +51,27 @@ def main():
     valid_data = [item for item in all_data if item.get("page_url")]
     valid_data.sort(key=lambda x: x["id"]) # IDの昇順（小さい順）
 
-    # 🔢 ルール②：No.の自動計算 ＆ 前後のIDをセット（ページがあるもの限定）
+    # 🔢 ルール②：No.の自動計算 ＆ 前後のIDと【実際のページURL】をセット
     for i, item in enumerate(valid_data):
-        item["zukan_no"] = f"No.{str(i + 1).zfill(5)}" # No.00001 の形にする
+        item["zukan_no"] = f"No.{str(i + 1).zfill(5)}" # No.00001
         
-        # 1つ前のID（最初データのときは空欄）
-        item["prev_id"] = valid_data[i - 1]["id"] if i > 0 else ""
-        # 1つ次のID（最後データのときは空欄）
-        item["next_id"] = valid_data[i + 1]["id"] if i < len(valid_data) - 1 else ""
-    # 🤝 ルール③：お友達リンク（色違い・シリーズ・関連データ・まめちしき）の合体
-    for item in all_data:
-        my_id = item["id"]
+        # --- ◀ 前のモンスターのURL処理 ---
+        if i > 0:
+            item["prev_id"] = valid_data[i - 1]["id"]
+            # 相手の monster.json 等に書いてある本物のURL（page_url）をそのままコピーして入れるよ！
+            item["prev_page_url"] = valid_data[i - 1].get("page_url", "")
+        else:
+            item["prev_id"] = ""
+            item["prev_page_url"] = ""
+
+        # --- ▶ 次のモンスターのURL処理 ---
+        if i < len(valid_data) - 1:
+            item["next_id"] = valid_data[i + 1]["id"]
+            # 相手の本物のURL（page_url）をそのままコピーして入れるよ！
+            item["next_page_url"] = valid_data[i + 1].get("page_url", "")
+        else:
+            item["next_id"] = ""
+            item["next_page_url"] = ""
         
         # 📘 まめちしきの合体（自分のIDと完全一致するものを1対1でくっつけるよ！）
         item["mamechishiki_pages"] = []
