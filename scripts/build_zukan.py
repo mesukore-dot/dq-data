@@ -63,16 +63,10 @@ def main():
     for item in all_data:
         my_id = item["id"]
         
-        # 📘 まめちしきの合体（例：1F13Z0001-1 などを探して追加する）
+        # 📘 まめちしきの合体（自分のIDと完全一致するものを1対1でくっつけるよ！）
         item["mamechishiki_pages"] = []
-        page_num = 1
-        while True:
-            mame_key = f"{my_id}-{page_num}"
-            if mame_key in mamechishiki:
-                item["mamechishiki_pages"].append(mamechishiki[mame_key])
-                page_num += 1
-            else:
-                break
+        if my_id in mamechishiki:
+            item["mamechishiki_pages"].append(mamechishiki[my_id])
 
         # 🦎 モンスターの色違い（〜族）のまとめ
         if "monster_family" in item and item["monster_family"]:
