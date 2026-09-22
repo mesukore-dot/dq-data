@@ -5,6 +5,9 @@ on:
     paths:
       - 'src_data/*.json' # src_dataフォルダの中のJSONが更新されたら動くよ
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
