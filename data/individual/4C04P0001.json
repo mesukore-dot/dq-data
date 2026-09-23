@@ -41,22 +41,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00206",
+  "zukan_no": "No.00214",
   "prev_id": "4C02D0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/",
   "next_id": "4C07W0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/10/mad-ruper/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "3D04P0001-1",
-      "name": "さくらんじゅ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/さくらんじゅ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/06/16/confusion-tree/"
-    },
     {
       "id": "3D04P0001",
       "name": "じんめんじゅ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/じんめんじゅ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/"
+    },
+    {
+      "id": "3D04P0001-1",
+      "name": "さくらんじゅ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/さくらんじゅ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/06/16/confusion-tree/"
     }
   ],
   "related_characters_details": [],

@@ -44,7 +44,9 @@
   "related_characters": [],
   "zukan_no": "No.00020",
   "prev_id": "1F02D0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/tosakahebi/",
   "next_id": "1F02D0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
@@ -60,10 +62,10 @@
   ],
   "color_variants": [
     {
-      "id": "3D02D0006-1",
-      "name": "リトルライバーン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/07/リトルライバーン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/07/28/little-wyvern/"
+      "id": "2E02D0003",
+      "name": "ベビーニュート",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/ベビーニュート.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/baby-nyut/"
     },
     {
       "id": "3D02D0006",
@@ -72,10 +74,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/08/07/dragon-kids/"
     },
     {
-      "id": "2E02D0003",
-      "name": "ベビーニュート",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/ベビーニュート.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/baby-nyut/"
+      "id": "3D02D0006-1",
+      "name": "リトルライバーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/07/リトルライバーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/28/little-wyvern/"
     }
   ],
   "related_characters_details": [],

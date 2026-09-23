@@ -65,7 +65,9 @@
   "related_characters": [],
   "zukan_no": "No.00034",
   "prev_id": "1F04P0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/20/zucchinya/",
   "next_id": "1F04P0005-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/09/12/ayashitake/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（昭和63年）1988年2月10日、ファミコン版「ドラゴンクエストIII そして伝説へ…（DQ3）」から登場。",
@@ -81,10 +83,10 @@
   ],
   "color_variants": [
     {
-      "id": "3D04P0003",
-      "name": "マージマタンゴ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マージマタンゴ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/ma-jimatango/"
+      "id": "1F04P0005-1",
+      "name": "あやシイタケ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/あやシイタケ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/ayashitake/"
     },
     {
       "id": "2E04P0002",
@@ -93,10 +95,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/"
     },
     {
-      "id": "1F04P0005-1",
-      "name": "あやシイタケ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/あやシイタケ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/ayashitake/"
+      "id": "3D04P0003",
+      "name": "マージマタンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マージマタンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/ma-jimatango/"
     }
   ],
   "related_characters_details": [],

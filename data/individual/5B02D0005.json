@@ -27,22 +27,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00239",
+  "zukan_no": "No.00249",
   "prev_id": "5B02D0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/barunba/",
   "next_id": "5B02D0006",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/hadesunaito/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "4C02D0005",
-      "name": "ヘルバイパー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヘルバイパー（DQ6）.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/diethon/"
-    },
     {
       "id": "3D02D0004",
       "name": "ウィングスネーク",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィングスネーク.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/09/25/wing-snake/"
+    },
+    {
+      "id": "4C02D0005",
+      "name": "ヘルバイパー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヘルバイパー（DQ6）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/diethon/"
     }
   ],
   "related_characters_details": [],

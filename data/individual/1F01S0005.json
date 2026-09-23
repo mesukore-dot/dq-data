@@ -43,7 +43,9 @@
   "related_characters": [],
   "zukan_no": "No.00006",
   "prev_id": "1F01S0004-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/18/shellies-mother/",
   "next_id": "1F01S0006",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成7年）1995年12月9日、スーパーファミコン版「ドラゴンクエストVI 幻の大地（DQ6）」から登場。",
@@ -59,16 +61,16 @@
   ],
   "color_variants": [
     {
-      "id": "3D01S0003",
-      "name": "ぶちベホマラー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちベホマラー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/"
-    },
-    {
       "id": "2E01S0005",
       "name": "ぶちスライムベス",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちスライムベス.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-slimebesu/"
+    },
+    {
+      "id": "3D01S0003",
+      "name": "ぶちベホマラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちベホマラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/"
     }
   ],
   "related_characters_details": [],

@@ -28,9 +28,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00277",
+  "zukan_no": "No.00292",
   "prev_id": "7S01S0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/gran-slime/",
   "next_id": "7S01S0007",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/master-slime/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成2年）1990年2月11日　ファミコン版「ドラゴンクエストIV 導かれし者たち」から登場",
@@ -49,34 +51,10 @@
   ],
   "color_variants": [
     {
-      "id": "6A01S0020",
-      "name": "ホミロット",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/"
-    },
-    {
-      "id": "7S01S0015",
-      "name": "ホミロン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/"
-    },
-    {
-      "id": "5B01S0017",
-      "name": "まどうスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/まどうスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/05/21/magic-slime/"
-    },
-    {
-      "id": "4C01S0013",
-      "name": "メタルホイミン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/メタルホイミン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/metal-healie/"
-    },
-    {
-      "id": "4C01S0011",
-      "name": "コスモスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/コスモスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/cosmoslime/"
+      "id": "1F01S0003",
+      "name": "ホイミスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイミスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/25/hoimi-slime/"
     },
     {
       "id": "2E01S0003",
@@ -85,16 +63,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/07/10/behoimi-slime/"
     },
     {
-      "id": "4C01S0002",
-      "name": "ベホマスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホマスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/behoma-slime/"
-    },
-    {
-      "id": "7S01S0001",
-      "name": "ホミちょ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホミちょ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/03/02/homicho/"
+      "id": "3D01S0004",
+      "name": "しびれスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/しびれスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/sting-slime/"
     },
     {
       "id": "3D01S0008",
@@ -103,16 +75,46 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/05/18/sootheslime/"
     },
     {
-      "id": "3D01S0004",
-      "name": "しびれスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/しびれスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/sting-slime/"
+      "id": "4C01S0002",
+      "name": "ベホマスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホマスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/behoma-slime/"
     },
     {
-      "id": "1F01S0003",
-      "name": "ホイミスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイミスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/05/25/hoimi-slime/"
+      "id": "4C01S0011",
+      "name": "コスモスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/コスモスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/cosmoslime/"
+    },
+    {
+      "id": "4C01S0013",
+      "name": "メタルホイミン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/メタルホイミン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/metal-healie/"
+    },
+    {
+      "id": "5B01S0017",
+      "name": "まどうスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/まどうスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/21/magic-slime/"
+    },
+    {
+      "id": "6A01S0020",
+      "name": "ホミロット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/"
+    },
+    {
+      "id": "7S01S0001",
+      "name": "ホミちょ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホミちょ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/02/homicho/"
+    },
+    {
+      "id": "7S01S0015",
+      "name": "ホミロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/"
     }
   ],
   "related_characters_details": [],

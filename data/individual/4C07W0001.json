@@ -29,22 +29,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00207",
+  "zukan_no": "No.00215",
   "prev_id": "4C04P0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
   "next_id": "4C10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "3D02D0001",
-      "name": "ベビーサラマンダ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ベビーサラマンダ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/baby-salamander/"
-    },
     {
       "id": "2E02D0001",
       "name": "ポイズンリザード",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポイズンリザード.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/10/poison-lizard/"
+    },
+    {
+      "id": "3D02D0001",
+      "name": "ベビーサラマンダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ベビーサラマンダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/baby-salamander/"
     }
   ],
   "related_characters_details": [],

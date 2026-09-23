@@ -46,16 +46,18 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00094",
+  "zukan_no": "No.00095",
   "prev_id": "2E02D0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/25/dash-run/",
   "next_id": "2E02D0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "5B02D0012",
-      "name": "デンダ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/デンダ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/03/jarvis/"
+      "id": "3D02D0010",
+      "name": "ドラゴンバゲージ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンバゲージ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dragon-baggage/"
     },
     {
       "id": "4C02D0011",
@@ -64,10 +66,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/12/14/bobonga/"
     },
     {
-      "id": "3D02D0010",
-      "name": "ドラゴンバゲージ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンバゲージ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dragon-baggage/"
+      "id": "5B02D0012",
+      "name": "デンダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/デンダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/03/jarvis/"
     }
   ],
   "related_characters_details": [],

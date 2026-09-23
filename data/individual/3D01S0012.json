@@ -3,7 +3,7 @@
   "name": "ぶちドス",
   "furigana": "ぶちどす",
   "english_name": "-",
-  "page_url": [],
+  "page_url": "[]",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
   "monster_family": "ドラゴスライム族",
   "search_keywords": [
@@ -22,6 +22,11 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
+  "zukan_no": "No.00117",
+  "prev_id": "3D01S0011",
+  "prev_page_url": "[]",
+  "next_id": "3D01S0013",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/04/09/yami-slime/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -31,16 +36,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/23/drago-slime/"
     },
     {
-      "id": "5B01S0002",
-      "name": "ドラゴメタル",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴメタル.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/"
-    },
-    {
       "id": "4C01S0004",
       "name": "スライムブレス",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムブレス.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/25/slime-bless/"
+    },
+    {
+      "id": "5B01S0002",
+      "name": "ドラゴメタル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴメタル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/"
     }
   ],
   "related_characters_details": [],

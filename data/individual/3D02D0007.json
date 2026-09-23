@@ -33,22 +33,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00144",
+  "zukan_no": "No.00151",
   "prev_id": "3D02D0006-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/28/little-wyvern/",
   "next_id": "3D02D0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/08/10/dentazauls/",
   "mamechishiki_pages": [],
   "color_variants": [
+    {
+      "id": "2E02D0004",
+      "name": "リザードマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リザードマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/lizard-man/"
+    },
     {
       "id": "4C02D0009",
       "name": "りゅうき兵",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうき兵.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mandrake-mercenary/"
-    },
-    {
-      "id": "5B02D0007-1",
-      "name": "アカツキショウグン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
     },
     {
       "id": "5B02D0007",
@@ -57,10 +59,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/08/10/shupringer/"
     },
     {
-      "id": "2E02D0004",
-      "name": "リザードマン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リザードマン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/lizard-man/"
+      "id": "5B02D0007-1",
+      "name": "アカツキショウグン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
     }
   ],
   "related_characters_details": [],

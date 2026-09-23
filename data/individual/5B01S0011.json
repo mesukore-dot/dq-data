@@ -20,16 +20,18 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00217",
+  "zukan_no": "No.00227",
   "prev_id": "5B01S0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-totem/",
   "next_id": "5B01S0012",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/araune/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "7S01S0011",
-      "name": "死神スライダーク",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/死神スライダーク.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/shinigami-slidark/"
+      "id": "6A01S0006",
+      "name": "彩虹の死剣将グロズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
+      "page_url": "[]"
     },
     {
       "id": "7S01S0004",
@@ -38,10 +40,10 @@
       "page_url": ""
     },
     {
-      "id": "6A01S0006",
-      "name": "彩虹の死剣将グロズ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
-      "page_url": []
+      "id": "7S01S0011",
+      "name": "死神スライダーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/死神スライダーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/shinigami-slidark/"
     }
   ],
   "related_characters_details": [],

@@ -45,22 +45,24 @@
   "voice_actor": "稲田徹",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00314",
+  "zukan_no": "No.00330",
   "prev_id": "9X01S0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-go-death/",
   "next_id": "9X02D0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/gurandorago-n/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "4C02D0004",
-      "name": "スノードラゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スノードラゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/snow-dragon/"
-    },
     {
       "id": "3D02D0002",
       "name": "スカイドラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スカイドラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/06/sky-dragon/"
+    },
+    {
+      "id": "4C02D0004",
+      "name": "スノードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スノードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/snow-dragon/"
     }
   ],
   "related_characters_details": [],

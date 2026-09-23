@@ -22,34 +22,18 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00266",
+  "zukan_no": "No.00279",
   "prev_id": "6A01S0018",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/16/halloween-king/",
   "next_id": "6A01S0020",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "3D01S0037",
-      "name": "パティシエナイト",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パティシエナイト.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/"
-    },
-    {
-      "id": "CP-CO01S0002",
-      "name": "かじゅうナイト",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/"
-    },
-    {
-      "id": "5B01S0016",
-      "name": "ダークナイト",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークナイト（DQMCH）.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/dark-knight-ch/"
-    },
-    {
-      "id": "3D01S0011",
-      "name": "のっかりゼラチン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
-      "page_url": []
+      "id": "2E01S0004",
+      "name": "スライムナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/"
     },
     {
       "id": "2E01S0004-1",
@@ -64,10 +48,28 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/08/07/metal-rider/"
     },
     {
-      "id": "2E01S0004",
-      "name": "スライムナイト",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムナイト.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/"
+      "id": "3D01S0011",
+      "name": "のっかりゼラチン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+      "page_url": "[]"
+    },
+    {
+      "id": "3D01S0037",
+      "name": "パティシエナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パティシエナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/"
+    },
+    {
+      "id": "5B01S0016",
+      "name": "ダークナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークナイト（DQMCH）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/dark-knight-ch/"
+    },
+    {
+      "id": "CP-CO01S0002",
+      "name": "かじゅうナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/"
     }
   ],
   "related_characters_details": [],

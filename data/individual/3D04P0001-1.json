@@ -25,22 +25,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00152",
+  "zukan_no": "No.00159",
   "prev_id": "3D04P0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
   "next_id": "3D04P0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/poison-kiss/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "4C04P0001",
-      "name": "ウドラー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウドラー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/"
-    },
     {
       "id": "3D04P0001",
       "name": "じんめんじゅ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/じんめんじゅ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/"
+    },
+    {
+      "id": "4C04P0001",
+      "name": "ウドラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウドラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/"
     }
   ],
   "related_characters_details": [],

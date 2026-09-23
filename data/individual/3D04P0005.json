@@ -8,6 +8,9 @@
   "monster_family": "ばくだんいわ族",
   "search_keywords": [
     "トロピカル・夏",
+    "フルーツ",
+    "野菜系",
+    "たべもの",
     "公式イラストあり"
   ],
   "first_appearance": "WALK",
@@ -26,9 +29,11 @@
   "related_characters": [
     "1F01S0014"
   ],
-  "zukan_no": "No.00156",
+  "zukan_no": "No.00163",
   "prev_id": "3D04P0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/27/paprikan/",
   "next_id": "3D10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（令和2年）2020年5月9日、スマートフォン向けアプリ「ドラゴンクエストウォーク」から登場。",
@@ -48,7 +53,12 @@
       "id": "1F01S0014",
       "name": "スイカつむり",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp"
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
+      "prev_id": "1F01S0013",
+      "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/",
+      "next_id": "1F01S0015",
+      "next_page_url": "https://dqfan527.xsrv.jp/2026/04/19/ri-fa/",
+      "zukan_no": "No.00015"
     }
   ],
   "related_items_details": []

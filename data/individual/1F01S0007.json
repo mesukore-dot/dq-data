@@ -29,7 +29,9 @@
   "related_characters": [],
   "zukan_no": "No.00008",
   "prev_id": "1F01S0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/",
   "next_id": "1F01S0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/17/slime-tree/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
@@ -44,10 +46,10 @@
   ],
   "color_variants": [
     {
-      "id": "5B01S0012-1",
-      "name": "黄泉の花",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/黄泉の花.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/04/10/flower-of-yomi/"
+      "id": "3D01S0015",
+      "name": "トマトマーレ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/トマトマーレ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/tomatoma-re/"
     },
     {
       "id": "5B01S0012",
@@ -56,10 +58,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/araune/"
     },
     {
-      "id": "3D01S0015",
-      "name": "トマトマーレ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/トマトマーレ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/tomatoma-re/"
+      "id": "5B01S0012-1",
+      "name": "黄泉の花",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/黄泉の花.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/10/flower-of-yomi/"
     }
   ],
   "related_characters_details": [],

@@ -3,7 +3,7 @@
   "name": "スラ忍オレンジ",
   "furigana": "すらにんおれんじ",
   "english_name": "Orange ninja slime",
-  "page_url": [],
+  "page_url": "[]",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オパール.webp",
   "monster_family": "スラ忍オレンジ族",
   "search_keywords": [
@@ -29,6 +29,11 @@
     "-"
   ],
   "related_characters": [],
+  "zukan_no": "No.00127",
+  "prev_id": "3D01S0021",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/04/yellow-ninja-slime/",
+  "next_id": "3D01S0023",
+  "next_page_url": "[]",
   "mamechishiki_pages": [],
   "color_variants": [],
   "related_characters_details": [],

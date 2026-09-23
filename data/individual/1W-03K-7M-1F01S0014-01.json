@@ -20,9 +20,6 @@
   "related_characters": [
     "1F01S0014"
   ],
-  "zukan_no": "No.00059",
-  "prev_id": "1W-01S-1J0001",
-  "next_id": "2D-01S-1J0001",
   "mamechishiki_pages": [
     {
       "first_appearance": "（令和8年）2026年8月31日、スマートフォン向けアプリ「ドラゴンクエストタクト」から登場。",
@@ -38,7 +35,12 @@
       "id": "1F01S0014",
       "name": "スイカつむり",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp"
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
+      "prev_id": "1F01S0013",
+      "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/",
+      "next_id": "1F01S0015",
+      "next_page_url": "https://dqfan527.xsrv.jp/2026/04/19/ri-fa/",
+      "zukan_no": "No.00015"
     }
   ],
   "related_items_details": []

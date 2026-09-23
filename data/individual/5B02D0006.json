@@ -26,22 +26,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00240",
+  "zukan_no": "No.00250",
   "prev_id": "5B02D0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/13/sail-serpent/",
   "next_id": "5B02D0007",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/08/10/shupringer/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "4C02D0006",
-      "name": "ガーディアン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガーディアン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/guardian-dq4/"
-    },
     {
       "id": "3D02D0005",
       "name": "ドラゴンライダー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンライダー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-rider/"
+    },
+    {
+      "id": "4C02D0006",
+      "name": "ガーディアン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガーディアン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/guardian-dq4/"
     }
   ],
   "related_characters_details": [],

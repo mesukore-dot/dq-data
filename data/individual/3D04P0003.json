@@ -45,16 +45,18 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00154",
+  "zukan_no": "No.00161",
   "prev_id": "3D04P0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/poison-kiss/",
   "next_id": "3D04P0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/27/paprikan/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "2E04P0002",
-      "name": "マタンゴ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マタンゴ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/"
+      "id": "1F04P0005",
+      "name": "おばけキノコ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おばけキノコ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/obakekinoko/"
     },
     {
       "id": "1F04P0005-1",
@@ -63,10 +65,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/09/12/ayashitake/"
     },
     {
-      "id": "1F04P0005",
-      "name": "おばけキノコ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おばけキノコ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/obakekinoko/"
+      "id": "2E04P0002",
+      "name": "マタンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マタンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/"
     }
   ],
   "related_characters_details": [],

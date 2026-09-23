@@ -48,7 +48,8 @@
     "WALK",
     "TACT",
     "KSKS",
-    "champ"
+    "champ",
+    "DQSG"
   ],
   "main_family": "物質系",
   "sub_family": "-",
@@ -59,9 +60,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00208",
+  "zukan_no": "No.00216",
   "prev_id": "4C07W0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/mad-ruper/",
   "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
   "mamechishiki_pages": [],
   "color_variants": [
     {

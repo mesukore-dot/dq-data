@@ -34,16 +34,18 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00246",
+  "zukan_no": "No.00256",
   "prev_id": "5B02D0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/03/dragon-soldier/",
   "next_id": "5B02D0012",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/03/jarvis/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "4C02D0010",
-      "name": "テラノライナー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/テラノライナー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/teranoraina/"
+      "id": "2E02D0006",
+      "name": "ダッシュラン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ダッシュラン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/dash-run/"
     },
     {
       "id": "3D02D0009",
@@ -52,10 +54,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/04/12/setugenryu/"
     },
     {
-      "id": "2E02D0006",
-      "name": "ダッシュラン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ダッシュラン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/dash-run/"
+      "id": "4C02D0010",
+      "name": "テラノライナー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/テラノライナー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/teranoraina/"
     }
   ],
   "related_characters_details": [],

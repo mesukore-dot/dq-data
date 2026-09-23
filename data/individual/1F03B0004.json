@@ -57,7 +57,9 @@
   "related_characters": [],
   "zukan_no": "No.00029",
   "prev_id": "1F03B0003-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/",
   "next_id": "1F04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/28/bushy-baby/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（昭和63年）1988年2月10日、ファミコン版「ドラゴンクエストIII そして伝説へ…（DQ3）」から登場。",
@@ -74,16 +76,16 @@
   ],
   "color_variants": [
     {
-      "id": "2E03B0001-1",
-      "name": "ゴールデンコーン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/"
-    },
-    {
       "id": "2E03B0001",
       "name": "アルミラージ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アルミラージ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/05/arumira-ji/"
+    },
+    {
+      "id": "2E03B0001-1",
+      "name": "ゴールデンコーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールデンコーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/"
     }
   ],
   "related_characters_details": [],

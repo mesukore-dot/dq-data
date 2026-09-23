@@ -37,22 +37,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00201",
+  "zukan_no": "No.00209",
   "prev_id": "4C02D0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/09/dragon-mad/",
   "next_id": "4C02D0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/mandrake-mercenary/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "6A02D0004",
-      "name": "バトルレックス",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/バトルレックス.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/03/09/battlerex/"
-    },
     {
       "id": "5B02D0010",
       "name": "ドラゴンソルジャー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンソルジャー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/03/dragon-soldier/"
+    },
+    {
+      "id": "6A02D0004",
+      "name": "バトルレックス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/バトルレックス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/03/09/battlerex/"
     }
   ],
   "related_characters_details": [],

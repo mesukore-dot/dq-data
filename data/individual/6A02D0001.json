@@ -58,22 +58,24 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00268",
+  "zukan_no": "No.00281",
   "prev_id": "6A01S0020",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/",
   "next_id": "6A02D0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/05/hydra/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "5B02D0001",
-      "name": "キースドラゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キースドラゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/01/19/ki-sudoragon/"
-    },
     {
       "id": "4C02D0001",
       "name": "ドラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラゴン-green.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/"
+    },
+    {
+      "id": "5B02D0001",
+      "name": "キースドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キースドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/19/ki-sudoragon/"
     }
   ],
   "related_characters_details": [],

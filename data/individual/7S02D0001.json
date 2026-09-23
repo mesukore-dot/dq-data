@@ -44,22 +44,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00293",
+  "zukan_no": "No.00308",
   "prev_id": "7S01S0020",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/",
   "next_id": "7S02D0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/05/yamatanoorochi/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "5B02D0003",
-      "name": "レッドドラゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/レッドドラゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/red-dragon/"
-    },
     {
       "id": "4C02D0003",
       "name": "グリーンドラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/グリーンドラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/11/green-dragon/"
+    },
+    {
+      "id": "5B02D0003",
+      "name": "レッドドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/レッドドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/red-dragon/"
     }
   ],
   "related_characters_details": [],

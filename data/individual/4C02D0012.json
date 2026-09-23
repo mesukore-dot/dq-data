@@ -24,9 +24,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00205",
+  "zukan_no": "No.00213",
   "prev_id": "4C02D0011",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/12/14/bobonga/",
   "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（令和4年）2022年12月9日「ドラゴンクエストトレジャーズ 蒼き瞳と大空の羅針盤」から登場。",
@@ -41,16 +43,10 @@
   ],
   "color_variants": [
     {
-      "id": "8SS02D0002",
-      "name": "エンゼルゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
-    },
-    {
-      "id": "3D02D0011",
-      "name": "シャドラン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シャドラン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/dark-dragling/"
+      "id": "1F02D0004",
+      "name": "ピクシードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ピクシードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/"
     },
     {
       "id": "2E02D0008",
@@ -59,10 +55,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/"
     },
     {
-      "id": "1F02D0004",
-      "name": "ピクシードラゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ピクシードラゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/"
+      "id": "3D02D0011",
+      "name": "シャドラン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シャドラン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/dark-dragling/"
+    },
+    {
+      "id": "8SS02D0002",
+      "name": "エンゼルゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
     }
   ],
   "related_characters_details": [],

@@ -18,7 +18,7 @@
     "DQMSL"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": "-",
   "other_families": [],
   "release_date": "2003年3月29日",
   "voice_actor": "-",
@@ -26,22 +26,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00278",
+  "zukan_no": "No.00293",
   "prev_id": "7S01S0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/27/healiedq4/",
   "next_id": "7S01S0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/19/slimemadexyura/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "5B01S0022",
-      "name": "エルダースライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エルダースライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/elder-slime/"
-    },
     {
       "id": "3D01S0036",
       "name": "トレーナースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/トレーナースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/trainer-slime/"
+    },
+    {
+      "id": "5B01S0022",
+      "name": "エルダースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エルダースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/elder-slime/"
     }
   ],
   "related_characters_details": [],

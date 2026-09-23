@@ -27,7 +27,9 @@
   "related_characters": [],
   "zukan_no": "No.00021",
   "prev_id": "1F02D0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/07/mera-lizard/",
   "next_id": "1F02D0005",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/19/hanamaki-dragon/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（令和4年）2022年12月9日「ドラゴンクエストトレジャーズ 蒼き瞳と大空の羅針盤」から登場。",
@@ -42,16 +44,10 @@
   ],
   "color_variants": [
     {
-      "id": "8SS02D0002",
-      "name": "エンゼルゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
-    },
-    {
-      "id": "4C02D0012",
-      "name": "ゴルドロン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴルドロン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/"
+      "id": "2E02D0008",
+      "name": "ウィッシュドラゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィッシュドラゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/"
     },
     {
       "id": "3D02D0011",
@@ -60,10 +56,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/09/13/dark-dragling/"
     },
     {
-      "id": "2E02D0008",
-      "name": "ウィッシュドラゴ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィッシュドラゴ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/"
+      "id": "4C02D0012",
+      "name": "ゴルドロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴルドロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/"
+    },
+    {
+      "id": "8SS02D0002",
+      "name": "エンゼルゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
     }
   ],
   "related_characters_details": [],

@@ -3,7 +3,7 @@
   "name": "スラ忍ピンク",
   "furigana": "すらにんぴんく",
   "english_name": "Pink ninja slime",
-  "page_url": [],
+  "page_url": "[]",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ピンクスピネル.webp",
   "monster_family": "スラ忍ピンク族",
   "search_keywords": [
@@ -30,6 +30,11 @@
     "-"
   ],
   "related_characters": [],
+  "zukan_no": "No.00129",
+  "prev_id": "3D01S0023",
+  "prev_page_url": "[]",
+  "next_id": "3D01S0025",
+  "next_page_url": "[]",
   "mamechishiki_pages": [],
   "color_variants": [],
   "related_characters_details": [],

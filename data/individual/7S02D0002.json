@@ -49,22 +49,24 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00294",
+  "zukan_no": "No.00309",
   "prev_id": "7S02D0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/andorearu/",
   "next_id": "7S02D0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/08/30/ibu-ru/",
   "mamechishiki_pages": [],
   "color_variants": [
-    {
-      "id": "8SS02D0001",
-      "name": "キングヒドラ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キングヒドラ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/king-hydra/"
-    },
     {
       "id": "6A02D0002",
       "name": "ヒドラ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヒドラ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/05/hydra/"
+    },
+    {
+      "id": "8SS02D0001",
+      "name": "キングヒドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キングヒドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/king-hydra/"
     },
     {
       "id": "9X02D0002",

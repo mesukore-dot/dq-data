@@ -43,11 +43,25 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00241",
+  "zukan_no": "No.00251",
   "prev_id": "5B02D0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/hadesunaito/",
   "next_id": "5B02D0007-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/",
   "mamechishiki_pages": [],
   "color_variants": [
+    {
+      "id": "2E02D0004",
+      "name": "リザードマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リザードマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/lizard-man/"
+    },
+    {
+      "id": "3D02D0007",
+      "name": "りゅうせんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうせんし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/ryusenshi/"
+    },
     {
       "id": "4C02D0009",
       "name": "りゅうき兵",
@@ -59,18 +73,6 @@
       "name": "アカツキショウグン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
-    },
-    {
-      "id": "3D02D0007",
-      "name": "りゅうせんし",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうせんし.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/ryusenshi/"
-    },
-    {
-      "id": "2E02D0004",
-      "name": "リザードマン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リザードマン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/lizard-man/"
     }
   ],
   "related_characters_details": [],

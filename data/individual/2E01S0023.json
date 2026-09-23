@@ -7,7 +7,7 @@
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶スライム.webp",
   "monster_family": "スライム族",
   "search_keywords": [
-    "ブレイク",
+    "ブレイク系",
     "公式イラストあり"
   ],
   "first_appearance": "DQMJ3",
@@ -25,9 +25,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00080",
+  "zukan_no": "No.00081",
   "prev_id": "2E01S0022",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/25/slime-escargot/",
   "next_id": "2E01S0024",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/19/slime-snow/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成28年）2016年3月24日\nNintendo3DS用ソフト「ドラゴンクエストモンスターズジョーカー3（DQMJ3）」から登場。",
@@ -47,6 +49,48 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/"
     },
     {
+      "id": "1F01S0012",
+      "name": "キュートスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キュートスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/02/cutie-slime/"
+    },
+    {
+      "id": "2E01S0001",
+      "name": "スライムベス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/スライムベス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/"
+    },
+    {
+      "id": "2E01S0008",
+      "name": "クリスマスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クリスマスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/xmas-slime/"
+    },
+    {
+      "id": "2E01S0024",
+      "name": "スライムスノー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムスノー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/slime-snow/"
+    },
+    {
+      "id": "2E01S0025",
+      "name": "マーブルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マーブルスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marble-slime/"
+    },
+    {
+      "id": "2E01S0026",
+      "name": "チョコスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/チョコスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/chocolate-slime/"
+    },
+    {
+      "id": "2E01S0027",
+      "name": "マシュマロスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マシュマロスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marshmallow-slime/"
+    },
+    {
       "id": "2E01S0029",
       "name": "海賊スライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/海賊スライム.webp",
@@ -59,154 +103,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
-      "id": "5B01S0027",
-      "name": "ふじやまスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ふじやまスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/fuji-slime/"
-    },
-    {
-      "id": "CP-YS01S0002",
-      "name": "つゆだくスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/"
-    },
-    {
-      "id": "CP-YS01S0001",
-      "name": "どんぶりスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
-    },
-    {
-      "id": "7S01S0017",
-      "name": "スラミチ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラミチ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/01/22/uramiti/"
-    },
-    {
-      "id": "7S01S0020",
-      "name": "スラクト",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラクト.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/"
-    },
-    {
-      "id": "7S01S0019",
-      "name": "プレミアムスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プレミアムスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/11/03/premium-slime/"
-    },
-    {
-      "id": "2E01S0027",
-      "name": "マシュマロスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マシュマロスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marshmallow-slime/"
-    },
-    {
-      "id": "2E01S0026",
-      "name": "チョコスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/チョコスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/chocolate-slime/"
-    },
-    {
-      "id": "4C01S0031",
-      "name": "ヒスイスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ヒスイスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/19/jade-slime/"
-    },
-    {
-      "id": "2E01S0025",
-      "name": "マーブルスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マーブルスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marble-slime/"
-    },
-    {
-      "id": "2E01S0024",
-      "name": "スライムスノー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムスノー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/slime-snow/"
-    },
-    {
-      "id": "4C01S0030",
-      "name": "凶メタルスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶メタルスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/kyoumetarusuraimu/"
-    },
-    {
-      "id": "3D01S0035",
-      "name": "凶スライムベス",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶スライムベス.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/kyousuraimubesu/"
-    },
-    {
-      "id": "3D01S0034",
-      "name": "スライムゴールド",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムゴールド.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/16/slime-gold/"
-    },
-    {
-      "id": "4C01S0024",
-      "name": "ホイップスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイップスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/07/06/whip-slime/"
-    },
-    {
-      "id": "4C01S0023",
-      "name": "プリンスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/プリンスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/07/06/purine-slime/"
-    },
-    {
-      "id": "4C01S0022",
-      "name": "ピーチスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ピーチスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/peach-slime/"
-    },
-    {
-      "id": "4C01S0021",
-      "name": "ベリースライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベリースライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/berry-slime/"
-    },
-    {
-      "id": "4C01S0020",
-      "name": "ライムスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ライムスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lime-slime/"
-    },
-    {
-      "id": "4C01S0019",
-      "name": "レモンスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レモンスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lemon-slime/"
-    },
-    {
-      "id": "4C01S0018",
-      "name": "チェリースライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チェリースライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/"
-    },
-    {
-      "id": "3D01S0014",
-      "name": "声霊の幼体",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/声霊の幼体.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/seireinoyoutai/"
-    },
-    {
-      "id": "3D01S0013",
-      "name": "ヤミスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ヤミスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/04/09/yami-slime/"
-    },
-    {
-      "id": "2E01S0008",
-      "name": "クリスマスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クリスマスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/xmas-slime/"
-    },
-    {
-      "id": "3D01S0006",
-      "name": "スライムダーク",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムダーク.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/slime-dark/"
+      "id": "3D01S0001",
+      "name": "メタルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/メタルスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/"
     },
     {
       "id": "3D01S0005",
@@ -215,22 +115,124 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/06/27/electroslime/"
     },
     {
-      "id": "3D01S0001",
-      "name": "メタルスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/メタルスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/"
+      "id": "3D01S0006",
+      "name": "スライムダーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムダーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/slime-dark/"
     },
     {
-      "id": "2E01S0001",
-      "name": "スライムベス",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/スライムベス.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/"
+      "id": "3D01S0013",
+      "name": "ヤミスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ヤミスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/09/yami-slime/"
     },
     {
-      "id": "1F01S0012",
-      "name": "キュートスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キュートスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/02/cutie-slime/"
+      "id": "3D01S0014",
+      "name": "声霊の幼体",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/声霊の幼体.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/seireinoyoutai/"
+    },
+    {
+      "id": "3D01S0034",
+      "name": "スライムゴールド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムゴールド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/16/slime-gold/"
+    },
+    {
+      "id": "3D01S0035",
+      "name": "凶スライムベス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶スライムベス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/kyousuraimubesu/"
+    },
+    {
+      "id": "4C01S0018",
+      "name": "チェリースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チェリースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/"
+    },
+    {
+      "id": "4C01S0019",
+      "name": "レモンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レモンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lemon-slime/"
+    },
+    {
+      "id": "4C01S0020",
+      "name": "ライムスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ライムスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lime-slime/"
+    },
+    {
+      "id": "4C01S0021",
+      "name": "ベリースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベリースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/berry-slime/"
+    },
+    {
+      "id": "4C01S0022",
+      "name": "ピーチスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ピーチスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/peach-slime/"
+    },
+    {
+      "id": "4C01S0023",
+      "name": "プリンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/プリンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/06/purine-slime/"
+    },
+    {
+      "id": "4C01S0024",
+      "name": "ホイップスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイップスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/06/whip-slime/"
+    },
+    {
+      "id": "4C01S0030",
+      "name": "凶メタルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/凶メタルスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/kyoumetarusuraimu/"
+    },
+    {
+      "id": "4C01S0031",
+      "name": "ヒスイスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ヒスイスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/19/jade-slime/"
+    },
+    {
+      "id": "5B01S0027",
+      "name": "ふじやまスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ふじやまスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/fuji-slime/"
+    },
+    {
+      "id": "7S01S0017",
+      "name": "スラミチ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラミチ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/22/uramiti/"
+    },
+    {
+      "id": "7S01S0019",
+      "name": "プレミアムスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プレミアムスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/03/premium-slime/"
+    },
+    {
+      "id": "7S01S0020",
+      "name": "スラクト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラクト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/"
+    },
+    {
+      "id": "CP-YS01S0001",
+      "name": "どんぶりスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
+    },
+    {
+      "id": "CP-YS01S0002",
+      "name": "つゆだくスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/"
     }
   ],
   "related_characters_details": [],
