@@ -1,0 +1,53 @@
+{
+  "id": "4C01S0038",
+  "name": "ジェネラン",
+  "furigana": "じぇねらん",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/09/23/generan/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェネラン.webp",
+  "monster_family": "タマゴロン族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMSL",
+  "appearances": [
+    "DQMSL"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2014年4月30日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00203",
+  "prev_id": "4C01S0037",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
+  "next_id": "4C02D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0006",
+      "name": "タマゴロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/タマゴロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/"
+    },
+    {
+      "id": "4C01S0006",
+      "name": "ワンダーエッグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ワンダーエッグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/"
+    },
+    {
+      "id": "5B01S0030",
+      "name": "エンペラン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンペラン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/23/emperon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
