@@ -30,34 +30,51 @@ def main():
 
     print(f"🔍 読み込み直後のモンスター数: {len(monsters)} 件")
 
-    # 💡 ページがある・ないに関係なく、全モンスターを文字の形（大文字）で綺麗にID順に整列！
+    # 💡 全モンスターを大文字のID順で綺麗に整列！
     monsters.sort(key=lambda x: x["id"].upper())
 
-    # 🔢 モンスター限定の列で、隣のIDとURL（未作成なら空欄）を確実に仕込む！
+    # 🔢 まずは全員に図鑑番号を割り振り、page_urlを文字列型に統一
     for i, item in enumerate(monsters):
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}"
-        
-        # 自分自身の page_url が存在することを確認
-        item["page_url"] = str(item.get("page_url", ""))
-        
-        if i > 0:
-            item["prev_id"] = monsters[i - 1]["id"]
-            item["prev_page_url"] = str(monsters[i - 1].get("page_url", ""))
-        else:
-            item["prev_id"] = ""
-            item["prev_page_url"] = ""
+        item["page_url"] = str(item.get("page_url", "")).strip()
 
-        if i < len(monsters) - 1:
-            item["next_id"] = monsters[i + 1]["id"]
-            item["next_page_url"] = str(monsters[i + 1].get("page_url", ""))
-        else:
-            item["next_id"] = ""
-            item["next_page_url"] = ""
+    # 🔄 【新機能】ページが存在する（URLが空ではない）モンスターだけのリストを作成
+    valid_monsters = [m for m in monsters if m["page_url"] != ""]
 
-    # 🚨【確実な土台作り】すべてのモンスターへの前後リンク付与が終わってから全データを合体！
+    # 🔢 有効なモンスター同士で「前後のリンク」を計算して仕込む！
+    for i, item in enumerate(monsters):
+        # 初期値として空欄をセット（項目/キー自体は確実に残す）
+        item["prev_id"] = ""
+        item["prev_page_url"] = ""
+        item["next_id"] = ""
+        item["next_page_url"] = ""
+
+        # 自分自身にページがない（URLが空）の場合は、前後のリンク計算自体をスキップ
+        if item["page_url"] == "":
+            continue
+
+        # 現在の「ページがあるモンスター」が、valid_monsters の中で何番目かを探す
+        try:
+            valid_index = valid_monsters.index(item)
+        except ValueError:
+            continue
+
+        # ⬅️ 【前】のリンク：自分より前に「ページがあるモンスター」がいればそれをセット
+        if valid_index > 0:
+            prev_m = valid_monsters[valid_index - 1]
+            item["prev_id"] = prev_m["id"]
+            item["prev_page_url"] = prev_m["page_url"]
+
+        # ➡️ 【次】のリンク：自分より後に「ページがあるモンスター」がいればそれをセット
+        if valid_index < len(valid_monsters) - 1:
+            next_m = valid_monsters[valid_index + 1]
+            item["next_id"] = next_m["id"]
+            item["next_page_url"] = next_m["page_url"]
+
+    # すべてのモンスターへの前後リンク・スキップ付与が終わってから全データを合体！
     all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
     
-    # 💡 ここで作る名簿（db）には、完璧に計算し終わったモンスターデータが登録されます
+    # 最新の名簿（db）を作成
     db = {item["id"]: item for item in all_data}
     print(f"🔍 名簿（db）に登録されたデータ総数: {len(db)} 件")
 
@@ -114,7 +131,6 @@ def main():
                     if rel_id in db:
                         target = db[rel_id]
                         
-                        # 💡 最新の名簿（db）から、前後URLが確実に残った状態のデータを引っ張ってきます
                         detailed_data = {
                             "id": rel_id,
                             "name": target["name"],
@@ -122,7 +138,6 @@ def main():
                             "image_url": target.get("image_url", "")
                         }
                         
-                        # もし相手がモンスターなら、前後の項目も漏れなく引き継ぐ
                         if "prev_page_url" in target:
                             detailed_data["prev_id"] = target.get("prev_id", "")
                             detailed_data["prev_page_url"] = target.get("prev_page_url", "")
@@ -137,7 +152,8 @@ def main():
     
     # 🅰️ パターンA：IDごとの完全バラバラ個別JSON
     for item in all_data:
-        file_name = f"{item['id']}.json".lower()
+        # 🚨 大文字を維持したファイル名で保存（例: 5B10M0001.json）
+        file_name = f"{item['id']}.json"
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)
 
