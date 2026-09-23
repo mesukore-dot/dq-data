@@ -1,0 +1,69 @@
+{
+  "id": "1F01S0007",
+  "name": "マンドラ",
+  "furigana": "まんどら",
+  "english_name": "Fright bulb",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/18/mandora/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マンドラ.webp",
+  "monster_family": "マンドラ族",
+  "search_keywords": [
+    "Fright bulb",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ11",
+    "DQM1_SP",
+    "DQM2_SP",
+    "DQM3",
+    "DQMSL",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00008",
+  "prev_id": "1F01S0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/",
+  "next_id": "1F01S0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/17/slime-tree/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "7作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ある日　地面から生えてきた　球根のようなスライム。\nかわいい見た目だが　おたけびを上げて　敵をひるませる。",
+      "ecology": "太陽の光を浴びて　元気いっぱい！しぜんと　笑顔になる。\n球根の部分は　だれにもさわられたくない。さわると怒るぞ。",
+      "trivia_notes": "マンドラゴラ（別名：マンドレイク）ヨーロッパなどに生えている　強い毒を持つ植物。人間のからだに似ており　さまざまなファンタジー作品などに登場する。地面から引き抜くと　悲鳴を上げ　聞いた者は死んでしまうという。クスリや錬金のそざいにも　よく使われる。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "3D01S0015",
+      "name": "トマトマーレ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/トマトマーレ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/tomatoma-re/"
+    },
+    {
+      "id": "5B01S0012",
+      "name": "アラウネ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/アラウネ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/araune/"
+    },
+    {
+      "id": "5B01S0012-1",
+      "name": "黄泉の花",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/黄泉の花.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/10/flower-of-yomi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

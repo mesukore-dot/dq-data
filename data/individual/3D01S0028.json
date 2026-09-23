@@ -1,0 +1,64 @@
+{
+  "id": "3D01S0028",
+  "name": "エンゼルスライム",
+  "furigana": "えんぜるすらいむ",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/25/angel-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/エンゼルスライム.webp",
+  "monster_family": "エンゼルスライム族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM2",
+  "appearances": [
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "スライム系",
+  "sub_family": [],
+  "other_families": [],
+  "release_date": "2001年3月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00133",
+  "prev_id": "3D01S0027",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/06/14/suranin-purple/",
+  "next_id": "3D01S0029",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/05/21/aqua-slime/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B01S0019",
+      "name": "メタルエンゼル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルエンゼル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/01/11/metal-angel/"
+    },
+    {
+      "id": "6A01S0015",
+      "name": "ゴールドエンゼル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールドエンゼル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/21/gold-angel/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

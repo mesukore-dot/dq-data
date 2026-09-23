@@ -1,0 +1,66 @@
+{
+  "id": "1F01S0006",
+  "name": "タマゴロン",
+  "furigana": "たまごろん",
+  "english_name": "Bad egg",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/タマゴロン.webp",
+  "monster_family": "タマゴロン族",
+  "search_keywords": [
+    "Bad egg",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR3",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00007",
+  "prev_id": "1F01S0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/17/buchi-slime/",
+  "next_id": "1F01S0007",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/18/mandora/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成12年）2000年8月26日、PlayStation版「ドラゴンクエストVII エデンの戦士たち（DQ7）」から登場。",
+      "works_count": "10作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "なにが生まれるか　わからない　なぞのタマゴのまもの。\nかわいい顔して　とんでもないものが　生まれることも。",
+      "ability": "こうげきするときは　割れ目から　黒い手が飛びだし　てきを引き裂く。",
+      "personality": "ひとみしりで　さみしがりや。",
+      "ecology": "鳥や　まものの巣のタマゴに　まぎれこみ　エサを持ち帰った親から　おこぼれをもらう。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "4C01S0005",
+      "name": "ワンダーエッグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ワンダーエッグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

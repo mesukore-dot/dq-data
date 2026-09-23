@@ -1,0 +1,57 @@
+{
+  "id": "1F06B0001",
+  "name": "アイアンアント",
+  "furigana": "あいあんあんと",
+  "english_name": "Iron ant",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/21/iron-ant/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/アイアンアント-1.webp",
+  "monster_family": "ぐんたいアリ族",
+  "search_keywords": [
+    "Iron ant",
+    "自然系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQB2",
+    "DQMSL",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "虫系",
+  "sub_family": "-",
+  "other_families": [
+    "自然系"
+  ],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00041",
+  "prev_id": "1F05B0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/16/nezukoumori/",
+  "next_id": "1F06B0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/08/31/semimogura/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和62年）1987年1月26日、ファミコン版「ドラゴンクエストII 悪霊の神々（DQ2）」から登場。",
+      "works_count": "5作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "てつのよろい並にかたい　アリのまもの。1体1体は　つよくはないが　群れになると　やっかい。",
+      "ability": "てつのような強力なアゴで　冒険者を　くいちぎる。たかがアリだと　おもわないことだ。",
+      "ecology": "小麦が大好物で　群れをなして　畑を荒らしまくる。農家のきらわれもの。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "8SS02D0002",
+  "name": "エンゼルゴン",
+  "furigana": "えんぜるごん",
+  "english_name": "Elysian dragling",
+  "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
+  "monster_family": "ピクシードラゴン族",
+  "search_keywords": [
+    "Elysian dragling",
+    "エルルー",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQTR",
+  "appearances": [
+    "DQTR",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2022年12月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00327",
+  "prev_id": "8SS02D0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/king-hydra/",
+  "next_id": "9X01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-star/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和4年）2022年12月9日「ドラゴンクエストトレジャーズ 蒼き瞳と大空の羅針盤」から登場。",
+      "works_count": "2作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "七つの竜石から　うまれた　神のチカラを継ぐ　ドラゴン。天使のような笑顔は　みんなを　いやしてくれる。",
+      "personality": "はやく　大きくなって　みんなの役に立ちたいと　つよく願う。わるいことは　絶対にゆるさない　ちいさな聖竜。",
+      "ecology": "ニンゲンのことばは　話せないが　エルッ　エルッ！と鳴く。大好物は　竜のオーロラシェイク。しかし　手に入れるのは　ひとくろう。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F02D0004",
+      "name": "ピクシードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ピクシードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/"
+    },
+    {
+      "id": "2E02D0008",
+      "name": "ウィッシュドラゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィッシュドラゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/"
+    },
+    {
+      "id": "3D02D0011",
+      "name": "シャドラン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シャドラン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/dark-dragling/"
+    },
+    {
+      "id": "4C02D0012",
+      "name": "ゴルドロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴルドロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

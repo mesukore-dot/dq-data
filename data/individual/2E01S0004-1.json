@@ -1,0 +1,100 @@
+{
+  "id": "2E01S0004-1",
+  "name": "ハートナイト",
+  "furigana": "はーとないと",
+  "english_name": "Snooty slime knight",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/02/heart-knight/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートナイト.webp",
+  "monster_family": "スライムナイト族",
+  "search_keywords": [
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年12月26日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00062",
+  "prev_id": "2E01S0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/",
+  "next_id": "2E01S0005",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-slimebesu/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成24年）2012年12月26日「ドラゴンクエストXオンライン 目覚めし五つの種族（DQ10 Ver.1.2）」から登場。",
+      "works_count": "11作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "スライムナイトに　突然変異が起きた　レアなまもの。\nはくあいの剣で　世界中のまものを守護したという\n伝説のスライムナイトだったらしい。",
+      "ability": "ピンクのスライムにまたがり　華麗な剣技で　女の子の\nハートをわしづかみにする。",
+      "personality": "毎日　お気に入りのかぶとの　たてがみに　ツヤが出るまで　クシを入れ　ほかのスライムナイトとは　ちがうことを\nほこりに思う　スーパーナルシスト。相棒のスライムは　あきれている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "2E01S0004",
+      "name": "スライムナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/"
+    },
+    {
+      "id": "3D01S0002",
+      "name": "メタルライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/metal-rider/"
+    },
+    {
+      "id": "3D01S0011",
+      "name": "のっかりゼラチン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+      "page_url": "[]"
+    },
+    {
+      "id": "3D01S0037",
+      "name": "パティシエナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パティシエナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/"
+    },
+    {
+      "id": "5B01S0016",
+      "name": "ダークナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークナイト（DQMCH）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/dark-knight-ch/"
+    },
+    {
+      "id": "6A01S0019",
+      "name": "ジェノライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/"
+    },
+    {
+      "id": "CP-CO01S0002",
+      "name": "かじゅうナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5B01S0004",
+  "name": "スライムプディング",
+  "furigana": "すらいむぷでぃんぐ",
+  "english_name": "Cream Caraslime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/03/slime-pudding/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムプディング.webp",
+  "monster_family": "ウルトラスライム族",
+  "search_keywords": [
+    "Cream Caraslime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8_3D",
+  "appearances": [
+    "DQ8_3D",
+    "DQM3",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2015年8月27日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00219",
+  "prev_id": "5B01S0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-emperor/",
+  "next_id": "5B01S0005",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "6A01S0003",
+      "name": "ウルトラスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ウルトラスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/24/ultra-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

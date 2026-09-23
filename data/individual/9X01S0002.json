@@ -1,0 +1,50 @@
+{
+  "id": "9X01S0002",
+  "name": "メタルゴッデス",
+  "furigana": "めたるごっです",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-go-death/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルゴッデス.webp",
+  "monster_family": "メタルゴッデス族",
+  "search_keywords": [
+    "メタル系",
+    "系統の王",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM2_3DS",
+  "appearances": [
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ3_P",
+    "DQBS",
+    "DQMSL",
+    "TACT"
+  ],
+  "main_family": "スライム系",
+  "sub_family": [
+    "メタル系"
+  ],
+  "other_families": [],
+  "release_date": "2014年2月6日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00329",
+  "prev_id": "9X01S0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-star/",
+  "next_id": "9X02D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/shinryu/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "8SS01S0010",
+      "name": "空の神ホアカリ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ピンクスピネル.webp",
+      "page_url": ""
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "1F09M0001",
+  "name": "モコッキー",
+  "furigana": "もこっきー",
+  "english_name": "Needler",
+  "page_url": "https://dqfan527.xsrv.jp/2024/07/30/needler/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/モコッキー.webp",
+  "monster_family": "モコッキー族",
+  "search_keywords": [
+    "Needler",
+    "魔獣系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ11",
+    "DQM1_SP",
+    "DQM2_SP",
+    "RIV",
+    "KSKS"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00049",
+  "prev_id": "1F08D0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/23/minaraiakuma-2/",
+  "next_id": "1F10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/08/31/togebouzu/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "6作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "おじいちゃんのような　しろいモコモコヒゲが特徴の　なぞのまもの。まるで　わたげのような感触。",
+      "ability": "手にした　おおきな針で　なんでも穴だらけにする。",
+      "ecology": "毛量がおおいのに　無理やりマスクをかぶったため　これでもかというほど　ハミ出てしまった。でも　そんなに気にしていない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_characters_details": [],
+  "related_items_details": []
+}

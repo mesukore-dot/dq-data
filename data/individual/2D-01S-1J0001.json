@@ -1,0 +1,61 @@
+{
+  "id": "2D-01S-1J0001",
+  "name": "おなべのふた",
+  "furigana": "おなべのふた",
+  "english_name": "Pot lid",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/03/onabenohuta/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おなべのフタ.webp",
+  "search_keywords": [
+    "Pot lid",
+    "最弱",
+    "公式イラストあり"
+  ],
+  "armor_type": "盾",
+  "armor_series": "身近なモノシリーズ",
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ11",
+    "DQH2",
+    "DQB2",
+    "DQTR",
+    "DQMB",
+    "STAR"
+  ],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
+      "works_count": "14作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "どこの家庭でも置かれている　キッチン用具を　盾にしたもの。戦士よりも　ママの方が　あつかいが上手い。",
+      "form": "金属製ではなく　木製のフタ。なぜか　メラゾーマや　はげしいほのおを相手にしても　ぜんぜん燃えない。"
+    }
+  ],
+  "series_equipments": [
+    {
+      "id": "1W-01S-1J0001",
+      "name": "ひのきのぼう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/ひのきのぼう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/03/26/hinokinobou/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

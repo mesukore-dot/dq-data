@@ -1,0 +1,67 @@
+{
+  "id": "6A02D0003",
+  "name": "グレイトドラゴン",
+  "furigana": "ぐれいとどらごん",
+  "english_name": "Great dragon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/10/great-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/グレイトドラゴン.webp",
+  "monster_family": "グレイトドラゴン族",
+  "search_keywords": [
+    "Great dragon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ10",
+    "DQ11",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00283",
+  "prev_id": "6A02D0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/hydra/",
+  "next_id": "6A02D0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/03/09/battlerex/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B02D0009",
+      "name": "ブラックドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ブラックドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/black-dragon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

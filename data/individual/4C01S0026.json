@@ -1,0 +1,41 @@
+{
+  "id": "4C01S0026",
+  "name": "スライムフェアリー",
+  "furigana": "すらいむふぇありー",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2023/12/08/slime-fairy/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムフェアリー.webp",
+  "monster_family": "はねスライム族",
+  "search_keywords": [
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQM3",
+  "appearances": [
+    "DQM3"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年12月1日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00192",
+  "prev_id": "4C01S0025",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/12/04/korone-white/",
+  "next_id": "4C01S0027",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/12/07/slime-joker/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0009",
+      "name": "はねスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/はねスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/17/hane-slime/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

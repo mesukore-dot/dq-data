@@ -1,0 +1,107 @@
+{
+  "id": "3D01S0008",
+  "name": "ベホイムスライム",
+  "furigana": "べほいむすらいむ",
+  "english_name": "Sootheslime",
+  "page_url": "https://dqfan527.xsrv.jp/2024/05/18/sootheslime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホイムスライム.webp",
+  "monster_family": "ホイミスライム族",
+  "search_keywords": [
+    "Sootheslime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ9",
+  "appearances": [
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "MSP",
+    "RIV",
+    "WALK",
+    "TACT",
+    "DQSG"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2009年7月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00111",
+  "prev_id": "3D01S0007-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/",
+  "next_id": "3D01S0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/turara-slime/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0003",
+      "name": "ホイミスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホイミスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/25/hoimi-slime/"
+    },
+    {
+      "id": "2E01S0003",
+      "name": "ベホイミスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホイミスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/behoimi-slime/"
+    },
+    {
+      "id": "3D01S0004",
+      "name": "しびれスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/しびれスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/sting-slime/"
+    },
+    {
+      "id": "4C01S0002",
+      "name": "ベホマスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ベホマスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/behoma-slime/"
+    },
+    {
+      "id": "4C01S0011",
+      "name": "コスモスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/コスモスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/cosmoslime/"
+    },
+    {
+      "id": "4C01S0013",
+      "name": "メタルホイミン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/メタルホイミン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/metal-healie/"
+    },
+    {
+      "id": "5B01S0017",
+      "name": "まどうスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/まどうスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/21/magic-slime/"
+    },
+    {
+      "id": "6A01S0020",
+      "name": "ホミロット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/"
+    },
+    {
+      "id": "7S01S0001",
+      "name": "ホミちょ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホミちょ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/02/homicho/"
+    },
+    {
+      "id": "7S01S0006",
+      "name": "ホイミン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホイミン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/27/healiedq4/"
+    },
+    {
+      "id": "7S01S0015",
+      "name": "ホミロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

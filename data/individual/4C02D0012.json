@@ -1,0 +1,72 @@
+{
+  "id": "4C02D0012",
+  "name": "ゴルドロン",
+  "furigana": "ごるどろん",
+  "english_name": "Shiny dragling",
+  "page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴルドロン.webp",
+  "monster_family": "ピクシードラゴン族",
+  "search_keywords": [
+    "Shiny dragling",
+    "ゴールデン",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQTR",
+  "appearances": [
+    "DQTR"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "ゴールデン",
+  "other_families": [],
+  "release_date": "2022年12月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00213",
+  "prev_id": "4C02D0011",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/12/14/bobonga/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和4年）2022年12月9日「ドラゴンクエストトレジャーズ 蒼き瞳と大空の羅針盤」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ひかりかがやく　黄金のドラゴン。ゴージャスな見た目のせいで　すぐに　ねらわれてしまう。",
+      "personality": "ゴールドを　大量に持っているニンゲンや　まものに対して　嫉妬してしまう。意外と　ひねくれもの。",
+      "ecology": "どこでも目立つ　ゴールデンボディは　じぶんでも　まぶしく感じている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F02D0004",
+      "name": "ピクシードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ピクシードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/"
+    },
+    {
+      "id": "2E02D0008",
+      "name": "ウィッシュドラゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィッシュドラゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/"
+    },
+    {
+      "id": "3D02D0011",
+      "name": "シャドラン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シャドラン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/dark-dragling/"
+    },
+    {
+      "id": "8SS02D0002",
+      "name": "エンゼルゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

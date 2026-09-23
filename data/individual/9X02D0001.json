@@ -1,0 +1,70 @@
+{
+  "id": "9X02D0001",
+  "name": "しんりゅう",
+  "furigana": "しんりゅう",
+  "english_name": "Xenlon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/12/shinryu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/しんりゅう.webp",
+  "monster_family": "スカイドラゴン族",
+  "search_keywords": [
+    "Xenlon",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3_SFC",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ7_RM",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3_P",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1996年12月6日",
+  "voice_actor": "稲田徹",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00330",
+  "prev_id": "9X01S0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-go-death/",
+  "next_id": "9X02D0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/gurandorago-n/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D02D0002",
+      "name": "スカイドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スカイドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/06/sky-dragon/"
+    },
+    {
+      "id": "4C02D0004",
+      "name": "スノードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スノードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/snow-dragon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

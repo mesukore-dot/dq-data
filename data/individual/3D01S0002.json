@@ -1,0 +1,117 @@
+{
+  "id": "3D01S0002",
+  "name": "メタルライダー",
+  "furigana": "めたるらいだー",
+  "english_name": "Metal slime knight",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/07/metal-rider/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルライダー.webp",
+  "monster_family": "スライムナイト族",
+  "search_keywords": [
+    "Metal slime knight",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR2",
+    "FTR3",
+    "DQSW",
+    "DQH1",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "DQSG"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00104",
+  "prev_id": "3D01S0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/",
+  "next_id": "3D01S0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/buchi-behomara/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E01S0004",
+      "name": "スライムナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/"
+    },
+    {
+      "id": "2E01S0004-1",
+      "name": "ハートナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/heart-knight/"
+    },
+    {
+      "id": "3D01S0011",
+      "name": "のっかりゼラチン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+      "page_url": "[]"
+    },
+    {
+      "id": "3D01S0037",
+      "name": "パティシエナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パティシエナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/"
+    },
+    {
+      "id": "5B01S0016",
+      "name": "ダークナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークナイト（DQMCH）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/dark-knight-ch/"
+    },
+    {
+      "id": "6A01S0019",
+      "name": "ジェノライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/"
+    },
+    {
+      "id": "CP-CO01S0002",
+      "name": "かじゅうナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

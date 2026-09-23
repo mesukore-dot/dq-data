@@ -1,0 +1,79 @@
+{
+  "id": "1F10M0002",
+  "name": "おばけキャンドル",
+  "furigana": "おばけきゃんどる",
+  "english_name": "Wax murderer",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/23/obake-candle/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おばけキャンドル.png",
+  "monster_family": "おばけキャンドル",
+  "search_keywords": [
+    "Wax murderer",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00051",
+  "prev_id": "1F10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/31/togebouzu/",
+  "next_id": "1F10M0002-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/01/15/yougan-torch/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
+      "works_count": "17作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "まどうしが　命をふきこんだという　ロウソクのまもの。\n城のタンスの中に　ずっと放置されていた　ロウソクの怨念は　復讐心で燃えている。",
+      "ability": "アタマのほのおから　メラをとばしてくる。\nしくじって　1度　洋館が燃えそうになった。",
+      "personality": "感情的になりやすく　アタマに血がのぼると　火加減も強くなる。はげしく燃えているときは　近づかない方がよさそうだ。",
+      "ecology": "ほのおが尽きると　この世から消えてしまう。短い寿命の中で　おばけ同士でパーティを開くのが　日頃のたのしみ。\nさあ　また　ごちそうが　運ばれてきたぞ。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [
+    {
+      "id": "1F10M0002-1",
+      "name": "ようがんトーチ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ようがんトーチ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/01/15/yougan-torch/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

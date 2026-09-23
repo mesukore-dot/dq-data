@@ -1,0 +1,50 @@
+{
+  "id": "6A01S0016",
+  "name": "ゴールドパール",
+  "furigana": "ごーるどぱーる",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/15/gold-pearl/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールドパール.webp",
+  "monster_family": "パールスライム族",
+  "search_keywords": [
+    "ゴールデン・黄金",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQMJ3",
+  "appearances": [
+    "DQMJ3",
+    "DQMJ3_P",
+    "STAR"
+  ],
+  "main_family": "スライム系",
+  "sub_family": [],
+  "other_families": [],
+  "release_date": "2016年3月24日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00276",
+  "prev_id": "6A01S0015",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/09/21/gold-angel/",
+  "next_id": "6A01S0017",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/31/emerald-king-slime/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0011",
+      "name": "パールスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/パールスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/16/perl-slime/"
+    },
+    {
+      "id": "5B01S0020",
+      "name": "メタルパール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルパール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/15/metal-pearl/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

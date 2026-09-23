@@ -1,0 +1,80 @@
+{
+  "id": "5B02D0007",
+  "name": "シュプリンガー",
+  "furigana": "しゅぷりんがー",
+  "english_name": "Mandrake marshal",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/10/shupringer/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シュプリンガー.webp",
+  "monster_family": "リザードマン族",
+  "search_keywords": [
+    "Mandrake marshal",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00251",
+  "prev_id": "5B02D0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/hadesunaito/",
+  "next_id": "5B02D0007-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E02D0004",
+      "name": "リザードマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リザードマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/lizard-man/"
+    },
+    {
+      "id": "3D02D0007",
+      "name": "りゅうせんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうせんし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/ryusenshi/"
+    },
+    {
+      "id": "4C02D0009",
+      "name": "りゅうき兵",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/りゅうき兵.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mandrake-mercenary/"
+    },
+    {
+      "id": "5B02D0007-1",
+      "name": "アカツキショウグン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アカツキショウグン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/17/akatsuki-shogun/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
