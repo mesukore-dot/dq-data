@@ -316,6 +316,103 @@
     "zukan_no": "No.00030"
   },
   {
+    "id": "1F03B0006",
+    "name": "ビッグハット",
+    "furigana": "びっぐはっと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/21/big-hat/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ビッグハット.webp",
+    "search_keywords": [
+      "Sham hatwitch",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQTR",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00031"
+  },
+  {
+    "id": "1F03B0007",
+    "name": "ねこまどう",
+    "furigana": "ねこまどう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%81%ad%e3%81%93%e3%81%be%e3%81%a9%e3%81%86/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ねこまどう.webp",
+    "search_keywords": [
+      "Meowgician",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00032"
+  },
+  {
+    "id": "1F03B0007-1",
+    "name": "ミケまどう",
+    "furigana": "みけまどう",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/20/caliconjurer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ミケまどう.webp",
+    "search_keywords": [
+      "Caliconjurer",
+      "転生モンスター",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQMB",
+      "DQBS",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2015年4月30日",
+    "zukan_no": "No.00033"
+  },
+  {
     "id": "2E03B0001",
     "name": "アルミラージ",
     "furigana": "あるみらーじ",
@@ -370,7 +467,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00100"
+    "zukan_no": "No.00103"
   },
   {
     "id": "2E03B0001-1",
@@ -402,7 +499,7 @@
     "main_family": "けもの系",
     "sub_family": "ゴールデン",
     "release_date": "2012年10月9日",
-    "zukan_no": "No.00101"
+    "zukan_no": "No.00104"
   },
   {
     "id": "2E03B0002",
@@ -453,7 +550,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00102"
+    "zukan_no": "No.00105"
   },
   {
     "id": "3D03B0001",
@@ -491,7 +588,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00160"
+    "zukan_no": "No.00163"
   },
   {
     "id": "3D03B0002",
@@ -516,7 +613,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00161"
+    "zukan_no": "No.00164"
   },
   {
     "id": "4C03B0001",
@@ -539,7 +636,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00219"
+    "zukan_no": "No.00222"
   },
   {
     "id": "4C03B0002",
@@ -562,7 +659,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00220"
+    "zukan_no": "No.00223"
   },
   {
     "id": "6A03B0001",
@@ -585,6 +682,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00298"
+    "zukan_no": "No.00301"
   }
 ]
