@@ -40,7 +40,19 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/itazuramogura/",
   "next_id": "1F03B0007",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%81%ad%e3%81%93%e3%81%be%e3%81%a9%e3%81%86/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成24年）2012年8月2日「ドラゴンクエストXオンライン 目覚めし五つの種族（DQ10 Ver.1.0）」から登場。",
+      "works_count": "12作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "おしゃれなぼうしをかぶった　イノシシのまもの。ぼうしも　実はまものである。",
+      "ecology": "短い足で　トコトコと歩く。元々は　まものたちのペットだったが　戦力強化のために　無理やり戦わされている。",
+      "habitat": "アストルティアの雪山に　大量に生息している。そのため　初心者オーガに　よく狩られる。",
+      "variants_size": "ビッグビッグハット／チビッグハット",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D10M0001",
