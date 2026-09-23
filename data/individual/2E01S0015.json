@@ -3,7 +3,7 @@
   "name": "はんじゅくスライム",
   "furigana": "はんじゅくすらいむ",
   "english_name": "-",
-  "page_url": "[]",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/02/hanjuku-slime/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
   "monster_family": "バブルスライム族",
   "search_keywords": [
@@ -15,7 +15,7 @@
     "DQ10"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": "-",
   "other_families": [],
   "release_date": "2019年4月10日",
   "voice_actor": "-",
@@ -26,7 +26,16 @@
   "prev_page_url": "[]",
   "next_id": "2E01S0016",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/08/28/chocolate-perm/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成31年）2019年4月10日「ドラゴンクエストX オンライン目覚めし五つの種族（DQ10）」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "タマゴロンから生まれた　めだま焼きのような　スライム。たべれるのかは　不明。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0002",
