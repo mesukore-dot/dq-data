@@ -605,38 +605,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00147"
-  },
-  {
-    "id": "3D02D0004",
-    "name": "ウィングスネーク",
-    "furigana": "うぃんぐすねーく",
-    "page_url": "https://dqfan527.xsrv.jp/2023/09/25/wing-snake/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィングスネーク.webp",
-    "search_keywords": [
-      "Flython",
-      "公式イラストあり"
-    ],
-    "first_appearance": "DQ6",
-    "appearances": [
-      "DQ2_HD2D",
-      "DQ6",
-      "DQ9",
-      "DQ11",
-      "DQM1",
-      "DQM1_3DS",
-      "DQM1_SP",
-      "DQM2",
-      "DQM2_3DS",
-      "DQM2_SP",
-      "DQM3",
-      "DQM4",
-      "DQMSL"
-    ],
-    "main_family": "ドラゴン系",
-    "sub_family": "-",
-    "release_date": "1995年12月9日",
-    "zukan_no": "No.00147"
+    "zukan_no": "No.00146"
   },
   {
     "id": "3D02D0005",
@@ -669,7 +638,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00148"
+    "zukan_no": "No.00147"
   },
   {
     "id": "3D02D0006",
@@ -716,7 +685,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00149"
+    "zukan_no": "No.00148"
   },
   {
     "id": "3D02D0006-1",
@@ -744,7 +713,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2013年7月25日",
-    "zukan_no": "No.00150"
+    "zukan_no": "No.00149"
   },
   {
     "id": "3D02D0007",
@@ -773,7 +742,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00151"
+    "zukan_no": "No.00150"
   },
   {
     "id": "3D02D0008",
@@ -813,7 +782,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00152"
+    "zukan_no": "No.00151"
   },
   {
     "id": "3D02D0009",
@@ -842,7 +811,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00153"
+    "zukan_no": "No.00152"
   },
   {
     "id": "3D02D0010",
@@ -878,7 +847,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00154"
+    "zukan_no": "No.00153"
   },
   {
     "id": "3D02D0011",
@@ -898,7 +867,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2022年12月9日",
-    "zukan_no": "No.00155"
+    "zukan_no": "No.00154"
   },
   {
     "id": "3D02D0012",
@@ -918,6 +887,41 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
+    "zukan_no": "No.00155"
+  },
+  {
+    "id": "3D02D0013",
+    "name": "フーセンドラゴン",
+    "furigana": "ふーせんどらごん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/balloon-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/フーセンドラゴン.webp",
+    "search_keywords": [
+      "Gasbagon",
+      "浮遊",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
     "zukan_no": "No.00156"
   },
   {
