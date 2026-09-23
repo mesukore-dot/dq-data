@@ -33,48 +33,35 @@ def main():
     # 💡 ページがある・ないに関係なく、全モンスターを文字の形（大文字）で綺麗にID順に整列！
     monsters.sort(key=lambda x: x["id"].upper())
 
-    # 🔢 モンスター限定の列で、隣のIDとURLを確実に仕込む！
-    # （項目が絶対に消えないよう、URLが空の場合はIDを元にダミーURLを自動生成して強制的に項目を作ります）
+    # 🔢 モンスター限定の列で、隣のIDとURL（未作成なら空欄）を確実に仕込む！
     for i, item in enumerate(monsters):
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}"
         
-        # 自分自身のURLが空なら、項目が消えないように仮URLを作る
-        if not item.get("page_url"):
-            item["page_url"] = f"https://example.com{item['id'].lower()}"
-        else:
-            item["page_url"] = str(item["page_url"])
+        # 自分自身の page_url が存在することを確認
+        item["page_url"] = str(item.get("page_url", ""))
         
-        # 【前】のモンスターへのリンク項目を強制作成
         if i > 0:
-            prev_m = monsters[i - 1]
-            item["prev_id"] = prev_m["id"]
-            if prev_m.get("page_url"):
-                item["prev_page_url"] = str(prev_m["page_url"])
-            else:
-                item["prev_page_url"] = f"https://example.com{prev_m['id'].lower()}"
+            item["prev_id"] = monsters[i - 1]["id"]
+            item["prev_page_url"] = str(monsters[i - 1].get("page_url", ""))
         else:
             item["prev_id"] = ""
-            item["prev_page_url"] = "" # 最初の要素も項目（キー）自体は確実に残す
+            item["prev_page_url"] = ""
 
-        # 【次】のモンスターへのリンク項目を強制作成
         if i < len(monsters) - 1:
-            next_m = monsters[i + 1]
-            item["next_id"] = next_m["id"]
-            # 次のモンスターはこの時点ではまだ上の処理を通っていない可能性があるので、ここで安全にURLを作ります
-            if next_m.get("page_url"):
-                item["next_page_url"] = str(next_m["page_url"])
-            else:
-                item["next_page_url"] = f"https://example.com{next_m['id'].lower()}"
+            item["next_id"] = monsters[i + 1]["id"]
+            item["next_page_url"] = str(monsters[i + 1].get("page_url", ""))
         else:
             item["next_id"] = ""
-            item["next_page_url"] = "" # 最後の要素も項目（キー）自体は確実に残す
+            item["next_page_url"] = ""
 
-    # 🚨【超重要：順番の修正】モンスターへのデータ付与が「すべて完了した直後」に結合用の土台データを作る！
+    # 🚨【確実な土台作り】すべてのモンスターへの前後リンク付与が終わってから全データを合体！
     all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
+    
+    # 💡 ここで作る名簿（db）には、完璧に計算し終わったモンスターデータが登録されます
     db = {item["id"]: item for item in all_data}
     print(f"🔍 名簿（db）に登録されたデータ総数: {len(db)} 件")
 
-    # 🚨【型ミスマッチ修正】mamechishiki（リスト型）を、IDをキーにした検索用の辞書型（mame_db）に安全に変換！
+    # まめちしき（リスト型）を、IDをキーにした検索用の辞書型に変換
     mame_db = {}
     if isinstance(mamechishiki, list):
         mame_db = {m["id"]: m for m in mamechishiki if isinstance(m, dict) and "id" in m}
@@ -85,7 +72,7 @@ def main():
     for item in all_data:
         my_id = item["id"]
         
-        # 📘 まめちしきの合体（自分のIDと完全一致するものを1対1でくっつけるよ！）
+        # 📘 まめちしきの合体
         item["mamechishiki_pages"] = []
         if my_id in mame_db:
             item["mamechishiki_pages"].append(mame_db[my_id])
@@ -119,26 +106,29 @@ def main():
                 for f in interiors if f.get("interior_series") == int_series and f["id"] != my_id
             ]
 
-        # ⛓️ 関連データ自動合体（💡 ここでdbから引っ張るデータに、上で計算した前後のURLが100%残るようになります！）
+        # ⛓️ 関連データ自動合体
         for rel_key in ["related_characters", "related_items", "related_skill"]:
             if rel_key in item:
                 detailed_list = []
                 for rel_id in item[rel_key]:
                     if rel_id in db:
                         target = db[rel_id]
-                        # 確実に全ての項目が個別JSONに受け継がれるようにする
+                        
+                        # 💡 最新の名簿（db）から、前後URLが確実に残った状態のデータを引っ張ってきます
                         detailed_data = {
                             "id": rel_id,
                             "name": target["name"],
                             "page_url": str(target.get("page_url", "")),
                             "image_url": target.get("image_url", "")
                         }
-                        # モンスターの場合は前後のURLキーも確実に引き継ぐ
+                        
+                        # もし相手がモンスターなら、前後の項目も漏れなく引き継ぐ
                         if "prev_page_url" in target:
                             detailed_data["prev_id"] = target.get("prev_id", "")
                             detailed_data["prev_page_url"] = target.get("prev_page_url", "")
                             detailed_data["next_id"] = target.get("next_id", "")
                             detailed_data["next_page_url"] = target.get("next_page_url", "")
+                            detailed_data["zukan_no"] = target.get("zukan_no", "")
                         
                         detailed_list.append(detailed_data)
                 item[f"{rel_key}_details"] = detailed_list
@@ -147,7 +137,7 @@ def main():
     
     # 🅰️ パターンA：IDごとの完全バラバラ個別JSON
     for item in all_data:
-        file_name = f"{item['id']}.json".lower() # 大文字小文字トラブルを防ぐため小文字名で統一して保存
+        file_name = f"{item['id']}.json".lower()
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)
 
