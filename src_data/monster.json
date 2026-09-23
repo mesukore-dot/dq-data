@@ -36,7 +36,46 @@
   ],
     "related_items": ["-"],
     "related_characters": []
-  }, 
+  },   {
+    "id": "5B01S0025",
+    "name": "戦士スライム",
+    "furigana": "せんしすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/30/senshi-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/戦士スライム.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": ["スライムヒーローズ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": ["WALK"
+      ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2022年4月27日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+  {
+    "id": "6A01S0021",
+    "name": "勇者スライム",
+    "furigana": "ゆうしゃすらいむ",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/30/yuusya-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/勇者スライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["スライムヒーローズ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": ["WALK","KSKS"
+      ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2022年4月27日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
   {
     "id": "5B10M0001",
     "name": "アイスゴーレム",
