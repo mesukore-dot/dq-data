@@ -1,32 +1,33 @@
 {
-  "id": "6A01S0019",
-  "name": "ジェノライダー",
-  "furigana": "じぇのらいだー",
+  "id": "5B01S0025",
+  "name": "戦士スライム",
+  "furigana": "せんしすらいむ",
   "english_name": "",
-  "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/30/senshi-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/戦士スライム.webp",
   "monster_family": "スライムナイト族",
   "search_keywords": [
+    "スライムヒーローズ",
     "公式イラストあり"
   ],
-  "first_appearance": "TACT",
+  "first_appearance": "WALK",
   "appearances": [
-    "TACT"
+    "WALK"
   ],
   "main_family": "スライム系",
   "sub_family": "-",
   "other_families": [],
-  "release_date": "2025年9月30日",
+  "release_date": "2022年4月27日",
   "voice_actor": "-",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00280",
-  "prev_id": "6A01S0018",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/16/halloween-king/",
-  "next_id": "6A01S0020",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/",
+  "zukan_no": "No.00241",
+  "prev_id": "5B01S0024",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/22/king-she-slime/",
+  "next_id": "5B01S0026",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/05/22/white-king/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -66,10 +67,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/25/dark-knight-ch/"
     },
     {
-      "id": "5B01S0025",
-      "name": "戦士スライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/戦士スライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/04/30/senshi-slime/"
+      "id": "6A01S0019",
+      "name": "ジェノライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/"
     },
     {
       "id": "CP-CO01S0002",
