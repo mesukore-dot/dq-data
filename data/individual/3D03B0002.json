@@ -1,0 +1,54 @@
+{
+  "id": "3D03B0002",
+  "name": "マンドリル",
+  "furigana": "まんどりる",
+  "english_name": "Badboon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/23/mandrill/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マンドリル.webp",
+  "monster_family": "マンドリル族",
+  "search_keywords": [
+    "Badboon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ9",
+    "DQM2_SP",
+    "DQB2",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00159",
+  "prev_id": "3D03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C03B0001",
+      "name": "バブーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/バブーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/"
+    },
+    {
+      "id": "6A03B0001",
+      "name": "ヒババンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヒババンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "6A03B0001",
+  "name": "ヒババンゴ",
+  "furigana": "ひばばんご",
+  "english_name": "Brainy badboon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヒババンゴ.webp",
+  "monster_family": "マンドリル族",
+  "search_keywords": [
+    "Brainy badboon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ9",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00295",
+  "prev_id": "6A02D0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/03/09/battlerex/",
+  "next_id": "6A10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/go-remu/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D03B0002",
+      "name": "マンドリル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マンドリル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/mandrill/"
+    },
+    {
+      "id": "4C03B0001",
+      "name": "バブーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/バブーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
