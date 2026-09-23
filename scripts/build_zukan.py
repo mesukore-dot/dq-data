@@ -30,19 +30,16 @@ def main():
 
     print(f"🔍 読み込み直後のモンスター数: {len(monsters)} 件")
 
-    # 全データを合体させた名簿（これは関連アイテム等の検索用として残すよ）
     all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
     db = {item["id"]: item for item in all_data}
 
-    # 💡【大修正】左右のボタン（No.と前後のURL）は、純粋にモンスター（monsters）の中だけで計算するよ！
-    # 大文字小文字を無視して、文字の形だけで綺麗にID順に並べ替えます
+    # 💡 ページがある・ないに関係なく、全モンスターを文字の形（大文字）で綺麗にID順に整列！
     monsters.sort(key=lambda x: x["id"].upper())
 
-    # 🔢 モンスター限定の列で、隣のIDと本物のサイトURLを100%確実に仕込む！
+    # 🔢 モンスター限定の列で、隣のIDとURL（未作成なら空欄）を確実に仕込む！
     for i, item in enumerate(monsters):
         item["zukan_no"] = f"No.{str(i + 1).zfill(5)}"
         
-        # --- ◀ 前のモンスターのURL処理 ---
         if i > 0:
             item["prev_id"] = monsters[i - 1]["id"]
             item["prev_page_url"] = str(monsters[i - 1].get("page_url", ""))
@@ -50,14 +47,12 @@ def main():
             item["prev_id"] = ""
             item["prev_page_url"] = ""
 
-        # --- ▶ 次のモンスターのURL処理 ---
         if i < len(monsters) - 1:
             item["next_id"] = monsters[i + 1]["id"]
             item["next_page_url"] = str(monsters[i + 1].get("page_url", ""))
         else:
             item["next_id"] = ""
             item["next_page_url"] = ""
-
     # 🤝 ルール③：お友達リンク（色違い・シリーズ・関連データ・まめちしき）の合体
     for item in all_data:
         my_id = item["id"]
@@ -75,7 +70,7 @@ def main():
                 for m in monsters if m.get("monster_family") == family and m["id"] != my_id
             ]
 
-        # ⚔️ 装備シリーズのまとめ（武器・防具・アクセサリーをまたいで探すよ！）
+        # ⚔️ 装備シリーズのまとめ
         my_weapon_series = item.get("weapon_series")
         my_armor_series = item.get("armor_series")
         my_access_series = item.get("accessory_series")
@@ -88,7 +83,7 @@ def main():
                     series_items.append({"id": eq["id"], "name": eq["name"], "image_url": eq.get("image_url", ""), "page_url": str(eq.get("page_url", ""))})
             item["series_equipments"] = series_items
 
-        # 🪑 家具シリーズのまとめ（家具はインテリアの中だけで探す！）
+        # 🪑 家具シリーズのまとめ
         if "interior_series" in item and item["interior_series"]:
             int_series = item["interior_series"]
             item["interior_series_items"] = [
@@ -96,7 +91,7 @@ def main():
                 for f in interiors if f.get("interior_series") == int_series and f["id"] != my_id
             ]
 
-        # ⛓️ 関連キャラ・関連アイテムの「画像とリンク」を自動で引っ張る
+        # ⛓️ 関連データ自動合体
         for rel_key in ["related_characters", "related_items", "related_skill"]:
             if rel_key in item:
                 detailed_list = []
@@ -115,36 +110,35 @@ def main():
     
     # 🅰️ パターンA：IDごとの完全バラバラ個別JSON
     for item in all_data:
-        file_name = f"{item['id']}.json".lower()
+        file_name = f"{item['id']}.json".lower() # 大文字小文字トラブルを防ぐため小文字名で統一して保存
         with open(DIST_INDIVIDUAL / file_name, "w", encoding="utf-8") as f:
             json.dump(item, f, ensure_ascii=False, indent=2)
 
     # 🅱️ 系統別のJSON（一覧ページ用）
     family_groups = {}
-    # 💡 【大修正】もともとの monsters のリストに載っていた全員から系統別を作る形に戻したよ！
     for m in monsters:
-        if m.get("page_url"):
-            fam = m.get("main_family", "その他")
-            if fam not in family_groups:
-                family_groups[fam] = []
-            
-            # dbから、前半で zukan_no や前後のURLを計算し終えた最新データを引っ張ってくるよ！
-            latest_m = db.get(m["id"], m)
-            
-            family_groups[fam].append({
-                "id": latest_m["id"],
-                "name": latest_m["name"],
-                "furigana": latest_m.get("furigana", ""),
-                "page_url": str(latest_m.get("page_url", "")),
-                "image_url": latest_m.get("image_url", ""),
-                "search_keywords": latest_m.get("search_keywords", []),
-                "first_appearance": latest_m.get("first_appearance", ""),
-                "appearances": latest_m.get("appearances", []),
-                "main_family": latest_m.get("main_family", ""),
-                "sub_family": latest_m.get("sub_family", ""),
-                "release_date": latest_m.get("release_date", ""),
-                "zukan_no": latest_m.get("zukan_no", "No.-----")
-            })
+        # 💡 未作成（URLが空欄）のモンスターも含めて、全員必ず系統別に入れるよ！
+        fam = m.get("main_family", "その他")
+        if fam not in family_groups:
+            family_groups[fam] = []
+        
+        # dbから、前半で zukan_no や前後のURLを計算し終えた最新データを引っ張ってくるよ！
+        latest_m = db.get(m["id"], m)
+        
+        family_groups[fam].append({
+            "id": latest_m["id"],
+            "name": latest_m["name"],
+            "furigana": latest_m.get("furigana", ""),
+            "page_url": str(latest_m.get("page_url", "")),
+            "image_url": latest_m.get("image_url", ""),
+            "search_keywords": latest_m.get("search_keywords", []),
+            "first_appearance": latest_m.get("first_appearance", ""),
+            "appearances": latest_m.get("appearances", []),
+            "main_family": latest_m.get("main_family", ""),
+            "sub_family": latest_m.get("sub_family", ""),
+            "release_date": latest_m.get("release_date", ""),
+            "zukan_no": latest_m.get("zukan_no", "No.-----")
+        })
 
     for fam_name, m_list in family_groups.items():
         m_list.sort(key=lambda x: x["id"])
