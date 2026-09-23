@@ -1,0 +1,81 @@
+{
+  "id": "1F13Z0002",
+  "name": "がいこつ",
+  "furigana": "がいこつ",
+  "english_name": "Skeleton",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/16/gaikotu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/がいこつ.webp",
+  "monster_family": "がいこつ族",
+  "search_keywords": [
+    "Skeleton",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ7_3D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "KS",
+    "DQH1",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ",
+    "DQSG"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1986年5月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00058",
+  "prev_id": "1F13Z0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/10/15/jiangshi-ghost/",
+  "next_id": "2E01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和61年）1986年5月27日、ファミコン版「ドラゴンクエスト（DQ1）」から登場。",
+      "works_count": "26作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "のろわれた戦士のしかばねが　とつぜん　うごきだした！ズガイコツは　カンタンに　取り外すことが可能。",
+      "form": "アタマについているヒビは　死んだ時に受けたキズ。このキズをつけた　相手をうらみ　さまよう。",
+      "ability": "ゾンビらしい　尽きないスタミナを武器に　がむしゃらに　相手を斬りさく。遠くの敵には　だいじなズガイコツを投げつけるぞ。",
+      "ecology": "あまりにも　そのまんますぎる名前をつけた　ニンゲンに対し　不満がとまらない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_characters_details": [],
+  "related_items_details": []
+}
