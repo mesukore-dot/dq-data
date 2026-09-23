@@ -28,7 +28,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/slime-syabon/",
   "next_id": "2E01S0013",
   "next_page_url": "[]",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和3年）2021年11月11日「ドラゴンクエストX オンライン目覚めし五つの種族（DQ10）」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "赤黒い宝石でできた　あやしいスライム。",
+      "ability": "マヒャドや　ヘナトールを使う。見た目どおり　つららスライムの亜種だが　中身も　かなり似ている。",
+      "doctor": "このスライム…。私も見たことがないな。自然界には　存在しないスライムだろう。だれかが　邪悪な意思をもって作った　人工スライムに違いない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0004",
