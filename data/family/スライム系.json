@@ -3569,6 +3569,24 @@
     "zukan_no": "No.00202"
   },
   {
+    "id": "4C01S0038",
+    "name": "ジェネラン",
+    "furigana": "じぇねらん",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/23/generan/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェネラン.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2014年4月30日",
+    "zukan_no": "No.00203"
+  },
+  {
     "id": "5B01S0002",
     "name": "ドラゴメタル",
     "furigana": "どらごめたる",
@@ -3598,7 +3616,7 @@
     "main_family": "スライム系",
     "sub_family": "メタル系",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00217"
+    "zukan_no": "No.00218"
   },
   {
     "id": "5B01S0003",
@@ -3631,7 +3649,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00218"
+    "zukan_no": "No.00219"
   },
   {
     "id": "5B01S0004",
@@ -3653,7 +3671,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2015年8月27日",
-    "zukan_no": "No.00219"
+    "zukan_no": "No.00220"
   },
   {
     "id": "5B01S0005",
@@ -3679,7 +3697,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00220"
+    "zukan_no": "No.00221"
   },
   {
     "id": "5B01S0006",
@@ -3704,7 +3722,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00221"
+    "zukan_no": "No.00222"
   },
   {
     "id": "5B01S0007",
@@ -3722,7 +3740,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年11月11日",
-    "zukan_no": "No.00222"
+    "zukan_no": "No.00223"
   },
   {
     "id": "5B01S0008",
@@ -3742,7 +3760,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2020年12月23日",
-    "zukan_no": "No.00223"
+    "zukan_no": "No.00224"
   },
   {
     "id": "5B01S0009",
@@ -3763,7 +3781,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2022年3月17日",
-    "zukan_no": "No.00224"
+    "zukan_no": "No.00225"
   },
   {
     "id": "5B01S0010",
@@ -3781,7 +3799,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2017年12月1日",
-    "zukan_no": "No.00225"
+    "zukan_no": "No.00226"
   },
   {
     "id": "5B01S0011",
@@ -3799,7 +3817,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2022年10月19日",
-    "zukan_no": "No.00226"
+    "zukan_no": "No.00227"
   },
   {
     "id": "5B01S0012",
@@ -3822,7 +3840,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00227"
+    "zukan_no": "No.00228"
   },
   {
     "id": "5B01S0012-1",
@@ -3844,7 +3862,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00228"
+    "zukan_no": "No.00229"
   },
   {
     "id": "5B01S0013",
@@ -3868,7 +3886,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00229"
+    "zukan_no": "No.00230"
   },
   {
     "id": "5B01S0014",
@@ -3897,7 +3915,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "1998年9月25日",
-    "zukan_no": "No.00230"
+    "zukan_no": "No.00231"
   },
   {
     "id": "5B01S0015",
@@ -3927,7 +3945,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00231"
+    "zukan_no": "No.00232"
   },
   {
     "id": "5B01S0016",
@@ -3955,7 +3973,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00232"
+    "zukan_no": "No.00233"
   },
   {
     "id": "5B01S0017",
@@ -3978,7 +3996,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00233"
+    "zukan_no": "No.00234"
   },
   {
     "id": "5B01S0018",
@@ -4001,7 +4019,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00234"
+    "zukan_no": "No.00235"
   },
   {
     "id": "5B01S0019",
@@ -4022,7 +4040,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00235"
+    "zukan_no": "No.00236"
   },
   {
     "id": "5B01S0020",
@@ -4043,7 +4061,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00236"
+    "zukan_no": "No.00237"
   },
   {
     "id": "5B01S0021",
@@ -4067,7 +4085,7 @@
     "main_family": "スライム系",
     "sub_family": "お正月",
     "release_date": "2014年12月31日",
-    "zukan_no": "No.00237"
+    "zukan_no": "No.00238"
   },
   {
     "id": "5B01S0022",
@@ -4085,7 +4103,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2020年2月5日",
-    "zukan_no": "No.00238"
+    "zukan_no": "No.00239"
   },
   {
     "id": "5B01S0023",
@@ -4103,7 +4121,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2019年1月23日",
-    "zukan_no": "No.00239"
+    "zukan_no": "No.00240"
   },
   {
     "id": "5B01S0024",
@@ -4129,7 +4147,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2013年9月2日",
-    "zukan_no": "No.00240"
+    "zukan_no": "No.00241"
   },
   {
     "id": "5B01S0025",
@@ -4148,7 +4166,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年4月27日",
-    "zukan_no": "No.00241"
+    "zukan_no": "No.00242"
   },
   {
     "id": "5B01S0026",
@@ -4168,7 +4186,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年11月18日",
-    "zukan_no": "No.00242"
+    "zukan_no": "No.00243"
   },
   {
     "id": "5B01S0027",
@@ -4186,7 +4204,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2023年1月1日",
-    "zukan_no": "No.00243"
+    "zukan_no": "No.00244"
   },
   {
     "id": "5B01S0028",
@@ -4206,7 +4224,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00244"
+    "zukan_no": "No.00245"
   },
   {
     "id": "5B01S0029",
@@ -4236,7 +4254,27 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00245"
+    "zukan_no": "No.00246"
+  },
+  {
+    "id": "5B01S0030",
+    "name": "エンペラン",
+    "furigana": "えんぺらん",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/23/emperon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンペラン.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2014年4月30日",
+    "zukan_no": "No.00247"
   },
   {
     "id": "6A01S0002",
@@ -4302,7 +4340,7 @@
     "main_family": "スライム系",
     "sub_family": "メタル系",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00263"
+    "zukan_no": "No.00265"
   },
   {
     "id": "6A01S0003",
@@ -4324,7 +4362,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2004年12月22日",
-    "zukan_no": "No.00264"
+    "zukan_no": "No.00266"
   },
   {
     "id": "6A01S0004",
@@ -4348,7 +4386,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00265"
+    "zukan_no": "No.00267"
   },
   {
     "id": "6A01S0005",
@@ -4367,7 +4405,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2017年11月16日",
-    "zukan_no": "No.00266"
+    "zukan_no": "No.00268"
   },
   {
     "id": "6A01S0006",
@@ -4388,7 +4426,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2020年12月23日",
-    "zukan_no": "No.00267"
+    "zukan_no": "No.00269"
   },
   {
     "id": "6A01S0007",
@@ -4408,7 +4446,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2022年3月17日",
-    "zukan_no": "No.00268"
+    "zukan_no": "No.00270"
   },
   {
     "id": "6A01S0008",
@@ -4428,7 +4466,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2026年3月25日",
-    "zukan_no": "No.00269"
+    "zukan_no": "No.00271"
   },
   {
     "id": "6A01S0009",
@@ -4452,7 +4490,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00270"
+    "zukan_no": "No.00272"
   },
   {
     "id": "6A01S0010",
@@ -4470,7 +4508,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00271"
+    "zukan_no": "No.00273"
   },
   {
     "id": "6A01S0011",
@@ -4489,7 +4527,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00272"
+    "zukan_no": "No.00274"
   },
   {
     "id": "6A01S0012",
@@ -4510,7 +4548,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00273"
+    "zukan_no": "No.00275"
   },
   {
     "id": "6A01S0013",
@@ -4531,7 +4569,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00274"
+    "zukan_no": "No.00276"
   },
   {
     "id": "6A01S0014",
@@ -4561,7 +4599,7 @@
       "メタル系"
     ],
     "release_date": "2006年12月28日",
-    "zukan_no": "No.00275"
+    "zukan_no": "No.00277"
   },
   {
     "id": "6A01S0015",
@@ -4582,7 +4620,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00276"
+    "zukan_no": "No.00278"
   },
   {
     "id": "6A01S0016",
@@ -4603,7 +4641,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00277"
+    "zukan_no": "No.00279"
   },
   {
     "id": "6A01S0017",
@@ -4624,7 +4662,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年12月9日",
-    "zukan_no": "No.00278"
+    "zukan_no": "No.00280"
   },
   {
     "id": "6A01S0018",
@@ -4643,7 +4681,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2019年10月20日",
-    "zukan_no": "No.00279"
+    "zukan_no": "No.00281"
   },
   {
     "id": "6A01S0019",
@@ -4661,7 +4699,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2025年9月30日",
-    "zukan_no": "No.00280"
+    "zukan_no": "No.00282"
   },
   {
     "id": "6A01S0020",
@@ -4681,7 +4719,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00281"
+    "zukan_no": "No.00283"
   },
   {
     "id": "6A01S0021",
@@ -4701,7 +4739,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年4月27日",
-    "zukan_no": "No.00282"
+    "zukan_no": "No.00284"
   },
   {
     "id": "6S01S0006",
@@ -4729,7 +4767,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00288"
+    "zukan_no": "No.00290"
   },
   {
     "id": "7S01S0001",
@@ -4747,7 +4785,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2024年11月14日",
-    "zukan_no": "No.00289"
+    "zukan_no": "No.00291"
   },
   {
     "id": "7S01S0002",
@@ -4783,7 +4821,7 @@
     "main_family": "スライム系",
     "sub_family": "メタル系",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00290"
+    "zukan_no": "No.00292"
   },
   {
     "id": "7S01S0003",
@@ -4803,7 +4841,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2026年6月25日",
-    "zukan_no": "No.00291"
+    "zukan_no": "No.00293"
   },
   {
     "id": "7S01S0004",
@@ -4822,7 +4860,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年4月1日",
-    "zukan_no": "No.00292"
+    "zukan_no": "No.00294"
   },
   {
     "id": "7S01S0005",
@@ -4851,7 +4889,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00293"
+    "zukan_no": "No.00295"
   },
   {
     "id": "7S01S0006",
@@ -4875,7 +4913,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00294"
+    "zukan_no": "No.00296"
   },
   {
     "id": "7S01S0007",
@@ -4897,7 +4935,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00295"
+    "zukan_no": "No.00297"
   },
   {
     "id": "7S01S0008",
@@ -4931,7 +4969,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2006年12月28日",
-    "zukan_no": "No.00296"
+    "zukan_no": "No.00298"
   },
   {
     "id": "7S01S0009",
@@ -4959,7 +4997,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00297"
+    "zukan_no": "No.00299"
   },
   {
     "id": "7S01S0010",
@@ -4985,7 +5023,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00298"
+    "zukan_no": "No.00300"
   },
   {
     "id": "7S01S0011",
@@ -5015,7 +5053,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00299"
+    "zukan_no": "No.00301"
   },
   {
     "id": "7S01S0012",
@@ -5042,7 +5080,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2011年3月31日",
-    "zukan_no": "No.00300"
+    "zukan_no": "No.00302"
   },
   {
     "id": "7S01S0013",
@@ -5066,39 +5104,6 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2011年3月31日",
-    "zukan_no": "No.00301"
-  },
-  {
-    "id": "7S01S0015",
-    "name": "勇車スラリンガル",
-    "furigana": "ゆうしゃすらりんがる",
-    "page_url": "https://dqfan527.xsrv.jp/2023/04/28/yuusyasuraringaru/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/勇車スラリンガル.webp",
-    "search_keywords": [
-      "公式イラストあり"
-    ],
-    "first_appearance": "MRMR2",
-    "appearances": [
-      "DQM1_3DS",
-      "DQM1_SP",
-      "DQM2_3DS",
-      "DQM2_SP",
-      "DQMJ2",
-      "DQMJ2_P",
-      "DQMJ3_P",
-      "MRMR2",
-      "DQMB",
-      "DQMSL",
-      "STAR",
-      "RIV",
-      "WALK",
-      "TACT"
-    ],
-    "main_family": "スライム系",
-    "sub_family": [
-      "物質系"
-    ],
-    "release_date": "2005年12月1日",
     "zukan_no": "No.00303"
   },
   {
@@ -5132,7 +5137,40 @@
       "物質系"
     ],
     "release_date": "2005年12月1日",
-    "zukan_no": "No.00303"
+    "zukan_no": "No.00305"
+  },
+  {
+    "id": "7S01S0015",
+    "name": "勇車スラリンガル",
+    "furigana": "ゆうしゃすらりんがる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/28/yuusyasuraringaru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/勇車スラリンガル.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "MRMR2",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "MRMR2",
+      "DQMB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [
+      "物質系"
+    ],
+    "release_date": "2005年12月1日",
+    "zukan_no": "No.00305"
   },
   {
     "id": "7S01S0015-1",
@@ -5153,7 +5191,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年2月5日",
-    "zukan_no": "No.00304"
+    "zukan_no": "No.00306"
   },
   {
     "id": "7S01S0016",
@@ -5189,7 +5227,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2008年5月9日",
-    "zukan_no": "No.00305"
+    "zukan_no": "No.00307"
   },
   {
     "id": "7S01S0017",
@@ -5209,7 +5247,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2019年9月12日",
-    "zukan_no": "No.00306"
+    "zukan_no": "No.00308"
   },
   {
     "id": "7S01S0018",
@@ -5228,7 +5266,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2025年11月13日",
-    "zukan_no": "No.00307"
+    "zukan_no": "No.00309"
   },
   {
     "id": "7S01S0019",
@@ -5250,7 +5288,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年3月31日",
-    "zukan_no": "No.00308"
+    "zukan_no": "No.00310"
   },
   {
     "id": "7S01S0020",
@@ -5270,7 +5308,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2020年7月16日",
-    "zukan_no": "No.00309"
+    "zukan_no": "No.00311"
   },
   {
     "id": "8SS01S0001",
@@ -5289,7 +5327,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年11月11日",
-    "zukan_no": "No.00313"
+    "zukan_no": "No.00315"
   },
   {
     "id": "8SS01S0002",
@@ -5341,7 +5379,7 @@
       "ゴールデン"
     ],
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00314"
+    "zukan_no": "No.00316"
   },
   {
     "id": "8SS01S0002-1",
@@ -5359,7 +5397,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2017年12月1日",
-    "zukan_no": "No.00315"
+    "zukan_no": "No.00317"
   },
   {
     "id": "8SS01S0003",
@@ -5385,7 +5423,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00316"
+    "zukan_no": "No.00318"
   },
   {
     "id": "8SS01S0004",
@@ -5409,7 +5447,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00317"
+    "zukan_no": "No.00319"
   },
   {
     "id": "8SS01S0005",
@@ -5429,7 +5467,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00318"
+    "zukan_no": "No.00320"
   },
   {
     "id": "8SS01S0006",
@@ -5456,7 +5494,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2011年3月31日",
-    "zukan_no": "No.00319"
+    "zukan_no": "No.00321"
   },
   {
     "id": "8SS01S0007",
@@ -5483,31 +5521,6 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2011年3月31日",
-    "zukan_no": "No.00320"
-  },
-  {
-    "id": "8SS01S0008",
-    "name": "スラ・ブラスター",
-    "furigana": "すら・ぶらすたー",
-    "page_url": "https://dqfan527.xsrv.jp/2023/10/28/slime-blastar/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラ・ブラスター.webp",
-    "search_keywords": [
-      "Liquid metal slime king",
-      "公式イラストあり"
-    ],
-    "first_appearance": "DQMJ2_P",
-    "appearances": [
-      "DQM1_3DS",
-      "DQM1_SP",
-      "DQM2_3DS",
-      "DQM2_SP",
-      "DQMJ2_P",
-      "DQMSL",
-      "MSP"
-    ],
-    "main_family": "スライム系",
-    "sub_family": [],
-    "release_date": "2011年3月31日",
     "zukan_no": "No.00322"
   },
   {
@@ -5533,7 +5546,32 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2011年3月31日",
-    "zukan_no": "No.00322"
+    "zukan_no": "No.00324"
+  },
+  {
+    "id": "8SS01S0008",
+    "name": "スラ・ブラスター",
+    "furigana": "すら・ぶらすたー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/28/slime-blastar/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラ・ブラスター.webp",
+    "search_keywords": [
+      "Liquid metal slime king",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMJ2_P",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2_P",
+      "DQMSL",
+      "MSP"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2011年3月31日",
+    "zukan_no": "No.00324"
   },
   {
     "id": "8SS01S0009",
@@ -5553,7 +5591,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00323"
+    "zukan_no": "No.00325"
   },
   {
     "id": "8SS01S0010",
@@ -5576,7 +5614,7 @@
       "？？？系"
     ],
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00324"
+    "zukan_no": "No.00326"
   },
   {
     "id": "8SS01S0012",
@@ -5594,7 +5632,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2017年8月11日",
-    "zukan_no": "No.00325"
+    "zukan_no": "No.00327"
   },
   {
     "id": "8SS01S0013",
@@ -5614,7 +5652,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2023年4月13日",
-    "zukan_no": "No.00326"
+    "zukan_no": "No.00328"
   },
   {
     "id": "8SS01S0014",
@@ -5634,7 +5672,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2020年7月16日",
-    "zukan_no": "No.00327"
+    "zukan_no": "No.00329"
   },
   {
     "id": "9X01S0001",
@@ -5657,7 +5695,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00330"
+    "zukan_no": "No.00332"
   },
   {
     "id": "9X01S0002",
@@ -5684,7 +5722,7 @@
       "メタル系"
     ],
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00331"
+    "zukan_no": "No.00333"
   },
   {
     "id": "CP-CO01S0001",
@@ -5704,7 +5742,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年11月1日",
-    "zukan_no": "No.00337"
+    "zukan_no": "No.00339"
   },
   {
     "id": "CP-CO01S0002",
@@ -5724,7 +5762,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00338"
+    "zukan_no": "No.00340"
   },
   {
     "id": "CP-MC01S0001",
@@ -5745,7 +5783,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00339"
+    "zukan_no": "No.00341"
   },
   {
     "id": "CP-SP01S0001",
@@ -5766,7 +5804,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月12日",
-    "zukan_no": "No.00340"
+    "zukan_no": "No.00342"
   },
   {
     "id": "CP-YS01S0001",
@@ -5786,7 +5824,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00341"
+    "zukan_no": "No.00343"
   },
   {
     "id": "CP-YS01S0002",
@@ -5806,7 +5844,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00342"
+    "zukan_no": "No.00344"
   },
   {
     "id": "CP-YS01S0003",
@@ -5826,6 +5864,6 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00343"
+    "zukan_no": "No.00345"
   }
 ]

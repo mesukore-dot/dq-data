@@ -1,0 +1,55 @@
+{
+  "id": "5B01S0030",
+  "name": "エンペラン",
+  "furigana": "えんぺらん",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/09/23/emperon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンペラン.webp",
+  "monster_family": "タマゴロン族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMSL",
+  "appearances": [
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2014年4月30日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00247",
+  "prev_id": "5B01S0029",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/",
+  "next_id": "5B02D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/19/ki-sudoragon/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F01S0006",
+      "name": "タマゴロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/タマゴロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/"
+    },
+    {
+      "id": "4C01S0006",
+      "name": "ワンダーエッグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ワンダーエッグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/"
+    },
+    {
+      "id": "4C01S0038",
+      "name": "ジェネラン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェネラン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/23/generan/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
