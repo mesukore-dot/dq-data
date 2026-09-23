@@ -63,7 +63,19 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/ikkakuusagi/",
   "next_id": "1F03B0006",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/21/big-hat/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日、ファミコン版「ドラゴンクエストIV 導かれし者たち（DQ4）」から登場。",
+      "works_count": "28作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "群れで生息する　モグラのまもの。モグラなのに　スコップで穴をほる。",
+      "personality": "とにかくイタズラが大好きで　まものやニンゲンを　落とし穴に落とすのが　生きがい。うまく落とせたときは　みんなでガッツポーズ。",
+      "ecology": "落とし穴を掘りすぎて　じぶんでどこを掘ったか　わからなくなり　なかま同士で落ちまくり。",
+      "doctor": "つい先日　落とし穴に　どくを仕掛ける　いたずらもぐらが発見された。あまりにも　いたずらが過ぎるのではないか？",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "2E03B0002",

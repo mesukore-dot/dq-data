@@ -49,7 +49,19 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/21/big-hat/",
   "next_id": "1F03B0007-1",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/08/20/caliconjurer/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成12年）2000年8月26日、PlayStation版「ドラゴンクエストVII エデンの戦士たち（DQ7）」から登場。",
+      "works_count": "16作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "メラがとくいな　ネコのまもの。いつか　メラゾーマをぶっぱなすのが夢。",
+      "ability": "何回でも　メラ　ひたすら　メラ。強い相手の場合は　しっぽを巻いて　即にげる。",
+      "personality": "とってもキレイ好きで　戦闘中にもかかわらず　かおをあらって　ヒゲをととのえる。",
+      "doctor": "有名なまものだが　実は　いまだに　どうやって生まれたか　判明していない。ネコ好きな魔術師が　ネコと融合した説や　長生きしたネコが突然変異を起こしたなど　なぞにつつまれている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F03B0007-1",
