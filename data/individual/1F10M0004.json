@@ -38,7 +38,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/21/dorozara/",
   "next_id": "1F12E0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/23/whip-ghost/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成25年）2013年12月5日「ドラゴンクエストX オンライン 眠れる勇者と導きの盟友（DQ10 Ver.2.0）」から登場。",
+      "works_count": "7作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "チーズをぱくぱくたべる　グルメなまもの。ぼうしの下に　ヒミツがあるらしい。",
+      "ability": "イオ系じゅもんが　とくいで　フォンデュの生息地では　よく爆発音が聞こえる。手にしたチーズをたべることで　カラダをいやすこともできる。",
+      "personality": "じぶんだけではなく　ともだちにも　チーズをわけてあげる　心優しい性格。パンといっしょに　工夫してたべると　手をたたいて　よろこんでくれる。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []
