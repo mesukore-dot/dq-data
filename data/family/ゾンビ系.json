@@ -138,7 +138,7 @@
     "id": "4C13Z0001",
     "name": "タタリ御前",
     "furigana": "たたりごぜん",
-    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/16/tatariozen/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/タタリ御前.webp",
     "search_keywords": [
       "Tatari",
@@ -155,6 +155,28 @@
     "sub_family": "-",
     "release_date": "2015年4月30日",
     "zukan_no": "No.00219"
+  },
+  {
+    "id": "4C13Z0002",
+    "name": "悪鬼丸",
+    "furigana": "あっきまる",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/23/akkimaru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/悪鬼丸.webp",
+    "search_keywords": [
+      "和風",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQBS",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2015年4月30日",
+    "zukan_no": "No.00220"
   },
   {
     "id": "5B13Z0001",
@@ -183,6 +205,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00267"
+    "zukan_no": "No.00268"
   }
 ]
