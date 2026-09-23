@@ -95,13 +95,13 @@
       "id": "2E01S0012",
       "name": "スライムアンノウン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ブラッドルビー.webp",
-      "page_url": "https://example.com2e01s0012"
+      "page_url": "[]"
     },
     {
       "id": "2E01S0013",
       "name": "マリンスライム・塔",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
-      "page_url": "https://example.com2e01s0013"
+      "page_url": "[]"
     },
     {
       "id": "2E01S0016",
@@ -137,7 +137,8 @@
       "prev_id": "3D04P0004",
       "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/27/paprikan/",
       "next_id": "3D10M0001",
-      "next_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/"
+      "next_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/",
+      "zukan_no": "No.00163"
     }
   ],
   "related_items_details": [

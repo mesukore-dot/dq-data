@@ -3,7 +3,7 @@
   "name": "マリンスライム・塔",
   "furigana": "まりんすらいむ・とう",
   "english_name": "-",
-  "page_url": "https://example.com2e01s0013",
+  "page_url": "[]",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
   "monster_family": "スライムつむり族",
   "search_keywords": [
@@ -25,9 +25,9 @@
   "related_characters": [],
   "zukan_no": "No.00071",
   "prev_id": "2E01S0012",
-  "prev_page_url": "https://example.com2e01s0012",
+  "prev_page_url": "[]",
   "next_id": "2E01S0014",
-  "next_page_url": "https://example.com2e01s0014",
+  "next_page_url": "[]",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -70,7 +70,7 @@
       "id": "2E01S0012",
       "name": "スライムアンノウン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ブラッドルビー.webp",
-      "page_url": "https://example.com2e01s0012"
+      "page_url": "[]"
     },
     {
       "id": "2E01S0016",
