@@ -1,0 +1,52 @@
+{
+  "id": "4C03B0001",
+  "name": "バブーン",
+  "furigana": "ばぶーん",
+  "english_name": "Big badboon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/バブーン.webp",
+  "monster_family": "マンドリル族",
+  "search_keywords": [
+    "Big badboon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ9",
+    "DQB2",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00217",
+  "prev_id": "4C02D0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D03B0002",
+      "name": "マンドリル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マンドリル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/mandrill/"
+    },
+    {
+      "id": "6A03B0001",
+      "name": "ヒババンゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヒババンゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

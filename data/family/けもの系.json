@@ -387,5 +387,76 @@
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
     "zukan_no": "No.00158"
+  },
+  {
+    "id": "3D03B0002",
+    "name": "マンドリル",
+    "furigana": "まんどりる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/23/mandrill/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マンドリル.webp",
+    "search_keywords": [
+      "Badboon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ9",
+      "DQM2_SP",
+      "DQB2",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00159"
+  },
+  {
+    "id": "4C03B0001",
+    "name": "バブーン",
+    "furigana": "ばぶーん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/バブーン.webp",
+    "search_keywords": [
+      "Big badboon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ9",
+      "DQB2",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00217"
+  },
+  {
+    "id": "6A03B0001",
+    "name": "ヒババンゴ",
+    "furigana": "ひばばんご",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヒババンゴ.webp",
+    "search_keywords": [
+      "Brainy badboon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ9",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00295"
   }
 ]
