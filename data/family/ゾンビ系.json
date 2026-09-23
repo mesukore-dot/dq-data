@@ -133,5 +133,56 @@
     "sub_family": "-",
     "release_date": "1986年5月27日",
     "zukan_no": "No.00058"
+  },
+  {
+    "id": "4C13Z0001",
+    "name": "タタリ御前",
+    "furigana": "たたりごぜん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/タタリ御前.webp",
+    "search_keywords": [
+      "Tatari",
+      "和風",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQM3",
+      "RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2015年4月30日",
+    "zukan_no": "No.00219"
+  },
+  {
+    "id": "5B13Z0001",
+    "name": "ドラゴンコープス",
+    "furigana": "どらごんこーぷす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンコープス.webp",
+    "search_keywords": [
+      "Grotwyrm",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2_P",
+      "DQMSL",
+      "STAR",
+      "WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00267"
   }
 ]
