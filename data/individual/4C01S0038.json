@@ -27,7 +27,16 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
   "next_id": "4C02D0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成26年）2014年4月30日、スマートフォン向けアプリ「ドラゴンクエストモンスターズ スーパーライト」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "究極転生のために必要となる　魔将のチカラを宿した　崇高なタマゴロン。まものたちが　秘めている　新たなチカラを引き出すという。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0006",
