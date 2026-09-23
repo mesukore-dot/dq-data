@@ -30,9 +30,6 @@ def main():
 
     print(f"🔍 読み込み直後のモンスター数: {len(monsters)} 件")
 
-    all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
-    db = {item["id"]: item for item in all_data}
-
     # 💡 ページがある・ないに関係なく、全モンスターを文字の形（大文字）で綺麗にID順に整列！
     monsters.sort(key=lambda x: x["id"].upper())
 
@@ -53,14 +50,29 @@ def main():
         else:
             item["next_id"] = ""
             item["next_page_url"] = ""
+
+    # 🚨【バグ修正①】すべての結合処理の土台となる「全データ合体」をここで作成
+    all_data = characters + monsters + skills + weapons + armors + accessories + dishes + items + interiors
+
+    # 🚨【バグ修正②】モンスターへのデータ付与（前後リンク処理など）が「すべて完了した直後」にdbを作成！
+    db = {item["id"]: item for item in all_data}
+    print(f"🔍 名簿（db）に登録されたデータ総数: {len(db)} 件")
+
+    # 🚨【バグ修正③】mamechishiki（リスト型）を、IDをキーにした検索用の辞書型（mame_db）に変換！
+    mame_db = {}
+    if isinstance(mamechishiki, list):
+        mame_db = {m["id"]: m for m in mamechishiki if isinstance(m, dict) and "id" in m}
+    elif isinstance(mamechishiki, dict):
+        mame_db = mamechishiki
+
     # 🤝 ルール③：お友達リンク（色違い・シリーズ・関連データ・まめちしき）の合体
     for item in all_data:
         my_id = item["id"]
         
         # 📘 まめちしきの合体（自分のIDと完全一致するものを1対1でくっつけるよ！）
         item["mamechishiki_pages"] = []
-        if my_id in mamechishiki:
-            item["mamechishiki_pages"].append(mamechishiki[my_id])
+        if my_id in mame_db:
+            item["mamechishiki_pages"].append(mame_db[my_id])
 
         # 🦎 モンスターの色違い（〜族）のまとめ
         if "monster_family" in item and item["monster_family"]:
@@ -122,7 +134,7 @@ def main():
         if fam not in family_groups:
             family_groups[fam] = []
         
-        # dbから、前半で zukan_no や前後のURLを計算し終えた最新データを引っ張ってくるよ！
+        # 🚨【バグ修正④】最新の計算データ（zukan_no や前後のURL項目が入ったもの）をdbから正しく取得！
         latest_m = db.get(m["id"], m)
         
         family_groups[fam].append({
