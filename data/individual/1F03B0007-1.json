@@ -1,0 +1,49 @@
+{
+  "id": "1F03B0007-1",
+  "name": "ミケまどう",
+  "furigana": "みけまどう",
+  "english_name": "Caliconjurer",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/20/caliconjurer/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ミケまどう.webp",
+  "monster_family": "ねこまどう族",
+  "search_keywords": [
+    "Caliconjurer",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQMB",
+    "DQBS",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2015年4月30日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00033",
+  "prev_id": "1F03B0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%81%ad%e3%81%93%e3%81%be%e3%81%a9%e3%81%86/",
+  "next_id": "1F04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/28/bushy-baby/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0007",
+      "name": "ねこまどう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ねこまどう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%81%ad%e3%81%93%e3%81%be%e3%81%a9%e3%81%86/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
