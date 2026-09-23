@@ -262,6 +262,60 @@
     "zukan_no": "No.00029"
   },
   {
+    "id": "1F03B0005",
+    "name": "いたずらもぐら",
+    "furigana": "いたずらもぐら",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/itazuramogura/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/いたずらもぐら.webp",
+    "search_keywords": [
+      "Mischievous mole",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ7_3D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "MRMR2",
+      "MRMR3",
+      "KS",
+      "DQSW",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00030"
+  },
+  {
     "id": "2E03B0001",
     "name": "アルミラージ",
     "furigana": "あるみらーじ",
@@ -316,7 +370,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00099"
+    "zukan_no": "No.00100"
   },
   {
     "id": "2E03B0001-1",
@@ -348,7 +402,58 @@
     "main_family": "けもの系",
     "sub_family": "ゴールデン",
     "release_date": "2012年10月9日",
-    "zukan_no": "No.00100"
+    "zukan_no": "No.00101"
+  },
+  {
+    "id": "2E03B0002",
+    "name": "キラースコップ",
+    "furigana": "きらーすこっぷ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/killer-schop/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キラースコップ.webp",
+    "search_keywords": [
+      "Mad mole",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ7_3D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "KS",
+      "DQSW",
+      "DQB2",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00102"
   },
   {
     "id": "3D03B0001",
@@ -386,7 +491,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00158"
+    "zukan_no": "No.00160"
   },
   {
     "id": "3D03B0002",
@@ -411,7 +516,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00159"
+    "zukan_no": "No.00161"
   },
   {
     "id": "4C03B0001",
@@ -434,7 +539,30 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00217"
+    "zukan_no": "No.00219"
+  },
+  {
+    "id": "4C03B0002",
+    "name": "ブランマトック",
+    "furigana": "ぶらんまとっく",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/20/picky-mole/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ブランマトック.webp",
+    "search_keywords": [
+      "Picky mole",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2014年2月27日",
+    "zukan_no": "No.00220"
   },
   {
     "id": "6A03B0001",
@@ -457,6 +585,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00295"
+    "zukan_no": "No.00298"
   }
 ]

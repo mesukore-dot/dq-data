@@ -1,0 +1,80 @@
+{
+  "id": "2E03B0002",
+  "name": "キラースコップ",
+  "furigana": "きらーすこっぷ",
+  "english_name": "Mad mole",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/killer-schop/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キラースコップ.webp",
+  "monster_family": "いたずらもぐら族",
+  "search_keywords": [
+    "Mad mole",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ7_3D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "KS",
+    "DQSW",
+    "DQB2",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00102",
+  "prev_id": "2E03B0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/07/golden-corn/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0005",
+      "name": "いたずらもぐら",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/いたずらもぐら.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/itazuramogura/"
+    },
+    {
+      "id": "4C03B0002",
+      "name": "ブランマトック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ブランマトック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/20/picky-mole/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

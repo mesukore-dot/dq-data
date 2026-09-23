@@ -1,0 +1,52 @@
+{
+  "id": "4C03B0002",
+  "name": "ブランマトック",
+  "furigana": "ぶらんまとっく",
+  "english_name": "Picky mole",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/20/picky-mole/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ブランマトック.webp",
+  "monster_family": "いたずらもぐら族",
+  "search_keywords": [
+    "Picky mole",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2014年2月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00220",
+  "prev_id": "4C03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0005",
+      "name": "いたずらもぐら",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/いたずらもぐら.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/itazuramogura/"
+    },
+    {
+      "id": "2E03B0002",
+      "name": "キラースコップ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キラースコップ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/killer-schop/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
