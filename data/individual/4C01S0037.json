@@ -1,36 +1,45 @@
 {
-  "id": "4C01S0009",
-  "name": "チョコタワー",
-  "furigana": "ちょこたわー",
-  "english_name": "Cococoa blobelisk",
-  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
+  "id": "4C01S0037",
+  "name": "メタルブラザーズ",
+  "furigana": "めたるぶらざーず",
+  "english_name": "Metal medley",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
   "monster_family": "スライムタワー族",
   "search_keywords": [
-    "バレンタイン・ホワイトデー",
-    "お菓子",
+    "Metal medley",
+    "メタル系",
     "公式イラストあり"
   ],
-  "first_appearance": "DQ10",
+  "first_appearance": "DQ9",
   "appearances": [
+    "DQ7_RM",
+    "DQ9",
     "DQ10",
-    "DQM3",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQBS",
+    "DQMSL",
+    "MSP",
     "STAR",
     "RIV",
-    "WALK"
+    "WALK",
+    "champ",
+    "DQSG"
   ],
   "main_family": "スライム系",
-  "sub_family": "バレンタイン",
+  "sub_family": "メタル系",
   "other_families": [],
-  "release_date": "2014年2月1日",
+  "release_date": "2009年7月11日",
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00174",
-  "prev_id": "4C01S0008",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/",
-  "next_id": "4C01S0010",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/nukadoko-slime/",
+  "zukan_no": "No.00202",
+  "prev_id": "4C01S0036",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/02/20/golden-chocolate/",
+  "next_id": "4C02D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -70,16 +79,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/25/golden-totem/"
     },
     {
+      "id": "4C01S0009",
+      "name": "チョコタワー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/"
+    },
+    {
       "id": "4C01S0033",
       "name": "プリズムタワー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プリズムタワー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/05/17/prism-tower/"
-    },
-    {
-      "id": "4C01S0037",
-      "name": "メタルブラザーズ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
     },
     {
       "id": "5B01S0010",

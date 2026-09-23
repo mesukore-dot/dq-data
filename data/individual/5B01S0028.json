@@ -24,11 +24,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00244",
+  "zukan_no": "No.00243",
   "prev_id": "5B01S0027",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/27/fuji-slime/",
-  "next_id": "5B02D0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/19/ki-sudoragon/",
+  "next_id": "5B01S0029",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -62,12 +62,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/05/22/lemon-king/"
     },
     {
-      "id": "5B01S0005",
-      "name": "クイーンスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クイーンスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/"
-    },
-    {
       "id": "5B01S0014",
       "name": "ぶちキング",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ぶちキング.webp",
@@ -90,6 +84,12 @@
       "name": "ホワイトキング",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホワイトキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/05/22/white-king/"
+    },
+    {
+      "id": "5B01S0029",
+      "name": "クイーンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クイーンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/"
     },
     {
       "id": "6A01S0002",

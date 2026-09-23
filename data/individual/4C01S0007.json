@@ -35,9 +35,9 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00173",
+  "zukan_no": "No.00172",
   "prev_id": "4C01S0006",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/",
   "next_id": "4C01S0008",
   "next_page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/",
   "mamechishiki_pages": [],
@@ -73,12 +73,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/"
     },
     {
-      "id": "4C01S0006",
-      "name": "メタルブラザーズ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
-    },
-    {
       "id": "4C01S0009",
       "name": "チョコタワー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
@@ -89,6 +83,12 @@
       "name": "プリズムタワー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プリズムタワー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/05/17/prism-tower/"
+    },
+    {
+      "id": "4C01S0037",
+      "name": "メタルブラザーズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
     },
     {
       "id": "5B01S0010",

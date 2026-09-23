@@ -1,30 +1,40 @@
 {
   "id": "4C01S0005",
-  "name": "ワンダーエッグ",
-  "furigana": "わんだーえっぐ",
-  "english_name": "Rotten egg",
-  "page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ワンダーエッグ.webp",
-  "monster_family": "タマゴロン族",
+  "name": "スライムブレス",
+  "furigana": "すらいむぶれす",
+  "english_name": "Dragon slime",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/25/slime-bless/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムブレス.webp",
+  "monster_family": "ドラゴスライム族",
   "search_keywords": [
-    "Rotten egg",
+    "Dragon slime",
     "公式イラストあり"
   ],
   "first_appearance": "DQ7",
   "appearances": [
     "DQ7",
     "DQ7_3D",
+    "DQ7_RM",
+    "DQ10",
+    "DQ11",
     "DQM1_3DS",
     "DQM1_SP",
     "DQM2_3DS",
     "DQM2_SP",
+    "DQM3",
+    "DQMJ",
     "DQMJ2",
     "DQMJ2_P",
     "DQMJ3",
     "DQMJ3_P",
     "FTR3",
     "DQMSL",
-    "STAR"
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "champ"
   ],
   "main_family": "スライム系",
   "sub_family": "-",
@@ -33,18 +43,30 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00171",
+  "zukan_no": "No.00170",
   "prev_id": "4C01S0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/10/slimebehomazun/",
   "next_id": "4C01S0006",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
-      "id": "1F01S0006",
-      "name": "タマゴロン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/タマゴロン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/tamagoron/"
+      "id": "1F01S0010",
+      "name": "ドラゴスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/23/drago-slime/"
+    },
+    {
+      "id": "3D01S0012",
+      "name": "ぶちドス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
+      "page_url": "[]"
+    },
+    {
+      "id": "5B01S0002",
+      "name": "ドラゴメタル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ドラゴメタル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/"
     }
   ],
   "related_characters_details": [],

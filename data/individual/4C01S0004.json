@@ -59,11 +59,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00170",
-  "prev_id": "4C01S0004",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/25/slime-bless/",
+  "zukan_no": "No.00169",
+  "prev_id": "4C01S0003-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/06/kaiser-slime/",
   "next_id": "4C01S0005",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/02/wonder-egg/",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/slime-bless/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -89,12 +89,6 @@
       "name": "レモンキング",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/レモンキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/05/22/lemon-king/"
-    },
-    {
-      "id": "5B01S0005",
-      "name": "クイーンスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クイーンスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/"
     },
     {
       "id": "5B01S0014",
@@ -125,6 +119,12 @@
       "name": "たまねぎキング",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/31/onion-king-slime/"
+    },
+    {
+      "id": "5B01S0029",
+      "name": "クイーンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クイーンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/"
     },
     {
       "id": "6A01S0002",
