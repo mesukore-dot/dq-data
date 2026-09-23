@@ -1034,6 +1034,83 @@
     "zukan_no": "No.00069"
   },
   {
+    "id": "2E01S0012",
+    "name": "スライムアンノウン",
+    "furigana": "すらいむあんのうん",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ブラッドルビー.webp",
+    "search_keywords": [
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2021年11月11日",
+    "zukan_no": "No.00070"
+  },
+  {
+    "id": "2E01S0013",
+    "name": "マリンスライム・塔",
+    "furigana": "まりんすらいむ・とう",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
+    "search_keywords": [
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2025年12月10日",
+    "zukan_no": "No.00071"
+  },
+  {
+    "id": "2E01S0014",
+    "name": "ホワイトタワー",
+    "furigana": "ほわいとたわー",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
+    "search_keywords": [
+      "バレンタイン・ホワイトデー",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "ホワイトデー",
+    "release_date": "2014年3月1日",
+    "zukan_no": "No.00072"
+  },
+  {
+    "id": "2E01S0015",
+    "name": "はんじゅくスライム",
+    "furigana": "はんじゅくすらいむ",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
+    "search_keywords": [
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2019年4月10日",
+    "zukan_no": "No.00073"
+  },
+  {
     "id": "2E01S0016",
     "name": "ショコラパーマ",
     "furigana": "しょこらぱーま",
@@ -1794,6 +1871,46 @@
     "zukan_no": "No.00115"
   },
   {
+    "id": "3D01S0011",
+    "name": "のっかりゼラチン",
+    "furigana": "のっかりぜらちん",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+    "search_keywords": [
+      "防衛軍",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2020年12月23日",
+    "zukan_no": "No.00116"
+  },
+  {
+    "id": "3D01S0012",
+    "name": "ぶちドス",
+    "furigana": "ぶちどす",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
+    "search_keywords": [
+      "防衛軍",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2020年12月23日",
+    "zukan_no": "No.00117"
+  },
+  {
     "id": "3D01S0013",
     "name": "ヤミスライム",
     "furigana": "やみすらいむ",
@@ -2022,6 +2139,131 @@
     "sub_family": "-",
     "release_date": "2012年5月31日",
     "zukan_no": "No.00126"
+  },
+  {
+    "id": "3D01S0022",
+    "name": "スラ忍オレンジ",
+    "furigana": "すらにんおれんじ",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オパール.webp",
+    "search_keywords": [
+      "Orange ninja slime",
+      "和風",
+      "美女",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2012年5月31日",
+    "zukan_no": "No.00127"
+  },
+  {
+    "id": "3D01S0023",
+    "name": "スラ忍グリーン",
+    "furigana": "すらにんぐりーん",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-エメラルド.webp",
+    "search_keywords": [
+      "Green ninja slime",
+      "和風",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2012年5月31日",
+    "zukan_no": "No.00128"
+  },
+  {
+    "id": "3D01S0024",
+    "name": "スラ忍ピンク",
+    "furigana": "すらにんぴんく",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ピンクスピネル.webp",
+    "search_keywords": [
+      "Pink ninja slime",
+      "和風",
+      "美女",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2012年5月31日",
+    "zukan_no": "No.00129"
+  },
+  {
+    "id": "3D01S0025",
+    "name": "スラ忍ブラウン",
+    "furigana": "すらにんぶらうん",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+    "search_keywords": [
+      "Brown ninja slime",
+      "和風",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2012年5月31日",
+    "zukan_no": "No.00130"
+  },
+  {
+    "id": "3D01S0026",
+    "name": "スラ忍ブラック",
+    "furigana": "すらにんぶらっく",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
+    "search_keywords": [
+      "Black ninja slime",
+      "和風",
+      "美女",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2012年5月31日",
+    "zukan_no": "No.00131"
   },
   {
     "id": "3D01S0027",
@@ -2857,6 +3099,26 @@
     "zukan_no": "No.00179"
   },
   {
+    "id": "4C01S0014",
+    "name": "撃滅隊長ジェリゴ",
+    "furigana": "げきめつたいちょうじぇりご",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
+    "search_keywords": [
+      "防衛軍",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2020年12月23日",
+    "zukan_no": "No.00180"
+  },
+  {
     "id": "4C01S0015",
     "name": "幽冥の緑石帝",
     "furigana": "ゆうめいのりょくせきてい",
@@ -3503,6 +3765,47 @@
     "zukan_no": "No.00223"
   },
   {
+    "id": "5B01S0008",
+    "name": "花の祠の守護者",
+    "furigana": "はなのほこらのしゅごしゃ",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-エメラルド.webp",
+    "search_keywords": [
+      "ボス",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2020年12月23日",
+    "zukan_no": "No.00224"
+  },
+  {
+    "id": "5B01S0009",
+    "name": "海溝の煌玉",
+    "furigana": "かいこうのこうぎょく",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
+    "search_keywords": [
+      "いにしえのゼルメア",
+      "ボス",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2022年3月17日",
+    "zukan_no": "No.00225"
+  },
+  {
     "id": "5B01S0010",
     "name": "レインボートーテム",
     "furigana": "れいんぼーとーてむ",
@@ -4058,6 +4361,67 @@
     "zukan_no": "No.00265"
   },
   {
+    "id": "6A01S0006",
+    "name": "彩虹の死剣将グロズ",
+    "furigana": "さいこうのしけんしょうぐろず",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
+    "search_keywords": [
+      "防衛軍",
+      "ボス",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2020年12月23日",
+    "zukan_no": "No.00266"
+  },
+  {
+    "id": "6A01S0007",
+    "name": "カラミティキング",
+    "furigana": "からみてぃきんぐ",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
+    "search_keywords": [
+      "ボス",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2022年3月17日",
+    "zukan_no": "No.00267"
+  },
+  {
+    "id": "6A01S0008",
+    "name": "冥光冠パニスライム",
+    "furigana": "めいこうかんぱにすらいむ",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アクアマリン.webp",
+    "search_keywords": [
+      "ボス",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2026年3月25日",
+    "zukan_no": "No.00268"
+  },
+  {
     "id": "6A01S0009",
     "name": "スライダーキッズ",
     "furigana": "すらいだーきっず",
@@ -4391,6 +4755,45 @@
     "sub_family": "メタル系",
     "release_date": "2000年8月26日",
     "zukan_no": "No.00288"
+  },
+  {
+    "id": "7S01S0003",
+    "name": "ダークアドミラル",
+    "furigana": "だーくあどみらる",
+    "page_url": "[]",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
+    "search_keywords": [
+      "ボス",
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2026年6月25日",
+    "zukan_no": "No.00289"
+  },
+  {
+    "id": "7S01S0004",
+    "name": "ウォータスライダーク",
+    "furigana": "うぉーたすらいだーく",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アクアマリン.webp",
+    "search_keywords": [
+      "未作成",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2021年4月1日",
+    "zukan_no": "No.00290"
   },
   {
     "id": "7S01S0005",
@@ -5121,6 +5524,29 @@
     "sub_family": [],
     "release_date": "2016年3月24日",
     "zukan_no": "No.00321"
+  },
+  {
+    "id": "8SS01S0010",
+    "name": "空の神ホアカリ",
+    "furigana": "そらのかみほあかり",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ピンクスピネル.webp",
+    "search_keywords": [
+      "産星神",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [
+      "？？？系"
+    ],
+    "release_date": "2016年3月24日",
+    "zukan_no": "No.00322"
   },
   {
     "id": "8SS01S0012",
