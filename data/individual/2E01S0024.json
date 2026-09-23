@@ -7,6 +7,7 @@
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムスノー.webp",
   "monster_family": "スライム族",
   "search_keywords": [
+    "雪・氷",
     "公式イラストあり"
   ],
   "first_appearance": "KS",
@@ -22,7 +23,7 @@
     "TACT"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": "雪・氷",
   "other_families": [],
   "release_date": "2003年9月19日",
   "voice_actor": "-",
@@ -35,7 +36,19 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/27/evil-slime/",
   "next_id": "2E01S0025",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/06/27/marble-slime/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成15年）2003年9月19日「剣神ドラゴンクエスト 甦りし伝説の剣」から登場。",
+      "works_count": "7作品\n (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "雪のように　まっしろな　かわいいスライム。氷点下でも　かたまることはない。",
+      "ability": "見た目通り　氷のじゅもんが　とくい。ヒャド系のとくぎは　効かない。",
+      "ecology": "すきなものは　ゆきがふる　キセツ。",
+      "variants_size": "ホワイトスライム",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0001",
