@@ -5138,40 +5138,7 @@
       "物質系"
     ],
     "release_date": "2005年12月1日",
-    "zukan_no": "No.00318"
-  },
-  {
-    "id": "7S01S0015",
-    "name": "勇車スラリンガル",
-    "furigana": "ゆうしゃすらりんがる",
-    "page_url": "https://dqfan527.xsrv.jp/2023/04/28/yuusyasuraringaru/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/勇車スラリンガル.webp",
-    "search_keywords": [
-      "公式イラストあり"
-    ],
-    "first_appearance": "MRMR2",
-    "appearances": [
-      "DQM1_3DS",
-      "DQM1_SP",
-      "DQM2_3DS",
-      "DQM2_SP",
-      "DQMJ2",
-      "DQMJ2_P",
-      "DQMJ3_P",
-      "MRMR2",
-      "DQMB",
-      "DQMSL",
-      "STAR",
-      "RIV",
-      "WALK",
-      "TACT"
-    ],
-    "main_family": "スライム系",
-    "sub_family": [
-      "物質系"
-    ],
-    "release_date": "2005年12月1日",
-    "zukan_no": "No.00318"
+    "zukan_no": "No.00317"
   },
   {
     "id": "7S01S0015-1",
@@ -5192,7 +5159,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年2月5日",
-    "zukan_no": "No.00319"
+    "zukan_no": "No.00318"
   },
   {
     "id": "7S01S0016",
@@ -5228,7 +5195,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2008年5月9日",
-    "zukan_no": "No.00320"
+    "zukan_no": "No.00319"
   },
   {
     "id": "7S01S0017",
@@ -5248,7 +5215,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2019年9月12日",
-    "zukan_no": "No.00321"
+    "zukan_no": "No.00320"
   },
   {
     "id": "7S01S0018",
@@ -5267,7 +5234,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2025年11月13日",
-    "zukan_no": "No.00322"
+    "zukan_no": "No.00321"
   },
   {
     "id": "7S01S0019",
@@ -5289,7 +5256,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年3月31日",
-    "zukan_no": "No.00323"
+    "zukan_no": "No.00322"
   },
   {
     "id": "7S01S0020",
@@ -5309,6 +5276,29 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2020年7月16日",
+    "zukan_no": "No.00323"
+  },
+  {
+    "id": "7S01S0021",
+    "name": "ホミロン",
+    "furigana": "ほみろん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
+    "search_keywords": [
+      "Healix",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQH1",
+    "appearances": [
+      "DQH1",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "RIV"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2015年2月26日",
     "zukan_no": "No.00324"
   },
   {
