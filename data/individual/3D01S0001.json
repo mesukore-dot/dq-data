@@ -83,7 +83,7 @@
     "item_dokubari"
   ],
   "related_characters": [],
-  "zukan_no": "No.00110",
+  "zukan_no": "No.00111",
   "prev_id": "2E09M0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/13/grublin/",
   "next_id": "3D01S0002",
@@ -155,6 +155,12 @@
       "name": "たまねぎスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
+    },
+    {
+      "id": "2E01S0031",
+      "name": "ハロウィンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/"
     },
     {
       "id": "3D01S0005",
@@ -275,6 +281,12 @@
       "name": "スラクト",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラクト.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/"
+    },
+    {
+      "id": "CP-3101S0001",
+      "name": "ポッピングシャワースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
     },
     {
       "id": "CP-YS01S0001",

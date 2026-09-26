@@ -29,8 +29,8 @@
   "zukan_no": "No.00094",
   "prev_id": "2E01S0029",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/",
-  "next_id": "2E02D0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/10/poison-lizard/",
+  "next_id": "2E01S0031",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -92,6 +92,12 @@
       "name": "海賊スライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/海賊スライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/"
+    },
+    {
+      "id": "2E01S0031",
+      "name": "ハロウィンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/"
     },
     {
       "id": "3D01S0001",
@@ -218,6 +224,12 @@
       "name": "スラクト",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラクト.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/"
+    },
+    {
+      "id": "CP-3101S0001",
+      "name": "ポッピングシャワースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
     },
     {
       "id": "CP-YS01S0001",

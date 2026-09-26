@@ -1,38 +1,32 @@
 {
-  "id": "4C01S0019",
-  "name": "レモンスライム",
-  "furigana": "れもんすらいむ",
+  "id": "2E01S0031",
+  "name": "ハロウィンスライム",
+  "furigana": "はろうぃんすらいむ",
   "english_name": "-",
-  "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lemon-slime/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レモンスライム.webp",
+  "page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンスライム.webp",
   "monster_family": "スライム族",
   "search_keywords": [
     "公式イラストあり"
   ],
-  "first_appearance": "MSP",
+  "first_appearance": "STAR",
   "appearances": [
-    "DQM2_3DS",
-    "DQM2_SP",
-    "MSP",
-    "STAR",
-    "RIV",
-    "TACT",
-    "DQSG"
+    "STAR"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
-  "other_families": [],
-  "release_date": "2013年8月22日",
+  "sub_family": "ハロウィン",
+  "other_families": "-",
+  "release_date": "2019年10月20日",
   "voice_actor": "-",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00194",
-  "prev_id": "4C01S0018",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/",
-  "next_id": "4C01S0020",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/02/lime-slime/",
+  "zukan_no": "No.00095",
+  "prev_id": "2E01S0030",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/",
+  "next_id": "2E02D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/10/poison-lizard/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -102,12 +96,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
-      "id": "2E01S0031",
-      "name": "ハロウィンスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/"
-    },
-    {
       "id": "3D01S0001",
       "name": "メタルスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/メタルスライム.webp",
@@ -154,6 +142,12 @@
       "name": "チェリースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チェリースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/"
+    },
+    {
+      "id": "4C01S0019",
+      "name": "レモンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レモンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/lemon-slime/"
     },
     {
       "id": "4C01S0020",
