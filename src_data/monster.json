@@ -38,6 +38,48 @@
     "related_characters": []
   },  
   {
+    "id": "CP-3101S0001",
+    "name": "ポッピングシャワースライム",
+    "furigana": "ぽっぴんぐしゃわーすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["サーティーワン31コラボ","たべもの","公式イラストあり"],
+    "first_appearance": "-",
+    "appearances": [
+    "-"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "2019年10月20日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+  {
+    "id": "2E01S0031",
+    "name": "ハロウィンスライム",
+    "furigana": "はろうぃんすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "STAR",
+    "appearances": [
+    "STAR"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "ハロウィン",
+    "other_families": "-",
+    "release_date": "2019年10月20日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+  {
     "id": "1F07W0001",
     "name": "フロッガー",
     "furigana": "ふろっがー",
