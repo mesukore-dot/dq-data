@@ -1,5 +1,42 @@
 [
   {
+    "id": "1F07W0001",
+    "name": "フロッガー",
+    "furigana": "ふろっがー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/froger/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/フロッガー.webp",
+    "search_keywords": [
+      "Toady",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ7_RM",
+      "DQ11",
+      "DQM2_SP",
+      "DQM3",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQSW",
+      "DQH1",
+      "DQH2",
+      "DQB2",
+      "DQBS",
+      "STAR",
+      "RIV",
+      "champ"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00051"
+  },
+  {
     "id": "3D07W0001",
     "name": "しびれくらげ",
     "furigana": "しびれくらげ",
@@ -52,7 +89,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00171"
+    "zukan_no": "No.00172"
   },
   {
     "id": "4C07W0001",
@@ -77,6 +114,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00226"
+    "zukan_no": "No.00227"
   }
 ]
