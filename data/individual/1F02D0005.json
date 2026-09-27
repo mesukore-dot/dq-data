@@ -30,7 +30,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/",
   "next_id": "1F02D0006",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/25/king-cobra/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和62年）1987年1月26日、ファミコン版「ドラゴンクエストII 悪霊の神々（DQ2）」から登場。",
+      "works_count": "3作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "草原でも目立つ　ハデなシマシマもようの　ヘビのまもの。もうどくを持っているため　草むらで　うっかり踏まないよう注意。",
+      "ability": "するどいキバで　かみちぎり　もうどくを体内に注入する。一瞬で　血液がゼリーのように　かたまってしまい　ゾウでも即死してしまうという。",
+      "trivia_notes": "キングコブラ（king cobra）アジアを中心に生息している　世界でもっとも長い毒蛇。大きいものは　5mを超えるという。主食は　他のヘビで　共食いも行う。ヘビの中では　めずらしく巣を作る。さらに　威嚇するときは　イヌのような鳴き声らしい。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []
