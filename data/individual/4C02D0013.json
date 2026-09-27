@@ -1,0 +1,58 @@
+{
+  "id": "4C02D0013",
+  "name": "ワニバーン",
+  "furigana": "わにばーん",
+  "english_name": "Heligator",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/waniba-n/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ワニバーン.webp",
+  "monster_family": "ワニバーン族",
+  "search_keywords": [
+    "Heligator",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [
+    "自然系",
+    "水系"
+  ],
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00226",
+  "prev_id": "4C02D0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/13/shiny-dragling/",
+  "next_id": "4C03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "6A02D0005",
+      "name": "ビッグファング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ビッグファング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/15/crocodog/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

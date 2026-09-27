@@ -1,0 +1,50 @@
+{
+  "id": "6A02D0005",
+  "name": "ビッグファング",
+  "furigana": "びっぐふぁんぐ",
+  "english_name": "Crocodog",
+  "page_url": "https://dqfan527.xsrv.jp/2025/02/15/crocodog/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ビッグファング.webp",
+  "monster_family": "ワニバーン族",
+  "search_keywords": [
+    "Crocodog",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQMJ3",
+    "DQMJ3_P",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [
+    "自然系",
+    "水系"
+  ],
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00306",
+  "prev_id": "6A02D0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/03/09/battlerex/",
+  "next_id": "6A03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C02D0013",
+      "name": "ワニバーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ワニバーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/waniba-n/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
