@@ -1,0 +1,65 @@
+{
+  "id": "5B10M0002",
+  "name": "アイスゴーレム",
+  "furigana": "アイスゴーレム",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アイスゴーレム.webp",
+  "monster_family": "ゴーレム族",
+  "search_keywords": [
+    "氷・雪",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQTR",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "champ",
+    "DQSG"
+  ],
+  "main_family": "物質系",
+  "sub_family": "氷・雪",
+  "other_families": [],
+  "release_date": "2013年12月5日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00280",
+  "prev_id": "5B10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/",
+  "next_id": "5B13Z0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C10M0001",
+      "name": "ストーンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ストーンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/"
+    },
+    {
+      "id": "5B10M0001",
+      "name": "ゴールドマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールドマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/"
+    },
+    {
+      "id": "6A10M0001",
+      "name": "ゴーレム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴーレム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/17/go-remu/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
