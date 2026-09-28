@@ -62,11 +62,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00280",
-  "prev_id": "5B10M0001",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/",
-  "next_id": "5B13Z0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+  "zukan_no": "No.00279",
+  "prev_id": "5B02D0014",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/17/snow-elder/",
+  "next_id": "5B10M0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -74,6 +74,12 @@
       "name": "ストーンマン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ストーンマン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/"
+    },
+    {
+      "id": "5B10M0002",
+      "name": "アイスゴーレム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アイスゴーレム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/"
     },
     {
       "id": "6A10M0001",

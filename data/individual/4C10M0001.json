@@ -69,15 +69,15 @@
   "color_variants": [
     {
       "id": "5B10M0001",
-      "name": "アイスゴーレム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アイスゴーレム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/"
-    },
-    {
-      "id": "5B10M0001",
       "name": "ゴールドマン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールドマン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/"
+    },
+    {
+      "id": "5B10M0002",
+      "name": "アイスゴーレム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アイスゴーレム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/"
     },
     {
       "id": "6A10M0001",
