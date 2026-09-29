@@ -3446,6 +3446,7 @@
     "first_appearance": "DQTR",
     "appearances": [
       "DQTR",
+      "WALK",
       "KSKS"
     ],
     "main_family": "スライム系",
@@ -4777,7 +4778,8 @@
       "DQMCH",
       "DQMSL",
       "RIV",
-      "WALK"
+      "WALK",
+      "TACT"
     ],
     "main_family": "スライム系",
     "sub_family": "-",
@@ -4899,7 +4901,8 @@
       "DQMSL",
       "MSP",
       "STAR",
-      "RIV"
+      "RIV",
+      "TACT"
     ],
     "main_family": "スライム系",
     "sub_family": [],
