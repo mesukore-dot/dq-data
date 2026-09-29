@@ -179,6 +179,38 @@
     "zukan_no": "No.00238"
   },
   {
+    "id": "4C13Z0003",
+    "name": "ゆうれいせんちょう",
+    "furigana": "ゆうれいせんちょう",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/14/cross-bones/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゆうれいせんちょう.webp",
+    "search_keywords": [
+      "Cross bones",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00239"
+  },
+  {
     "id": "5B13Z0001",
     "name": "ドラゴンコープス",
     "furigana": "どらごんこーぷす",
@@ -205,6 +237,30 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00286"
+    "zukan_no": "No.00287"
+  },
+  {
+    "id": "5B13Z0002",
+    "name": "キャプテンクック",
+    "furigana": "きゃぷてんくっく",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/14/poltarrrgeist/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キャプテンクック.webp",
+    "search_keywords": [
+      "Poltarrrgeist",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQMSL",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00288"
   }
 ]
