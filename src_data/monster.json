@@ -38,6 +38,28 @@
     "related_characters": []
   },  
   {
+    "id": "3D09M0001",
+    "name": "ドッグラマッコイ",
+    "furigana": "どっぐらまっこい",
+    "english_name": "Pious dogra",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/25/pious-dogra/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドッグラマッコイ.webp",
+    "monster_family": "ゆめにゅうどう族",
+    "search_keywords": ["Pious dogra","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "KSKS"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "2012年8月2日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+  {
     "id": "1F09M0003",
     "name": "つちわらし",
     "furigana": "つちわらし",
