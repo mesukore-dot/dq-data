@@ -174,6 +174,38 @@
     "zukan_no": "No.00058"
   },
   {
+    "id": "1F09M0005",
+    "name": "シールドこぞう",
+    "furigana": "しーるどこぞう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/23/sealed-kozou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/シールドこぞう.webp",
+    "search_keywords": [
+      "Leery lout",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM2_SP",
+      "DQM3",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00059"
+  },
+  {
     "id": "2E09M0001",
     "name": "オコボルト",
     "furigana": "おこぼると",
@@ -194,7 +226,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00114"
+    "zukan_no": "No.00115"
   },
   {
     "id": "3D09M0001",
@@ -215,6 +247,6 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00178"
+    "zukan_no": "No.00179"
   }
 ]

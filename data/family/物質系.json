@@ -25,7 +25,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00059"
+    "zukan_no": "No.00060"
   },
   {
     "id": "1F10M0002",
@@ -69,7 +69,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00060"
+    "zukan_no": "No.00061"
   },
   {
     "id": "1F10M0002-1",
@@ -90,7 +90,7 @@
     "main_family": "物質系",
     "sub_family": "炎・マグマ",
     "release_date": "2021年11月11日",
-    "zukan_no": "No.00061"
+    "zukan_no": "No.00062"
   },
   {
     "id": "1F10M0003",
@@ -114,7 +114,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00062"
+    "zukan_no": "No.00063"
   },
   {
     "id": "1F10M0004",
@@ -143,7 +143,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00063"
+    "zukan_no": "No.00064"
   },
   {
     "id": "3D10M0001",
@@ -172,7 +172,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00179"
+    "zukan_no": "No.00180"
   },
   {
     "id": "4C10M0001",
@@ -227,7 +227,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00235"
+    "zukan_no": "No.00236"
   },
   {
     "id": "5B10M0001",
@@ -285,7 +285,7 @@
     "main_family": "物質系",
     "sub_family": "ゴールデン",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00283"
+    "zukan_no": "No.00284"
   },
   {
     "id": "5B10M0002",
@@ -315,7 +315,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00284"
+    "zukan_no": "No.00285"
   },
   {
     "id": "6A10M0001",
@@ -388,6 +388,6 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00312"
+    "zukan_no": "No.00313"
   }
 ]
