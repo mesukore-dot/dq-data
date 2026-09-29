@@ -132,5 +132,26 @@
     "sub_family": "-",
     "release_date": "2017年7月29日",
     "zukan_no": "No.00113"
+  },
+  {
+    "id": "3D09M0001",
+    "name": "ドッグラマッコイ",
+    "furigana": "どっぐらまっこい",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/25/pious-dogra/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドッグラマッコイ.webp",
+    "search_keywords": [
+      "Pious dogra",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "KSKS"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00177"
   }
 ]
