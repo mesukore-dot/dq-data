@@ -683,5 +683,37 @@
     "sub_family": "-",
     "release_date": "1987年1月26日",
     "zukan_no": "No.00307"
+  },
+  {
+    "id": "7S03B0001",
+    "name": "キャット・リベリオ",
+    "furigana": "きゃっと・りべりお",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キャット・リベリオ.webp",
+    "search_keywords": [
+      "Purrgatroyd",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ19",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00334"
   }
 ]
