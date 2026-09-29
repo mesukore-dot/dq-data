@@ -21,7 +21,8 @@
     "DQMCH",
     "DQMSL",
     "RIV",
-    "WALK"
+    "WALK",
+    "TACT"
   ],
   "main_family": "スライム系",
   "sub_family": "-",
