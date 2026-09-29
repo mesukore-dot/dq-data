@@ -41,7 +41,20 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/19/riripat/",
   "next_id": "1F09M0004",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/04/24/ookiduchi/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日、ファミコン版「ドラゴンクエストIV 導かれし者たち（DQ4）」から登場。",
+      "works_count": "10作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "つち色の　きしょくわるいまもの。はるか昔から　すがたを変えずに　現代まで生き残っている。",
+      "ability": "ピンチになると　なかまや　ホイミスライムを呼びよせる　ひきょうな戦略。",
+      "habitat": "ふだんは　土の中で暮らしている。",
+      "ecology": "ながい舌で　土をなめまわすのが　だいすき。土を　ひとなめしただけで　どこの土か　みきわめられる　サンドソムリエ。中でもドワーフたちが暮らす　大陸の土が好みらしい。",
+      "variants_size": "古代つちわらし",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

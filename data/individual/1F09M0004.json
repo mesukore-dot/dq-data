@@ -72,7 +72,19 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%81%a4%e3%81%a1%e3%82%8f%e3%82%89%e3%81%97/",
   "next_id": "1F09M0005",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/23/sealed-kozou/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
+      "works_count": "33作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "大木のハンマーを持った　なぞのまもの。かわいい見た目に似合わない　腕力をもつ。",
+      "ability": "ドカンと一発　ハンマーをふりおろす　ギャンブルアタック。当たるかどうかは関係ない。",
+      "ecology": "まるで　武器が本体かのような　なまえをつけられ　じぶんの存在とは何かを　自問自答している。",
+      "connection": "お笑いがだいすきで　いつもサムいギャグばかりの　わらいぶくろを　ひややかな目で見ている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []

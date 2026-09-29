@@ -41,7 +41,17 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/24/ookiduchi/",
   "next_id": "1F10M0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/08/31/togebouzu/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成7年）1995年12月9日、スーパーファミコン版「ドラゴンクエストVI 幻の大地（DQ6）」から登場。",
+      "works_count": "12作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "こわい顔がついた　大きな盾を持ったまもの。おもちゃのような剣で　おそいかかるが　盾のおもみで　ころんでばかり。",
+      "ecology": "かわいい顔のせいで　なめられてしまうので　親からもらった　こわい顔の盾を持ち　ハクをつけている。持っている盾は　一部のニンゲンたちにも人気なようで　同じデザインの盾を作るためのレシピが出回っている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_characters_details": [],
   "related_items_details": []
