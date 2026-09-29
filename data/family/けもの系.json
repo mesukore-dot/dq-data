@@ -467,7 +467,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00106"
+    "zukan_no": "No.00107"
   },
   {
     "id": "2E03B0001-1",
@@ -499,7 +499,7 @@
     "main_family": "けもの系",
     "sub_family": "ゴールデン",
     "release_date": "2012年10月9日",
-    "zukan_no": "No.00107"
+    "zukan_no": "No.00108"
   },
   {
     "id": "2E03B0002",
@@ -550,7 +550,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00108"
+    "zukan_no": "No.00109"
   },
   {
     "id": "3D03B0001",
@@ -588,7 +588,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00166"
+    "zukan_no": "No.00167"
   },
   {
     "id": "3D03B0002",
@@ -613,7 +613,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00167"
+    "zukan_no": "No.00168"
   },
   {
     "id": "4C03B0001",
@@ -636,7 +636,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00227"
+    "zukan_no": "No.00228"
   },
   {
     "id": "4C03B0002",
@@ -659,7 +659,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00228"
+    "zukan_no": "No.00229"
   },
   {
     "id": "6A03B0001",
@@ -682,7 +682,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00307"
+    "zukan_no": "No.00308"
   },
   {
     "id": "7S03B0001",
@@ -695,7 +695,7 @@
       "ボス",
       "公式イラストあり"
     ],
-    "first_appearance": "DQ19",
+    "first_appearance": "DQ10",
     "appearances": [
       "DQ10",
       "DQ10_OFF",
@@ -714,6 +714,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00334"
+    "zukan_no": "No.00335"
   }
 ]

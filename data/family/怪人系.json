@@ -24,6 +24,61 @@
     "zukan_no": "No.00055"
   },
   {
+    "id": "1F09M0002",
+    "name": "リリパット",
+    "furigana": "りりぱっと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/19/riripat/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リリパット.webp",
+    "search_keywords": [
+      "Bodkin archer",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "KS",
+      "DQSW",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00056"
+  },
+  {
     "id": "2E09M0001",
     "name": "オコボルト",
     "furigana": "おこぼると",
@@ -44,6 +99,6 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00111"
+    "zukan_no": "No.00112"
   }
 ]
