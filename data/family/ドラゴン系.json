@@ -2107,6 +2107,32 @@
     "zukan_no": "No.00340"
   },
   {
+    "id": "7S02D0004",
+    "name": "ガメゴンレジェンド",
+    "furigana": "がめごんれじぇんど",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/23/wonder-wyrtle/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガメゴンレジェンド.webp",
+    "search_keywords": [
+      "Wonder wyrtie",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQ10",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "RIV",
+      "WALK",
+      "champ"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00341"
+  },
+  {
     "id": "8SS02D0001",
     "name": "キングヒドラ",
     "furigana": "きんぐひどら",
@@ -2146,7 +2172,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00357"
+    "zukan_no": "No.00358"
   },
   {
     "id": "8SS02D0002",
@@ -2167,7 +2193,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2022年12月9日",
-    "zukan_no": "No.00358"
+    "zukan_no": "No.00359"
   },
   {
     "id": "9X02D0001",
@@ -2210,7 +2236,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00361"
+    "zukan_no": "No.00362"
   },
   {
     "id": "9X02D0002",
@@ -2239,7 +2265,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00362"
+    "zukan_no": "No.00363"
   },
   {
     "id": "9X02D0003",
@@ -2276,6 +2302,103 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00363"
+    "zukan_no": "No.00364"
+  },
+  {
+    "id": "9X02D0004",
+    "name": "グレイナル",
+    "furigana": "ぐれいなる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/25/gireinaru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/グレイナル.webp",
+    "search_keywords": [
+      "Greygnarl",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00365"
+  },
+  {
+    "id": "9X02D0005",
+    "name": "闇竜バルボロス",
+    "furigana": "やみりゅうばるぼろす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/29/yamiryubaruborosu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/闇竜バルボロス.webp",
+    "search_keywords": [
+      "Barbarus",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00366"
+  },
+  {
+    "id": "9X02D0006",
+    "name": "アギロゴス",
+    "furigana": "あぎろごす",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/12/agyrogos/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アギロゴス.webp",
+    "search_keywords": [
+      "Styrmling",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2012年5月31日",
+    "zukan_no": "No.00367"
   }
 ]
