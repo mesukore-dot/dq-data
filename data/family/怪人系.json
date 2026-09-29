@@ -111,6 +111,69 @@
     "zukan_no": "No.00057"
   },
   {
+    "id": "1F09M0004",
+    "name": "おおきづち",
+    "furigana": "おおきづち",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/24/ookiduchi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おおきづち.webp",
+    "search_keywords": [
+      "Hammerhood",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "MRMR1",
+      "MRMR2",
+      "MRMR3",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00058"
+  },
+  {
     "id": "2E09M0001",
     "name": "オコボルト",
     "furigana": "おこぼると",
@@ -131,7 +194,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00113"
+    "zukan_no": "No.00114"
   },
   {
     "id": "3D09M0001",
@@ -152,6 +215,6 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00177"
+    "zukan_no": "No.00178"
   }
 ]
