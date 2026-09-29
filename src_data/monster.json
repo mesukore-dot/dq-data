@@ -38,6 +38,31 @@
     "related_characters": []
   },  
   {
+    "id": "1F09M0002",
+    "name": "リリパット",
+    "furigana": "りりぱっと",
+    "english_name": "Bodkin archer",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/19/riripat/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リリパット.webp",
+    "monster_family": "リリパット族",
+    "search_keywords": ["Bodkin archer","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
+      "FTR1","FTR2","FTR3","FY1","KS","DQSW","DQH2","DQB1","DQB2",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },
+  {
     "id": "7S03B0001",
     "name": "キャット・リベリオ",
     "furigana": "きゃっと・りべりお",
@@ -46,7 +71,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キャット・リベリオ.webp",
     "monster_family": "キャット・リベリオ族",
     "search_keywords": ["Purrgatroyd","ボス","公式イラストあり"],
-    "first_appearance": "DQ19",
+    "first_appearance": "DQ10",
     "appearances": [
       "DQ10","DQ10_OFF",
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ3","DQMJ3_P",
