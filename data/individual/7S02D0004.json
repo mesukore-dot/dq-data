@@ -1,0 +1,55 @@
+{
+  "id": "7S02D0004",
+  "name": "ガメゴンレジェンド",
+  "furigana": "がめごんれじぇんど",
+  "english_name": "Wonder wyrtie",
+  "page_url": "https://dqfan527.xsrv.jp/2024/05/23/wonder-wyrtle/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガメゴンレジェンド.webp",
+  "monster_family": "ガメゴン族",
+  "search_keywords": [
+    "Wonder wyrtie",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ9",
+  "appearances": [
+    "DQ9",
+    "DQ10",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "RIV",
+    "WALK",
+    "champ"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2009年7月11日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00341",
+  "prev_id": "7S02D0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/30/ibu-ru/",
+  "next_id": "7S03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D02D0003",
+      "name": "ガメゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガメゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/gamegon/"
+    },
+    {
+      "id": "5B02D0002",
+      "name": "ガメゴンロード",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガメゴンロード.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/gamegon-lord/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
