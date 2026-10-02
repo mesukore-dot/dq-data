@@ -2314,7 +2314,7 @@
     "search_keywords": [
       "Auroral Serpent",
       "ボス",
-      "公式イラスト待機中"
+      "公式イラストあり"
     ],
     "first_appearance": "DQ11",
     "appearances": [
@@ -2401,7 +2401,7 @@
     "search_keywords": [
       "Indignus",
       "ボス",
-      "公式イラスト待機中"
+      "公式イラストあり"
     ],
     "first_appearance": "DQ11",
     "appearances": [
@@ -2428,7 +2428,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/魔戦士ルギウス-2.webp",
     "search_keywords": [
       "ボス",
-      "公式イラスト待機中"
+      "公式イラストあり"
     ],
     "first_appearance": "DQM1_3DS",
     "appearances": [
@@ -2443,6 +2443,81 @@
     "sub_family": "-",
     "release_date": "2012年5月31日",
     "zukan_no": "No.00370"
+  },
+  {
+    "id": "8SS02D0005",
+    "name": "じげんりゅう",
+    "furigana": "じげんりゅう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/jigenryu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じげんりゅう.webp",
+    "search_keywords": [
+      "Dimenshional Dragon",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQ10",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ3_P",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2001年3月9日",
+    "zukan_no": "No.00371"
+  },
+  {
+    "id": "8SS02D0005-1",
+    "name": "ひのでりゅう",
+    "furigana": "ひのでりゅう",
+    "page_url": "https://dqfan527.xsrv.jp/2026/01/08/hinoderyu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひのでりゅう.webp",
+    "search_keywords": [
+      "お正月・干支",
+      "公式イラストあり"
+    ],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2026年1月8日",
+    "zukan_no": "No.00372"
+  },
+  {
+    "id": "8SS02D0006",
+    "name": "オリハルゴン",
+    "furigana": "おりはるごん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/02/stalagosaur/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オリハルゴン.webp",
+    "search_keywords": [
+      "Stalagosaur",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2001年3月9日",
+    "zukan_no": "No.00373"
   },
   {
     "id": "9X02D0001",
@@ -2485,7 +2560,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00373"
+    "zukan_no": "No.00376"
   },
   {
     "id": "9X02D0002",
@@ -2514,7 +2589,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00374"
+    "zukan_no": "No.00377"
   },
   {
     "id": "9X02D0003",
@@ -2551,7 +2626,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00375"
+    "zukan_no": "No.00378"
   },
   {
     "id": "9X02D0004",
@@ -2587,7 +2662,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00376"
+    "zukan_no": "No.00379"
   },
   {
     "id": "9X02D0005",
@@ -2623,7 +2698,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00377"
+    "zukan_no": "No.00380"
   },
   {
     "id": "9X02D0006",
@@ -2648,6 +2723,6 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00378"
+    "zukan_no": "No.00381"
   }
 ]

@@ -1,0 +1,54 @@
+{
+  "id": "8SS02D0005",
+  "name": "じげんりゅう",
+  "furigana": "じげんりゅう",
+  "english_name": "Dimenshional Dragon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/jigenryu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じげんりゅう.webp",
+  "monster_family": "じげんりゅう族",
+  "search_keywords": [
+    "Dimenshional Dragon",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM2",
+  "appearances": [
+    "DQ10",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ3_P",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2001年3月9日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00371",
+  "prev_id": "8SS02D0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/01/masenshirugiusu/",
+  "next_id": "8SS02D0005-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/01/08/hinoderyu/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "8SS02D0005-1",
+      "name": "ひのでりゅう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひのでりゅう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/01/08/hinoderyu/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
