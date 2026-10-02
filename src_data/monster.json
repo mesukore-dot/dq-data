@@ -102,6 +102,29 @@
     "related_characters": []
   }, 
   {
+    "id": "2E02D0010",
+    "name": "リザードフライ",
+    "furigana": "りざーどふらい",
+    "english_name": "Dragonfry",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/lizard-fly/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/リザードフライ.webp",
+    "monster_family": "リザードフライ族",
+    "search_keywords": ["Dragonfry","公式イラストあり"],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D","DQ2","DQ2_HD2D",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQMJ2_P",
+      "STAR","RIV","WALK"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "1987年1月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  }, 
+  {
     "id": "9X02D0005",
     "name": "闇竜バルボロス",
     "furigana": "やみりゅうばるぼろす",
