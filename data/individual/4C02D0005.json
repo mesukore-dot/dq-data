@@ -31,7 +31,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/04/snow-dragon/",
   "next_id": "4C02D0006",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/07/11/guardian-dq4/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成7年）1995年12月9日、スーパーファミコン版「ドラゴンクエストVI 幻の大地（DQ6）」から登場。",
+      "works_count": "4作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "強いもうどくを持つ　ヘビのまもの。どんな　どくのこうげきも効かないらしい。",
+      "ability": "大きく広げたエラから　もうどくのきりを　噴射する。どくけしそうは必需品だ。",
+      "doctor": "夜道に出会ったならば　3歩さがって　別の方角へすすめ！そうでないと　よくないことが　おきてしまうぞ…。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D02D0004",
