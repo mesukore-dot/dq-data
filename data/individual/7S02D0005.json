@@ -29,7 +29,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/23/wonder-wyrtle/",
   "next_id": "7S03B0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和7年）2025年10月30日　HD-2D版「ドラゴンクエストII 悪霊の神々（DQ2）」から登場。",
+      "works_count": "1作品(リメイク・アニメ・マンガ等は含めない数字)",
+      "what_kind": "とある南海の洞くつのヌシ。海のまものたちの頂点に君臨し　深海を我がモノ顔で　スイスイ泳ぐ。",
+      "form": "ウィングスネーク族のまものではあるが　彼らとは違い　するどいツノと長いヒゲを持つ。性格もゆがみ　かおつきも凶悪になった。",
+      "ability": "ふつうのどくヘビとは　比べられない致死量の　もうどくを持つ。ニンゲンだけでなく　じぶんよりも巨大なエモノを　いともカンタンに死に至らしめるという。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D02D0004",
