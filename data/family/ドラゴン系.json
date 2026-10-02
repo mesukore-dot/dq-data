@@ -1784,6 +1784,26 @@
     "zukan_no": "No.00284"
   },
   {
+    "id": "5B02D0015",
+    "name": "エイリアンフライ",
+    "furigana": "えいりあんふらい",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/12/agyrogos/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アギロゴス.webp",
+    "search_keywords": [
+      "Spiketail",
+      "ボス",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ1_HD2D",
+    "appearances": [
+      "DQ1_HD2D"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00285"
+  },
+  {
     "id": "6A02D0001",
     "name": "ダースドラゴン",
     "furigana": "だーすどらごん",
@@ -1837,7 +1857,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00309"
+    "zukan_no": "No.00310"
   },
   {
     "id": "6A02D0002",
@@ -1865,7 +1885,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00310"
+    "zukan_no": "No.00311"
   },
   {
     "id": "6A02D0003",
@@ -1909,7 +1929,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00311"
+    "zukan_no": "No.00312"
   },
   {
     "id": "6A02D0004",
@@ -1961,7 +1981,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00312"
+    "zukan_no": "No.00313"
   },
   {
     "id": "6A02D0005",
@@ -1985,7 +2005,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00313"
+    "zukan_no": "No.00314"
   },
   {
     "id": "7S02D0001",
@@ -2025,7 +2045,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00338"
+    "zukan_no": "No.00339"
   },
   {
     "id": "7S02D0002",
@@ -2070,7 +2090,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00339"
+    "zukan_no": "No.00340"
   },
   {
     "id": "7S02D0003",
@@ -2104,7 +2124,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00340"
+    "zukan_no": "No.00341"
   },
   {
     "id": "7S02D0004",
@@ -2130,7 +2150,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00341"
+    "zukan_no": "No.00342"
   },
   {
     "id": "8SS02D0001",
@@ -2172,7 +2192,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00358"
+    "zukan_no": "No.00359"
   },
   {
     "id": "8SS02D0002",
@@ -2193,7 +2213,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2022年12月9日",
-    "zukan_no": "No.00359"
+    "zukan_no": "No.00360"
   },
   {
     "id": "9X02D0001",
@@ -2236,7 +2256,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00362"
+    "zukan_no": "No.00363"
   },
   {
     "id": "9X02D0002",
@@ -2265,7 +2285,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00363"
+    "zukan_no": "No.00364"
   },
   {
     "id": "9X02D0003",
@@ -2302,7 +2322,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00364"
+    "zukan_no": "No.00365"
   },
   {
     "id": "9X02D0004",
@@ -2338,7 +2358,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00365"
+    "zukan_no": "No.00366"
   },
   {
     "id": "9X02D0005",
@@ -2374,7 +2394,7 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00366"
+    "zukan_no": "No.00367"
   },
   {
     "id": "9X02D0006",
@@ -2399,6 +2419,6 @@
     "main_family": "ドラゴン系",
     "sub_family": "-",
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00367"
+    "zukan_no": "No.00368"
   }
 ]
