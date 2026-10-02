@@ -29,7 +29,9 @@
   "related_items": [
     "-"
   ],
-  "related_characters": [],
+  "related_characters": [
+    "1F02D0005"
+  ],
   "zukan_no": "No.00014",
   "prev_id": "1F01S0012",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/cutie-slime/",
@@ -56,6 +58,18 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/12/04/korone-white/"
     }
   ],
-  "related_characters_details": [],
+  "related_characters_details": [
+    {
+      "id": "1F02D0005",
+      "name": "はなまきドラゴ",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/19/hanamaki-dragon/",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/はなまきドラゴ.webp",
+      "prev_id": "1F02D0004",
+      "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/",
+      "next_id": "1F02D0006",
+      "next_page_url": "https://dqfan527.xsrv.jp/2023/05/25/king-cobra/",
+      "zukan_no": "No.00022"
+    }
+  ],
   "related_items_details": []
 }

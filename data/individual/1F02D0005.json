@@ -24,7 +24,9 @@
   "related_items": [
     "-"
   ],
-  "related_characters": [],
+  "related_characters": [
+    "1F01S0013"
+  ],
   "zukan_no": "No.00022",
   "prev_id": "1F02D0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/23/pixie-dragon/",
@@ -45,6 +47,18 @@
     }
   ],
   "color_variants": [],
-  "related_characters_details": [],
+  "related_characters_details": [
+    {
+      "id": "1F01S0013",
+      "name": "スライムコロネ",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムコロネ.webp",
+      "prev_id": "1F01S0012",
+      "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/cutie-slime/",
+      "next_id": "1F01S0014",
+      "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/",
+      "zukan_no": "No.00014"
+    }
+  ],
   "related_items_details": []
 }
