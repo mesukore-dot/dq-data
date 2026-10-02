@@ -38,6 +38,27 @@
     "related_characters": []
   }, 
   {
+    "id": "5B02D0015",
+    "name": "エイリアンフライ",
+    "furigana": "えいりあんふらい",
+    "english_name": "Spiketail",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/12/agyrogos/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アギロゴス.webp",
+    "monster_family": "リザードフライ族",
+    "search_keywords": ["Spiketail","ボス","公式イラスト待機中"],
+    "first_appearance": "DQ1_HD2D",
+    "appearances": [
+      "DQ1_HD2D"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "2025年10月30日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  }, 
+  {
     "id": "9X02D0006",
     "name": "アギロゴス",
     "furigana": "あぎろごす",
