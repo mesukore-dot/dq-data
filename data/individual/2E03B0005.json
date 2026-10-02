@@ -1,0 +1,83 @@
+{
+  "id": "2E03B0005",
+  "name": "プリズニャン",
+  "furigana": "ぷりずにゃん",
+  "english_name": "Jailcat",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/purizunyan/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/プリズニャン.webp",
+  "monster_family": "プリズニャン族",
+  "search_keywords": [
+    "Jailcat",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ5_DS",
+    "DQ7_3D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "MRMR2",
+    "MRMR3",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00116",
+  "prev_id": "2E03B0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/30/fencing-fox/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0003",
+      "name": "しましまキャット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/しましまキャット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/"
+    },
+    {
+      "id": "1F03B0003-1",
+      "name": "マーブルン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/"
+    },
+    {
+      "id": "4C03B0004",
+      "name": "ベロニャーゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロニャーゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/03/terror-tabby/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
