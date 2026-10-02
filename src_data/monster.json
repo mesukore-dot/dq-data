@@ -38,6 +38,69 @@
     "related_characters": []
   }, 
   {
+    "id": "5B02D0016",
+    "name": "フェアリードラゴン",
+    "furigana": "ふぇありーどらごん",
+    "english_name": "Damaselfly",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/fairy-dragon-dq4/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フェアリードラゴン（DQ4）.webp",
+    "monster_family": "ドラゴンバタフライ族",
+    "search_keywords": ["Damaselfly","公式イラスト待機中"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  }, 
+  {
+    "id": "4C02D0014",
+    "name": "ドラゴニット",
+    "furigana": "どらごにっと",
+    "english_name": "Spitfire",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragonit/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドラゴニット.webp",
+    "monster_family": "ドラゴンバタフライ族",
+    "search_keywords": ["Spitfire","公式イラスト待機中"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  }, 
+  {
+    "id": "3D02D0014",
+    "name": "ドラゴンバタフライ",
+    "furigana": "どらごんばたふらい",
+    "english_name": "Flying doctor",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-butterfly/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドラゴンバタフライ.webp",
+    "monster_family": "ドラゴンバタフライ族",
+    "search_keywords": ["Flying doctor","公式イラスト待機中"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  }, 
+  {
     "id": "7S02D0005",
     "name": "アビスファング",
     "furigana": "あびすふぁんぐ",
