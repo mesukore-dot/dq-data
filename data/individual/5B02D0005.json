@@ -32,7 +32,19 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/barunba/",
   "next_id": "5B02D0006",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/hadesunaito/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成7年）1995年12月9日、スーパーファミコン版「ドラゴンクエストVI 幻の大地（DQ6）」から登場。",
+      "works_count": "5作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "なまえのとおり　ウミヘビのまもの。海の中で　オレンジ色が見えたら　死を覚悟した方がいい。",
+      "ability": "マヒさせたり　もうどくにおかしたり　あえて殺さずに　苦しめるのが好き。",
+      "habitat": "海底だけでなく　浜辺にもいる。海水浴での被害報告が　あとを絶たない。",
+      "ecology": "ウミヘビから　オーシャンナーガに思いきって　改名してみたが　海にいる長いヤツと言われ　ショックを受けている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D02D0004",
