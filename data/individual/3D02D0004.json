@@ -40,7 +40,17 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/04/gamegon/",
   "next_id": "3D02D0005",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-rider/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成7年）1995年12月9日、スーパーファミコン版「ドラゴンクエストVI 幻の大地（DQ6）」から登場。",
+      "works_count": "7作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "今にも　空をとびそうな　あおいヘビのまもの。どくのいきを吐きだす。",
+      "ecology": "100年間　生きたものは　太陽に向かって　とびたち　一生を終えるという。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "4C02D0005",
