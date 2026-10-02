@@ -23,13 +23,25 @@
   "related_items": [
     "-"
   ],
-  "related_characters": [],
+  "related_characters": [
+    "1F03B0003-1"
+  ],
   "zukan_no": "No.00094",
   "prev_id": "2E01S0024",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/19/slime-snow/",
   "next_id": "2E01S0026",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/06/27/chocolate-slime/",
-  "mamechishiki_pages": [],
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和4年）2022年12月9日「ドラゴンクエストトレジャーズ 蒼き瞳と大空の羅針盤」から登場。",
+      "works_count": "2作品\n (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "さばくに　うじゃうじゃいるスライム。砂を大量に飲みこんで　断層のような　もようがついた。",
+      "ecology": "下の方にあるラインほど古く　上の方のラインほど新しい。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0001",
@@ -236,6 +248,18 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
   ],
-  "related_characters_details": [],
+  "related_characters_details": [
+    {
+      "id": "1F03B0003-1",
+      "name": "マーブルン",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+      "prev_id": "1F03B0003",
+      "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/",
+      "next_id": "1F03B0004",
+      "next_page_url": "https://dqfan527.xsrv.jp/2023/06/05/ikkakuusagi/",
+      "zukan_no": "No.00029"
+    }
+  ],
   "related_items_details": []
 }

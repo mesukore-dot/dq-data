@@ -33,7 +33,9 @@
   "related_items": [
     "-"
   ],
-  "related_characters": [],
+  "related_characters": [
+    "2E01S0025"
+  ],
   "zukan_no": "No.00029",
   "prev_id": "1F03B0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/",
@@ -59,6 +61,18 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/"
     }
   ],
-  "related_characters_details": [],
+  "related_characters_details": [
+    {
+      "id": "2E01S0025",
+      "name": "マーブルスライム",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marble-slime/",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マーブルスライム.webp",
+      "prev_id": "2E01S0024",
+      "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/19/slime-snow/",
+      "next_id": "2E01S0026",
+      "next_page_url": "https://dqfan527.xsrv.jp/2024/06/27/chocolate-slime/",
+      "zukan_no": "No.00094"
+    }
+  ],
   "related_items_details": []
 }
