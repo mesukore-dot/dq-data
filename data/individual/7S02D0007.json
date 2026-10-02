@@ -1,55 +1,48 @@
 {
-  "id": "6A02D0002",
-  "name": "ヒドラ",
-  "furigana": "ひどら",
-  "english_name": "Hydra",
-  "page_url": "https://dqfan527.xsrv.jp/2023/06/05/hydra/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヒドラ.webp",
+  "id": "7S02D0007",
+  "name": "ラーヴァドラゴン",
+  "furigana": "らーゔぁどらごん",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/01/29/rava-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ラーヴァドラゴン.webp",
   "monster_family": "やまたのおろち族",
   "search_keywords": [
-    "Hydra",
+    "ボス",
+    "炎・マグマ",
     "公式イラストあり"
   ],
-  "first_appearance": "DQ3",
+  "first_appearance": "DQ10",
   "appearances": [
-    "DQ3",
-    "DQ3_SFC",
-    "DQ3_GBC",
-    "DQ3_HD2D",
-    "XB",
-    "DQMSL",
-    "STAR",
-    "RIV",
-    "WALK",
-    "TACT"
+    "DQ10",
+    "WALK"
   ],
   "main_family": "ドラゴン系",
-  "sub_family": "-",
-  "other_families": [],
-  "release_date": "1988年2月10日",
+  "sub_family": "炎・マグマ",
+  "other_families": "-",
+  "release_date": "2019年6月26日",
   "voice_actor": "-",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00317",
-  "prev_id": "6A02D0001",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/19/da-sudoragon/",
-  "next_id": "6A02D0003",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/08/10/great-dragon/",
+  "zukan_no": "No.00351",
+  "prev_id": "7S02D0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/25/auroral-serpent/",
+  "next_id": "7S03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
   "mamechishiki_pages": [],
   "color_variants": [
+    {
+      "id": "6A02D0002",
+      "name": "ヒドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ヒドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/hydra/"
+    },
     {
       "id": "7S02D0002",
       "name": "やまたのおろち",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/やまたのおろち.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/05/yamatanoorochi/"
-    },
-    {
-      "id": "7S02D0007",
-      "name": "ラーヴァドラゴン",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ラーヴァドラゴン.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/01/29/rava-dragon/"
     },
     {
       "id": "8SS02D0001",
