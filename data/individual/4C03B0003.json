@@ -1,0 +1,47 @@
+{
+  "id": "4C03B0003",
+  "name": "ナイトフォックス",
+  "furigana": "ないとふぉっくす",
+  "english_name": "Night fox",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/03/night-fox/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ナイトフォックス.webp",
+  "monster_family": "サーベルきつね族",
+  "search_keywords": [
+    "Night fox",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00241",
+  "prev_id": "4C03B0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/20/picky-mole/",
+  "next_id": "4C03B0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/03/terror-tabby/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E03B0004",
+      "name": "サーベルきつね",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サーベルきつね.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/30/fencing-fox/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5B03B0001",
+  "name": "ダークペルシャ",
+  "furigana": "だーくぺるしゃ",
+  "english_name": "Whiskamancer",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/16/dark-persia/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークペルシャ.webp",
+  "monster_family": "ねこまどう族",
+  "search_keywords": [
+    "Whiskamancer",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQBS",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2012年8月2日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00297",
+  "prev_id": "5B02D0017",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/preshiodon/",
+  "next_id": "5B10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0007",
+      "name": "ねこまどう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ねこまどう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%81%ad%e3%81%93%e3%81%be%e3%81%a9%e3%81%86/"
+    },
+    {
+      "id": "1F03B0007-1",
+      "name": "ミケまどう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ミケまどう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/20/caliconjurer/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

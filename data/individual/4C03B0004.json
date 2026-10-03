@@ -1,0 +1,69 @@
+{
+  "id": "4C03B0004",
+  "name": "ベロニャーゴ",
+  "furigana": "べろにゃーご",
+  "english_name": "Terror tabby",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/03/terror-tabby/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロニャーゴ.webp",
+  "monster_family": "プリズニャン族",
+  "search_keywords": [
+    "Terror tabby",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2004年11月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00242",
+  "prev_id": "4C03B0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/03/night-fox/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0003",
+      "name": "しましまキャット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/しましまキャット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/"
+    },
+    {
+      "id": "1F03B0003-1",
+      "name": "マーブルン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/"
+    },
+    {
+      "id": "2E03B0005",
+      "name": "プリズニャン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/プリズニャン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/purizunyan/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
