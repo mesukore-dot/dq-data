@@ -229,6 +229,37 @@
     "zukan_no": "No.00119"
   },
   {
+    "id": "2E09M0002",
+    "name": "まほうつかい",
+    "furigana": "まほうつかい",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/16/mahoutukai/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/まほうつかい.webp",
+    "search_keywords": [
+      "Prestidigitator",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "KS",
+      "DQB1",
+      "DQB2",
+      "MSP",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00120"
+  },
+  {
     "id": "3D09M0001",
     "name": "ドッグラマッコイ",
     "furigana": "どっぐらまっこい",
@@ -247,6 +278,69 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00184"
+    "zukan_no": "No.00185"
+  },
+  {
+    "id": "3D09M0002",
+    "name": "まどうし",
+    "furigana": "まどうし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/madoushi-dq1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/まどうし.webp",
+    "search_keywords": [
+      "Legerdeman",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "KS",
+      "DQB1",
+      "DQB2",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00186"
+  },
+  {
+    "id": "4B09M0001",
+    "name": "だいまどう",
+    "furigana": "だいまどう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/16/daimadou-dq1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/だいまどう.webp",
+    "search_keywords": [
+      "Vis mager",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "FTR2",
+      "FTR3",
+      "KS",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "MSP",
+      "STAR",
+      "WALK",
+      "KSKS"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00188"
   }
 ]
