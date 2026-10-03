@@ -1,0 +1,71 @@
+{
+  "id": "4C09M0001",
+  "name": "きめんどうし",
+  "furigana": "きめんどうし",
+  "english_name": "Lump shaman",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きめんどうし.webp",
+  "monster_family": "ドルイド族",
+  "search_keywords": [
+    "Lump shaman",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ11",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQMB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1988年2月10日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00250",
+  "prev_id": "4C07W0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/mad-ruper/",
+  "next_id": "4C10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E09M0003",
+      "name": "げんじゅつし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/げんじゅつし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/genjutushi/"
+    },
+    {
+      "id": "3D09M0003",
+      "name": "ドルイド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドルイド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/doruido/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2E09M0003",
+  "name": "げんじゅつし",
+  "furigana": "げんじゅつし",
+  "english_name": "Lump mage",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/09/genjutushi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/げんじゅつし.webp",
+  "monster_family": "ドルイド族",
+  "search_keywords": [
+    "Lump mage",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ11",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1988年2月10日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00121",
+  "prev_id": "2E09M0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/16/mahoutukai/",
+  "next_id": "3D01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D09M0003",
+      "name": "ドルイド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドルイド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/doruido/"
+    },
+    {
+      "id": "4C09M0001",
+      "name": "きめんどうし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きめんどうし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
