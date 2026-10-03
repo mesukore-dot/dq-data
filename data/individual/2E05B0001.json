@@ -1,0 +1,70 @@
+{
+  "id": "2E05B0001",
+  "name": "メイジドラキー",
+  "furigana": "めいじどらきー",
+  "english_name": "Drackolyte",
+  "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%a1%e3%82%a4%e3%82%b8%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイジドラキー.webp",
+  "monster_family": "ドラキー族",
+  "search_keywords": [
+    "Drackolyte",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "KS",
+    "DQSW",
+    "DQB1",
+    "DQB2",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ",
+    "DQSG"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1986年5月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00119",
+  "prev_id": "2E04P0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/",
+  "next_id": "2E09M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/09/13/grublin/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F05B0001",
+      "name": "ドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/24/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/"
+    },
+    {
+      "id": "3D05B0001",
+      "name": "ドラキーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドラキーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
