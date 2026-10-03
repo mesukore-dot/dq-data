@@ -1,0 +1,60 @@
+{
+  "id": "4B09M0001",
+  "name": "だいまどう",
+  "furigana": "だいまどう",
+  "english_name": "Vis mager",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/16/daimadou-dq1/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/だいまどう.webp",
+  "monster_family": "まほうつかい族",
+  "search_keywords": [
+    "Vis mager",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "FTR2",
+    "FTR3",
+    "KS",
+    "DQB1",
+    "DQB2",
+    "DQMB",
+    "MSP",
+    "STAR",
+    "WALK",
+    "KSKS"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1986年5月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00188",
+  "prev_id": "3D10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/",
+  "next_id": "4C01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/22/haguremetaru/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E09M0002",
+      "name": "まほうつかい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/まほうつかい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/16/mahoutukai/"
+    },
+    {
+      "id": "3D09M0002",
+      "name": "まどうし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/まどうし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/madoushi-dq1/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
