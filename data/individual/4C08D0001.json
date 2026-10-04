@@ -1,0 +1,76 @@
+{
+  "id": "4C08D0001",
+  "name": "よろいのきし",
+  "furigana": "よろいのきし",
+  "english_name": "Knight errant",
+  "taiwan_name": "鎧甲騎士",
+  "chinese_name": "铠甲骑士",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/よろいのきし.webp",
+  "monster_family": "あくまのきし族",
+  "search_keywords": [
+    "Knight errant",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM3",
+    "KS",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1986年5月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00257",
+  "prev_id": "4C07W0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/mad-ruper/",
+  "next_id": "4C09M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "5B08D0001",
+      "name": "ひょうけつのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひょうけつのきし.webp",
+      "page_url": ""
+    },
+    {
+      "id": "6A08D0001",
+      "name": "しにがみのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しにがみのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/"
+    },
+    {
+      "id": "6A08D0001-1",
+      "name": "しろバラのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しろバラのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/15/shirobaranokishi/"
+    },
+    {
+      "id": "7S08D0001",
+      "name": "あくまのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

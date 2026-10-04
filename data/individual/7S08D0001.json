@@ -1,0 +1,87 @@
+{
+  "id": "7S08D0001",
+  "name": "あくまのきし",
+  "furigana": "あくまのきし",
+  "english_name": "Knight aberrant",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのきし.webp",
+  "monster_family": "あくまのきし族",
+  "search_keywords": [
+    "Knight aberrant",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ2_P",
+    "KS",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ",
+    "DQSG"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1986年5月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00379",
+  "prev_id": "7S03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+  "next_id": "8SS01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/06/holly-king/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C08D0001",
+      "name": "よろいのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/よろいのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/"
+    },
+    {
+      "id": "5B08D0001",
+      "name": "ひょうけつのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひょうけつのきし.webp",
+      "page_url": ""
+    },
+    {
+      "id": "6A08D0001",
+      "name": "しにがみのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しにがみのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/"
+    },
+    {
+      "id": "6A08D0001-1",
+      "name": "しろバラのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しろバラのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/15/shirobaranokishi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

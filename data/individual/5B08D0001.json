@@ -1,0 +1,59 @@
+{
+  "id": "5B08D0001",
+  "name": "ひょうけつのきし",
+  "furigana": "ひょうけつのきし",
+  "english_name": "-",
+  "page_url": "",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひょうけつのきし.webp",
+  "monster_family": "あくまのきし族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "WALK",
+  "appearances": [
+    "WALK"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2022年1月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00313",
+  "prev_id": "",
+  "prev_page_url": "",
+  "next_id": "",
+  "next_page_url": "",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C08D0001",
+      "name": "よろいのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/よろいのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/"
+    },
+    {
+      "id": "6A08D0001",
+      "name": "しにがみのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しにがみのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/"
+    },
+    {
+      "id": "6A08D0001-1",
+      "name": "しろバラのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しろバラのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/15/shirobaranokishi/"
+    },
+    {
+      "id": "7S08D0001",
+      "name": "あくまのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "6A08D0001-1",
+  "name": "しろバラのきし",
+  "furigana": "しろバラのきし",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2024/05/15/shirobaranokishi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しろバラのきし.webp",
+  "monster_family": "あくまのきし族",
+  "search_keywords": [
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "MSP",
+    "STAR",
+    "WALK"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2013年3月5日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00346",
+  "prev_id": "6A08D0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/",
+  "next_id": "6A10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/go-remu/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C08D0001",
+      "name": "よろいのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/よろいのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/"
+    },
+    {
+      "id": "5B08D0001",
+      "name": "ひょうけつのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひょうけつのきし.webp",
+      "page_url": ""
+    },
+    {
+      "id": "6A08D0001",
+      "name": "しにがみのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しにがみのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/"
+    },
+    {
+      "id": "7S08D0001",
+      "name": "あくまのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
