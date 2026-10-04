@@ -1,0 +1,50 @@
+{
+  "id": "4C02D0017",
+  "name": "ソードドラゴン",
+  "furigana": "そーどどらごん",
+  "english_name": "Stabosaur",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/28/sword-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ソードドラゴン.webp",
+  "monster_family": "ソードドラゴン族",
+  "search_keywords": [
+    "Stabosaur",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM1",
+  "appearances": [
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMSL"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1998年9月25日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00250",
+  "prev_id": "4C02D0016",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/12/11/abyss-diver/",
+  "next_id": "4C03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E02D0011",
+      "name": "いっかく竜",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/いっかく竜.webp",
+      "page_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/いっかく竜.webp"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
