@@ -38,6 +38,76 @@
     "related_characters": []
   },
   {
+    "id": "6A2D0006",
+    "name": "シーバーン",
+    "furigana": "しーばーん",
+    "english_name": "Seavern",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/11/abyss-diver/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/シーバーン.webp",
+    "monster_family": "ギャオース族",
+    "search_keywords": ["Abyss diver","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7_RM","DQ9",
+      "DQMSL"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },  
+  {
+    "id": "4C02D0016",
+    "name": "ヘルダイバー",
+    "furigana": "へるだいばー",
+    "english_name": "Abyss diver",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/11/abyss-diver/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルダイバー.webp",
+    "monster_family": "ギャオース族",
+    "search_keywords": ["Abyss diver","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ9",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
+      "FTR2","FTR3","FY1","KS","DQSW","DQH1","DQH2","DQB1","DQB2",
+      "DQMSL"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },  
+  {
+    "id": "5B02D0018",
+    "name": "ギャオース",
+    "furigana": "ぎゃおーす",
+    "english_name": "Seasaur",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/02/gyao-su/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギャオース.webp",
+    "monster_family": "ギャオース族",
+    "search_keywords": ["Seasaur","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ4_PS","DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ9",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQMJ","DQMJ2","DQMJ2_P",
+      "FTR2","FTR3","FY1","KS","DQSW","DQH1","DQH2","DQB1","DQB2",
+      "DQMSL"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": "-",
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": ["-"],
+    "related_characters": []
+  },  
+  {
     "id": "3D05B0001",
     "name": "ドラキーマ",
     "furigana": "どらきーま",
