@@ -70,5 +70,166 @@
     "sub_family": "-",
     "release_date": "1990年2月11日",
     "zukan_no": "No.00056"
+  },
+  {
+    "id": "4C08D0001",
+    "name": "よろいのきし",
+    "furigana": "よろいのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/よろいのきし.webp",
+    "search_keywords": [
+      "Knight errant",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM3",
+      "KS",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00257"
+  },
+  {
+    "id": "5B08D0001",
+    "name": "ひょうけつのきし",
+    "furigana": "ひょうけつのきし",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひょうけつのきし.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "2022年1月27日",
+    "zukan_no": "No.00313"
+  },
+  {
+    "id": "6A08D0001",
+    "name": "しにがみのきし",
+    "furigana": "しにがみのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しにがみのきし.webp",
+    "search_keywords": [
+      "Knight abhorrent",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "KS",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00345"
+  },
+  {
+    "id": "6A08D0001-1",
+    "name": "しろバラのきし",
+    "furigana": "しろバラのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/15/shirobaranokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/しろバラのきし.webp",
+    "search_keywords": [
+      "転生モンスター",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "MSP",
+      "STAR",
+      "WALK"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "2013年3月5日",
+    "zukan_no": "No.00346"
+  },
+  {
+    "id": "7S08D0001",
+    "name": "あくまのきし",
+    "furigana": "あくまのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのきし.webp",
+    "search_keywords": [
+      "Knight aberrant",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2_P",
+      "KS",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00379"
   }
 ]
