@@ -38,7 +38,99 @@
     "related_characters": []
   },
   {
-    "id": "6A03B004",
+    "id": "5B03B0004",
+    "name": "ブラッドオックス",
+    "furigana": "ぶらっどおっくす",
+    "english_name": "Fowl beast",
+    "page_url": "https://dqfan527.xsrv.jp/2026/01/08/blood-ox/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブラッドオックス.webp",
+    "monster_family": "あばれうしどり族",
+    "search_keywords": ["Fowl beast","公式イラストあり"],
+    "first_appearance": "DQM3",
+    "appearances": [
+     "DQM3",
+     "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0009",
+    "name": "アークバッファロー",
+    "furigana": "あーくばっふぁろー",
+    "english_name": "Bulldozer",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/arc-buffalo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アークバッファロー.webp",
+    "monster_family": "あばれうしどり族",
+    "search_keywords": ["Bulldozer","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+     "DQ4","DQ4_PS","DQ8","DQ8_3D",
+     "DQMJ3","DQMJ3_P",
+     "MSP","STAR","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0006",
+    "name": "ブルホーク",
+    "furigana": "ぶるほーく",
+    "english_name": "Buffalo wing",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/blue-fork/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブルホーク.webp",
+    "monster_family": "あばれうしどり族",
+    "search_keywords": ["Buffalo wing","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+     "DQ4","DQ4_PS","DQ8","DQ8_3D",
+     "DQMJ3","DQMJ3_P",
+     "MSP","STAR","RIV","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "2E03B0008",
+    "name": "あばれうしどり",
+    "furigana": "あばれうしどり",
+    "english_name": "Bullfinch",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/abareushidori/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あばれうしどり.webp",
+    "monster_family": "あばれうしどり族",
+    "search_keywords": ["Bullfinch","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+     "DQ4","DQ4_PS","DQ8","DQ8_3D",
+     "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+     "DQMB",
+     "DQMSL","MSP","STAR","RIV","TACT","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "6A03B0004",
     "name": "ベロリンマン",
     "furigana": "べろりんまん",
     "english_name": "Abominable showman",
@@ -62,7 +154,7 @@
     "related_characters": []
   },
   {
-    "id": "4C03B008",
+    "id": "4C03B0008",
     "name": "ビッグスロース",
     "furigana": "びっぐすろーす",
     "english_name": "Sasquash",
