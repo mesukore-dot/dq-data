@@ -1,0 +1,84 @@
+{
+  "id": "5B05B0001",
+  "name": "スターキメラ",
+  "furigana": "すたーきめら",
+  "english_name": "Cosmic chimaera",
+  "page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スターキメラ.webp",
+  "monster_family": "キメラ族",
+  "search_keywords": [
+    "Cosmic chimaera",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "KS",
+    "DQSW",
+    "DQH1",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "1986年5月27日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00317",
+  "prev_id": "5B03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/16/dark-persia/",
+  "next_id": "5B05B0001-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/16/moonkimera/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E05B0002",
+      "name": "キメラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キメラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%ad%e3%83%a1%e3%83%a9/"
+    },
+    {
+      "id": "3D05B0002",
+      "name": "メイジキメラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイジキメラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%83%a1%e3%82%a4%e3%82%b8%e3%82%ad%e3%83%a1%e3%83%a9/"
+    },
+    {
+      "id": "5B05B0001-1",
+      "name": "ムーンキメラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ムーンキメラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/16/moonkimera/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
