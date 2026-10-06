@@ -921,5 +921,23 @@
     "sub_family": "-",
     "release_date": "2012年8月2日",
     "zukan_no": "No.00381"
+  },
+  {
+    "id": "7S03B0002",
+    "name": "もじゃろ",
+    "furigana": "もじゃろ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/17/mojaro/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/もじゃろ.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2023年3月28日",
+    "zukan_no": "No.00382"
   }
 ]
