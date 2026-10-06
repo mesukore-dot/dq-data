@@ -1,0 +1,47 @@
+{
+  "id": "7S03B0002",
+  "name": "もじゃろ",
+  "furigana": "もじゃろ",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/17/mojaro/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/もじゃろ.webp",
+  "monster_family": "ももんじゃ族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "WALK",
+  "appearances": [
+    "WALK"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2023年3月28日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00382",
+  "prev_id": "7S03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+  "next_id": "7S08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0002",
+      "name": "ももんじゃ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ももんじゃ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/12/momonja/"
+    },
+    {
+      "id": "1F03B0002-1",
+      "name": "もじゃらきラクーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/もじゃらきラクーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/mojaraki-rakoon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
