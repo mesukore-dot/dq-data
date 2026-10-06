@@ -437,6 +437,27 @@
     "zukan_no": "No.00037"
   },
   {
+    "id": "1F03B0009",
+    "name": "みみとびねずみ",
+    "furigana": "みみとびねずみ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/17/mouseflap/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/みみとびねずみ.webp",
+    "search_keywords": [
+      "Mouseflap",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00038"
+  },
+  {
     "id": "2E03B0001",
     "name": "アルミラージ",
     "furigana": "あるみらーじ",
@@ -491,7 +512,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00115"
+    "zukan_no": "No.00116"
   },
   {
     "id": "2E03B0001-1",
@@ -523,7 +544,7 @@
     "main_family": "けもの系",
     "sub_family": "ゴールデン",
     "release_date": "2012年10月9日",
-    "zukan_no": "No.00116"
+    "zukan_no": "No.00117"
   },
   {
     "id": "2E03B0002",
@@ -574,7 +595,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00117"
+    "zukan_no": "No.00118"
   },
   {
     "id": "2E03B0003",
@@ -614,7 +635,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00118"
+    "zukan_no": "No.00119"
   },
   {
     "id": "2E03B0004",
@@ -647,7 +668,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00119"
+    "zukan_no": "No.00120"
   },
   {
     "id": "2E03B0005",
@@ -695,7 +716,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00120"
+    "zukan_no": "No.00121"
   },
   {
     "id": "2E03B0006",
@@ -727,7 +748,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00121"
+    "zukan_no": "No.00122"
   },
   {
     "id": "2E03B0007",
@@ -782,7 +803,7 @@
     "main_family": "けもの系",
     "sub_family": "氷・雪",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00122"
+    "zukan_no": "No.00123"
   },
   {
     "id": "2E03B0008",
@@ -825,7 +846,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00123"
+    "zukan_no": "No.00124"
   },
   {
     "id": "2E03B0009",
@@ -848,7 +869,34 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00124"
+    "zukan_no": "No.00125"
+  },
+  {
+    "id": "2E03B0010",
+    "name": "フェアリーラット",
+    "furigana": "ふぇありーらっと",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/25/mousenap/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フェアリーラット.webp",
+    "search_keywords": [
+      "Mousenap",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM1",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1998年9月25日",
+    "zukan_no": "No.00126"
   },
   {
     "id": "3D03B0001",
@@ -886,7 +934,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00187"
+    "zukan_no": "No.00189"
   },
   {
     "id": "3D03B0002",
@@ -911,7 +959,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00188"
+    "zukan_no": "No.00190"
   },
   {
     "id": "3D03B0003",
@@ -939,7 +987,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00189"
+    "zukan_no": "No.00191"
   },
   {
     "id": "3D03B0004",
@@ -997,7 +1045,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00190"
+    "zukan_no": "No.00192"
   },
   {
     "id": "3D03B0005",
@@ -1031,7 +1079,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00191"
+    "zukan_no": "No.00193"
   },
   {
     "id": "3D03B0005-1",
@@ -1056,7 +1104,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2013年7月25日",
-    "zukan_no": "No.00192"
+    "zukan_no": "No.00194"
   },
   {
     "id": "3D03B0006",
@@ -1084,7 +1132,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00193"
+    "zukan_no": "No.00195"
   },
   {
     "id": "4C03B0001",
@@ -1107,7 +1155,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00264"
+    "zukan_no": "No.00266"
   },
   {
     "id": "4C03B0002",
@@ -1130,7 +1178,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00265"
+    "zukan_no": "No.00267"
   },
   {
     "id": "4C03B0003",
@@ -1154,7 +1202,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00266"
+    "zukan_no": "No.00268"
   },
   {
     "id": "4C03B0004",
@@ -1188,7 +1236,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00267"
+    "zukan_no": "No.00269"
   },
   {
     "id": "4C03B0005",
@@ -1220,7 +1268,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00268"
+    "zukan_no": "No.00270"
   },
   {
     "id": "4C03B0006",
@@ -1254,7 +1302,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00269"
+    "zukan_no": "No.00271"
   },
   {
     "id": "4C03B0007",
@@ -1274,7 +1322,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00270"
+    "zukan_no": "No.00272"
   },
   {
     "id": "4C03B0008",
@@ -1312,7 +1360,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00271"
+    "zukan_no": "No.00273"
   },
   {
     "id": "4C03B0009",
@@ -1339,7 +1387,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00272"
+    "zukan_no": "No.00274"
   },
   {
     "id": "5B03B0001",
@@ -1366,7 +1414,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00331"
+    "zukan_no": "No.00333"
   },
   {
     "id": "5B03B0002",
@@ -1398,7 +1446,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00332"
+    "zukan_no": "No.00334"
   },
   {
     "id": "5B03B0003",
@@ -1419,7 +1467,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00333"
+    "zukan_no": "No.00335"
   },
   {
     "id": "5B03B0004",
@@ -1439,7 +1487,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00334"
+    "zukan_no": "No.00336"
   },
   {
     "id": "6A03B0001",
@@ -1462,7 +1510,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00369"
+    "zukan_no": "No.00371"
   },
   {
     "id": "6A03B0002",
@@ -1504,7 +1552,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00370"
+    "zukan_no": "No.00372"
   },
   {
     "id": "6A03B0003",
@@ -1526,7 +1574,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00371"
+    "zukan_no": "No.00373"
   },
   {
     "id": "6A03B0004",
@@ -1559,7 +1607,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00372"
+    "zukan_no": "No.00374"
   },
   {
     "id": "7S03B0001",
@@ -1591,7 +1639,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00406"
+    "zukan_no": "No.00408"
   },
   {
     "id": "7S03B0002",
@@ -1609,6 +1657,80 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00407"
+    "zukan_no": "No.00409"
+  },
+  {
+    "id": "7S03B0003",
+    "name": "ジャミ",
+    "furigana": "じゃみ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/kon-the-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ジャミ.webp",
+    "search_keywords": [
+      "Kon the knight",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00410"
+  },
+  {
+    "id": "7S03B0004",
+    "name": "ゴンズ",
+    "furigana": "ごんず",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/slon-the-rook/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴンズ.webp",
+    "search_keywords": [
+      "Slon the rook",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00411"
   }
 ]
