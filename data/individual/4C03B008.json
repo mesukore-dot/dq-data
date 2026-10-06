@@ -1,0 +1,79 @@
+{
+  "id": "4C03B008",
+  "name": "ビッグスロース",
+  "furigana": "びっぐすろーす",
+  "english_name": "Sasquash",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/12/big-slows/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ビッグスロース.webp",
+  "monster_family": "イエティ族",
+  "search_keywords": [
+    "Sasquash",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQH2",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "DQSG"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00268",
+  "prev_id": "4C03B0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/sabel-wolf/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E03B0007",
+      "name": "イエティ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/イエティ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/ietey/"
+    },
+    {
+      "id": "3D03B0005",
+      "name": "デザートゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/デザートゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/desert-ghost/"
+    },
+    {
+      "id": "3D03B0005-1",
+      "name": "モテモテ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/モテモテ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/25/remote/"
+    },
+    {
+      "id": "6A03B004",
+      "name": "ベロリンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロリンマン-1.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/berorinman-dq4/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

@@ -730,6 +730,61 @@
     "zukan_no": "No.00121"
   },
   {
+    "id": "2E03B0007",
+    "name": "イエティ",
+    "furigana": "いえてぃ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/12/ietey/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/イエティ.webp",
+    "search_keywords": [
+      "Powie yowie",
+      "氷・雪",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "MRMR3",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "氷・雪",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00122"
+  },
+  {
     "id": "3D03B0001",
     "name": "リカント",
     "furigana": "りかんと",
@@ -765,7 +820,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00184"
+    "zukan_no": "No.00185"
   },
   {
     "id": "3D03B0002",
@@ -790,7 +845,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00185"
+    "zukan_no": "No.00186"
   },
   {
     "id": "3D03B0003",
@@ -818,7 +873,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00186"
+    "zukan_no": "No.00187"
   },
   {
     "id": "3D03B0004",
@@ -876,7 +931,66 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00187"
+    "zukan_no": "No.00188"
+  },
+  {
+    "id": "3D03B0005",
+    "name": "デザートゴースト",
+    "furigana": "でざーとごーすと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/12/desert-ghost/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/デザートゴースト.webp",
+    "search_keywords": [
+      "Sweaty yeti",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FY1",
+      "KS",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00189"
+  },
+  {
+    "id": "3D03B0005-1",
+    "name": "モテモテ",
+    "furigana": "もてもて",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/25/remote/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/モテモテ.webp",
+    "search_keywords": [
+      "Remote",
+      "転生モンスター",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2013年7月25日",
+    "zukan_no": "No.00190"
   },
   {
     "id": "4C03B0001",
@@ -899,7 +1013,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00258"
+    "zukan_no": "No.00261"
   },
   {
     "id": "4C03B0002",
@@ -922,7 +1036,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00259"
+    "zukan_no": "No.00262"
   },
   {
     "id": "4C03B0003",
@@ -946,7 +1060,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00260"
+    "zukan_no": "No.00263"
   },
   {
     "id": "4C03B0004",
@@ -980,7 +1094,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00261"
+    "zukan_no": "No.00264"
   },
   {
     "id": "4C03B0005",
@@ -1012,7 +1126,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00262"
+    "zukan_no": "No.00265"
   },
   {
     "id": "4C03B0006",
@@ -1046,7 +1160,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00263"
+    "zukan_no": "No.00266"
   },
   {
     "id": "4C03B0007",
@@ -1066,7 +1180,45 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00264"
+    "zukan_no": "No.00267"
+  },
+  {
+    "id": "4C03B008",
+    "name": "ビッグスロース",
+    "furigana": "びっぐすろーす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/12/big-slows/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ビッグスロース.webp",
+    "search_keywords": [
+      "Sasquash",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00268"
   },
   {
     "id": "5B03B0001",
@@ -1093,7 +1245,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00323"
+    "zukan_no": "No.00327"
   },
   {
     "id": "5B03B0002",
@@ -1125,7 +1277,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00324"
+    "zukan_no": "No.00328"
   },
   {
     "id": "5B03B0003",
@@ -1146,7 +1298,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00325"
+    "zukan_no": "No.00329"
   },
   {
     "id": "6A03B0001",
@@ -1169,7 +1321,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00360"
+    "zukan_no": "No.00364"
   },
   {
     "id": "6A03B0002",
@@ -1211,7 +1363,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00361"
+    "zukan_no": "No.00365"
   },
   {
     "id": "6A03B0003",
@@ -1233,7 +1385,40 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00362"
+    "zukan_no": "No.00366"
+  },
+  {
+    "id": "6A03B004",
+    "name": "ベロリンマン",
+    "furigana": "べろりんまん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/12/berorinman-dq4/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロリンマン-1.webp",
+    "search_keywords": [
+      "Abominable showman",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00367"
   },
   {
     "id": "7S03B0001",
@@ -1265,7 +1450,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00396"
+    "zukan_no": "No.00401"
   },
   {
     "id": "7S03B0002",
@@ -1283,6 +1468,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00397"
+    "zukan_no": "No.00402"
   }
 ]
