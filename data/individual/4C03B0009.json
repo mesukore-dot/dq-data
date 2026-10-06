@@ -1,0 +1,62 @@
+{
+  "id": "4C03B0009",
+  "name": "アークバッファロー",
+  "furigana": "あーくばっふぁろー",
+  "english_name": "Bulldozer",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/arc-buffalo/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アークバッファロー.webp",
+  "monster_family": "あばれうしどり族",
+  "search_keywords": [
+    "Bulldozer",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ8",
+    "DQ8_3D",
+    "DQMJ3",
+    "DQMJ3_P",
+    "MSP",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00271",
+  "prev_id": "4C03B0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/12/big-slows/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E03B0008",
+      "name": "あばれうしどり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あばれうしどり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/abareushidori/"
+    },
+    {
+      "id": "3D03B0006",
+      "name": "ブルホーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブルホーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/blue-fork/"
+    },
+    {
+      "id": "5B03B0004",
+      "name": "ブラッドオックス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブラッドオックス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/01/08/blood-ox/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
