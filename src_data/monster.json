@@ -38,6 +38,97 @@
     "related_characters": []
   },
   {
+    "id": "7S03B0004",
+    "name": "ゴンズ",
+    "furigana": "ごんず",
+    "english_name": "Slon the rook",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/slon-the-rook/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴンズ.webp",
+    "monster_family": "ソルジャーブル族",
+    "search_keywords": ["Slon the rook","ボス","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3_P",
+      "DQMB","DQBS",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS","champ"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "7S03B0003",
+    "name": "ジャミ",
+    "furigana": "じゃみ",
+    "english_name": "Kon the knight",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/kon-the-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ジャミ.webp",
+    "monster_family": "ケンタラウス族",
+    "search_keywords": ["Kon the knight","ボス","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3_P",
+      "DQMB","DQBS",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS","champ"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "1F03B0009",
+    "name": "みみとびねずみ",
+    "furigana": "みみとびねずみ",
+    "english_name": "Mouseflap",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/17/mouseflap/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/みみとびねずみ.webp",
+    "monster_family": "フェアリーラット族",
+    "search_keywords": ["Mouseflap","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "2E03B0010",
+    "name": "フェアリーラット",
+    "furigana": "ふぇありーらっと",
+    "english_name": "Mousenap",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/25/mousenap/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フェアリーラット.webp",
+    "monster_family": "フェアリーラット族",
+    "search_keywords": ["Mousenap","公式イラストあり"],
+    "first_appearance": "DQM1",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1998年9月25日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
     "id": "2E03B0009",
     "name": "ビーバーン",
     "furigana": "びーばーん",
