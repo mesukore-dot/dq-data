@@ -135,6 +135,49 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0003",
+    "name": "キラータイガー",
+    "furigana": "きらーたいがー",
+    "english_name": "Striking sabrecat",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/killer-tiger-dq2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラータイガー（DQ2）.webp",
+    "monster_family": "サーベルウルフ族",
+    "search_keywords": ["Striking sabrecat","公式イラスト待機中"],
+    "first_appearance": "DQ2",
+    "appearances": [
+     "DQ2","DQ2_HD2D",
+     "STAR","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0007",
+    "name": "サーベルウルフ",
+    "furigana": "さーべるうるふ",
+    "english_name": "Sabrecat",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/sabel-wolf/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サーベルウルフ.webp",
+    "monster_family": "サーベルウルフ族",
+    "search_keywords": ["Sabrecat","公式イラスト待機中"],
+    "first_appearance": "DQ2",
+    "appearances": [
+     "DQ2","DQ2_HD2D"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
     "id": "3D03B0003",
     "name": "おばけねずみ",
     "furigana": "おばけねずみ",
@@ -142,7 +185,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2023/05/30/obakenezumi/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おばけねずみ.webp",
     "monster_family": "おおねずみ族",
-    "search_keywords": ["Dirty rat","公式イラストあり"],
+    "search_keywords": ["Dirty rat","公式イラスト待機中"],
     "first_appearance": "DQ2",
     "appearances": [
      "DQ2","DQ2_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ7_3D",
@@ -189,7 +232,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2023/05/30/yamanezumi/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やまねずみ.webp",
     "monster_family": "おおねずみ族",
-    "search_keywords": ["Ratscal","公式イラストあり"],
+    "search_keywords": ["Ratscal","公式イラスト待機中"],
     "first_appearance": "DQ2",
     "appearances": [
      "DQ1_HD2D","DQ2","DQ2_HD2D",
