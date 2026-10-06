@@ -1,0 +1,75 @@
+{
+  "id": "3D03B0005",
+  "name": "デザートゴースト",
+  "furigana": "でざーとごーすと",
+  "english_name": "Sweaty yeti",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/12/desert-ghost/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/デザートゴースト.webp",
+  "monster_family": "イエティ族",
+  "search_keywords": [
+    "Sweaty yeti",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "KS",
+    "DQH2",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "DQSG"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00189",
+  "prev_id": "3D03B0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/24/awk/",
+  "next_id": "3D03B0005-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/10/25/remote/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E03B0007",
+      "name": "イエティ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/イエティ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/ietey/"
+    },
+    {
+      "id": "3D03B0005-1",
+      "name": "モテモテ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/モテモテ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/25/remote/"
+    },
+    {
+      "id": "4C03B008",
+      "name": "ビッグスロース",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ビッグスロース.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/big-slows/"
+    },
+    {
+      "id": "6A03B004",
+      "name": "ベロリンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロリンマン-1.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/berorinman-dq4/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

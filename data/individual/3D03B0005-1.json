@@ -1,0 +1,66 @@
+{
+  "id": "3D03B0005-1",
+  "name": "モテモテ",
+  "furigana": "もてもて",
+  "english_name": "Remote",
+  "page_url": "https://dqfan527.xsrv.jp/2024/10/25/remote/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/モテモテ.webp",
+  "monster_family": "イエティ族",
+  "search_keywords": [
+    "Remote",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2013年7月25日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00190",
+  "prev_id": "3D03B0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/12/desert-ghost/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E03B0007",
+      "name": "イエティ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/イエティ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/ietey/"
+    },
+    {
+      "id": "3D03B0005",
+      "name": "デザートゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/デザートゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/desert-ghost/"
+    },
+    {
+      "id": "4C03B008",
+      "name": "ビッグスロース",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ビッグスロース.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/big-slows/"
+    },
+    {
+      "id": "6A03B004",
+      "name": "ベロリンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロリンマン-1.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/berorinman-dq4/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
