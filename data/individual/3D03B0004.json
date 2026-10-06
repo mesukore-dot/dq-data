@@ -1,0 +1,93 @@
+{
+  "id": "3D03B0004",
+  "name": "オーク",
+  "furigana": "おーく",
+  "english_name": "Orc",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/24/awk/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オーク.webp",
+  "monster_family": "オーク族",
+  "search_keywords": [
+    "Orc",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQSW",
+    "DQB2",
+    "DQTR",
+    "DQMB",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ",
+    "DQSG"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00187",
+  "prev_id": "3D03B0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/obakenezumi/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C03B0006",
+      "name": "ゴールドオーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールドオーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/gold-awk/"
+    },
+    {
+      "id": "5B03B0003",
+      "name": "オークィーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オークィーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/12/o-queen/"
+    },
+    {
+      "id": "6A03B0002",
+      "name": "オークキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オークキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/awk-king/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
