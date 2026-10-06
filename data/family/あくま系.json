@@ -72,6 +72,41 @@
     "zukan_no": "No.00056"
   },
   {
+    "id": "3D08D0001",
+    "name": "シャーマン",
+    "furigana": "しゃーまん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/shaman/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/シャーマン.webp",
+    "search_keywords": [
+      "Heedoo voodoo",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2",
+      "DQMJ2_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQMB",
+      "DQMSL",
+      "STAR"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00191"
+  },
+  {
     "id": "4C08D0001",
     "name": "よろいのきし",
     "furigana": "よろいのきし",
@@ -102,7 +137,33 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00257"
+    "zukan_no": "No.00258"
+  },
+  {
+    "id": "4C08D0002",
+    "name": "ゾンビマスター",
+    "furigana": "ぞんびますたー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/zombie-master/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゾンビマスター.webp",
+    "search_keywords": [
+      "Voodooogooder",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ11",
+      "DQMSL",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00259"
   },
   {
     "id": "5B08D0001",
@@ -120,7 +181,33 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2022年1月27日",
-    "zukan_no": "No.00313"
+    "zukan_no": "No.00315"
+  },
+  {
+    "id": "5B08D0002",
+    "name": "マクロベータ",
+    "furigana": "まくろべーた",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/macrobeta/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マクロベータ.webp",
+    "search_keywords": [
+      "Darth voodoo",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ11",
+      "DQMSL",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00316"
   },
   {
     "id": "6A08D0001",
@@ -161,7 +248,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00345"
+    "zukan_no": "No.00348"
   },
   {
     "id": "6A08D0001-1",
@@ -184,7 +271,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00346"
+    "zukan_no": "No.00349"
   },
   {
     "id": "7S08D0001",
@@ -230,6 +317,6 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00379"
+    "zukan_no": "No.00382"
   }
 ]
