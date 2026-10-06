@@ -678,7 +678,7 @@
     "name": "リカント",
     "furigana": "りかんと",
     "page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/リカント.webp",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/リカント.webp",
     "search_keywords": [
       "魔獣系",
       "Lycant",
@@ -841,6 +841,38 @@
     "zukan_no": "No.00257"
   },
   {
+    "id": "4C03B0005",
+    "name": "リカントマムル",
+    "furigana": "りかんとまむる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikantomamru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/リカントマムル.webp",
+    "search_keywords": [
+      "魔獣系",
+      "Scare Wolf",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ7_3D",
+      "DQ9",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "魔獣系",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00258"
+  },
+  {
     "id": "5B03B0001",
     "name": "ダークペルシャ",
     "furigana": "だーくぺるしゃ",
@@ -865,7 +897,39 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00316"
+    "zukan_no": "No.00317"
+  },
+  {
+    "id": "5B03B0002",
+    "name": "キラーリカント",
+    "furigana": "きらーりかんと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/19/kira-rikanto/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーリカント.webp",
+    "search_keywords": [
+      "魔獣系",
+      "Tear Wolf",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ7_3D",
+      "DQ9",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "魔獣系",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00318"
   },
   {
     "id": "6A03B0001",
@@ -888,7 +952,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00351"
+    "zukan_no": "No.00353"
   },
   {
     "id": "7S03B0001",
@@ -920,7 +984,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00385"
+    "zukan_no": "No.00387"
   },
   {
     "id": "7S03B0002",
@@ -938,6 +1002,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00386"
+    "zukan_no": "No.00388"
   }
 ]

@@ -1,14 +1,14 @@
 {
-  "id": "3D03B0001",
-  "name": "リカント",
-  "furigana": "りかんと",
-  "english_name": "Lycant",
-  "page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/リカント.webp",
+  "id": "5B03B0002",
+  "name": "キラーリカント",
+  "furigana": "きらーりかんと",
+  "english_name": "Tear Wolf",
+  "page_url": "https://dqfan527.xsrv.jp/2023/01/19/kira-rikanto/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーリカント.webp",
   "monster_family": "リカント族",
   "search_keywords": [
     "魔獣系",
-    "Lycant",
+    "Tear Wolf",
     "公式イラストあり"
   ],
   "first_appearance": "DQ1",
@@ -18,12 +18,6 @@
     "DQ2_HD2D",
     "DQ7_3D",
     "DQ9",
-    "DQ10",
-    "DQM1_3DS",
-    "DQM1_SP",
-    "DQM2_3DS",
-    "DQM2_SP",
-    "DQMJ2_P",
     "DQB1",
     "DQB2",
     "DQMSL",
@@ -31,7 +25,7 @@
     "RIV",
     "WALK",
     "TACT",
-    "champ"
+    "KSKS"
   ],
   "main_family": "けもの系",
   "sub_family": "魔獣系",
@@ -39,27 +33,27 @@
   "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
-    "item_dokubari"
+    ""
   ],
   "related_characters": [],
-  "zukan_no": "No.00182",
-  "prev_id": "3D02D0014",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-butterfly/",
-  "next_id": "3D03B0002",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/mandrill/",
+  "zukan_no": "No.00318",
+  "prev_id": "5B03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/16/dark-persia/",
+  "next_id": "5B05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
   "mamechishiki_pages": [],
   "color_variants": [
+    {
+      "id": "3D03B0001",
+      "name": "リカント",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/リカント.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/"
+    },
     {
       "id": "4C03B0005",
       "name": "リカントマムル",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/リカントマムル.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikantomamru/"
-    },
-    {
-      "id": "5B03B0002",
-      "name": "キラーリカント",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーリカント.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/01/19/kira-rikanto/"
     }
   ],
   "related_characters_details": [],
