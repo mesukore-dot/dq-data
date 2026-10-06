@@ -262,5 +262,41 @@
     "sub_family": "-",
     "release_date": "1992年9月27日",
     "zukan_no": "No.00324"
+  },
+  {
+    "id": "8SS13Z0001",
+    "name": "キャプテン・クロウ",
+    "furigana": "きゃぷてん・くろう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/12/captain-crow/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キャプテン・クロウ.webp",
+    "search_keywords": [
+      "Captain Crow",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00410"
   }
 ]
