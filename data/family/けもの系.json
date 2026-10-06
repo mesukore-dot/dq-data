@@ -420,7 +420,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やまねずみ.webp",
     "search_keywords": [
       "Ratscal",
-      "公式イラストあり"
+      "公式イラスト待機中"
     ],
     "first_appearance": "DQ2",
     "appearances": [
@@ -800,7 +800,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おばけねずみ.webp",
     "search_keywords": [
       "Dirty rat",
-      "公式イラストあり"
+      "公式イラスト待機中"
     ],
     "first_appearance": "DQ2",
     "appearances": [
@@ -1049,6 +1049,26 @@
     "zukan_no": "No.00263"
   },
   {
+    "id": "4C03B0007",
+    "name": "サーベルウルフ",
+    "furigana": "さーべるうるふ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/sabel-wolf/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サーベルウルフ.webp",
+    "search_keywords": [
+      "Sabrecat",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00264"
+  },
+  {
     "id": "5B03B0001",
     "name": "ダークペルシャ",
     "furigana": "だーくぺるしゃ",
@@ -1073,7 +1093,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00322"
+    "zukan_no": "No.00323"
   },
   {
     "id": "5B03B0002",
@@ -1105,7 +1125,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00323"
+    "zukan_no": "No.00324"
   },
   {
     "id": "5B03B0003",
@@ -1126,7 +1146,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00324"
+    "zukan_no": "No.00325"
   },
   {
     "id": "6A03B0001",
@@ -1149,7 +1169,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00359"
+    "zukan_no": "No.00360"
   },
   {
     "id": "6A03B0002",
@@ -1191,7 +1211,29 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00360"
+    "zukan_no": "No.00361"
+  },
+  {
+    "id": "6A03B0003",
+    "name": "キラータイガー",
+    "furigana": "きらーたいがー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/killer-tiger-dq2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラータイガー（DQ2）.webp",
+    "search_keywords": [
+      "Striking sabrecat",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "STAR",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00362"
   },
   {
     "id": "7S03B0001",
@@ -1223,7 +1265,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00394"
+    "zukan_no": "No.00396"
   },
   {
     "id": "7S03B0002",
@@ -1241,6 +1283,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00395"
+    "zukan_no": "No.00397"
   }
 ]
