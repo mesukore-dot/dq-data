@@ -1,0 +1,67 @@
+{
+  "id": "5B05B0001-1",
+  "name": "ムーンキメラ",
+  "furigana": "むーんきめら",
+  "english_name": "Lunar chimaera",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/16/moonkimera/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ムーンキメラ.webp",
+  "monster_family": "キメラ族",
+  "search_keywords": [
+    "Lunar chimaera",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "DQSG"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": "-",
+  "release_date": "2013年3月5日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00318",
+  "prev_id": "5B05B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "next_id": "5B08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/10/04/hyouketu-kisi/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "2E05B0002",
+      "name": "キメラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キメラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%ad%e3%83%a1%e3%83%a9/"
+    },
+    {
+      "id": "3D05B0002",
+      "name": "メイジキメラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイジキメラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%83%a1%e3%82%a4%e3%82%b8%e3%82%ad%e3%83%a1%e3%83%a9/"
+    },
+    {
+      "id": "5B05B0001",
+      "name": "スターキメラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スターキメラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
