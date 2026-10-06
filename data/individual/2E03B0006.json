@@ -1,0 +1,61 @@
+{
+  "id": "2E03B0006",
+  "name": "おおねずみ",
+  "furigana": "おおねずみ",
+  "english_name": "Fat rat",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/30/oonezumi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおねずみ.webp",
+  "monster_family": "おおねずみ族",
+  "search_keywords": [
+    "Fat rat",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_3D",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQB2",
+    "STAR",
+    "RIV",
+    "KSKS"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00121",
+  "prev_id": "2E03B0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/purizunyan/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0008",
+      "name": "やまねずみ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やまねずみ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/yamanezumi/"
+    },
+    {
+      "id": "3D03B0003",
+      "name": "おばけねずみ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おばけねずみ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/obakenezumi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

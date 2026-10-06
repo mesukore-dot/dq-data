@@ -1,0 +1,57 @@
+{
+  "id": "3D03B0003",
+  "name": "おばけねずみ",
+  "furigana": "おばけねずみ",
+  "english_name": "Dirty rat",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/30/obakenezumi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おばけねずみ.webp",
+  "monster_family": "おおねずみ族",
+  "search_keywords": [
+    "Dirty rat",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_3D",
+    "DQB2",
+    "STAR",
+    "RIV",
+    "KSKS"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00186",
+  "prev_id": "3D03B0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/23/mandrill/",
+  "next_id": "3D03B0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/24/awk/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "1F03B0008",
+      "name": "やまねずみ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やまねずみ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/yamanezumi/"
+    },
+    {
+      "id": "2E03B0006",
+      "name": "おおねずみ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおねずみ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/oonezumi/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

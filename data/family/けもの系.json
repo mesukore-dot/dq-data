@@ -413,6 +413,30 @@
     "zukan_no": "No.00036"
   },
   {
+    "id": "1F03B0008",
+    "name": "やまねずみ",
+    "furigana": "やまねずみ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/yamanezumi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やまねずみ.webp",
+    "search_keywords": [
+      "Ratscal",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQB2",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00037"
+  },
+  {
     "id": "2E03B0001",
     "name": "アルミラージ",
     "furigana": "あるみらーじ",
@@ -467,7 +491,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00114"
+    "zukan_no": "No.00115"
   },
   {
     "id": "2E03B0001-1",
@@ -499,7 +523,7 @@
     "main_family": "けもの系",
     "sub_family": "ゴールデン",
     "release_date": "2012年10月9日",
-    "zukan_no": "No.00115"
+    "zukan_no": "No.00116"
   },
   {
     "id": "2E03B0002",
@@ -550,7 +574,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00116"
+    "zukan_no": "No.00117"
   },
   {
     "id": "2E03B0003",
@@ -590,7 +614,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00117"
+    "zukan_no": "No.00118"
   },
   {
     "id": "2E03B0004",
@@ -623,7 +647,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00118"
+    "zukan_no": "No.00119"
   },
   {
     "id": "2E03B0005",
@@ -671,7 +695,39 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00119"
+    "zukan_no": "No.00120"
+  },
+  {
+    "id": "2E03B0006",
+    "name": "おおねずみ",
+    "furigana": "おおねずみ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/oonezumi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおねずみ.webp",
+    "search_keywords": [
+      "Fat rat",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_3D",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQB2",
+      "STAR",
+      "RIV",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00121"
   },
   {
     "id": "3D03B0001",
@@ -709,7 +765,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00182"
+    "zukan_no": "No.00184"
   },
   {
     "id": "3D03B0002",
@@ -734,7 +790,93 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00183"
+    "zukan_no": "No.00185"
+  },
+  {
+    "id": "3D03B0003",
+    "name": "おばけねずみ",
+    "furigana": "おばけねずみ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/obakenezumi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おばけねずみ.webp",
+    "search_keywords": [
+      "Dirty rat",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_3D",
+      "DQB2",
+      "STAR",
+      "RIV",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00186"
+  },
+  {
+    "id": "3D03B0004",
+    "name": "オーク",
+    "furigana": "おーく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/24/awk/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オーク.webp",
+    "search_keywords": [
+      "Orc",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQSW",
+      "DQB2",
+      "DQTR",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00187"
   },
   {
     "id": "4C03B0001",
@@ -757,7 +899,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00254"
+    "zukan_no": "No.00258"
   },
   {
     "id": "4C03B0002",
@@ -780,7 +922,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00255"
+    "zukan_no": "No.00259"
   },
   {
     "id": "4C03B0003",
@@ -804,7 +946,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00256"
+    "zukan_no": "No.00260"
   },
   {
     "id": "4C03B0004",
@@ -838,7 +980,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00257"
+    "zukan_no": "No.00261"
   },
   {
     "id": "4C03B0005",
@@ -868,9 +1010,43 @@
       "KSKS"
     ],
     "main_family": "けもの系",
-    "sub_family": "魔獣系",
+    "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00258"
+    "zukan_no": "No.00262"
+  },
+  {
+    "id": "4C03B0006",
+    "name": "ゴールドオーク",
+    "furigana": "ごーるどおーく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/29/gold-awk/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールドオーク.webp",
+    "search_keywords": [
+      "Orc chieftain",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ7_RM",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00263"
   },
   {
     "id": "5B03B0001",
@@ -897,7 +1073,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00317"
+    "zukan_no": "No.00322"
   },
   {
     "id": "5B03B0002",
@@ -927,9 +1103,30 @@
       "KSKS"
     ],
     "main_family": "けもの系",
-    "sub_family": "魔獣系",
+    "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00318"
+    "zukan_no": "No.00323"
+  },
+  {
+    "id": "5B03B0003",
+    "name": "オークィーン",
+    "furigana": "おーくぃーん",
+    "page_url": "https://dqfan527.xsrv.jp/2025/08/12/o-queen/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オークィーン.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQTR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2015年12月24日",
+    "zukan_no": "No.00324"
   },
   {
     "id": "6A03B0001",
@@ -952,7 +1149,49 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00353"
+    "zukan_no": "No.00359"
+  },
+  {
+    "id": "6A03B0002",
+    "name": "オークキング",
+    "furigana": "おーくきんぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/29/awk-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オークキング.webp",
+    "search_keywords": [
+      "Orc king",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQB2",
+      "DQTR",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00360"
   },
   {
     "id": "7S03B0001",
@@ -984,7 +1223,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00387"
+    "zukan_no": "No.00394"
   },
   {
     "id": "7S03B0002",
@@ -1002,6 +1241,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00388"
+    "zukan_no": "No.00395"
   }
 ]

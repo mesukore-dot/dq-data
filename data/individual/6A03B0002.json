@@ -1,0 +1,77 @@
+{
+  "id": "6A03B0002",
+  "name": "オークキング",
+  "furigana": "おーくきんぐ",
+  "english_name": "Orc king",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/29/awk-king/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オークキング.webp",
+  "monster_family": "オーク族",
+  "search_keywords": [
+    "Orc king",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQB2",
+    "DQTR",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00360",
+  "prev_id": "6A03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/",
+  "next_id": "6A08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D03B0004",
+      "name": "オーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/24/awk/"
+    },
+    {
+      "id": "4C03B0006",
+      "name": "ゴールドオーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールドオーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/gold-awk/"
+    },
+    {
+      "id": "5B03B0003",
+      "name": "オークィーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オークィーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/12/o-queen/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
