@@ -38,6 +38,98 @@
     "related_characters": []
   },
   {
+    "id": "4C02D0018",
+    "name": "ギガントドラゴン",
+    "furigana": "ぎがんとどらごん",
+    "english_name": "Drakulard",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/02/gigant-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントドラゴン.webp",
+    "monster_family": "ギガントドラゴン族",
+    "search_keywords": ["Drakulard","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ4_PS","DQ7","DQ7_3D","DQ7_RM","DQ9","DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQH2",
+      "DQMB","DQBS","XB",
+      "DQMSL","MSP","STAR","RIV","WALK"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "3D02D0015",
+    "name": "ギガントヒルズ",
+    "furigana": "ぎがんとひるず",
+    "english_name": "Drakularge",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/gigantohilzu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントヒルズ.webp",
+    "monster_family": "ギガントドラゴン族",
+    "search_keywords": ["Drakularge","公式イラストあり"],
+    "first_appearance": "DQMJ",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQMSL","MSP","STAR","WALK"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2006年12月28日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "6A02D0008",
+    "name": "ゴールデンドラゴン",
+    "furigana": "ごーるでんどらごん",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/19/golden-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールデンドラゴン.webp",
+    "monster_family": "ドラゴン族",
+    "search_keywords": ["ボス","ゴールデン・黄金","公式イラストあり"],
+    "first_appearance": "FY1",
+    "appearances": [
+      "FY1",
+      "RIV","WALK"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "ゴールデン",
+    "other_families": [],
+    "release_date": "2006年4月20日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "6A02D0007",
+    "name": "サラマンダー",
+    "furigana": "さらまんだー",
+    "english_name": "Infernal serpent",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/04/salamander/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サラマンダー.webp",
+    "monster_family": "スカイドラゴン族",
+    "search_keywords": ["Infernal serpent","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ7_RM","DQ11",
+      "DQM3",
+      "MSP","STAR","RIV","WALK","KSKS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
     "id": "7S03B0004",
     "name": "ゴンズ",
     "furigana": "ごんず",
@@ -1222,7 +1314,7 @@
     "related_characters": []
   },  
   {
-    "id": "4B09M0001",
+    "id": "4C09M0001",
     "name": "だいまどう",
     "furigana": "だいまどう",
     "english_name": "Vis mager",
