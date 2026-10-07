@@ -1,0 +1,55 @@
+{
+  "id": "3D02D0015",
+  "name": "ギガントヒルズ",
+  "furigana": "ぎがんとひるず",
+  "english_name": "Drakularge",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/gigantohilzu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントヒルズ.webp",
+  "monster_family": "ギガントドラゴン族",
+  "search_keywords": [
+    "Drakularge",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMJ",
+  "appearances": [
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "WALK"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2006年12月28日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00189",
+  "prev_id": "3D02D0014",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-butterfly/",
+  "next_id": "3D03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "4C02D0018",
+      "name": "ギガントドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/02/gigant-dragon/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}

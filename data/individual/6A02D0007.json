@@ -1,13 +1,13 @@
 {
-  "id": "3D02D0002",
-  "name": "スカイドラゴン",
-  "furigana": "すかいどらごん",
-  "english_name": "Ethereal serpent",
-  "page_url": "https://dqfan527.xsrv.jp/2023/04/06/sky-dragon/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スカイドラゴン.webp",
+  "id": "6A02D0007",
+  "name": "サラマンダー",
+  "furigana": "さらまんだー",
+  "english_name": "Infernal serpent",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/04/salamander/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サラマンダー.webp",
   "monster_family": "スカイドラゴン族",
   "search_keywords": [
-    "Ethereal serpent",
+    "Infernal serpent",
     "公式イラストあり"
   ],
   "first_appearance": "DQ3",
@@ -18,25 +18,12 @@
     "DQ3_HD2D",
     "DQ7_RM",
     "DQ11",
-    "DQM1",
-    "DQM1_3DS",
-    "DQM1_SP",
-    "DQM2",
-    "DQM2_3DS",
-    "DQM2_SP",
     "DQM3",
-    "DQM4",
-    "DQMJ2",
-    "DQMJ2_P",
-    "DQMJ3_P",
-    "XB",
-    "DQMSL",
     "MSP",
     "STAR",
     "RIV",
     "WALK",
-    "TACT",
-    "DQSG"
+    "KSKS"
   ],
   "main_family": "ドラゴン系",
   "sub_family": "-",
@@ -44,27 +31,27 @@
   "release_date": "1988年2月10日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    ""
   ],
   "related_characters": [],
-  "zukan_no": "No.00175",
-  "prev_id": "3D02D0001",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/baby-salamander/",
-  "next_id": "3D02D0003",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/04/gamegon/",
+  "zukan_no": "No.00373",
+  "prev_id": "6A02D0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/10/04/seavern/",
+  "next_id": "6A02D0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/19/golden-dragon/",
   "mamechishiki_pages": [],
   "color_variants": [
+    {
+      "id": "3D02D0002",
+      "name": "スカイドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スカイドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/06/sky-dragon/"
+    },
     {
       "id": "4C02D0004",
       "name": "スノードラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スノードラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/04/snow-dragon/"
-    },
-    {
-      "id": "6A02D0007",
-      "name": "サラマンダー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サラマンダー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/salamander/"
     },
     {
       "id": "7S02D0006",

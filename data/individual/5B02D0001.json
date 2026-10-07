@@ -49,7 +49,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00314",
+  "zukan_no": "No.00316",
   "prev_id": "5B01S0030",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/23/emperon/",
   "next_id": "5B02D0002",
@@ -67,6 +67,12 @@
       "name": "ダースドラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ダースドラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/19/da-sudoragon/"
+    },
+    {
+      "id": "6A02D0008",
+      "name": "ゴールデンドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールデンドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/19/golden-dragon/"
     }
   ],
   "related_characters_details": [],

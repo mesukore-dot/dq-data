@@ -317,7 +317,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00206"
+    "zukan_no": "No.00207"
   },
   {
     "id": "3D09M0002",
@@ -349,7 +349,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00207"
+    "zukan_no": "No.00208"
   },
   {
     "id": "3D09M0003",
@@ -394,10 +394,10 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00208"
+    "zukan_no": "No.00209"
   },
   {
-    "id": "4B09M0001",
+    "id": "4C09M0001",
     "name": "だいまどう",
     "furigana": "だいまどう",
     "page_url": "https://dqfan527.xsrv.jp/2023/05/16/daimadou-dq1/",
@@ -425,48 +425,37 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00210"
+    "zukan_no": "No.00281"
   },
   {
     "id": "4C09M0001",
-    "name": "きめんどうし",
-    "furigana": "きめんどうし",
-    "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きめんどうし.webp",
+    "name": "だいまどう",
+    "furigana": "だいまどう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/16/daimadou-dq1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/だいまどう.webp",
     "search_keywords": [
-      "Lump shaman",
+      "Vis mager",
       "公式イラストあり"
     ],
-    "first_appearance": "DQ3",
+    "first_appearance": "DQ1",
     "appearances": [
+      "DQ1",
       "DQ1_HD2D",
       "DQ2_HD2D",
-      "DQ3",
-      "DQ3_SFC",
-      "DQ3_GBC",
-      "DQ3_HD2D",
-      "DQ8",
-      "DQ8_3D",
-      "DQ10",
-      "DQ11",
-      "DQMJ3",
-      "DQMJ3_P",
-      "FTR1",
       "FTR2",
       "FTR3",
-      "FY1",
+      "KS",
+      "DQB1",
+      "DQB2",
       "DQMB",
-      "DQMSL",
       "MSP",
       "STAR",
-      "RIV",
       "WALK",
-      "TACT",
       "KSKS"
     ],
     "main_family": "怪人系",
     "sub_family": "-",
-    "release_date": "1988年2月10日",
-    "zukan_no": "No.00279"
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00281"
   }
 ]
