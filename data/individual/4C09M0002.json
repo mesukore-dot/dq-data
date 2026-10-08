@@ -1,13 +1,13 @@
 {
-  "id": "3D09M0003",
-  "name": "ドルイド",
-  "furigana": "どるいど",
-  "english_name": "Lump wizard",
-  "page_url": "https://dqfan527.xsrv.jp/2023/06/09/doruido/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドルイド.webp",
+  "id": "4C09M0002",
+  "name": "きめんどうし",
+  "furigana": "きめんどうし",
+  "english_name": "Lump shaman",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きめんどうし.webp",
   "monster_family": "ドルイド族",
   "search_keywords": [
-    "Lump wizard",
+    "Lump shaman",
     "公式イラストあり"
   ],
   "first_appearance": "DQ3",
@@ -22,16 +22,13 @@
     "DQ8_3D",
     "DQ10",
     "DQ11",
-    "DQM1_3DS",
-    "DQM1_SP",
-    "DQM2_3DS",
-    "DQM2_SP",
-    "DQM3",
-    "DQMJ",
-    "DQMJ2",
-    "DQMJ2_P",
     "DQMJ3",
     "DQMJ3_P",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQMB",
     "DQMSL",
     "MSP",
     "STAR",
@@ -49,11 +46,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00209",
-  "prev_id": "3D09M0002",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/18/madoushi-dq1/",
-  "next_id": "3D10M0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/",
+  "zukan_no": "No.00281",
+  "prev_id": "4C09M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/16/daimadou-dq1/",
+  "next_id": "4C10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -63,10 +60,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/06/09/genjutushi/"
     },
     {
-      "id": "4C09M0002",
-      "name": "きめんどうし",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きめんどうし.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/"
+      "id": "3D09M0003",
+      "name": "ドルイド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドルイド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/doruido/"
     }
   ],
   "related_characters_details": [],
