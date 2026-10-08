@@ -1,0 +1,67 @@
+{
+  "id": "4C02D0018",
+  "name": "ギガントドラゴン",
+  "furigana": "ぎがんとどらごん",
+  "english_name": "Drakulard",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/02/gigant-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントドラゴン.webp",
+  "monster_family": "ギガントドラゴン族",
+  "search_keywords": [
+    "Drakulard",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ4_PS",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00266",
+  "prev_id": "4C02D0017",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/sword-dragon/",
+  "next_id": "4C03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "mamechishiki_pages": [],
+  "color_variants": [
+    {
+      "id": "3D02D0015",
+      "name": "ギガントヒルズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントヒルズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/gigantohilzu/"
+    }
+  ],
+  "related_characters_details": [],
+  "related_items_details": []
+}
