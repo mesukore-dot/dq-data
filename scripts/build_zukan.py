@@ -313,7 +313,7 @@ def main():
         latest_m = db.get(m["id"], m)
         family_groups[fam].append({
             "id":               latest_m["id"],
-            "name":             latest_m["name"],
+            "name":             latest_m.get("name") or next((v for k, v in latest_m.items() if k.endswith("_name")), ""),
             "furigana":         latest_m.get("furigana", ""),
             "page_url":         str(latest_m.get("page_url", "")),
             "image_url":        latest_m.get("image_url", ""),
