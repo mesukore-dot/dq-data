@@ -1,5 +1,5 @@
 {
-  "id": "FU-05C0001",
+  "id": "in_FU-05C0001",
   "name": "白木のイス",
   "furigana": "しらきのいす",
   "english_name": "",
@@ -18,6 +18,11 @@
   "release_date": "2012年8月2日",
   "related_items": [],
   "related_characters": [],
+  "zukan_no": "No.00001",
+  "prev_id": "",
+  "prev_page_url": "",
+  "next_id": "",
+  "next_page_url": "",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成24年）2012年8月2日「ドラゴンクエストXオンライン 目覚めし五つの種族（DQ10）」から登場。",

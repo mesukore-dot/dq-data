@@ -1,5 +1,5 @@
 {
-  "id": "IT-05H1N0001",
+  "id": "it_IT-05H1N0001",
   "name": "やくそう",
   "furigana": "やくそう",
   "english_name": "Medicinal herb",
@@ -76,6 +76,11 @@
   "release_date": "1986年5月27日",
   "related_items": [],
   "related_characters": [],
+  "zukan_no": "No.00002",
+  "prev_id": "it_AF-1V0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/02/huwahuwakomugi/",
+  "next_id": "",
+  "next_page_url": "",
   "mamechishiki_pages": [
     {
       "first_appearance": "(昭和61年) 1986年5月27日\nファミコン版「ドラゴンクエスト」から登場。",

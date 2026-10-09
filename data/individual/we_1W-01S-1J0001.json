@@ -1,5 +1,5 @@
 {
-  "id": "1W-01S-1J0001",
+  "id": "we_1W-01S-1J0001",
   "name": "ひのきのぼう",
   "furigana": "ひのきのぼう",
   "english_name": "Cypress stick",
@@ -43,6 +43,11 @@
   "flavor_text": [],
   "related_items": [],
   "related_characters": [],
+  "zukan_no": "No.00001",
+  "prev_id": "",
+  "prev_page_url": "",
+  "next_id": "we_1W-03K-7M-1F01S0014-01",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/09/16/suikatumuri-dagger/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（昭和62年）1987年1月26日、ファミコン版「ドラゴンクエストII 悪霊の神々（DQ2）」から登場。",
@@ -55,7 +60,7 @@
   ],
   "series_equipments": [
     {
-      "id": "2D-01S-1J0001",
+      "id": "ar_2D-01S-1J0001",
       "name": "おなべのふた",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おなべのフタ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/03/onabenohuta/"

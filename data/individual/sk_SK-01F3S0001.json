@@ -1,5 +1,5 @@
 {
-  "id": "SK-01F3S0001",
+  "id": "sk_SK-01F3S0001",
   "name": "メラ",
   "furigana": "めら",
   "english_name": "Frizz",
@@ -67,6 +67,11 @@
   "related_skill": [],
   "related_items": [],
   "related_characters": [],
+  "zukan_no": "No.00001",
+  "prev_id": "",
+  "prev_page_url": "",
+  "next_id": "",
+  "next_page_url": "",
   "mamechishiki_pages": [
     {
       "first_appearance": "（昭和63年）1988年2月10日、ファミコン版「ドラゴンクエストIII そして伝説へ…」から登場。",
