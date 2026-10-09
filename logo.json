@@ -8,7 +8,32 @@
     "TACT": {
       "logo": "https://xsrv.jp",
       "link": "https://xsrv.jp"
+    },
+    "DQSG": {
+      "logo": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/DQスマグロ.webp",
+      "logo_background": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ.webp"
     }
+  },
+  "title_menu_articles": {
+    "DQSG": [
+      {
+        "icon": "https://xsrv.jp",
+        "title": "属性武器・メモリ",
+        "url": "https://xsrv.jp"
+      },
+      {
+        "icon": "https://xsrv.jp",
+        "title": "不満・改善案",
+        "url": "https://xsrv.jp"
+      }
+    ],
+    "WALK": [
+      {
+        "icon": "https://xsrv.jp",
+        "title": "永続スキル",
+        "url": "https://xsrv.jp"
+      }
+    ]
   },
   "families": {
     "スライム系": {
@@ -183,7 +208,28 @@
     "icon": "https://xsrv.jp",
     "link": "https://xsrv.jp"
   }
+},
+"dqsg_element_icon": {
+  "炎": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/炎属性アイコン.png"
+  },
+  "氷": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/氷属性アイコン.png"
+  },
+  "風": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/風属性アイコン.png"
+  },
+  "雷": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/雷属性アイコン.png"
+  },
+  "光": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/光属性.png"
+  },
+  "闇": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/闇属性アイコン.png"
+  }, 
+  "土": {
+    "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/土属性アイコン.png"
 }
-
-
-  }
+}
+}

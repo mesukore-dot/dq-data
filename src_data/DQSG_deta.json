@@ -1,0 +1,21 @@
+[
+    {
+      "id": "3D06B0001",
+      "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-さそりアーマー.webp", 
+      "dqsg_release_date": "2026年10月6日",       
+      "dqsg_release_event": "常設コンテンツ「ほこらクエスト」", 
+      "dqsg_element_resistances": {  
+        "dqsg_super_weak": ["闇"],
+        "dqsg_weak":       ["土"],
+        "dqsg_resist":     ["光","氷","炎"]
+      },
+      "dqsg_features": [             
+        "スラッシュ（反射あり）を3連発で放ってくる。",
+        "ジャンプして、大きな円形範囲に飛び込み900以上のダメージを与える。",
+        "カウントダウン。一定ダメージを与えなければ 9999のダメージを受けてしまう。",
+        "HPが半分以下になると、こうげき力が3段階上がる。"
+      ],
+      "dqsg_official_mamechishiki": "黄金に輝く鎧を身にまとった\nサソリ型のまもの。\n両腕のハサミで相手を切り裂き\n尻尾の針でトドメをさす。"
+    }
+  ]
+  
