@@ -1,33 +1,34 @@
 {
-  "id": "8SS01S0001",
-  "name": "ホーリーキング",
-  "furigana": "ほーりーきんぐ",
-  "english_name": "-",
-  "page_url": "https://dqfan527.xsrv.jp/2026/07/06/holly-king/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホーリーキング.webp",
+  "id": "CPM-YS01S0003",
+  "name": "どんぶりキング",
+  "furigana": "どんぶりきんぐ",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
   "monster_family": "キングスライム族",
   "search_keywords": [
-    "ボス",
-    "公式イラスト待機中"
+    "吉野家",
+    "コラボ",
+    "公式イラストあり"
   ],
-  "first_appearance": "DQ10",
+  "first_appearance": "WALK",
   "appearances": [
-    "DQ10"
+    "WALK"
   ],
   "main_family": "スライム系",
   "sub_family": "-",
   "other_families": [],
-  "release_date": "2021年11月11日",
+  "release_date": "2026年7月1日",
   "voice_actor": "-",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00416",
-  "prev_id": "7S08D0001",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
-  "next_id": "8SS01S0002",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/golden-slime/",
+  "zukan_no": "No.00456",
+  "prev_id": "CPM-YS01S0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
+  "next_id": "",
+  "next_page_url": "",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -121,16 +122,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/04/16/halloween-king/"
     },
     {
+      "id": "8SS01S0001",
+      "name": "ホーリーキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ホーリーキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/06/holly-king/"
+    },
+    {
       "id": "8SS01S0014",
       "name": "ホルトン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホルトン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/12/augoostus/"
-    },
-    {
-      "id": "CPM-YS01S0003",
-      "name": "どんぶりキング",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/"
     }
   ],
   "related_characters_details": [],

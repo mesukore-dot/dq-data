@@ -5703,5 +5703,167 @@
     ],
     "release_date": "2014年2月6日",
     "zukan_no": "No.00440"
+  },
+  {
+    "id": "CPM-3101S0001",
+    "name": "ポッピングシャワースライム",
+    "furigana": "ぽっぴんぐしゃわーすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
+    "search_keywords": [
+      "サーティーワン31コラボ",
+      "たべもの",
+      "公式イラストあり"
+    ],
+    "first_appearance": "-",
+    "appearances": [
+      "-"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年6月1日",
+    "zukan_no": "No.00449"
+  },
+  {
+    "id": "CPM-CO01S0001",
+    "name": "エナジーバブル",
+    "furigana": "えなじーばぶる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/15/energy-bubble/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エナジーバブル.webp",
+    "search_keywords": [
+      "コカ・コーラCokeON",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2022年11月1日",
+    "zukan_no": "No.00450"
+  },
+  {
+    "id": "CPM-CO01S0002",
+    "name": "かじゅうナイト",
+    "furigana": "かじゅうないと",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
+    "search_keywords": [
+      "コカ・コーラCokeON",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00451"
+  },
+  {
+    "id": "CPM-MC01S0001",
+    "name": "バーガースライム",
+    "furigana": "ばーがーすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バーガースライム.webp",
+    "search_keywords": [
+      "マクドナルド",
+      "たべもの",
+      "ハンバーガー",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3"
+    ],
+    "main_family": "スライム系",
+    "sub_family": [],
+    "release_date": "2023年12月1日",
+    "zukan_no": "No.00452"
+  },
+  {
+    "id": "CPM-SP01S0001",
+    "name": "DDスライム",
+    "furigana": "だいやもんどどるふぃんずすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/DDスライム.webp",
+    "search_keywords": [
+      "DD",
+      "バスケットボール",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年4月12日",
+    "zukan_no": "No.00453"
+  },
+  {
+    "id": "CPM-YS01S0001",
+    "name": "どんぶりスライム",
+    "furigana": "どんぶりすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
+    "search_keywords": [
+      "吉野家",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00454"
+  },
+  {
+    "id": "CPM-YS01S0002",
+    "name": "つゆだくスライム",
+    "furigana": "つゆだくすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
+    "search_keywords": [
+      "吉野家",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00455"
+  },
+  {
+    "id": "CPM-YS01S0003",
+    "name": "どんぶりキング",
+    "furigana": "どんぶりきんぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
+    "search_keywords": [
+      "吉野家",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00456"
   }
 ]

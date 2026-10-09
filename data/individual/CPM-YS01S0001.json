@@ -1,37 +1,34 @@
 {
-  "id": "4C01S0018",
-  "name": "チェリースライム",
-  "furigana": "ちぇりーすらいむ",
-  "english_name": "-",
-  "page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チェリースライム.webp",
+  "id": "CPM-YS01S0001",
+  "name": "どんぶりスライム",
+  "furigana": "どんぶりすらいむ",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
   "monster_family": "スライム族",
   "search_keywords": [
+    "吉野家",
+    "コラボ",
     "公式イラストあり"
   ],
-  "first_appearance": "DQM2_3DS",
+  "first_appearance": "WALK",
   "appearances": [
-    "DQM2_3DS",
-    "DQM2_SP",
-    "MSP",
-    "STAR",
-    "RIV",
-    "TACT"
+    "WALK"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": "-",
   "other_families": [],
-  "release_date": "2014年2月6日",
+  "release_date": "2026年7月1日",
   "voice_actor": "-",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00229",
-  "prev_id": "4C01S0017",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/pierrot-slime/",
-  "next_id": "4C01S0019",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/02/lemon-slime/",
+  "zukan_no": "No.00454",
+  "prev_id": "CPM-SP01S0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
+  "next_id": "CPM-YS01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
   "mamechishiki_pages": [],
   "color_variants": [
     {
@@ -149,6 +146,12 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/kyousuraimubesu/"
     },
     {
+      "id": "4C01S0018",
+      "name": "チェリースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チェリースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/"
+    },
+    {
       "id": "4C01S0019",
       "name": "レモンスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レモンスライム.webp",
@@ -231,12 +234,6 @@
       "name": "ポッピングシャワースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
-    },
-    {
-      "id": "CPM-YS01S0001",
-      "name": "どんぶりスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
   ],
   "related_characters_details": [],
