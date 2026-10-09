@@ -2227,7 +2227,7 @@
     "related_characters": []
   },
   {
-    "id": "CP-3101S0001",
+    "id": "CPM-3101S0001",
     "name": "ポッピングシャワースライム",
     "furigana": "ぽっぴんぐしゃわーすらいむ",
     "english_name": "-",
@@ -4692,7 +4692,7 @@
     "related_characters": []
   },
        {
-    "id": "CP-SP01S0001",
+    "id": "CPM-SP01S0001",
     "name": "DDスライム",
     "furigana": "だいやもんどどるふぃんずすらいむ",
     "english_name": "",
@@ -4713,7 +4713,7 @@
     "related_characters": []
   },
       {
-    "id": "CP-YS01S0003",
+    "id": "CPM-YS01S0003",
     "name": "どんぶりキング",
     "furigana": "どんぶりきんぐ",
     "english_name": "",
@@ -4734,7 +4734,7 @@
     "related_characters": []
   },
        {
-    "id": "CP-YS01S0002",
+    "id": "CPM-YS01S0002",
     "name": "つゆだくスライム",
     "furigana": "つゆだくすらいむ",
     "english_name": "",
@@ -4755,7 +4755,7 @@
     "related_characters": []
   },
        {
-    "id": "CP-YS01S0001",
+    "id": "CPM-YS01S0001",
     "name": "どんぶりスライム",
     "furigana": "どんぶりすらいむ",
     "english_name": "",
@@ -4776,7 +4776,7 @@
     "related_characters": []
   },
        {
-    "id": "CP-CO01S0002",
+    "id": "CPM-CO01S0002",
     "name": "かじゅうナイト",
     "furigana": "かじゅうないと",
     "english_name": "",
@@ -4797,7 +4797,7 @@
     "related_characters": []
   },
        {
-    "id": "CP-CO01S0001",
+    "id": "CPM-CO01S0001",
     "name": "エナジーバブル",
     "furigana": "えなじーばぶる",
     "english_name": "",
@@ -6412,7 +6412,7 @@
     "related_characters": []
   },
         {
-    "id": "CP-MC01S0001",
+    "id": "CPM-MC01S0001",
     "name": "バーガースライム",
     "furigana": "ばーがーすらいむ",
     "english_name": "",
