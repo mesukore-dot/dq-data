@@ -127,31 +127,5 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/"
     }
-  ],
-  "related_characters_details": [
-    {
-      "id": "3D04P0005",
-      "name": "スイカ岩",
-      "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
-      "prev_id": "3D04P0004",
-      "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/27/paprikan/",
-      "next_id": "3D05B0001",
-      "next_page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/",
-      "zukan_no": "No.00202"
-    }
-  ],
-  "related_items_details": [
-    {
-      "id": "we_1W-03K-7M-1F01S0014-01",
-      "name": "スイカつむりダガー",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/16/suikatumuri-dagger/",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむりダガー.webp",
-      "prev_id": "we_1W-01S-1J0001",
-      "prev_page_url": "https://dqfan527.xsrv.jp/2023/03/26/hinokinobou/",
-      "next_id": "",
-      "next_page_url": "",
-      "zukan_no": "No.00002"
-    }
   ]
 }

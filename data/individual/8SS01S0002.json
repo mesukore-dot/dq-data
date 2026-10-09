@@ -54,12 +54,11 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00420",
+  "zukan_no": "No.00419",
   "prev_id": "8SS01S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/06/holly-king/",
   "next_id": "8SS01S0002-1",
   "next_page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-slime/",
-  "mamechishiki_pages": [],
   "color_variants": [
     {
       "id": "4C01S0012",
@@ -121,7 +120,5 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レインボースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-slime/"
     }
-  ],
-  "related_characters_details": [],
-  "related_items_details": []
+  ]
 }

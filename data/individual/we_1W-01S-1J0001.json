@@ -57,15 +57,5 @@
       "ability": "ブンブンふりまわし　バシバシと　しばく。意外と痛い。",
       "merchant": "森を歩いている間に　ひらめいた。この落ちている枝を　武器にすれば　荒稼ぎできるのでは？武器屋に置いてみたが　だれも買ってくれない。"
     }
-  ],
-  "series_equipments": [
-    {
-      "id": "ar_2D-01S-1J0001",
-      "name": "おなべのふた",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おなべのフタ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/07/03/onabenohuta/"
-    }
-  ],
-  "related_characters_details": [],
-  "related_items_details": []
+  ]
 }

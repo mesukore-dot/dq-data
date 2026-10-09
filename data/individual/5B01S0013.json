@@ -26,12 +26,11 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00300",
+  "zukan_no": "No.00299",
   "prev_id": "5B01S0012-1",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/04/10/flower-of-yomi/",
   "next_id": "5B01S0014",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/10/27/buchi-king/",
-  "mamechishiki_pages": [],
   "color_variants": [
     {
       "id": "1F01S0002",
@@ -105,7 +104,5 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/"
     }
-  ],
-  "related_characters_details": [],
-  "related_items_details": []
+  ]
 }

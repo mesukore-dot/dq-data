@@ -28,12 +28,11 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00223",
+  "zukan_no": "No.00222",
   "prev_id": "4C01S0009",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/",
   "next_id": "4C01S0011",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/05/18/cosmoslime/",
-  "mamechishiki_pages": [],
   "color_variants": [
     {
       "id": "1F01S0002",
@@ -107,7 +106,5 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/"
     }
-  ],
-  "related_characters_details": [],
-  "related_items_details": []
+  ]
 }

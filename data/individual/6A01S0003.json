@@ -24,12 +24,11 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00351",
+  "zukan_no": "No.00350",
   "prev_id": "6A01S0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/metal-king/",
   "next_id": "6A01S0004",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/10/26/denga/",
-  "mamechishiki_pages": [],
   "color_variants": [
     {
       "id": "5B01S0004",
@@ -37,7 +36,5 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムプディング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/03/slime-pudding/"
     }
-  ],
-  "related_characters_details": [],
-  "related_items_details": []
+  ]
 }

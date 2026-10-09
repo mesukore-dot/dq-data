@@ -247,19 +247,5 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
-  ],
-  "related_characters_details": [
-    {
-      "id": "1F03B0003-1",
-      "name": "マーブルン",
-      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
-      "prev_id": "1F03B0003",
-      "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/",
-      "next_id": "1F03B0004",
-      "next_page_url": "https://dqfan527.xsrv.jp/2023/06/05/ikkakuusagi/",
-      "zukan_no": "No.00031"
-    }
-  ],
-  "related_items_details": []
+  ]
 }
