@@ -21,12 +21,11 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00216",
+  "zukan_no": "No.00215",
   "prev_id": "4C01S0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/16/king-slime/",
   "next_id": "4C01S0004",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/04/10/slimebehomazun/",
-  "mamechishiki_pages": [],
   "color_variants": [
     {
       "id": "4C01S0003",
@@ -136,7 +135,5 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/"
     }
-  ],
-  "related_characters_details": [],
-  "related_items_details": []
+  ]
 }

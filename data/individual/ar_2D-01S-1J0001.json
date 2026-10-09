@@ -7,7 +7,6 @@
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おなべのフタ.webp",
   "search_keywords": [
     "Pot lid",
-    "最弱",
     "公式イラストあり"
   ],
   "armor_type": "盾",
@@ -52,15 +51,5 @@
       "what_kind": "どこの家庭でも置かれている　キッチン用具を　盾にしたもの。戦士よりも　ママの方が　あつかいが上手い。",
       "form": "金属製ではなく　木製のフタ。なぜか　メラゾーマや　はげしいほのおを相手にしても　ぜんぜん燃えない。"
     }
-  ],
-  "series_equipments": [
-    {
-      "id": "we_1W-01S-1J0001",
-      "name": "ひのきのぼう",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/ひのきのぼう.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/03/26/hinokinobou/"
-    }
-  ],
-  "related_characters_details": [],
-  "related_items_details": []
+  ]
 }

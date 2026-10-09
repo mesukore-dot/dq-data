@@ -43,25 +43,10 @@
   "related_characters": [
     "7S02D0008"
   ],
-  "zukan_no": "No.00446",
+  "zukan_no": "No.00445",
   "prev_id": "9X02D0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/gurandorago-n/",
   "next_id": "9X02D0004",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/03/25/gireinaru/",
-  "mamechishiki_pages": [],
-  "color_variants": [],
-  "related_characters_details": [
-    {
-      "id": "7S02D0008",
-      "name": "はくりゅうおう",
-      "page_url": "https://dqfan527.xsrv.jp/2026/06/15/hakuryuou/",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/はくりゅうおう.webp",
-      "prev_id": "7S02D0007",
-      "prev_page_url": "https://dqfan527.xsrv.jp/2026/01/29/rava-dragon/",
-      "next_id": "7S03B0001",
-      "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
-      "zukan_no": "No.00413"
-    }
-  ],
-  "related_items_details": []
+  "color_variants": []
 }
