@@ -30,7 +30,9 @@
   "release_date": "2004年11月27日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00260",

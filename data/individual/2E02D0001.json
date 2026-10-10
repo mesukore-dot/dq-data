@@ -35,7 +35,9 @@
   "release_date": "1990年2月11日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00105",

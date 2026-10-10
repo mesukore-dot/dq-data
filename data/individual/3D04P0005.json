@@ -24,10 +24,17 @@
   "release_date": "2020年5月9日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [
-    "1F01S0014"
+    {
+      "id": "1F01S0014",
+      "name": "スイカつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/"
+    }
   ],
   "zukan_no": "No.00202",
   "prev_id": "3D04P0004",

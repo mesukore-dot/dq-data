@@ -24,7 +24,9 @@
   "release_date": "2015年2月26日",
   "voice_actor": "釘宮理恵",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00404",

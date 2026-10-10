@@ -99,7 +99,9 @@
     "ピキー！"
   ],
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00001",

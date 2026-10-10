@@ -39,7 +39,9 @@
   "release_date": "1990年2月11日",
   "voice_actor": "-",
   "related_items": [
-    ""
+    {
+      "id": ""
+    }
   ],
   "related_characters": [],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-さそりアーマー.webp",
@@ -64,7 +66,7 @@
     "カウントダウンの間に、一定ダメージを与えなければ 9999のダメージを受けてしまう。",
     "HPが半分以下になると、こうげき力が3段階上がる。"
   ],
-  "dqsg_official_mamechishiki": "黄金に輝く鎧を身にまとった\nサソリ型のまもの。\n両腕のハサミで相手を切り裂き\n尻尾の針でトドメをさす。",
+  "dqsg_official_mamechishiki": "黄金に輝く鎧を身にまとった　サソリ型のまもの。\n両腕のハサミで相手を切り裂き　尻尾の針でトドメをさす。",
   "dqsg_id": "E0053",
   "dqsg_name": "さそりアーマー",
   "dqsg_furigana": "さそりあーまー",

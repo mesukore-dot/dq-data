@@ -21,7 +21,9 @@
   "release_date": "2023年4月13日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00431",

@@ -22,7 +22,9 @@
   "release_date": "2015年12月24日",
   "voice_actor": "-",
   "related_items": [
-    ""
+    {
+      "id": ""
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00338",

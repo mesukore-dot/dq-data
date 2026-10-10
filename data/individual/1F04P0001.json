@@ -26,7 +26,9 @@
   "release_date": "2012年8月2日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00039",

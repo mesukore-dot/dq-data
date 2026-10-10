@@ -33,7 +33,9 @@
   "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
-    ""
+    {
+      "id": ""
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00272",

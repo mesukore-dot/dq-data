@@ -20,7 +20,9 @@
   "release_date": "2025年11月13日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00401",

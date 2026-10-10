@@ -22,10 +22,17 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [
-    "1F01S0013"
+    {
+      "id": "1F01S0013",
+      "name": "スライムコロネ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムコロネ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/"
+    }
   ],
   "zukan_no": "No.00022",
   "prev_id": "1F02D0004",

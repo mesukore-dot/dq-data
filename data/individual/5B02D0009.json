@@ -42,7 +42,9 @@
   "release_date": "1992年9月27日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00326",

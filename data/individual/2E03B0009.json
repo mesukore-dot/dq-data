@@ -24,7 +24,9 @@
   "release_date": "2001年3月9日",
   "voice_actor": "-",
   "related_items": [
-    ""
+    {
+      "id": ""
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00125",

@@ -35,7 +35,9 @@
   "release_date": "2006年12月28日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00391",

@@ -25,7 +25,9 @@
   "release_date": "1990年2月11日",
   "voice_actor": "高野麻里佳",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00389",
