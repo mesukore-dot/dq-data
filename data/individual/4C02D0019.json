@@ -1,0 +1,52 @@
+{
+  "id": "4C02D0019",
+  "name": "ピットバイパー",
+  "furigana": "ぴっとばいぱー",
+  "english_name": "Pit viper",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/10/pit-baiper/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ピットバイパー.webp",
+  "monster_family": "とさかへび族",
+  "search_keywords": [
+    "Pit viper",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQMSL"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00270",
+  "prev_id": "4C02D0018",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/02/gigant-dragon/",
+  "next_id": "4C03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "color_variants": [
+    {
+      "id": "1F02D0002",
+      "name": "とさかへび",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/とさかへび.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/tosakahebi/"
+    },
+    {
+      "id": "3D02D0017",
+      "name": "フルスネイカー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フルスネイカー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/full-snaker/"
+    }
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
+}

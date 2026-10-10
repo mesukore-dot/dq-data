@@ -1,0 +1,57 @@
+{
+  "id": "5B02D0019",
+  "name": "はしりとかげ",
+  "furigana": "はしりとかげ",
+  "english_name": "Podokesaurus",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/10/hashiritokage/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/はしりとかげ.webp",
+  "monster_family": "コドラ族",
+  "search_keywords": [
+    "Podokesaurus",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "KSKS"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00339",
+  "prev_id": "5B02D0018",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/02/gyao-su/",
+  "next_id": "5B03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/16/dark-persia/",
+  "color_variants": [
+    {
+      "id": "1F02D0001",
+      "name": "コドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/コドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/kodora/"
+    },
+    {
+      "id": "3D02D0016",
+      "name": "テラノザース",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/テラノザース.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/teranoza-su/"
+    }
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
+}
