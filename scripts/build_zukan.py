@@ -137,7 +137,7 @@ def main():
     for cat_name, data_list in pools.items():
         process_zukan_and_links(data_list, prefix="No.")
 
-    # まめちしき、色違い、シリーズ、お友達リンク自動結合
+    # まめちしき、色違い、シリーズ、お友達リンク、および関連キャラ・アイテムの自動結合
     for my_id, item in all_combined_data.items():
         # 🛡️ 【リスト型エラーの修正】必ず純粋な文字列（テキスト）として扱うように徹底直下
         pure_id = my_id.split("_")[1] if "_" in my_id else my_id
@@ -154,6 +154,29 @@ def main():
                 for m in pools["monster"] if m.get("monster_family") == family and m["id"] != my_id
             ]
 
+        # 🤝 【復元した処理】related_items と related_characters のIDからURLや画像を自動で解決して埋め込む
+        for rel_key in ["related_items", "related_characters"]:
+            if rel_key in item and isinstance(item[rel_key], list):
+                resolved_rel = []
+                for rel_id in item[rel_key]:
+                    target_id = str(rel_id).strip()
+                    if target_id in all_combined_data:
+                        target_item = all_combined_data[target_id]
+                        rel_name = target_item.get("name") or next((v for k, v in target_item.items() if k.endswith("_name")), "")
+                        rel_image = target_item.get("image_url") or next((v for k, v in target_item.items() if k.endswith("image_url")), "")
+                        rel_page_url = str(target_item.get("page_url", ""))
+                        
+                        resolved_rel.append({
+                            "id": target_id,
+                            "name": rel_name,
+                            "image_url": rel_image,
+                            "page_url": rel_page_url
+                        })
+                    else:
+                        # 万が一データが見つからない場合はIDだけでも保持しておく
+                        resolved_rel.append({"id": target_id})
+                item[rel_key] = resolved_rel
+
     # 💾 個別JSONファイルの書き出し
     for my_id, item in all_combined_data.items():
         file_name = f"{my_id}.json"
@@ -167,10 +190,7 @@ def main():
         if fam not in family_groups:
             family_groups[fam] = []
         
-        # 大元の「name」を守り、無ければ40作品のどれかの「_name」を自動スキャン
         display_name = m.get("name") or next((v for k, v in m.items() if k.endswith("_name")), "")
-        
-        # 大元の「image_url」を探し、無ければ40作品のどれかの「_image_url」を自動スキャン
         display_image = m.get("image_url") or next((v for k, v in m.items() if k.endswith("image_url")), "")
 
         family_groups[fam].append({
@@ -193,7 +213,7 @@ def main():
         with open(DIST_FAMILY / f"{fam_name}.json", "w", encoding="utf-8") as f:
             json.dump(m_list, f, ensure_ascii=False, indent=2)
 
-    print("✨ すべてのデータを上書きせず、同じIDの箱に完璧にドッキングしたよ！ ✨")
+    print("✨ すべてのデータと関連キャラ・アイテムのリンクも完璧にドッキングしたよ！ ✨")
 
 if __name__ == "__main__":
     main()
