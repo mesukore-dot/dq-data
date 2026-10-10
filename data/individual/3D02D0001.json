@@ -27,9 +27,7 @@
   "release_date": "1990年2月11日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00174",
@@ -50,5 +48,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マッドルーパー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/10/mad-ruper/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

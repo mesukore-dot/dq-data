@@ -22,9 +22,7 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00359",
@@ -32,5 +30,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/tar-king/",
   "next_id": "6A01S0013",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/crystal-slime/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

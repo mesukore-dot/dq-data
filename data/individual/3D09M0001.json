@@ -22,9 +22,7 @@
   "release_date": "2012年8月2日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00208",
@@ -32,5 +30,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/08/shaman/",
   "next_id": "3D09M0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/madoushi-dq1/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

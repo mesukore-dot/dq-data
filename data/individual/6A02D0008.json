@@ -23,9 +23,7 @@
   "release_date": "2006年4月20日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "zukan_no": "No.00376",
@@ -52,5 +50,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ダースドラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/19/da-sudoragon/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

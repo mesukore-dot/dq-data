@@ -23,9 +23,7 @@
   "release_date": "2003年3月29日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00165",
@@ -33,5 +31,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/25/angel-slime/",
   "next_id": "3D01S0030",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/01/23/magma-slime/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

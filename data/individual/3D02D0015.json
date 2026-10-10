@@ -33,9 +33,7 @@
   "release_date": "2006年12月28日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "zukan_no": "No.00189",
@@ -50,5 +48,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントドラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/08/02/gigant-dragon/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

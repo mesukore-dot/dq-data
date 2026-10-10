@@ -38,20 +38,10 @@
     "や　やめてください〜！\nボクは　お祭りのデザートじゃありません！"
   ],
   "related_items": [
-    {
-      "id": "we_1W-03K-7M-1F01S0014-01",
-      "name": "スイカつむりダガー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむりダガー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/16/suikatumuri-dagger/"
-    }
+    "we_1W-03K-7M-1F01S0014-01"
   ],
   "related_characters": [
-    {
-      "id": "3D04P0005",
-      "name": "スイカ岩",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/"
-    }
+    "3D04P0005"
   ],
   "zukan_no": "No.00015",
   "prev_id": "1F01S0013",
@@ -136,6 +126,22 @@
       "name": "石炭つむり",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/"
+    }
+  ],
+  "related_items_details": [
+    {
+      "id": "we_1W-03K-7M-1F01S0014-01",
+      "name": "スイカつむりダガー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむりダガー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/16/suikatumuri-dagger/"
+    }
+  ],
+  "related_characters_details": [
+    {
+      "id": "3D04P0005",
+      "name": "スイカ岩",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/"
     }
   ]
 }

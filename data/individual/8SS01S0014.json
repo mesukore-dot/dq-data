@@ -21,12 +21,10 @@
   "release_date": "2020年7月16日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00432",
+  "zukan_no": "No.00433",
   "prev_id": "8SS01S0013",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/07/05/rumikishira/",
   "next_id": "8SS02D0001",
@@ -152,5 +150,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

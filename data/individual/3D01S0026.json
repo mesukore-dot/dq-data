@@ -26,9 +26,7 @@
   "release_date": "2012年5月31日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00162",
@@ -36,5 +34,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
   "next_id": "3D01S0027",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/06/14/suranin-purple/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

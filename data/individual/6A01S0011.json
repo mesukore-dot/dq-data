@@ -20,9 +20,7 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00358",
@@ -37,5 +35,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バブルキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/bubble-king/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

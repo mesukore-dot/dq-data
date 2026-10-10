@@ -46,9 +46,7 @@
   "release_date": "1988年2月10日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00210",
@@ -69,5 +67,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きめんどうし.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

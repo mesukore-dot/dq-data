@@ -25,9 +25,7 @@
   "release_date": "2004年11月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00270",
@@ -42,5 +40,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サーベルきつね.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/07/30/fencing-fox/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -20,9 +20,7 @@
   "release_date": "2025年2月20日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00248",
@@ -91,5 +89,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レインボースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

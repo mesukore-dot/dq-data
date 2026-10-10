@@ -22,15 +22,19 @@
   "release_date": "2017年2月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00450",
+  "zukan_no": "No.00451",
   "prev_id": "9X14?0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/10/daimao-madexuraja/",
   "next_id": "CPM-3101S0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -25,22 +25,28 @@
   "release_date": "2006年12月28日",
   "voice_actor": "-",
   "related_items": [
+    "-"
+  ],
+  "related_characters": [
+    "9X02D0003"
+  ],
+  "zukan_no": "No.00413",
+  "prev_id": "7S02D0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/01/29/rava-dragon/",
+  "next_id": "7S03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+  "color_variants": [],
+  "related_items_details": [
     {
       "id": "-"
     }
   ],
-  "related_characters": [
+  "related_characters_details": [
     {
       "id": "9X02D0003",
       "name": "マスタードラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マスタードラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/01/10/master-dragon/"
     }
-  ],
-  "zukan_no": "No.00412",
-  "prev_id": "7S02D0007",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2026/01/29/rava-dragon/",
-  "next_id": "7S03B0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
-  "color_variants": []
+  ]
 }

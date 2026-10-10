@@ -21,12 +21,10 @@
   "release_date": "2026年7月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00456",
+  "zukan_no": "No.00457",
   "prev_id": "CPM-SP01S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
   "next_id": "CPM-YS01S0002",
@@ -236,5 +234,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -23,9 +23,7 @@
   "release_date": "1987年1月26日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "zukan_no": "No.00379",
@@ -40,5 +38,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サーベルウルフ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/30/sabel-wolf/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

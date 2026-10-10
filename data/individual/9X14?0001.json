@@ -22,15 +22,19 @@
   "release_date": "2017年2月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00449",
+  "zukan_no": "No.00450",
   "prev_id": "9X02D0006",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/06/12/agyrogos/",
   "next_id": "9X14?0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/07/10/makaishin-madexuraja/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

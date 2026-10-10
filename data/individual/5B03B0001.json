@@ -28,9 +28,7 @@
   "release_date": "2012年8月2日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00336",
@@ -51,5 +49,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ミケまどう.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/20/caliconjurer/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

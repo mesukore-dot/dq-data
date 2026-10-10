@@ -21,12 +21,10 @@
   "release_date": "2019年9月12日",
   "voice_actor": "野沢雅子",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00400",
+  "zukan_no": "No.00401",
   "prev_id": "7S01S0016",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-general/",
   "next_id": "7S01S0018",
@@ -236,5 +234,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

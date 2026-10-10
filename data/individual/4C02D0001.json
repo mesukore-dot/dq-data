@@ -68,9 +68,7 @@
   "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "item_dokubari"
-    }
+    "item_dokubari"
   ],
   "related_characters": [],
   "zukan_no": "No.00251",
@@ -97,5 +95,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールデンドラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/19/golden-dragon/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "item_dokubari"
+    }
+  ],
+  "related_characters_details": []
 }

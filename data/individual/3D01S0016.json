@@ -30,9 +30,7 @@
   "release_date": "1998年9月25日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00152",
@@ -40,5 +38,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/tomatoma-re/",
   "next_id": "3D01S0017",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/slimefang/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

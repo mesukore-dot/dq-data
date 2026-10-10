@@ -32,15 +32,19 @@
     "勇者よ！　非力な人の身でありながら\n我ら　魔王軍の攻撃をかいくぐり\nここまで　たどり着いたことは　誉めてやる！"
   ],
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00435",
+  "zukan_no": "No.00436",
   "prev_id": "8SS02D0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/",
   "next_id": "8SS02D0004",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/07/01/masenshirugiusu/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

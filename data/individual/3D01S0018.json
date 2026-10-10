@@ -36,9 +36,7 @@
   "release_date": "1998年9月25日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00154",
@@ -59,5 +57,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スラマシンZ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/03/08/slam-machine-z/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -461,5 +461,25 @@
     "sub_family": "-",
     "release_date": "2013年3月5日",
     "zukan_no": "No.00341"
+  },
+  {
+    "id": "6A05B0001",
+    "name": "マーダーゴイル",
+    "furigana": "まーだーごいる",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/01/murder-goile/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マーダーゴイル.webp",
+    "search_keywords": [
+      "Goregoyle",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1_HD2D",
+    "appearances": [
+      "DQ1_HD2D"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00381"
   }
 ]

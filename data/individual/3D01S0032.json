@@ -32,9 +32,7 @@
   "release_date": "2003年3月29日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00168",
@@ -49,5 +47,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムジョーカー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/12/07/slime-joker/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

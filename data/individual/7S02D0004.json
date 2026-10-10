@@ -27,12 +27,10 @@
   "release_date": "2009年7月11日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00408",
+  "zukan_no": "No.00409",
   "prev_id": "7S02D0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/30/ibu-ru/",
   "next_id": "7S02D0005",
@@ -50,5 +48,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガメゴンロード.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/04/gamegon-lord/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

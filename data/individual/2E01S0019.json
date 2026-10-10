@@ -20,9 +20,7 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00092",
@@ -49,5 +47,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムファング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/17/slimefang/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

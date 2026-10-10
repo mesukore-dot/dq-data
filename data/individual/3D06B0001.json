@@ -39,9 +39,7 @@
   "release_date": "1990年2月11日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-さそりアーマー.webp",
@@ -113,5 +111,11 @@
       }
     }
   ],
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

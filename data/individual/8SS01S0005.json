@@ -21,15 +21,19 @@
   "release_date": "2014年2月6日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00423",
+  "zukan_no": "No.00424",
   "prev_id": "8SS01S0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/06/01/suranin-gold/",
   "next_id": "8SS01S0006",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/12/18/dark-robot-slime/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

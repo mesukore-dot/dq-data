@@ -22,9 +22,7 @@
   "release_date": "2001年3月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00229",
@@ -32,5 +30,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/19/slabbit/",
   "next_id": "4C01S0018",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/04/05/cherry-slime/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

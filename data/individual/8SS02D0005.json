@@ -32,12 +32,10 @@
   "release_date": "2001年3月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00437",
+  "zukan_no": "No.00438",
   "prev_id": "8SS02D0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/01/masenshirugiusu/",
   "next_id": "8SS02D0005-1",
@@ -49,5 +47,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひのでりゅう.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/01/08/hinoderyu/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }
