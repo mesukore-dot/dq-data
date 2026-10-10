@@ -27,8 +27,8 @@
   "zukan_no": "No.00270",
   "prev_id": "4C02D0018",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/02/gigant-dragon/",
-  "next_id": "4C03B0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "next_id": "4C02D0020",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/king-lizard/",
   "color_variants": [
     {
       "id": "1F02D0002",
@@ -41,6 +41,12 @@
       "name": "フルスネイカー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フルスネイカー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/10/full-snaker/"
+    },
+    {
+      "id": "5B02D0020",
+      "name": "ヘルバイパー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルバイパー（DQ7）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/28/diethon-dq7/"
     }
   ],
   "related_items_details": [
