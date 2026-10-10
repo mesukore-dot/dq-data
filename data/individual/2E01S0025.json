@@ -21,10 +21,17 @@
   "release_date": "2022年12月9日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [
-    "1F03B0003-1"
+    {
+      "id": "1F03B0003-1",
+      "name": "マーブルン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/"
+    }
   ],
   "zukan_no": "No.00098",
   "prev_id": "2E01S0024",

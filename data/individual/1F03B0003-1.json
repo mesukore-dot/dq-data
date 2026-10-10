@@ -31,10 +31,17 @@
   "release_date": "2013年5月16日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [
-    "2E01S0025"
+    {
+      "id": "2E01S0025",
+      "name": "マーブルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マーブルスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marble-slime/"
+    }
   ],
   "zukan_no": "No.00031",
   "prev_id": "1F03B0003",

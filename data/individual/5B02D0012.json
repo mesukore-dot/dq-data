@@ -25,7 +25,9 @@
   "release_date": "2017年7月29日",
   "voice_actor": "堀内賢雄",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00329",

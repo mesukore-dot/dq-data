@@ -24,7 +24,9 @@
   "release_date": "2022年7月6日",
   "voice_actor": "-",
   "related_items": [
-    "-"
+    {
+      "id": "-"
+    }
   ],
   "related_characters": [],
   "zukan_no": "No.00044",
