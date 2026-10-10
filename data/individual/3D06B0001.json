@@ -102,5 +102,16 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%83%a1%e3%82%a4%e3%82%b8%e3%82%ad%e3%83%a1%e3%83%a9/",
   "next_id": "3D07W0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/26/shibirekurage/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日　ファミコン版「ドラゴンクエストIV 導かれし者たち」から登場",
+      "works_count": "13作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "こがね色にかがやく　かたいよろいに身をつつんだ　さそりのまもの。よろいのスキマが弱点。",
+      "ability": "ハサミをふりおろし　強力な斬撃を飛ばしてくる。しっぽで　急所を突いてくることも。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": []
 }
