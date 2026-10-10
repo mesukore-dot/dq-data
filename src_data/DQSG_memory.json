@@ -11,7 +11,7 @@
             "dqsg_available": true,
             "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/さそりアーマー-メモリ.webp",
             "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/18/sasori-armor/",
-            "dqsg_panels": [],
+            "dqsg_panels": ["武闘家1","武闘家2","武闘家3","武闘家4","レンジャー1"],
             "dqsg_status": { 
               "dqsg_hp": 139,
               "dqsg_attack": 121, 
