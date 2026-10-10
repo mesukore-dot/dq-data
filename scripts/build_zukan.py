@@ -154,7 +154,7 @@ def main():
                 for m in pools["monster"] if m.get("monster_family") == family and m["id"] != my_id
             ]
 
-        # 🤝 【復元した処理】related_items と related_characters のIDからURLや画像を自動で解決して埋め込む
+        # 🤝 【修正】JavaScript側が期待する "_details" 付きのキー名で出力する
         for rel_key in ["related_items", "related_characters"]:
             if rel_key in item and isinstance(item[rel_key], list):
                 resolved_rel = []
@@ -175,7 +175,10 @@ def main():
                     else:
                         # 万が一データが見つからない場合はIDだけでも保持しておく
                         resolved_rel.append({"id": target_id})
-                item[rel_key] = resolved_rel
+                
+                # ✨ JS側の変数名（related_items_details / related_characters_details）に一致させる
+                detail_key = f"{rel_key}_details"
+                item[detail_key] = resolved_rel
 
     # 💾 個別JSONファイルの書き出し
     for my_id, item in all_combined_data.items():
