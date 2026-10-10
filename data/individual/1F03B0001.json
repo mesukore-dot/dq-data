@@ -43,9 +43,7 @@
   "release_date": "1995年12月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00026",
@@ -75,5 +73,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/ピンクボンボン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/06/08/pink-bonbon/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

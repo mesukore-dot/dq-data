@@ -28,9 +28,7 @@
   "release_date": "2000年8月26日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00053",
@@ -49,5 +47,11 @@
       }
     }
   ],
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

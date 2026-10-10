@@ -31,12 +31,10 @@
   "release_date": "2010年4月28日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00394",
+  "zukan_no": "No.00395",
   "prev_id": "7S01S0010",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/slider-hero/",
   "next_id": "7S01S0012",
@@ -60,5 +58,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アクアマリン.webp",
       "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

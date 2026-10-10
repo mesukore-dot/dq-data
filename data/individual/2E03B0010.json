@@ -28,9 +28,7 @@
   "release_date": "1998年9月25日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "zukan_no": "No.00126",
@@ -45,5 +43,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/みみとびねずみ（DQ7）.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/17/mouseflap/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

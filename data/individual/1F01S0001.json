@@ -99,9 +99,7 @@
     "ピキー！"
   ],
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00001",
@@ -333,5 +331,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

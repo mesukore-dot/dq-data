@@ -34,9 +34,7 @@
   "voice_actor": "花江夏樹",
   "quotes": [],
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00001",
@@ -58,5 +56,11 @@
         "variants_url": "#色違い"
       }
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

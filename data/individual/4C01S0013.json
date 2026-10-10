@@ -29,9 +29,7 @@
   "release_date": "2013年9月26日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00225",
@@ -112,5 +110,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -24,9 +24,7 @@
   "release_date": "2004年11月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00201",
@@ -53,5 +51,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/くしざしツインズ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/09/20/kushizashi-twins/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

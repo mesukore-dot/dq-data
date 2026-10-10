@@ -39,9 +39,7 @@
   "release_date": "1992年9月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00020",
@@ -81,5 +79,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/07/リトルライバーン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/07/28/little-wyvern/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

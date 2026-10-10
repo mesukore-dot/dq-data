@@ -18,12 +18,7 @@
   "flavor_text": [],
   "related_items": [],
   "related_characters": [
-    {
-      "id": "1F01S0014",
-      "name": "スイカつむり",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/"
-    }
+    "1F01S0014"
   ],
   "zukan_no": "No.00002",
   "prev_id": "we_1W-01S-1J0001",
@@ -37,6 +32,15 @@
       "what_kind": "スライム系のまもの　スイカつむりをモチーフにした　夏らしい短剣。",
       "form": "きざんだスイカに　金細工がゴージャスに彩る。このフォルム　どこかで　見たことがあるような…。",
       "Blacksmithing": "敵も　まさか　これが武器だとは思わないだろう。スキを見て　心臓に突き刺すのだ。まちがえて　冷凍庫に入れるなよ。"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": [
+    {
+      "id": "1F01S0014",
+      "name": "スイカつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/"
     }
   ]
 }

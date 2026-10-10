@@ -20,15 +20,19 @@
   "release_date": "2025年11月13日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00401",
+  "zukan_no": "No.00402",
   "prev_id": "7S01S0017",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/22/uramiti/",
   "next_id": "7S01S0019",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/03/premium-slime/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

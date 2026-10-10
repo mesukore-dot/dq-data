@@ -21,9 +21,7 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00186",
@@ -31,5 +29,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/13/dark-dragling/",
   "next_id": "3D02D0013",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/balloon-dragon/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

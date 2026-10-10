@@ -23,9 +23,7 @@
   "release_date": "2016年3月24日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00144",
@@ -100,5 +98,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つららスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/turara-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

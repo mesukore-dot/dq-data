@@ -31,12 +31,10 @@
   "release_date": "2001年3月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00388",
+  "zukan_no": "No.00389",
   "prev_id": "7S01S0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
   "next_id": "7S01S0006",
@@ -48,5 +46,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルカイザー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/metal-kaiser/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -37,15 +37,19 @@
   "release_date": "2004年11月27日",
   "voice_actor": "丸山壮史",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00440",
+  "zukan_no": "No.00441",
   "prev_id": "8SS02D0006",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/stalagosaur/",
   "next_id": "9X01S0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-star/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

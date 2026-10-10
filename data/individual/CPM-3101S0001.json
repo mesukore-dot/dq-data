@@ -21,12 +21,10 @@
   "release_date": "2026年6月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00451",
+  "zukan_no": "No.00452",
   "prev_id": "9X14?0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/10/makaishin-madexuraja/",
   "next_id": "CPM-CO01S0001",
@@ -247,5 +245,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

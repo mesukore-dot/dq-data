@@ -22,9 +22,7 @@
   "release_date": "2015年12月24日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "zukan_no": "No.00338",
@@ -51,5 +49,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オークキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/29/awk-king/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

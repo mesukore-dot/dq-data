@@ -22,9 +22,7 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00113",
@@ -32,5 +30,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/23/wish-drago/",
   "next_id": "2E02D0010",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/lizard-fly/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

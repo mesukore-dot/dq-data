@@ -23,9 +23,7 @@
   "release_date": "2017年7月29日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00322",
@@ -46,5 +44,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガーディアン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/11/guardian-dq4/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

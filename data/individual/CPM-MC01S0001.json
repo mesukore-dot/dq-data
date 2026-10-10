@@ -22,12 +22,10 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00454",
+  "zukan_no": "No.00455",
   "prev_id": "CPM-CO01S0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/",
   "next_id": "CPM-SP01S0001",
@@ -99,5 +97,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムかがみもち.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/06/14/slime-kagamimoti/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

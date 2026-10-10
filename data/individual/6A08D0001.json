@@ -42,14 +42,12 @@
   "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00381",
-  "prev_id": "6A03B0004",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/12/berorinman-dq4/",
+  "zukan_no": "No.00382",
+  "prev_id": "6A05B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/11/01/murder-goile/",
   "next_id": "6A08D0001-1",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/05/15/shirobaranokishi/",
   "color_variants": [
@@ -77,5 +75,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのきし.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

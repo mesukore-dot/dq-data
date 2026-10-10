@@ -20,12 +20,10 @@
   "release_date": "2021年11月11日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00418",
+  "zukan_no": "No.00419",
   "prev_id": "7S08D0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
   "next_id": "8SS01S0002",
@@ -139,5 +137,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

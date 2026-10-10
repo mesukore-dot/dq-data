@@ -35,9 +35,7 @@
   "release_date": "2004年11月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00271",
@@ -64,5 +62,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/プリズニャン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/purizunyan/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -27,17 +27,10 @@
   "release_date": "2023年12月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [
-    {
-      "id": "1F02D0005",
-      "name": "はなまきドラゴ",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/はなまきドラゴ.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/19/hanamaki-dragon/"
-    }
+    "1F02D0005"
   ],
   "zukan_no": "No.00014",
   "prev_id": "1F01S0012",
@@ -63,6 +56,19 @@
       "name": "コロネホワイト",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/コロネホワイト.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/12/04/korone-white/"
+    }
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": [
+    {
+      "id": "1F02D0005",
+      "name": "はなまきドラゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/はなまきドラゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/19/hanamaki-dragon/"
     }
   ]
 }

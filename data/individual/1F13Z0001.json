@@ -61,9 +61,7 @@
   "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00070",
@@ -91,5 +89,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キョンシーゴースト.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/10/15/jiangshi-ghost/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -21,12 +21,10 @@
   "release_date": "2022年11月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00452",
+  "zukan_no": "No.00453",
   "prev_id": "CPM-3101S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/",
   "next_id": "CPM-CO01S0002",
@@ -104,5 +102,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

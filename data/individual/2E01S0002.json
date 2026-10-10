@@ -45,9 +45,7 @@
   "release_date": "1988年2月10日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00074",
@@ -136,5 +134,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

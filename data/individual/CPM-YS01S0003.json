@@ -21,12 +21,10 @@
   "release_date": "2026年7月1日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00458",
+  "zukan_no": "No.00459",
   "prev_id": "CPM-YS01S0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
   "next_id": "",
@@ -140,5 +138,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホルトン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/12/augoostus/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

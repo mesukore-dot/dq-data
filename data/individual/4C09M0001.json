@@ -32,9 +32,7 @@
   "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00281",
@@ -55,5 +53,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/まどうし.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/18/madoushi-dq1/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

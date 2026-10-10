@@ -38,9 +38,7 @@
     "そんな　ひどい……。"
   ],
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00002",
@@ -63,5 +61,11 @@
         "variants_url": "#色違い"
       }
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

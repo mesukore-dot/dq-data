@@ -35,12 +35,10 @@
   "release_date": "2006年12月28日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00391",
+  "zukan_no": "No.00392",
   "prev_id": "7S01S0007",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/master-slime/",
   "next_id": "7S01S0009",
@@ -106,5 +104,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レインボースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

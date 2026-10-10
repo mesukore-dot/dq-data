@@ -27,9 +27,7 @@
   "release_date": "2015年4月30日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00036",
@@ -62,5 +60,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークペルシャ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/16/dark-persia/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

@@ -24,9 +24,7 @@
   "release_date": "2001年3月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "zukan_no": "No.00125",
@@ -34,5 +32,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/abareushidori/",
   "next_id": "2E03B0010",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/08/25/mousenap/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

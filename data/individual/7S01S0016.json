@@ -37,12 +37,10 @@
   "release_date": "2008年5月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00399",
+  "zukan_no": "No.00400",
   "prev_id": "7S01S0015-1",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/16/chocolate-lingual/",
   "next_id": "7S01S0017",
@@ -84,5 +82,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
       "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

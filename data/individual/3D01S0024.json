@@ -27,9 +27,7 @@
   "release_date": "2012年5月31日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00160",
@@ -37,5 +35,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
   "next_id": "3D01S0025",
   "next_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

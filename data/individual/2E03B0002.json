@@ -52,9 +52,7 @@
   "release_date": "1990年2月11日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00118",
@@ -75,5 +73,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ブランマトック.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/20/picky-mole/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

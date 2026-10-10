@@ -24,9 +24,7 @@
   "release_date": "2010年4月28日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00304",
@@ -41,5 +39,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/リーファ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/04/19/ri-fa/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

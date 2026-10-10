@@ -45,9 +45,7 @@
   "release_date": "2000年8月26日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": ""
-    }
+    ""
   ],
   "related_characters": [],
   "zukan_no": "No.00267",
@@ -62,5 +60,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガントヒルズ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/gigantohilzu/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
 }

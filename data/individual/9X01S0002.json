@@ -28,12 +28,10 @@
   "release_date": "2014年2月6日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00442",
+  "zukan_no": "No.00443",
   "prev_id": "9X01S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-star/",
   "next_id": "9X02D0001",
@@ -45,5 +43,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ピンクスピネル.webp",
       "page_url": ""
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

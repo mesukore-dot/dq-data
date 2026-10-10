@@ -21,9 +21,7 @@
   "release_date": "2015年12月24日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00330",
@@ -31,5 +29,11 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/03/jarvis/",
   "next_id": "5B02D0014",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/05/17/snow-elder/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

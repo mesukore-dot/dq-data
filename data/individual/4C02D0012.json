@@ -21,9 +21,7 @@
   "release_date": "2022年12月9日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00261",
@@ -68,5 +66,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エンゼルゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/13/elysian-dragling/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

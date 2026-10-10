@@ -24,15 +24,19 @@
   "release_date": "2012年5月31日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00441",
+  "zukan_no": "No.00442",
   "prev_id": "8SS13Z0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/12/captain-crow/",
   "next_id": "9X01S0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-go-death/",
-  "color_variants": []
+  "color_variants": [],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

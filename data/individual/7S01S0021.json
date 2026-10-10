@@ -24,12 +24,10 @@
   "release_date": "2015年2月26日",
   "voice_actor": "釘宮理恵",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00404",
+  "zukan_no": "No.00405",
   "prev_id": "7S01S0020",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/",
   "next_id": "7S02D0001",
@@ -107,5 +105,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホイミン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/27/healiedq4/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

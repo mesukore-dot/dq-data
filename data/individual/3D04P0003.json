@@ -42,9 +42,7 @@
   "release_date": "1988年2月10日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00200",
@@ -71,5 +69,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マタンゴ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/10/matango/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

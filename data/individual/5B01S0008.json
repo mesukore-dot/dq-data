@@ -21,9 +21,7 @@
   "release_date": "2020年12月23日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00293",
@@ -68,5 +66,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムジェネラル.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-general/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

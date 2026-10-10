@@ -33,9 +33,7 @@
   "release_date": "2013年3月5日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00341",
@@ -62,5 +60,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スターキメラ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

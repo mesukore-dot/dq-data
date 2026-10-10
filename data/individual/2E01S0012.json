@@ -19,9 +19,7 @@
   "release_date": "2021年11月11日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00085",
@@ -108,5 +106,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

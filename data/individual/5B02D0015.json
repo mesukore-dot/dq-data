@@ -21,9 +21,7 @@
   "release_date": "2025年10月30日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00332",
@@ -38,5 +36,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/リザードフライ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/30/lizard-fly/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

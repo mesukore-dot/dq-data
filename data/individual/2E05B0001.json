@@ -42,9 +42,7 @@
   "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
   "zukan_no": "No.00129",
@@ -65,5 +63,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドラキーマ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }

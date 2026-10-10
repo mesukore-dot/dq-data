@@ -23,12 +23,10 @@
   "release_date": "2003年3月29日",
   "voice_actor": "-",
   "related_items": [
-    {
-      "id": "-"
-    }
+    "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00390",
+  "zukan_no": "No.00391",
   "prev_id": "7S01S0006",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/27/healiedq4/",
   "next_id": "7S01S0008",
@@ -46,5 +44,11 @@
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/エルダースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/elder-slime/"
     }
-  ]
+  ],
+  "related_items_details": [
+    {
+      "id": "-"
+    }
+  ],
+  "related_characters_details": []
 }
