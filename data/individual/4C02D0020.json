@@ -1,0 +1,59 @@
+{
+  "id": "4C02D0020",
+  "name": "キングリザード",
+  "furigana": "きんぐりざーど",
+  "english_name": "Liege Lizard",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/king-lizard/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キングリザード.webp",
+  "monster_family": "キングリザード族",
+  "search_keywords": [
+    "Liege Lizard",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年8月2日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00271",
+  "prev_id": "4C02D0019",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/pit-baiper/",
+  "next_id": "4C03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/babu-n/",
+  "color_variants": [
+    {
+      "id": "5B02D0023",
+      "name": "カイザードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カイザードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/kaiser-dragon/"
+    }
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
+}
