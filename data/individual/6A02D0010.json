@@ -1,0 +1,56 @@
+{
+  "id": "6A02D0010",
+  "name": "デビルドラグナー",
+  "furigana": "でびるどらぐなー",
+  "english_name": "-",
+  "page_url": "",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/デビルドラグナー.webp",
+  "monster_family": "ドラゴンライダー族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMSL",
+  "appearances": [
+    "DQMSL"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2015年7月16日",
+  "voice_actor": "-",
+  "related_items": [
+    ""
+  ],
+  "related_characters": [],
+  "zukan_no": "No.00389",
+  "prev_id": "",
+  "prev_page_url": "",
+  "next_id": "",
+  "next_page_url": "",
+  "color_variants": [
+    {
+      "id": "3D02D0005",
+      "name": "ドラゴンライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-rider/"
+    },
+    {
+      "id": "4C02D0006",
+      "name": "ガーディアン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ガーディアン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/guardian-dq4/"
+    },
+    {
+      "id": "5B02D0006",
+      "name": "ハデスナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/ハデスナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/hadesunaito/"
+    }
+  ],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
+  "related_characters_details": []
+}
