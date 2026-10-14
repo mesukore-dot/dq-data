@@ -5731,7 +5731,7 @@
     "release_date": "2014年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["1F01S0013"]
   },
         {
     "id": "4C01S0033",
@@ -6978,8 +6978,8 @@
     "other_families": [],
     "release_date": "2023年12月1日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": ["1F02D0005"]
+    "related_items": [],
+    "related_characters": ["1F02D0005","2E01S0026"]
   },
         {
     "id": "9X01S0002",
