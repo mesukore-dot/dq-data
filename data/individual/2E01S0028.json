@@ -2,12 +2,14 @@
   "id": "2E01S0028",
   "name": "だんごスライム",
   "furigana": "だんごすらいむ",
-  "english_name": "",
+  "english_name": "Dumpling slime",
   "page_url": "https://dqfan527.xsrv.jp/2023/04/04/dango-slime/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/だんごスライム.webp",
   "monster_family": "スライムタワー族",
   "search_keywords": [
     "春",
+    "和風",
+    "Dumpling slime",
     "たべもの",
     "公式イラストあり"
   ],
@@ -19,19 +21,31 @@
     "TACT"
   ],
   "main_family": "スライム系",
-  "sub_family": "-",
+  "sub_family": "春",
   "other_families": [],
   "release_date": "2014年4月1日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00101",
   "prev_id": "2E01S0027",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/27/marshmallow-slime/",
   "next_id": "2E01S0029",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成26年）2014年4月1日「ドラゴンクエスト モンスターパレード」から登場。",
+      "works_count": "4作品\n (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "春らしい三色団子のまもの。スライムよりも　おもちのように　もっちりとした弾力が特徴。",
+      "ability": "中に　あんこが入っているからか　あまいいきで　ねむらせてくる。",
+      "habitat": "春の宵　月までとどくほどの　花見だんごをささげると　あらわれるという言い伝えがある。",
+      "ecology": "だんごスライムが　だんご屋の近くにあらわれると　売り上げがアップするらしい。道具屋や武器屋からの　嫉妬の目が止まらない。",
+      "trivia_notes": "三色団子（さんしょくだんご）安土桃山時代に豊臣秀吉が開いた大宴会　醍醐の花見から生まれたという春の和菓子。さくら　雪のような白　新緑ヨモギの　3つの季節をあらわす。秋がないのは　飽きがこないこと　商いが繁盛するという意味がこめられている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "2E01S0006",
@@ -100,10 +114,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }
