@@ -3,7 +3,7 @@
   "name": "デビルドラグナー",
   "furigana": "でびるどらぐなー",
   "english_name": "-",
-  "page_url": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/10/15/devil-dragoner/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/デビルドラグナー.webp",
   "monster_family": "ドラゴンライダー族",
   "search_keywords": [
@@ -13,7 +13,7 @@
   "appearances": [
     "DQMSL"
   ],
-  "main_family": "スライム系",
+  "main_family": "ドラゴン系",
   "sub_family": "-",
   "other_families": [],
   "release_date": "2015年7月16日",
@@ -23,10 +23,22 @@
   ],
   "related_characters": [],
   "zukan_no": "No.00389",
-  "prev_id": "",
-  "prev_page_url": "",
-  "next_id": "",
-  "next_page_url": "",
+  "prev_id": "6A02D0009",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/09/09/dragon-u/",
+  "next_id": "6A03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成27年）2015年7月16日、スマートフォン向けアプリ「ドラゴンクエストモンスターズ スーパーライト（DQMSL）」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "漆黒に染まった　究極のドラゴンライダー。魔界にすむ凶暴なドラゴンを　みごとに飼いならす。",
+      "ability": "人竜一体のプレイで　斬撃とブレスを　たくみに使い分ける。ドラゴンが吐く闇のブレスは　光どころか　魔王すら焦がすという。",
+      "ecology": "魔王でも飼いならすのが困難だと言われる　漆黒のドラゴンを　従えるのは　真のライダーだけ。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D02D0005",
