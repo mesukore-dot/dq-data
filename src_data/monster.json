@@ -1499,8 +1499,8 @@
     "other_families": "-",
     "release_date": "2004年11月27日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F02D0005"]
   },  
   {
     "id": "6A02D0006",
@@ -3300,8 +3300,8 @@
     "other_families": [],
     "release_date": "2023年12月1日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": ["1F01S0013"]
+    "related_items": [],
+    "related_characters": ["1F01S0013","1F02D0007"]
   },
        {
     "id": "8SS02D0002",
