@@ -18,9 +18,7 @@
   "other_families": [],
   "release_date": "2015年7月16日",
   "voice_actor": "-",
-  "related_items": [
-    ""
-  ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00391",
   "prev_id": "6A02D0009",
@@ -29,7 +27,7 @@
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/",
   "mamechishiki_pages": [
     {
-      "first_appearance": "（平成27年）2015年7月16日、スマートフォン向けアプリ「ドラゴンクエストモンスターズ スーパーライト（DQMSL）」から登場。",
+      "first_appearance": "（平成27年）2015年7月16日\nスマートフォン向けアプリ「ドラゴンクエストモンスターズ スーパーライト（DQMSL）」から登場。",
       "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
       "what_kind": "漆黒に染まった　究極のドラゴンライダー。魔界にすむ凶暴なドラゴンを　みごとに飼いならす。",
       "ability": "人竜一体のプレイで　斬撃とブレスを　たくみに使い分ける。ドラゴンが吐く闇のブレスは　光どころか　魔王すら焦がすという。",
@@ -59,10 +57,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/hadesunaito/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": ""
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }

@@ -98,9 +98,7 @@
     "モンスターおじさん\nやさしいから　好き。\nアルスたちは　大好き！",
     "ピキー！"
   ],
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00001",
   "prev_id": "",
@@ -332,10 +330,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }
