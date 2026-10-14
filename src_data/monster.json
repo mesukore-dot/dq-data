@@ -38,6 +38,51 @@
     "related_characters": []
   },
   {
+    "id": "3D02D0018",
+    "name": "フォレストドラゴ",
+    "furigana": "ふぉれすとどらご",
+    "english_name": "Lumbering lizard",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/20/forest-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フォレストドラゴ.webp",
+    "monster_family": "フォレストドラゴ族",
+    "search_keywords": ["Lumbering lizard","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQM3","DQMJ3","DQMJ3_P",
+      "DQMSL","RIV","TACT"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2013年12月5日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "4C02D0021",
+    "name": "りゅう兵士",
+    "furigana": "りゅうへいし",
+    "english_name": "Mandrake mangler",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/10/ryuheishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅう兵士.webp",
+    "monster_family": "リザードマン族",
+    "search_keywords": ["Mandrake mangler","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9","DQ10",
+      "TACT"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
     "id": "6A02D0010",
     "name": "デビルドラグナー",
     "furigana": "でびるどらぐなー",
