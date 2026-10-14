@@ -38,6 +38,48 @@
     "related_characters": []
   },
   {
+    "id": "5B01S0031",
+    "name": "メタルダーク",
+    "furigana": "めたるだーく",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/01/11/metal-dark/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルダーク.webp",
+    "monster_family": "スライムダーク族",
+    "search_keywords": ["メタル系","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "メタル系",
+    "other_families": [],
+    "release_date": "2024年10月24日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
+    "id": "4C01S0037",
+    "name": "メタルつむり",
+    "furigana": "めたるつむり",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/28/metal-shell-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルつむり.webp",
+    "monster_family": "スライムつむり族",
+    "search_keywords": ["メタル系","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "メタル系",
+    "other_families": [],
+    "release_date": "2021年11月8日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
     "id": "5B02D0023",
     "name": "カイザードラゴン",
     "furigana": "かいざーどらごん",
@@ -8634,7 +8676,7 @@
     "related_characters": []
   },
               {
-    "id": "4C01S0037",
+    "id": "3D01S0038",
     "name": "メタルブラザーズ",
     "furigana": "めたるぶらざーず",
     "english_name": "Metal medley",
