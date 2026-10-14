@@ -26,11 +26,10 @@
   "other_families": [],
   "release_date": "2023年12月1日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [
-    "1F02D0005"
+    "1F02D0005",
+    "2E01S0026"
   ],
   "zukan_no": "No.00014",
   "prev_id": "1F01S0012",
@@ -58,17 +57,19 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/12/04/korone-white/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": [
     {
       "id": "1F02D0005",
       "name": "はなまきドラゴ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/はなまきドラゴ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/09/19/hanamaki-dragon/"
+    },
+    {
+      "id": "2E01S0026",
+      "name": "チョコスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/チョコスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/chocolate-slime/"
     }
   ]
 }
