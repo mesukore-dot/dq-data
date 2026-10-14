@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "6A02D0010",
+    "name": "デビルドラグナー",
+    "furigana": "でびるどらぐなー",
+    "english_name": "-",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/デビルドラグナー.webp",
+    "monster_family": "ドラゴンライダー族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2015年7月16日",
+    "voice_actor": "-",
+    "related_items": [""],
+    "related_characters": []
+  },
+  {
     "id": "5B01S0031",
     "name": "メタルダーク",
     "furigana": "めたるだーく",
@@ -45,7 +66,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2026/01/11/metal-dark/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルダーク.webp",
     "monster_family": "スライムダーク族",
-    "search_keywords": ["メタル系","公式イラストあり"],
+    "search_keywords": ["メタル系","公式イラスト待機中"],
     "first_appearance": "WALK",
     "appearances": [
       "WALK"
@@ -66,7 +87,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2024/08/28/metal-shell-slime/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルつむり.webp",
     "monster_family": "スライムつむり族",
-    "search_keywords": ["メタル系","公式イラストあり"],
+    "search_keywords": ["メタル系","公式イラスト待機中"],
     "first_appearance": "WALK",
     "appearances": [
       "WALK"
@@ -248,7 +269,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2023/07/10/full-snaker/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フルスネイカー.webp",
     "monster_family": "とさかへび族",
-    "search_keywords": ["Sand viper","公式イラストあり"],
+    "search_keywords": ["Sand viper","公式イラスト待機中"],
     "first_appearance": "DQ4",
     "appearances": [
       "DQ4",
