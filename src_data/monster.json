@@ -1105,8 +1105,8 @@
     "other_families": "-",
     "release_date": "2004年11月27日",
     "voice_actor": "丸山壮史",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["2E01S0029"]
   },  
   {
     "id": "5B05B0001-1",
@@ -2369,8 +2369,8 @@
     "other_families": "-",
     "release_date": "1992年9月27日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["2E01S0029"]
   }, 
   {
     "id": "4C13Z0003",
@@ -4921,8 +4921,8 @@
     "other_families": [],
     "release_date": "2024年8月5日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["8SS13Z0001","5B13Z0002"]
   },
        {
     "id": "6A01S0019",

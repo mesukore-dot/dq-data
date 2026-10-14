@@ -113,12 +113,12 @@
       "link": "https://dqfan527.xsrv.jp/home/monster-ice/"
     },
     "美女系": {
-      "icon": "https://xsrv.jp",
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/美女系モンスター.png",
       "link": "https://dqfan527.xsrv.jp/home/monster-girl/"
     },
     "お正月": {
-      "icon": "https://xsrv.jp・干支.png",
-      "link": "https://xsrv.jp"
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/09/正月・干支.png",
+      "link": "https://dqfan527.xsrv.jp/home/monster-syogatu/"
     },
     "バレンタイン": {
       "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/09/バレンタイン.png",
@@ -129,16 +129,16 @@
       "link": "https://dqfan527.xsrv.jp/home/monster-valentine/"
     },
     "春": {
-      "icon": "https://xsrv.jp",
-      "link": "https://xsrv.jp"
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/09/春・.png",
+      "link": "https://dqfan527.xsrv.jp/home/monster-spring/"
     },
     "トロピカル": {
       "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/10/海外.png",
       "link": "https://dqfan527.xsrv.jp/home/monster-summer/"
     },
     "ハロウィン": {
-      "icon": "https://xsrv.jp",
-      "link": "https://xsrv.jp"
+      "icon": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/09/ハロウィン.png",
+      "link": "https://dqfan527.xsrv.jp/home/monster-halloween/"
     }
 },
 "weapon_type_icon": {
