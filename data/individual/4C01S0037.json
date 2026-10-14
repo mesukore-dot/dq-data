@@ -1,113 +1,111 @@
 {
   "id": "4C01S0037",
-  "name": "メタルブラザーズ",
-  "furigana": "めたるぶらざーず",
-  "english_name": "Metal medley",
-  "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
-  "monster_family": "スライムタワー族",
+  "name": "メタルつむり",
+  "furigana": "めたるつむり",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/28/metal-shell-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルつむり.webp",
+  "monster_family": "スライムつむり族",
   "search_keywords": [
-    "Metal medley",
     "メタル系",
     "公式イラストあり"
   ],
-  "first_appearance": "DQ9",
+  "first_appearance": "WALK",
   "appearances": [
-    "DQ7_RM",
-    "DQ9",
-    "DQ10",
-    "DQ10_OFF",
-    "DQMJ3",
-    "DQMJ3_P",
-    "DQBS",
-    "DQMSL",
-    "MSP",
-    "STAR",
-    "RIV",
-    "WALK",
-    "champ",
-    "DQSG"
+    "WALK"
   ],
   "main_family": "スライム系",
   "sub_family": "メタル系",
   "other_families": [],
-  "release_date": "2009年7月11日",
+  "release_date": "2021年11月8日",
   "voice_actor": "-",
-  "related_items": [],
+  "related_items": [
+    ""
+  ],
   "related_characters": [],
-  "zukan_no": "No.00251",
+  "zukan_no": "No.00252",
   "prev_id": "4C01S0036",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/02/20/golden-chocolate/",
   "next_id": "4C01S0038",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/09/23/generan/",
   "color_variants": [
     {
-      "id": "2E01S0006",
-      "name": "シグナリズム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/シグナリズム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/06/15/signalizm/"
+      "id": "1F01S0004",
+      "name": "スライムつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/20/slime-tumuri/"
     },
     {
-      "id": "2E01S0014",
-      "name": "ホワイトタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ダイヤモンド.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/23/white-tower/"
+      "id": "1F01S0004-1",
+      "name": "つむりんママ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つむりんママ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/18/shellies-mother/"
     },
     {
-      "id": "2E01S0028",
-      "name": "だんごスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/だんごスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/04/04/dango-slime/"
+      "id": "1F01S0014",
+      "name": "スイカつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/"
     },
     {
-      "id": "3D01S0007",
-      "name": "スライムタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムタワー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/24/slime-tower/"
+      "id": "2E01S0002",
+      "name": "マリンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マリンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/marine-slime/"
     },
     {
-      "id": "3D01S0007-1",
-      "name": "ももいろ三姉妹",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ももいろ三姉妹.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/momoirosanshimai/"
+      "id": "2E01S0009",
+      "name": "ダークネスマリン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークネスマリン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/dark-marine-slime/"
     },
     {
-      "id": "4C01S0007",
-      "name": "ゴールデントーテム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴールデントーテム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/golden-totem/"
+      "id": "2E01S0010",
+      "name": "クリームつむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/クリームつむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/cream-roll/"
     },
     {
-      "id": "4C01S0009",
-      "name": "チョコタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/チョコタワー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chocolate-tower/"
+      "id": "2E01S0012",
+      "name": "スライムアンノウン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-ブラッドルビー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/23/slime-unknown/"
     },
     {
-      "id": "4C01S0033",
-      "name": "プリズムタワー",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/プリズムタワー.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/05/17/prism-tower/"
+      "id": "2E01S0013",
+      "name": "マリンスライム・塔",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/10/マリンスライム・塔.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/23/marine-slime-tower/"
     },
     {
-      "id": "5B01S0010",
-      "name": "レインボートーテム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/レインボートーテム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/04/09/rainbow-totem/"
+      "id": "2E01S0016",
+      "name": "ショコラパーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ショコラパーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/chocolate-perm/"
     },
     {
-      "id": "5B01S0021",
-      "name": "スライムかがみもち",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムかがみもち.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/06/14/slime-kagamimoti/"
+      "id": "2E01S0022",
+      "name": "スライムカルゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/スライムカルゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/slime-escargot/"
     },
     {
-      "id": "CPM-MC01S0001",
-      "name": "バーガースライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バーガースライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/"
+      "id": "3D01S0009",
+      "name": "つららスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/つららスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/turara-slime/"
+    },
+    {
+      "id": "3D01S0009-1",
+      "name": "石炭つむり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/石炭つむり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sekitan-tumuri/"
     }
   ],
-  "related_items_details": [],
+  "related_items_details": [
+    {
+      "id": ""
+    }
+  ],
   "related_characters_details": []
 }
