@@ -24,10 +24,10 @@
   "other_families": "-",
   "release_date": "1992年9月27日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "2E01S0029"
   ],
-  "related_characters": [],
   "zukan_no": "No.00360",
   "prev_id": "5B13Z0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
@@ -41,10 +41,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/07/14/cross-bones/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "2E01S0029",
+      "name": "海賊スライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/海賊スライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
