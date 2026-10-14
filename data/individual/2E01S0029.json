@@ -18,15 +18,26 @@
   "other_families": [],
   "release_date": "2024年8月5日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "8SS13Z0001",
+    "5B13Z0002"
   ],
-  "related_characters": [],
   "zukan_no": "No.00102",
   "prev_id": "2E01S0028",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/04/dango-slime/",
   "next_id": "2E01S0030",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成26年）2024年8月5日、スマートフォン向けアプリ「ドラゴンクエストタクト」から登場。",
+      "works_count": "1作品\n (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "立派な海賊にあこがれるスライム。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0001",
@@ -233,10 +244,19 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "8SS13Z0001",
+      "name": "キャプテン・クロウ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キャプテン・クロウ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/12/captain-crow/"
+    },
+    {
+      "id": "5B13Z0002",
+      "name": "キャプテンクック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キャプテンクック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/14/poltarrrgeist/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
