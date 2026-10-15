@@ -1,0 +1,49 @@
+{
+  "id": "5B03B0005",
+  "name": "ヘルシーサー",
+  "furigana": "へるしーさー",
+  "english_name": "King foo dog",
+  "page_url": "https://dqfan527.xsrv.jp/2023/03/17/hel-seesaa/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルシーサー.webp",
+  "monster_family": "あばれこまいぬ族",
+  "search_keywords": [
+    "King foo dog",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ11",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年8月2日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00358",
+  "prev_id": "5B03B0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/01/08/blood-ox/",
+  "next_id": "5B05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "color_variants": [
+    {
+      "id": "2E03B0012",
+      "name": "あばれこまいぬ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あばれこまいぬ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/abarekomainu/"
+    },
+    {
+      "id": "3D03B0008",
+      "name": "サブナック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サブナック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/sub-nack/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
