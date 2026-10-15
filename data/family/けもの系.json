@@ -933,6 +933,40 @@
     "zukan_no": "No.00127"
   },
   {
+    "id": "2E03B0012",
+    "name": "あばれこまいぬ",
+    "furigana": "あばれこまいぬ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/abarekomainu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あばれこまいぬ.webp",
+    "search_keywords": [
+      "Foo dog",
+      "和風",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ10",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2_P",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00128"
+  },
+  {
     "id": "3D03B0001",
     "name": "リカント",
     "furigana": "りかんと",
@@ -968,7 +1002,7 @@
     "main_family": "けもの系",
     "sub_family": "魔獣系",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00195"
+    "zukan_no": "No.00196"
   },
   {
     "id": "3D03B0002",
@@ -993,7 +1027,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00196"
+    "zukan_no": "No.00197"
   },
   {
     "id": "3D03B0003",
@@ -1021,7 +1055,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00197"
+    "zukan_no": "No.00198"
   },
   {
     "id": "3D03B0004",
@@ -1079,7 +1113,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00198"
+    "zukan_no": "No.00199"
   },
   {
     "id": "3D03B0005",
@@ -1113,7 +1147,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00199"
+    "zukan_no": "No.00200"
   },
   {
     "id": "3D03B0005-1",
@@ -1138,7 +1172,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2013年7月25日",
-    "zukan_no": "No.00200"
+    "zukan_no": "No.00201"
   },
   {
     "id": "3D03B0006",
@@ -1166,7 +1200,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00201"
+    "zukan_no": "No.00202"
   },
   {
     "id": "3D03B0007",
@@ -1198,7 +1232,32 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00202"
+    "zukan_no": "No.00203"
+  },
+  {
+    "id": "3D03B0008",
+    "name": "サブナック",
+    "furigana": "さぶなっく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/sub-nack/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サブナック.webp",
+    "search_keywords": [
+      "Abracadabrador",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ10",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00204"
   },
   {
     "id": "4C03B0001",
@@ -1221,7 +1280,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00277"
+    "zukan_no": "No.00279"
   },
   {
     "id": "4C03B0002",
@@ -1244,7 +1303,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00278"
+    "zukan_no": "No.00280"
   },
   {
     "id": "4C03B0003",
@@ -1268,7 +1327,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00279"
+    "zukan_no": "No.00281"
   },
   {
     "id": "4C03B0004",
@@ -1302,7 +1361,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00280"
+    "zukan_no": "No.00282"
   },
   {
     "id": "4C03B0005",
@@ -1334,7 +1393,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00281"
+    "zukan_no": "No.00283"
   },
   {
     "id": "4C03B0006",
@@ -1368,7 +1427,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00282"
+    "zukan_no": "No.00284"
   },
   {
     "id": "4C03B0007",
@@ -1388,7 +1447,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00283"
+    "zukan_no": "No.00285"
   },
   {
     "id": "4C03B0008",
@@ -1426,7 +1485,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00284"
+    "zukan_no": "No.00286"
   },
   {
     "id": "4C03B0009",
@@ -1453,7 +1512,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00285"
+    "zukan_no": "No.00287"
   },
   {
     "id": "4C03B0010",
@@ -1476,7 +1535,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00286"
+    "zukan_no": "No.00288"
   },
   {
     "id": "5B03B0001",
@@ -1503,7 +1562,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00352"
+    "zukan_no": "No.00354"
   },
   {
     "id": "5B03B0002",
@@ -1535,7 +1594,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00353"
+    "zukan_no": "No.00355"
   },
   {
     "id": "5B03B0003",
@@ -1556,7 +1615,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00354"
+    "zukan_no": "No.00356"
   },
   {
     "id": "5B03B0004",
@@ -1576,7 +1635,30 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00355"
+    "zukan_no": "No.00357"
+  },
+  {
+    "id": "5B03B0005",
+    "name": "ヘルシーサー",
+    "furigana": "へるしーさー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/17/hel-seesaa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルシーサー.webp",
+    "search_keywords": [
+      "King foo dog",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ11",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00358"
   },
   {
     "id": "6A03B0001",
@@ -1599,7 +1681,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00395"
+    "zukan_no": "No.00398"
   },
   {
     "id": "6A03B0002",
@@ -1641,7 +1723,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00396"
+    "zukan_no": "No.00399"
   },
   {
     "id": "6A03B0003",
@@ -1663,7 +1745,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00397"
+    "zukan_no": "No.00400"
   },
   {
     "id": "6A03B0004",
@@ -1696,7 +1778,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00398"
+    "zukan_no": "No.00401"
   },
   {
     "id": "7S03B0001",
@@ -1728,7 +1810,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00432"
+    "zukan_no": "No.00435"
   },
   {
     "id": "7S03B0002",
@@ -1746,7 +1828,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00433"
+    "zukan_no": "No.00436"
   },
   {
     "id": "7S03B0003",
@@ -1783,7 +1865,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00434"
+    "zukan_no": "No.00437"
   },
   {
     "id": "7S03B0004",
@@ -1820,6 +1902,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00435"
+    "zukan_no": "No.00438"
   }
 ]

@@ -1,0 +1,51 @@
+{
+  "id": "3D03B0008",
+  "name": "サブナック",
+  "furigana": "さぶなっく",
+  "english_name": "Abracadabrador",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/sub-nack/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サブナック.webp",
+  "monster_family": "あばれこまいぬ族",
+  "search_keywords": [
+    "Abracadabrador",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00204",
+  "prev_id": "3D03B0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/ducks-bill/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "2E03B0012",
+      "name": "あばれこまいぬ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あばれこまいぬ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/abarekomainu/"
+    },
+    {
+      "id": "5B03B0005",
+      "name": "ヘルシーサー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルシーサー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/03/17/hel-seesaa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

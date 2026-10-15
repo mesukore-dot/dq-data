@@ -1,0 +1,60 @@
+{
+  "id": "2E03B0012",
+  "name": "あばれこまいぬ",
+  "furigana": "あばれこまいぬ",
+  "english_name": "Foo dog",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/abarekomainu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あばれこまいぬ.webp",
+  "monster_family": "あばれこまいぬ族",
+  "search_keywords": [
+    "Foo dog",
+    "和風",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ11",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ2_P",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00128",
+  "prev_id": "2E03B0011",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/ducks-bill/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "color_variants": [
+    {
+      "id": "3D03B0008",
+      "name": "サブナック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サブナック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/sub-nack/"
+    },
+    {
+      "id": "5B03B0005",
+      "name": "ヘルシーサー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルシーサー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/03/17/hel-seesaa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
