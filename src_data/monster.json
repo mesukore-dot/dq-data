@@ -38,6 +38,93 @@
     "related_characters": []
   },
   {
+    "id": "8SS03B0004",
+    "name": "マンモデウス",
+    "furigana": "まんもでうす",
+    "english_name": "Woolly elefort",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/18/manmodeus/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/マンモデウス.webp",
+    "monster_family": "マンモデウス族",
+    "search_keywords": ["Woolly elefort","ボス","氷・雪","公式イラストあり"],
+    "first_appearance": "DQM2_3DS",
+    "appearances": [
+      "DQM2_3DS","DQM2_SP",
+      "DQMSL"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "氷・雪",
+    "other_families": [],
+    "release_date": "2014年2月6日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS03B0003",
+    "name": "ヘルゴラゴ",
+    "furigana": "へるごらご",
+    "english_name": "Gorago",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/16/helgorago/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルゴラゴ.webp",
+    "monster_family": "ヘルゴラゴ族",
+    "search_keywords": ["Gorago","ボス","公式イラストあり"],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2","DQM2_3DS","DQM2_SP",
+      "DQMSL","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2001年3月9日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0011",
+    "name": "けもののきし",
+    "furigana": "けもののきし",
+    "english_name": "BeastNite",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/06/kemono-kishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/けもののきし.webp",
+    "monster_family": "けもののきし族",
+    "search_keywords": ["BeastNite","公式イラストあり"],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2","DQM2_3DS","DQM2_SP"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2001年3月9日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS03B0002",
+    "name": "魔戦士ヴェーラ",
+    "furigana": "ませんしゔぇーら",
+    "english_name": "Hellsguard Veera",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/25/masenshi-vera/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/魔戦士ヴェーラ.webp",
+    "monster_family": "魔戦士ヴェーラ族",
+    "search_keywords": ["Hellsguard Veera","ボス","美女系","公式イラストあり"],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ3_P",
+      "DQMSL","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "美女系",
+    "other_families": [],
+    "release_date": "2012年5月31日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "8SS03B0001",
     "name": "キングレオ",
     "furigana": "きんぐれお",
