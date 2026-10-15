@@ -1,0 +1,53 @@
+{
+  "id": "5B03B0006",
+  "name": "ビースト",
+  "furigana": "びーすと",
+  "english_name": "Wilder beast",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/13/beast/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ビースト.webp",
+  "monster_family": "オックスベア族",
+  "search_keywords": [
+    "Wilder beast",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "STAR"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00364",
+  "prev_id": "5B03B0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/03/17/hel-seesaa/",
+  "next_id": "5B05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "color_variants": [
+    {
+      "id": "3D03B0010",
+      "name": "オックスベア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オックスベア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/ox-bear/"
+    },
+    {
+      "id": "4C03B0013",
+      "name": "ハンババ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ハンババ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/hanbaba/"
+    },
+    {
+      "id": "6A03B0005",
+      "name": "バルザック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バルザックビースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/balzac-beast/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

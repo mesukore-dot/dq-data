@@ -1,0 +1,53 @@
+{
+  "id": "4C03B0013",
+  "name": "ハンババ",
+  "furigana": "はんばば",
+  "english_name": "Humbaba",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/13/hanbaba/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ハンババ.webp",
+  "monster_family": "オックスベア族",
+  "search_keywords": [
+    "Humbaba",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "STAR"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00293",
+  "prev_id": "4C03B0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/12/yorunoteiou/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "color_variants": [
+    {
+      "id": "3D03B0010",
+      "name": "オックスベア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オックスベア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/ox-bear/"
+    },
+    {
+      "id": "5B03B0006",
+      "name": "ビースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ビースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/beast/"
+    },
+    {
+      "id": "6A03B0005",
+      "name": "バルザック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バルザックビースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/balzac-beast/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
