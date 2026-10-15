@@ -1,0 +1,76 @@
+{
+  "id": "3D03B0007",
+  "name": "メイジももんじゃ",
+  "furigana": "めいじももんじゃ",
+  "english_name": "Crack-billed platypunk",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/ducks-bill/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイジももんじゃ.webp",
+  "monster_family": "ももんじゃ族",
+  "search_keywords": [
+    "Crack-billed platypunk",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ11",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "TACT",
+    "KSKS",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00202",
+  "prev_id": "3D03B0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/blue-fork/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "1F03B0002",
+      "name": "ももんじゃ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ももんじゃ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/12/momonja/"
+    },
+    {
+      "id": "1F03B0002-1",
+      "name": "もじゃらきラクーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/もじゃらきラクーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/12/mojaraki-rakoon/"
+    },
+    {
+      "id": "2E03B0011",
+      "name": "ダックスビル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダックスビル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/ducks-bill/"
+    },
+    {
+      "id": "4C03B0010",
+      "name": "セージももんじゃ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/セージももんじゃ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/31/seji-momonja/"
+    },
+    {
+      "id": "7S03B0002",
+      "name": "もじゃろ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/もじゃろ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/17/mojaro/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
