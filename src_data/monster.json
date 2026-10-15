@@ -38,6 +38,76 @@
     "related_characters": []
   },
   {
+    "id": "4C03B0012",
+    "name": "よるのていおう",
+    "furigana": "よるのていおう",
+    "english_name": "Night emperor",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/12/yorunoteiou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/よるのていおう.webp",
+    "monster_family": "よるのていおう族",
+    "search_keywords": ["Night emperor","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ8","DQ8_3D",
+      "DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
+      "DQMB",
+      "STAR","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0011",
+    "name": "ライノソルジャー",
+    "furigana": "らいのそるじゃー",
+    "english_name": "Rhinocerxe",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/12/raino-soldier/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ライノソルジャー.webp",
+    "monster_family": "サイおとこ族",
+    "search_keywords": ["Rhinocerxe","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3",
+      "DQMB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0009",
+    "name": "サイおとこ",
+    "furigana": "さいおとこ",
+    "english_name": "Rhinothrope",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/12/saiotoko/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サイおとこ.webp",
+    "monster_family": "サイおとこ族",
+    "search_keywords": ["Rhinothrope","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ10","DQ10_OFF",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B03B0005",
     "name": "ヘルシーサー",
     "furigana": "へるしーさー",
@@ -48,7 +118,7 @@
     "search_keywords": ["King foo dog","公式イラストあり"],
     "first_appearance": "DQ10",
     "appearances": [
-      "DQ10","DQ11",
+      "DQ10","DQ10_OFF","DQ11",
       "RIV","WALK","TACT"
     ],
     "main_family": "けもの系",
@@ -70,7 +140,7 @@
     "search_keywords": ["Hot dog","炎・マグマ","公式イラストあり"],
     "first_appearance": "DQ4",
     "appearances": [
-      "DQ4","DQ4_PS","DQ10","DQ11",
+      "DQ4","DQ4_PS","DQ10","DQ10_OFF","DQ11",
       "STAR","WALK","TACT"
     ],
     "main_family": "けもの系",
@@ -92,7 +162,7 @@
     "search_keywords": ["Abracadabrador","公式イラストあり"],
     "first_appearance": "DQ4",
     "appearances": [
-      "DQ4","DQ4_PS","DQ10",
+      "DQ4","DQ4_PS","DQ10","DQ10_OFF",
       "STAR","RIV","WALK","TACT"
     ],
     "main_family": "けもの系",
@@ -114,7 +184,7 @@
     "search_keywords": ["Foo dog","和風","公式イラストあり"],
     "first_appearance": "DQ4",
     "appearances": [
-      "DQ4","DQ4_PS","DQ10","DQ11",
+      "DQ4","DQ4_PS","DQ10","DQ10_OFF","DQ11",
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ2_P",
       "DQMSL","STAR","RIV","WALK","TACT"
     ],
