@@ -38,6 +38,95 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0005",
+    "name": "バルザック",
+    "furigana": "ばるざっく",
+    "english_name": "Balzack",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/balzac-beast/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バルザックビースト.webp",
+    "monster_family": "オックスベア族",
+    "search_keywords": ["Balzack","ばるざっくびーすと","バルザックビースト","ボス","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "DQM2_3DS","DQM2_SP",
+      "STAR","WALK","TACT","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0006",
+    "name": "ビースト",
+    "furigana": "びーすと",
+    "english_name": "Wilder beast",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/beast/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ビースト.webp",
+    "monster_family": "オックスベア族",
+    "search_keywords": ["Wilder beast","公式イラスト待機中"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "STAR"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0013",
+    "name": "ハンババ",
+    "furigana": "はんばば",
+    "english_name": "Humbaba",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/hanbaba/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ハンババ.webp",
+    "monster_family": "オックスベア族",
+    "search_keywords": ["Humbaba","公式イラスト待機中"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "STAR"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0010",
+    "name": "オックスベア",
+    "furigana": "おっくすべあ",
+    "english_name": "Wild beast",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/ox-bear/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オックスベア.webp",
+    "monster_family": "オックスベア族",
+    "search_keywords": ["Wild beast","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "STAR","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C03B0012",
     "name": "よるのていおう",
     "furigana": "よるのていおう",
