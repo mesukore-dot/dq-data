@@ -1290,6 +1290,28 @@
     "zukan_no": "No.00205"
   },
   {
+    "id": "3D03B0010",
+    "name": "オックスベア",
+    "furigana": "おっくすべあ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/ox-bear/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オックスベア.webp",
+    "search_keywords": [
+      "Wild beast",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00206"
+  },
+  {
     "id": "4C03B0001",
     "name": "バブーン",
     "furigana": "ばぶーん",
@@ -1310,7 +1332,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00280"
+    "zukan_no": "No.00281"
   },
   {
     "id": "4C03B0002",
@@ -1333,7 +1355,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00281"
+    "zukan_no": "No.00282"
   },
   {
     "id": "4C03B0003",
@@ -1357,7 +1379,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00282"
+    "zukan_no": "No.00283"
   },
   {
     "id": "4C03B0004",
@@ -1391,7 +1413,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00283"
+    "zukan_no": "No.00284"
   },
   {
     "id": "4C03B0005",
@@ -1423,7 +1445,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00284"
+    "zukan_no": "No.00285"
   },
   {
     "id": "4C03B0006",
@@ -1457,7 +1479,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00285"
+    "zukan_no": "No.00286"
   },
   {
     "id": "4C03B0007",
@@ -1477,7 +1499,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00286"
+    "zukan_no": "No.00287"
   },
   {
     "id": "4C03B0008",
@@ -1515,7 +1537,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00287"
+    "zukan_no": "No.00288"
   },
   {
     "id": "4C03B0009",
@@ -1542,7 +1564,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00288"
+    "zukan_no": "No.00289"
   },
   {
     "id": "4C03B0010",
@@ -1565,7 +1587,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00289"
+    "zukan_no": "No.00290"
   },
   {
     "id": "4C03B0011",
@@ -1599,7 +1621,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00290"
+    "zukan_no": "No.00291"
   },
   {
     "id": "4C03B0012",
@@ -1633,7 +1655,28 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00291"
+    "zukan_no": "No.00292"
+  },
+  {
+    "id": "4C03B0013",
+    "name": "ハンババ",
+    "furigana": "はんばば",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/hanbaba/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ハンババ.webp",
+    "search_keywords": [
+      "Humbaba",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "STAR"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00293"
   },
   {
     "id": "5B03B0001",
@@ -1660,7 +1703,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00357"
+    "zukan_no": "No.00359"
   },
   {
     "id": "5B03B0002",
@@ -1692,7 +1735,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00358"
+    "zukan_no": "No.00360"
   },
   {
     "id": "5B03B0003",
@@ -1713,7 +1756,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00359"
+    "zukan_no": "No.00361"
   },
   {
     "id": "5B03B0004",
@@ -1733,7 +1776,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00360"
+    "zukan_no": "No.00362"
   },
   {
     "id": "5B03B0005",
@@ -1757,7 +1800,28 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00361"
+    "zukan_no": "No.00363"
+  },
+  {
+    "id": "5B03B0006",
+    "name": "ビースト",
+    "furigana": "びーすと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/beast/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ビースト.webp",
+    "search_keywords": [
+      "Wilder beast",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "STAR"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00364"
   },
   {
     "id": "6A03B0001",
@@ -1780,7 +1844,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00401"
+    "zukan_no": "No.00404"
   },
   {
     "id": "6A03B0002",
@@ -1822,7 +1886,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00402"
+    "zukan_no": "No.00405"
   },
   {
     "id": "6A03B0003",
@@ -1844,7 +1908,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00403"
+    "zukan_no": "No.00406"
   },
   {
     "id": "6A03B0004",
@@ -1877,7 +1941,36 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00404"
+    "zukan_no": "No.00407"
+  },
+  {
+    "id": "6A03B0005",
+    "name": "バルザック",
+    "furigana": "ばるざっく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/balzac-beast/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バルザックビースト.webp",
+    "search_keywords": [
+      "Balzack",
+      "ばるざっくびーすと",
+      "バルザックビースト",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00408"
   },
   {
     "id": "7S03B0001",
@@ -1909,7 +2002,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00438"
+    "zukan_no": "No.00442"
   },
   {
     "id": "7S03B0002",
@@ -1927,7 +2020,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00439"
+    "zukan_no": "No.00443"
   },
   {
     "id": "7S03B0003",
@@ -1964,7 +2057,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00440"
+    "zukan_no": "No.00444"
   },
   {
     "id": "7S03B0004",
@@ -2001,6 +2094,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00441"
+    "zukan_no": "No.00445"
   }
 ]
