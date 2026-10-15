@@ -1679,6 +1679,43 @@
     "zukan_no": "No.00293"
   },
   {
+    "id": "4C03B0014",
+    "name": "アームライオン",
+    "furigana": "あーむらいおん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/20/arm-lion/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アームライオン.webp",
+    "search_keywords": [
+      "Hellion",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "DQH1",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00294"
+  },
+  {
     "id": "5B03B0001",
     "name": "ダークペルシャ",
     "furigana": "だーくぺるしゃ",
@@ -1703,7 +1740,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00359"
+    "zukan_no": "No.00360"
   },
   {
     "id": "5B03B0002",
@@ -1735,7 +1772,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00360"
+    "zukan_no": "No.00361"
   },
   {
     "id": "5B03B0003",
@@ -1756,7 +1793,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00361"
+    "zukan_no": "No.00362"
   },
   {
     "id": "5B03B0004",
@@ -1776,7 +1813,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00362"
+    "zukan_no": "No.00363"
   },
   {
     "id": "5B03B0005",
@@ -1800,7 +1837,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00363"
+    "zukan_no": "No.00364"
   },
   {
     "id": "5B03B0006",
@@ -1821,7 +1858,38 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00364"
+    "zukan_no": "No.00365"
+  },
+  {
+    "id": "5B03B0007",
+    "name": "やつざきアニマル",
+    "furigana": "やつざきあにまる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/yatuzaki-animal/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やつざきアニマル.webp",
+    "search_keywords": [
+      "Bullion",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3_P",
+      "DQH2",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00366"
   },
   {
     "id": "6A03B0001",
@@ -1844,7 +1912,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00404"
+    "zukan_no": "No.00406"
   },
   {
     "id": "6A03B0002",
@@ -1886,7 +1954,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00405"
+    "zukan_no": "No.00407"
   },
   {
     "id": "6A03B0003",
@@ -1908,7 +1976,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00406"
+    "zukan_no": "No.00408"
   },
   {
     "id": "6A03B0004",
@@ -1941,7 +2009,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00407"
+    "zukan_no": "No.00409"
   },
   {
     "id": "6A03B0005",
@@ -1970,7 +2038,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00408"
+    "zukan_no": "No.00410"
   },
   {
     "id": "7S03B0001",
@@ -2002,7 +2070,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00442"
+    "zukan_no": "No.00444"
   },
   {
     "id": "7S03B0002",
@@ -2020,7 +2088,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00443"
+    "zukan_no": "No.00445"
   },
   {
     "id": "7S03B0003",
@@ -2057,7 +2125,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00444"
+    "zukan_no": "No.00446"
   },
   {
     "id": "7S03B0004",
@@ -2094,6 +2162,52 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00445"
+    "zukan_no": "No.00447"
+  },
+  {
+    "id": "8SS03B0001",
+    "name": "キングレオ",
+    "furigana": "きんぐれお",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/13/king-reo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キングレオ.webp",
+    "search_keywords": [
+      "Marquis de Leon",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMCH",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00471"
   }
 ]

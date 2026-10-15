@@ -1,0 +1,57 @@
+{
+  "id": "5B03B0007",
+  "name": "やつざきアニマル",
+  "furigana": "やつざきあにまる",
+  "english_name": "Bullion",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/13/yatuzaki-animal/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やつざきアニマル.webp",
+  "monster_family": "アームライオン族",
+  "search_keywords": [
+    "Bullion",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3_P",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00366",
+  "prev_id": "5B03B0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/13/beast/",
+  "next_id": "5B05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "color_variants": [
+    {
+      "id": "4C03B0014",
+      "name": "アームライオン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アームライオン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/20/arm-lion/"
+    },
+    {
+      "id": "8SS03B0001",
+      "name": "キングレオ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キングレオ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/king-reo/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

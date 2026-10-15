@@ -1,0 +1,72 @@
+{
+  "id": "8SS03B0001",
+  "name": "キングレオ",
+  "furigana": "きんぐれお",
+  "english_name": "Marquis de Leon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/13/king-reo/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キングレオ.webp",
+  "monster_family": "アームライオン族",
+  "search_keywords": [
+    "Marquis de Leon",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH1",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00471",
+  "prev_id": "8SS02D0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/stalagosaur/",
+  "next_id": "8SS13Z0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/12/captain-crow/",
+  "color_variants": [
+    {
+      "id": "4C03B0014",
+      "name": "アームライオン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アームライオン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/20/arm-lion/"
+    },
+    {
+      "id": "5B03B0007",
+      "name": "やつざきアニマル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やつざきアニマル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/yatuzaki-animal/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
