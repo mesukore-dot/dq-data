@@ -1312,6 +1312,27 @@
     "zukan_no": "No.00206"
   },
   {
+    "id": "3D03B0011",
+    "name": "けもののきし",
+    "furigana": "けもののきし",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/06/kemono-kishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/けもののきし.webp",
+    "search_keywords": [
+      "BeastNite",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2001年3月9日",
+    "zukan_no": "No.00207"
+  },
+  {
     "id": "4C03B0001",
     "name": "バブーン",
     "furigana": "ばぶーん",
@@ -1332,7 +1353,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00281"
+    "zukan_no": "No.00282"
   },
   {
     "id": "4C03B0002",
@@ -1355,7 +1376,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00282"
+    "zukan_no": "No.00283"
   },
   {
     "id": "4C03B0003",
@@ -1379,7 +1400,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00283"
+    "zukan_no": "No.00284"
   },
   {
     "id": "4C03B0004",
@@ -1413,7 +1434,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00284"
+    "zukan_no": "No.00285"
   },
   {
     "id": "4C03B0005",
@@ -1445,7 +1466,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00285"
+    "zukan_no": "No.00286"
   },
   {
     "id": "4C03B0006",
@@ -1479,7 +1500,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00286"
+    "zukan_no": "No.00287"
   },
   {
     "id": "4C03B0007",
@@ -1499,7 +1520,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00287"
+    "zukan_no": "No.00288"
   },
   {
     "id": "4C03B0008",
@@ -1537,7 +1558,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00288"
+    "zukan_no": "No.00289"
   },
   {
     "id": "4C03B0009",
@@ -1564,7 +1585,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00289"
+    "zukan_no": "No.00290"
   },
   {
     "id": "4C03B0010",
@@ -1587,7 +1608,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00290"
+    "zukan_no": "No.00291"
   },
   {
     "id": "4C03B0011",
@@ -1621,7 +1642,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00291"
+    "zukan_no": "No.00292"
   },
   {
     "id": "4C03B0012",
@@ -1655,7 +1676,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00292"
+    "zukan_no": "No.00293"
   },
   {
     "id": "4C03B0013",
@@ -1676,7 +1697,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00293"
+    "zukan_no": "No.00294"
   },
   {
     "id": "4C03B0014",
@@ -1713,7 +1734,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00294"
+    "zukan_no": "No.00295"
   },
   {
     "id": "5B03B0001",
@@ -1740,7 +1761,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00360"
+    "zukan_no": "No.00361"
   },
   {
     "id": "5B03B0002",
@@ -1772,7 +1793,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00361"
+    "zukan_no": "No.00362"
   },
   {
     "id": "5B03B0003",
@@ -1793,7 +1814,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00362"
+    "zukan_no": "No.00363"
   },
   {
     "id": "5B03B0004",
@@ -1813,7 +1834,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00363"
+    "zukan_no": "No.00364"
   },
   {
     "id": "5B03B0005",
@@ -1837,7 +1858,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00364"
+    "zukan_no": "No.00365"
   },
   {
     "id": "5B03B0006",
@@ -1858,7 +1879,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00365"
+    "zukan_no": "No.00366"
   },
   {
     "id": "5B03B0007",
@@ -1889,7 +1910,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00366"
+    "zukan_no": "No.00367"
   },
   {
     "id": "6A03B0001",
@@ -1912,7 +1933,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00406"
+    "zukan_no": "No.00407"
   },
   {
     "id": "6A03B0002",
@@ -1954,7 +1975,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00407"
+    "zukan_no": "No.00408"
   },
   {
     "id": "6A03B0003",
@@ -1976,7 +1997,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00408"
+    "zukan_no": "No.00409"
   },
   {
     "id": "6A03B0004",
@@ -2009,7 +2030,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00409"
+    "zukan_no": "No.00410"
   },
   {
     "id": "6A03B0005",
@@ -2038,7 +2059,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00410"
+    "zukan_no": "No.00411"
   },
   {
     "id": "7S03B0001",
@@ -2070,7 +2091,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00444"
+    "zukan_no": "No.00445"
   },
   {
     "id": "7S03B0002",
@@ -2088,7 +2109,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00445"
+    "zukan_no": "No.00446"
   },
   {
     "id": "7S03B0003",
@@ -2125,7 +2146,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00446"
+    "zukan_no": "No.00447"
   },
   {
     "id": "7S03B0004",
@@ -2162,7 +2183,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00447"
+    "zukan_no": "No.00448"
   },
   {
     "id": "8SS03B0001",
@@ -2208,6 +2229,81 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00471"
+    "zukan_no": "No.00472"
+  },
+  {
+    "id": "8SS03B0002",
+    "name": "魔戦士ヴェーラ",
+    "furigana": "ませんしゔぇーら",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/25/masenshi-vera/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/魔戦士ヴェーラ.webp",
+    "search_keywords": [
+      "Hellsguard Veera",
+      "ボス",
+      "美女系",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM1_3DS",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ3_P",
+      "DQMSL",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "美女系",
+    "release_date": "2012年5月31日",
+    "zukan_no": "No.00473"
+  },
+  {
+    "id": "8SS03B0003",
+    "name": "ヘルゴラゴ",
+    "furigana": "へるごらご",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/16/helgorago/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルゴラゴ.webp",
+    "search_keywords": [
+      "Gorago",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2001年3月9日",
+    "zukan_no": "No.00474"
+  },
+  {
+    "id": "8SS03B0004",
+    "name": "マンモデウス",
+    "furigana": "まんもでうす",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/18/manmodeus/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/マンモデウス.webp",
+    "search_keywords": [
+      "Woolly elefort",
+      "ボス",
+      "氷・雪",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2_3DS",
+    "appearances": [
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "氷・雪",
+    "release_date": "2014年2月6日",
+    "zukan_no": "No.00475"
   }
 ]
