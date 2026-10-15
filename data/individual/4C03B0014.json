@@ -1,0 +1,63 @@
+{
+  "id": "4C03B0014",
+  "name": "アームライオン",
+  "furigana": "あーむらいおん",
+  "english_name": "Hellion",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/20/arm-lion/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アームライオン.webp",
+  "monster_family": "アームライオン族",
+  "search_keywords": [
+    "Hellion",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQH1",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00294",
+  "prev_id": "4C03B0013",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/13/hanbaba/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "color_variants": [
+    {
+      "id": "5B03B0007",
+      "name": "やつざきアニマル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/やつざきアニマル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/yatuzaki-animal/"
+    },
+    {
+      "id": "8SS03B0001",
+      "name": "キングレオ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キングレオ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/king-reo/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
