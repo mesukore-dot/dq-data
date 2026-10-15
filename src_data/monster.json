@@ -38,6 +38,95 @@
     "related_characters": []
   },
   {
+    "id": "5B03B0005",
+    "name": "ヘルシーサー",
+    "furigana": "へるしーさー",
+    "english_name": "King foo dog",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/17/hel-seesaa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルシーサー.webp",
+    "monster_family": "あばれこまいぬ族",
+    "search_keywords": ["King foo dog","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ11",
+      "RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0009",
+    "name": "フレイムドック",
+    "furigana": "ふれいむどっく",
+    "english_name": "Hot dog",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/flam-dog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フレイムドック.webp",
+    "monster_family": "あばれこまいぬ族",
+    "search_keywords": ["Hot dog","炎・マグマ","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ10","DQ11",
+      "STAR","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "炎・マグマ",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0008",
+    "name": "サブナック",
+    "furigana": "さぶなっく",
+    "english_name": "Abracadabrador",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/sub-nack/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サブナック.webp",
+    "monster_family": "あばれこまいぬ族",
+    "search_keywords": ["Abracadabrador","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ10",
+      "STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E03B0012",
+    "name": "あばれこまいぬ",
+    "furigana": "あばれこまいぬ",
+    "english_name": "Foo dog",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/11/abarekomainu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あばれこまいぬ.webp",
+    "monster_family": "あばれこまいぬ族",
+    "search_keywords": ["Foo dog","和風","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ10","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ2_P",
+      "DQMSL","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C03B0010",
     "name": "セージももんじゃ",
     "furigana": "せーじももんじゃ",
