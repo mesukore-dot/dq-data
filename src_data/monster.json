@@ -7049,8 +7049,13 @@
     "other_families": [],
     "release_date": "2011年3月31日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "quotes": [
+      "ふふっ。あなたたちも\nずいぶんのりもので旅したみたいね。",
+      "車の速度で　月までいくと\n半年かかるそうよ。",
+      "さあ　これからの　のりもので\nステキな旅を続けてね。"
+    ],
+    "related_items": [],
+    "related_characters": ["7S01S0010","7S01S0011","8SS01S0005","6A01S0009"]
   },
   {
     "id": "7S01S0011-1",
@@ -7090,7 +7095,7 @@
     "other_families": [],
     "release_date": "2010年4月28日",
     "voice_actor": "-",
-    "related_items": ["-"],
+    "related_items": [],
     "related_characters": []
   },
          {
