@@ -1,0 +1,43 @@
+{
+  "id": "5B07W0001",
+  "name": "フラホエール",
+  "furigana": "ふらほえーる",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/10/18/hula-whale/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フラホエール.webp",
+  "monster_family": "ホエールマージ族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "TACT",
+  "appearances": [
+    "TACT"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年9月9日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00378",
+  "prev_id": "5B05B0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/16/moonkimera/",
+  "next_id": "5B08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/10/04/hyouketu-kisi/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（令和8年）2026年9月9日、スマートフォン向けアプリ「ドラゴンクエストタクト」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "フラダンスを極めし　フラホエ団の団長。たとえ相手が見飽きても　情熱のダンスは止まらない！",
+      "ability": "伝統的なステップで　テンションを上げる。じゅもんがとくいで　水系モンスターらしくない　強烈なカミナリを落とす。",
+      "ecology": "日々　練習に明け暮れ　すべてをフラダンスに捧げてきた。見た目だけで評価されているものは　決して認めない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_items_details": [],
+  "related_characters_details": []
+}
