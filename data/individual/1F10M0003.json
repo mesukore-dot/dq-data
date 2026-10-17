@@ -46,7 +46,14 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D10M0002",
+      "name": "ようがんピロー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ようがんピロー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/18/bagma/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"
