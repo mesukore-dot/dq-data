@@ -1,0 +1,40 @@
+{
+  "id": "3D10M0002",
+  "name": "ようがんピロー",
+  "furigana": "ようがんぴろー",
+  "english_name": "Bagma",
+  "page_url": "https://dqfan527.xsrv.jp/2026/10/18/bagma/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ようがんピロー.webp",
+  "monster_family": "ドロザラー族",
+  "search_keywords": [
+    "Bagma",
+    "炎・マグマ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ9",
+  "appearances": [
+    "DQ9"
+  ],
+  "main_family": "物質系",
+  "sub_family": "炎・マグマ",
+  "other_families": [],
+  "release_date": "2009年7月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00226",
+  "prev_id": "3D10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/",
+  "next_id": "4C01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/22/haguremetaru/",
+  "color_variants": [
+    {
+      "id": "1F10M0003",
+      "name": "ドロザラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/09/ドロザラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/dorozara/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

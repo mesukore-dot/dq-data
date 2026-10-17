@@ -175,6 +175,26 @@
     "zukan_no": "No.00225"
   },
   {
+    "id": "3D10M0002",
+    "name": "ようがんピロー",
+    "furigana": "ようがんぴろー",
+    "page_url": "https://dqfan527.xsrv.jp/2026/10/18/bagma/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ようがんピロー.webp",
+    "search_keywords": [
+      "Bagma",
+      "炎・マグマ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9"
+    ],
+    "main_family": "物質系",
+    "sub_family": "炎・マグマ",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00226"
+  },
+  {
     "id": "4C10M0001",
     "name": "ストーンマン",
     "furigana": "すとーんまん",
@@ -227,7 +247,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00307"
+    "zukan_no": "No.00308"
   },
   {
     "id": "5B10M0001",
@@ -285,7 +305,7 @@
     "main_family": "物質系",
     "sub_family": "ゴールデン",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00378"
+    "zukan_no": "No.00379"
   },
   {
     "id": "5B10M0002",
@@ -315,7 +335,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00379"
+    "zukan_no": "No.00380"
   },
   {
     "id": "6A10M0001",
@@ -388,6 +408,6 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00422"
+    "zukan_no": "No.00423"
   }
 ]
