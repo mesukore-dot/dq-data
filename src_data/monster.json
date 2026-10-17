@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "5B07W0001",
+    "name": "フラホエール",
+    "furigana": "ふらほえーる",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/10/18/hula-whale/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フラホエール.webp",
+    "monster_family": "ホエールマージ族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2026年9月9日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "2E10M0001",
     "name": "ハニーイーター",
     "furigana": "はにーいーたー",
