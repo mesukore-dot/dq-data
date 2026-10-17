@@ -38,6 +38,55 @@
     "related_characters": []
   },
   {
+    "id": "4C03B0015",
+    "name": "キラーパンサー",
+    "furigana": "きらーぱんさー",
+    "english_name": "Great sabrecat",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/10/killer-panther/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーパンサー.webp",
+    "monster_family": "キラーパンサー族",
+    "search_keywords": ["Great sabrecat","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ10","DQ10_OFF","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FY1","DQH1","DQH2","DQB2","DQTR",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E03B0013",
+    "name": "ベビーパンサー",
+    "furigana": "べびーぱんさー",
+    "english_name": "Great sabrecub",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/10/baby-panther/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベビーパンサー.webp",
+    "monster_family": "ベビーパンサー族",
+    "search_keywords": ["Great sabrecub","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ7_3D","DQ7_RM","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQB1","DQB2",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D03B0012",
     "name": "ビックアイ",
     "furigana": "びっくあい",
