@@ -37,8 +37,8 @@
   "zukan_no": "No.00427",
   "prev_id": "7S01S0010",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/slider-hero/",
-  "next_id": "7S01S0012",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/28/slider-girl/",
+  "next_id": "7S01S0011-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
   "color_variants": [
     {
       "id": "5B01S0011",
@@ -56,6 +56,12 @@
       "id": "7S01S0004",
       "name": "ウォータスライダーク",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アクアマリン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
+    },
+    {
+      "id": "7S01S0011-1",
+      "name": "メタルスライダーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
       "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
     }
   ],
