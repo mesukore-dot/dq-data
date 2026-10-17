@@ -26,10 +26,16 @@
     "TACT"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": [
+    "-"
+  ],
   "other_families": [],
   "release_date": "2010年4月28日",
   "voice_actor": "-",
+  "quotes": [
+    "隙を見せるとは　甘いな\nスライダーヒーローよ。",
+    "ほう…？\nなかなか　骨のあるヤツらだ。"
+  ],
   "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00436",
