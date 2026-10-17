@@ -115,5 +115,23 @@
     "sub_family": "-",
     "release_date": "1990年2月11日",
     "zukan_no": "No.00304"
+  },
+  {
+    "id": "5B07W0001",
+    "name": "フラホエール",
+    "furigana": "ふらほえーる",
+    "page_url": "https://dqfan527.xsrv.jp/2026/10/18/hula-whale/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フラホエール.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2026年9月9日",
+    "zukan_no": "No.00378"
   }
 ]
