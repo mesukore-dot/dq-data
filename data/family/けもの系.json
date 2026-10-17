@@ -1414,6 +1414,40 @@
     "zukan_no": "No.00209"
   },
   {
+    "id": "3D03B0013",
+    "name": "かくとうパンサー",
+    "furigana": "かくとうぱんさー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/kakutou-pansa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/かくとうパンサー.webp",
+    "search_keywords": [
+      "Jumping jackal",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMB",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00210"
+  },
+  {
     "id": "4C03B0001",
     "name": "バブーン",
     "furigana": "ばぶーん",
@@ -1434,7 +1468,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00284"
+    "zukan_no": "No.00285"
   },
   {
     "id": "4C03B0002",
@@ -1457,7 +1491,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2014年2月27日",
-    "zukan_no": "No.00285"
+    "zukan_no": "No.00286"
   },
   {
     "id": "4C03B0003",
@@ -1481,7 +1515,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00286"
+    "zukan_no": "No.00287"
   },
   {
     "id": "4C03B0004",
@@ -1515,7 +1549,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00287"
+    "zukan_no": "No.00288"
   },
   {
     "id": "4C03B0005",
@@ -1547,7 +1581,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00288"
+    "zukan_no": "No.00289"
   },
   {
     "id": "4C03B0006",
@@ -1581,7 +1615,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00289"
+    "zukan_no": "No.00290"
   },
   {
     "id": "4C03B0007",
@@ -1601,7 +1635,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00290"
+    "zukan_no": "No.00291"
   },
   {
     "id": "4C03B0008",
@@ -1639,7 +1673,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00291"
+    "zukan_no": "No.00292"
   },
   {
     "id": "4C03B0009",
@@ -1666,7 +1700,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00292"
+    "zukan_no": "No.00293"
   },
   {
     "id": "4C03B0010",
@@ -1689,7 +1723,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00293"
+    "zukan_no": "No.00294"
   },
   {
     "id": "4C03B0011",
@@ -1723,7 +1757,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00294"
+    "zukan_no": "No.00295"
   },
   {
     "id": "4C03B0012",
@@ -1757,7 +1791,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00295"
+    "zukan_no": "No.00296"
   },
   {
     "id": "4C03B0013",
@@ -1778,7 +1812,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00296"
+    "zukan_no": "No.00297"
   },
   {
     "id": "4C03B0014",
@@ -1815,7 +1849,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00297"
+    "zukan_no": "No.00298"
   },
   {
     "id": "4C03B0015",
@@ -1873,7 +1907,26 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00298"
+    "zukan_no": "No.00299"
+  },
+  {
+    "id": "4C03B0016",
+    "name": "とこなつパンサー",
+    "furigana": "とこなつぱんさー",
+    "page_url": "https://dqfan527.xsrv.jp/2025/08/07/tokonatupansa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/とこなつパンサー.webp",
+    "search_keywords": [
+      "トロピカル・夏",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "トロピカル",
+    "release_date": "2025年8月7日",
+    "zukan_no": "No.00300"
   },
   {
     "id": "5B03B0001",
@@ -1900,7 +1953,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00364"
+    "zukan_no": "No.00366"
   },
   {
     "id": "5B03B0002",
@@ -1932,7 +1985,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00365"
+    "zukan_no": "No.00367"
   },
   {
     "id": "5B03B0003",
@@ -1953,7 +2006,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00366"
+    "zukan_no": "No.00368"
   },
   {
     "id": "5B03B0004",
@@ -1973,7 +2026,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00367"
+    "zukan_no": "No.00369"
   },
   {
     "id": "5B03B0005",
@@ -1997,7 +2050,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00368"
+    "zukan_no": "No.00370"
   },
   {
     "id": "5B03B0006",
@@ -2018,7 +2071,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00369"
+    "zukan_no": "No.00371"
   },
   {
     "id": "5B03B0007",
@@ -2049,7 +2102,30 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00370"
+    "zukan_no": "No.00372"
+  },
+  {
+    "id": "5B03B0008",
+    "name": "タイガークロー",
+    "furigana": "たいがーくろー",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/14/tiger-jackal/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/タイガークロー.webp",
+    "search_keywords": [
+      "Tiger jackal",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ11",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00373"
   },
   {
     "id": "6A03B0001",
@@ -2072,7 +2148,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00410"
+    "zukan_no": "No.00413"
   },
   {
     "id": "6A03B0002",
@@ -2114,7 +2190,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00411"
+    "zukan_no": "No.00414"
   },
   {
     "id": "6A03B0003",
@@ -2136,7 +2212,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00412"
+    "zukan_no": "No.00415"
   },
   {
     "id": "6A03B0004",
@@ -2169,7 +2245,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00413"
+    "zukan_no": "No.00416"
   },
   {
     "id": "6A03B0005",
@@ -2198,7 +2274,34 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00414"
+    "zukan_no": "No.00417"
+  },
+  {
+    "id": "6A03B0006",
+    "name": "マッスルアニマル",
+    "furigana": "まっするあにまる",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/03/jackal-ripper/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マッスルアニマル.webp",
+    "search_keywords": [
+      "Jackal ripper",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQMB",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00418"
   },
   {
     "id": "7S03B0001",
@@ -2230,7 +2333,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00449"
+    "zukan_no": "No.00453"
   },
   {
     "id": "7S03B0002",
@@ -2248,7 +2351,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00450"
+    "zukan_no": "No.00454"
   },
   {
     "id": "7S03B0003",
@@ -2285,7 +2388,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00451"
+    "zukan_no": "No.00455"
   },
   {
     "id": "7S03B0004",
@@ -2322,7 +2425,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00452"
+    "zukan_no": "No.00456"
   },
   {
     "id": "8SS03B0001",
@@ -2368,7 +2471,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00476"
+    "zukan_no": "No.00480"
   },
   {
     "id": "8SS03B0002",
@@ -2395,7 +2498,7 @@
     "main_family": "けもの系",
     "sub_family": "美女系",
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00477"
+    "zukan_no": "No.00481"
   },
   {
     "id": "8SS03B0003",
@@ -2420,7 +2523,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00478"
+    "zukan_no": "No.00482"
   },
   {
     "id": "8SS03B0004",
@@ -2443,7 +2546,7 @@
     "main_family": "けもの系",
     "sub_family": "氷・雪",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00479"
+    "zukan_no": "No.00483"
   },
   {
     "id": "9X03B0001",
@@ -2480,6 +2583,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00489"
+    "zukan_no": "No.00493"
   }
 ]
