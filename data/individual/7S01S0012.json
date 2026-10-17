@@ -27,20 +27,49 @@
   "other_families": [],
   "release_date": "2011年3月31日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "quotes": [
+    "ふふっ。あなたたちも\nずいぶんのりもので旅したみたいね。",
+    "車の速度で　月までいくと\n半年かかるそうよ。",
+    "さあ　これからの　のりもので\nステキな旅を続けてね。"
   ],
-  "related_characters": [],
+  "related_items": [],
+  "related_characters": [
+    "7S01S0010",
+    "7S01S0011",
+    "8SS01S0005",
+    "6A01S0009"
+  ],
   "zukan_no": "No.00438",
   "prev_id": "7S01S0011-1",
   "prev_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
   "next_id": "7S01S0013",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/06/17/slime-family/",
   "color_variants": [],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "7S01S0010",
+      "name": "スライダーヒーロー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライダーヒーロー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/slider-hero/"
+    },
+    {
+      "id": "7S01S0011",
+      "name": "死神スライダーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/死神スライダーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/shinigami-slidark/"
+    },
+    {
+      "id": "8SS01S0005",
+      "name": "スライダーキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/スライダーキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/06/23/slider-king/"
+    },
+    {
+      "id": "6A01S0009",
+      "name": "スライダーキッズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/スライダーキッズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/06/05/suraida-kids/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
