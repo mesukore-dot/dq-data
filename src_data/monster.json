@@ -38,6 +38,31 @@
     "related_characters": []
   },
   {
+    "id": "9X03B0001",
+    "name": "ブオーン",
+    "furigana": "ぶおーん",
+    "english_name": "Bjorn the Behemoose",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/12/bjorn-the-behemoose/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブオーン.webp",
+    "monster_family": "ブオーン族",
+    "search_keywords": ["Bjorn the Behemoose","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ10",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQH1",
+      "DQMB","DQBS",
+      "DQMSL","STAR","RIV","TACT","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C03B0015",
     "name": "キラーパンサー",
     "furigana": "きらーぱんさー",
