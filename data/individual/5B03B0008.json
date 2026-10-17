@@ -1,0 +1,55 @@
+{
+  "id": "5B03B0008",
+  "name": "タイガークロー",
+  "furigana": "たいがーくろー",
+  "english_name": "Tiger jackal",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/14/tiger-jackal/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/タイガークロー.webp",
+  "monster_family": "かくとうパンサー族",
+  "search_keywords": [
+    "Tiger jackal",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ11",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00373",
+  "prev_id": "5B03B0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/13/yatuzaki-animal/",
+  "next_id": "5B05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "color_variants": [
+    {
+      "id": "3D03B0013",
+      "name": "かくとうパンサー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/かくとうパンサー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/kakutou-pansa/"
+    },
+    {
+      "id": "4C03B0016",
+      "name": "とこなつパンサー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/とこなつパンサー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/07/tokonatupansa/"
+    },
+    {
+      "id": "6A03B0006",
+      "name": "マッスルアニマル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マッスルアニマル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/03/jackal-ripper/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

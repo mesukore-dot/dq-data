@@ -1,0 +1,66 @@
+{
+  "id": "3D03B0013",
+  "name": "かくとうパンサー",
+  "furigana": "かくとうぱんさー",
+  "english_name": "Jumping jackal",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/kakutou-pansa/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/かくとうパンサー.webp",
+  "monster_family": "かくとうパンサー族",
+  "search_keywords": [
+    "Jumping jackal",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ8",
+    "DQ8_3D",
+    "DQ11",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMB",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00210",
+  "prev_id": "3D03B0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/10/big-eye/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "4C03B0016",
+      "name": "とこなつパンサー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/とこなつパンサー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/07/tokonatupansa/"
+    },
+    {
+      "id": "5B03B0008",
+      "name": "タイガークロー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/タイガークロー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/14/tiger-jackal/"
+    },
+    {
+      "id": "6A03B0006",
+      "name": "マッスルアニマル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マッスルアニマル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/03/jackal-ripper/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
