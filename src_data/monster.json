@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "3D10M0002",
+    "name": "ようがんピロー",
+    "furigana": "ようがんぴろー",
+    "english_name": "Bagma",
+    "page_url": "https://dqfan527.xsrv.jp/2026/10/18/bagma/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ようがんピロー.webp",
+    "monster_family": "ドロザラー族",
+    "search_keywords": ["Bagma","炎・マグマ","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9"
+    ],
+    "main_family": "物質系",
+    "sub_family": "炎・マグマ",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A03B0006",
     "name": "マッスルアニマル",
     "furigana": "まっするあにまる",
