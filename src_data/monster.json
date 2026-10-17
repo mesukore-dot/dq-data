@@ -7045,13 +7045,14 @@
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3_P",
       "DQMSL","WALK","TACT"],
     "main_family": "スライム系",
-    "sub_family":[],
+    "sub_family":["-"],
     "other_families": [],
     "release_date": "2011年3月31日",
     "voice_actor": "-",
     "quotes": [
       "ふふっ。あなたたちも\nずいぶんのりもので旅したみたいね。",
       "車の速度で　月までいくと\n半年かかるそうよ。",
+      "私は　皆さんを安全な場所に\n避難させてくるわね！",
       "さあ　これからの　のりもので\nステキな旅を続けてね。"
     ],
     "related_items": [],
@@ -7091,10 +7092,14 @@
       "DQBS",
       "DQMSL","RIV","TACT"],
     "main_family": "スライム系",
-    "sub_family":[],
+    "sub_family":["-"],
     "other_families": [],
     "release_date": "2010年4月28日",
     "voice_actor": "-",
+    "quotes": [
+      "隙を見せるとは　甘いな\nスライダーヒーローよ。",
+      "ほう…？\nなかなか　骨のあるヤツらだ。"
+    ],
     "related_items": [],
     "related_characters": []
   },
@@ -7112,11 +7117,18 @@
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P","DQMJ3_P",
       "DQMSL","TACT"],
     "main_family": "スライム系",
-    "sub_family":[],
+    "sub_family":["-"],
     "other_families": [],
     "release_date": "2010年4月28日",
     "voice_actor": "-",
-    "related_items": ["-"],
+    "quotes": [
+      "むっ　きみたち！\nここは危ないから　早く　逃げるんだ！",
+      "こいつは　悪の組織の一味…。\n死神スライダークだ！",
+      "きみたち！\nすまないが　チカラを　貸してくれ！",
+      "俺は　スライダーヒーロー…。\n正義の味方だ…！",
+      "大丈夫か！？\nここは　俺に任せて　逃げてくれ！"
+    ],
+    "related_items": [],
     "related_characters": []
   },
        {
