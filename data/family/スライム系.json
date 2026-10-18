@@ -5080,7 +5080,9 @@
       "TACT"
     ],
     "main_family": "スライム系",
-    "sub_family": [],
+    "sub_family": [
+      "-"
+    ],
     "release_date": "2010年4月28日",
     "zukan_no": "No.00435"
   },
@@ -5110,7 +5112,9 @@
       "TACT"
     ],
     "main_family": "スライム系",
-    "sub_family": [],
+    "sub_family": [
+      "-"
+    ],
     "release_date": "2010年4月28日",
     "zukan_no": "No.00436"
   },
@@ -5155,7 +5159,9 @@
       "TACT"
     ],
     "main_family": "スライム系",
-    "sub_family": [],
+    "sub_family": [
+      "-"
+    ],
     "release_date": "2011年3月31日",
     "zukan_no": "No.00438"
   },

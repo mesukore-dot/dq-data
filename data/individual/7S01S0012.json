@@ -23,13 +23,16 @@
     "TACT"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": [
+    "-"
+  ],
   "other_families": [],
   "release_date": "2011年3月31日",
   "voice_actor": "-",
   "quotes": [
     "ふふっ。あなたたちも\nずいぶんのりもので旅したみたいね。",
     "車の速度で　月までいくと\n半年かかるそうよ。",
+    "私は　皆さんを安全な場所に\n避難させてくるわね！",
     "さあ　これからの　のりもので\nステキな旅を続けてね。"
   ],
   "related_items": [],
@@ -44,6 +47,17 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
   "next_id": "7S01S0013",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/06/17/slime-family/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成23年）2011年3月31日、NintendoDS用ソフト「ドラゴンクエストモンスターズジョーカー2プロフェッショナル」から登場。",
+      "works_count": "7作品(リメイク・アニメ・マンガ等は含めない数字)",
+      "what_kind": "自身よりも何倍もデカいバイクにまたがった　人型スライム。颯爽と高速で駆け抜けるすがたは　だれでも魅了してしまう。",
+      "form": "なんと言っても　お気に入りは　メタリックピンクのスライダーバイク。そして　大きな赤いリボンがトレードマーク。素顔は　だれも見たことがない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_items_details": [],
   "related_characters_details": [

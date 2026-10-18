@@ -22,13 +22,20 @@
     "TACT"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": [
+    "-"
+  ],
   "other_families": [],
   "release_date": "2010年4月28日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "quotes": [
+    "むっ　きみたち！\nここは危ないから　早く　逃げるんだ！",
+    "こいつは　悪の組織の一味…。\n死神スライダークだ！",
+    "きみたち！\nすまないが　チカラを　貸してくれ！",
+    "俺は　スライダーヒーロー…。\n正義の味方だ…！",
+    "大丈夫か！？\nここは　俺に任せて　逃げてくれ！"
   ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00435",
   "prev_id": "7S01S0009",
@@ -36,10 +43,6 @@
   "next_id": "7S01S0011",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/10/28/shinigami-slidark/",
   "color_variants": [],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }
