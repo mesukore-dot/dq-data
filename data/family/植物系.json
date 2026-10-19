@@ -238,6 +238,68 @@
     "zukan_no": "No.00045"
   },
   {
+    "id": "1F04P0007",
+    "name": "きりかぶおばけ",
+    "furigana": "きりかぶおばけ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/18/kirikabuobake/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きりかぶおばけ.webp",
+    "search_keywords": [
+      "Stump chump",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "MSP",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00046"
+  },
+  {
+    "id": "1F04P0008",
+    "name": "デビルパイン",
+    "furigana": "でびるぱいん",
+    "page_url": "https://dqfan527.xsrv.jp/2026/03/22/devil-pine/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/デビルパイン.webp",
+    "search_keywords": [
+      "Devipine",
+      "たべもの",
+      "トロピカル・夏",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM4"
+    ],
+    "main_family": "植物系",
+    "sub_family": "トロピカル",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00047"
+  },
+  {
     "id": "2E04P0001",
     "name": "マンイーター",
     "furigana": "まんいーたー",
@@ -259,7 +321,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00130"
+    "zukan_no": "No.00132"
   },
   {
     "id": "2E04P0002",
@@ -307,7 +369,39 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00131"
+    "zukan_no": "No.00133"
+  },
+  {
+    "id": "2E04P0003",
+    "name": "ひとくいそう",
+    "furigana": "ひとくいそう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/18/hitokuisou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひとくいそう.webp",
+    "search_keywords": [
+      "Carnivine",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMCH",
+      "DQMJ3",
+      "DQMJ3_P",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00134"
   },
   {
     "id": "3D04P0001",
@@ -358,7 +452,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00212"
+    "zukan_no": "No.00215"
   },
   {
     "id": "3D04P0001-1",
@@ -379,7 +473,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2015年8月27日",
-    "zukan_no": "No.00213"
+    "zukan_no": "No.00216"
   },
   {
     "id": "3D04P0002",
@@ -401,7 +495,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00214"
+    "zukan_no": "No.00217"
   },
   {
     "id": "3D04P0003",
@@ -442,7 +536,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00215"
+    "zukan_no": "No.00218"
   },
   {
     "id": "3D04P0004",
@@ -465,7 +559,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00216"
+    "zukan_no": "No.00219"
   },
   {
     "id": "3D04P0005",
@@ -488,7 +582,56 @@
     "main_family": "植物系",
     "sub_family": "トロピカル",
     "release_date": "2020年5月9日",
-    "zukan_no": "No.00217"
+    "zukan_no": "No.00220"
+  },
+  {
+    "id": "3D04P0006",
+    "name": "ダークドリアード",
+    "furigana": "だーくどりあーど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/18/dark-doria-do/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークドリアード.webp",
+    "search_keywords": [
+      "Stump grump",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ11",
+      "DQMJ3_P",
+      "MSP",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00221"
+  },
+  {
+    "id": "3D04P0007",
+    "name": "マンドレイク",
+    "furigana": "まんどれいく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/18/mandoreiku/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マンドレイク.webp",
+    "search_keywords": [
+      "Mandragore",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00222"
   },
   {
     "id": "4C04P0001",
@@ -525,6 +668,30 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00303"
+    "zukan_no": "No.00308"
+  },
+  {
+    "id": "4C04P0002",
+    "name": "デビルプラント",
+    "furigana": "でびるぷらんと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/18/devil-plant/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デビルプラント.webp",
+    "search_keywords": [
+      "Venus guytrap",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQMJ3",
+      "DQMJ3_P",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00309"
   }
 ]

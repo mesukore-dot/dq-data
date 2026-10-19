@@ -1,0 +1,44 @@
+{
+  "id": "3D04P0006",
+  "name": "ダークドリアード",
+  "furigana": "だーくどりあーど",
+  "english_name": "Stump grump",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/18/dark-doria-do/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークドリアード.webp",
+  "monster_family": "きりかぶおばけ族",
+  "search_keywords": [
+    "Stump grump",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ11",
+    "DQMJ3_P",
+    "MSP",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00221",
+  "prev_id": "3D04P0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/",
+  "next_id": "3D04P0007",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/18/mandoreiku/",
+  "color_variants": [
+    {
+      "id": "1F04P0007",
+      "name": "きりかぶおばけ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/きりかぶおばけ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/18/kirikabuobake/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
