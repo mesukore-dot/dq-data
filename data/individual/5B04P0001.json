@@ -1,0 +1,56 @@
+{
+  "id": "5B04P0001",
+  "name": "オベルジーヌ",
+  "furigana": "おべるじーぬ",
+  "english_name": "Übergine",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オベルジーヌ.webp",
+  "monster_family": "ナスビナーラ族",
+  "search_keywords": [
+    "Übergine",
+    "たべもの",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7_3D",
+  "appearances": [
+    "DQ7_3D",
+    "DQ10",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2013年2月7日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00394",
+  "prev_id": "5B03B0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/14/tiger-jackal/",
+  "next_id": "5B05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "color_variants": [
+    {
+      "id": "1F04P0003",
+      "name": "ナスビナーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ナスビナーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/20/nasubina-ra/"
+    },
+    {
+      "id": "2E04P0007",
+      "name": "メランザーナ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メランザーナ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/"
+    },
+    {
+      "id": "3D04P0010",
+      "name": "ブルベリーノ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブルベリーノ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/blueberryno/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

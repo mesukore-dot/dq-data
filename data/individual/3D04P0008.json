@@ -1,0 +1,59 @@
+{
+  "id": "3D04P0008",
+  "name": "ダンスニードル",
+  "furigana": "だんすにーどる",
+  "english_name": "Fandangow",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dance-needle/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダンスニードル.webp",
+  "monster_family": "サボテンボール族",
+  "search_keywords": [
+    "Fandangow",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ11",
+    "DQM3",
+    "DQM4",
+    "DQMJ3",
+    "DQMJ3_P",
+    "MSP",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00230",
+  "prev_id": "3D04P0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/18/mandoreiku/",
+  "next_id": "3D04P0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/07/10/screwball-pitcher/",
+  "color_variants": [
+    {
+      "id": "2E04P0005",
+      "name": "サボテンボール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サボテンボール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/26/saboten-ball/"
+    },
+    {
+      "id": "2E04P0005-1",
+      "name": "サボテンゴールド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サボテンゴールド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/14/saboten-gold/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

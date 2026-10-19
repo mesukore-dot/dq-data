@@ -1,0 +1,50 @@
+{
+  "id": "3D04P0009",
+  "name": "わらいぐさ",
+  "furigana": "わらいぐさ",
+  "english_name": "Screwball pitcher",
+  "page_url": "https://dqfan527.xsrv.jp/2024/07/10/screwball-pitcher/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/わらいぐさ.webp",
+  "monster_family": "マッドプラント族",
+  "search_keywords": [
+    "Screwball pitcher",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "MSP",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00231",
+  "prev_id": "3D04P0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/dance-needle/",
+  "next_id": "3D04P0010",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/blueberryno/",
+  "color_variants": [
+    {
+      "id": "2E04P0006",
+      "name": "マッドプラント",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マッドプラント.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/06/mental-pitcher/"
+    },
+    {
+      "id": "4C04P0003",
+      "name": "エビルプラント",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エビルプラント.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/10/screwball-pitcher/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

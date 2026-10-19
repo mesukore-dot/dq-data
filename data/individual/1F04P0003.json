@@ -66,7 +66,26 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "2E04P0007",
+      "name": "メランザーナ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メランザーナ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/"
+    },
+    {
+      "id": "3D04P0010",
+      "name": "ブルベリーノ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブルベリーノ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/blueberryno/"
+    },
+    {
+      "id": "5B04P0001",
+      "name": "オベルジーヌ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オベルジーヌ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"
