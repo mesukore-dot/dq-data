@@ -1,0 +1,51 @@
+{
+  "id": "3D04P0007",
+  "name": "マンドレイク",
+  "furigana": "まんどれいく",
+  "english_name": "Mandragore",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/18/mandoreiku/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マンドレイク.webp",
+  "monster_family": "ひとくいそう族",
+  "search_keywords": [
+    "Mandragore",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMB",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00222",
+  "prev_id": "3D04P0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/18/dark-doria-do/",
+  "next_id": "3D05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/",
+  "color_variants": [
+    {
+      "id": "2E04P0003",
+      "name": "ひとくいそう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ひとくいそう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/18/hitokuisou/"
+    },
+    {
+      "id": "4C04P0002",
+      "name": "デビルプラント",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デビルプラント.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/18/devil-plant/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
