@@ -1,0 +1,60 @@
+{
+  "id": "3D04P0010",
+  "name": "ブルベリーノ",
+  "furigana": "ぶるべりーの",
+  "english_name": "Foebergine",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/blueberryno/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブルベリーノ.webp",
+  "monster_family": "ナスビナーラ族",
+  "search_keywords": [
+    "Foebergine",
+    "たべもの",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQM4",
+    "DQBS",
+    "DQMSL",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年8月2日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00232",
+  "prev_id": "3D04P0009",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/10/screwball-pitcher/",
+  "next_id": "3D04P0011",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/28/fluffy-fur/",
+  "color_variants": [
+    {
+      "id": "1F04P0003",
+      "name": "ナスビナーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ナスビナーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/20/nasubina-ra/"
+    },
+    {
+      "id": "2E04P0007",
+      "name": "メランザーナ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メランザーナ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/"
+    },
+    {
+      "id": "5B04P0001",
+      "name": "オベルジーヌ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オベルジーヌ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

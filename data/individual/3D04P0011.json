@@ -1,0 +1,50 @@
+{
+  "id": "3D04P0011",
+  "name": "モコフル",
+  "furigana": "もこふる",
+  "english_name": "Fluffy fur",
+  "page_url": "https://dqfan527.xsrv.jp/2024/09/28/fluffy-fur/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モコフル.webp",
+  "monster_family": "おむつっこり族",
+  "search_keywords": [
+    "Fluffy fur",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年8月2日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00233",
+  "prev_id": "3D04P0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/blueberryno/",
+  "next_id": "3D05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/",
+  "color_variants": [
+    {
+      "id": "1F04P0001",
+      "name": "おむつっこり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おむつっこり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/09/28/bushy-baby/"
+    },
+    {
+      "id": "2E04P0008",
+      "name": "どんぐりベビー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/どんぐりベビー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/26/donguri-baby/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

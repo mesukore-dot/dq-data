@@ -404,6 +404,228 @@
     "zukan_no": "No.00134"
   },
   {
+    "id": "2E04P0004",
+    "name": "ガップリン",
+    "furigana": "がっぷりん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/20/bad-apple/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガップリン.webp",
+    "search_keywords": [
+      "Bad apple",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_3D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM4",
+      "KS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00135"
+  },
+  {
+    "id": "2E04P0005",
+    "name": "サボテンボール",
+    "furigana": "さぼてんぼーる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/26/saboten-ball/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サボテンボール.webp",
+    "search_keywords": [
+      "Cactiball",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "MRMR2",
+      "MRMR3",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00136"
+  },
+  {
+    "id": "2E04P0005-1",
+    "name": "サボテンゴールド",
+    "furigana": "さぼてんごーるど",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/14/saboten-gold/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サボテンゴールド.webp",
+    "search_keywords": [
+      "Golden globe",
+      "ゴールデン・黄金",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2_3DS",
+    "appearances": [
+      "DQ11",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ3",
+      "DQMJ3_P",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "植物系",
+    "sub_family": "ゴールデン",
+    "release_date": "2014年2月6日",
+    "zukan_no": "No.00137"
+  },
+  {
+    "id": "2E04P0006",
+    "name": "マッドプラント",
+    "furigana": "だんすにーどる",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/mental-pitcher/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マッドプラント.webp",
+    "search_keywords": [
+      "Mental pitcher",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMCH",
+      "DQMJ2",
+      "DQMJ2_P",
+      "MSP",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00138"
+  },
+  {
+    "id": "2E04P0007",
+    "name": "メランザーナ",
+    "furigana": "めらんざーな",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メランザーナ.webp",
+    "search_keywords": [
+      "Awebergine",
+      "たべもの",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00139"
+  },
+  {
+    "id": "2E04P0008",
+    "name": "どんぐりベビー",
+    "furigana": "どんぐりべびー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/26/donguri-baby/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/どんぐりベビー.webp",
+    "search_keywords": [
+      "Mitey Oak",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQBS",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00140"
+  },
+  {
+    "id": "2E4P0009",
+    "name": "たけのここぞう",
+    "furigana": "たけのここぞう",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/25/takenoko-kozou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/たけのここぞう.webp",
+    "search_keywords": [
+      "Bamboo badboy",
+      "たべもの",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM4",
+    "appearances": [
+      "DQM4"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "2026年12月3日",
+    "zukan_no": "No.00147"
+  },
+  {
     "id": "3D04P0001",
     "name": "じんめんじゅ",
     "furigana": "じんめんじゅ",
@@ -452,7 +674,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00215"
+    "zukan_no": "No.00222"
   },
   {
     "id": "3D04P0001-1",
@@ -473,7 +695,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2015年8月27日",
-    "zukan_no": "No.00216"
+    "zukan_no": "No.00223"
   },
   {
     "id": "3D04P0002",
@@ -495,7 +717,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00217"
+    "zukan_no": "No.00224"
   },
   {
     "id": "3D04P0003",
@@ -536,7 +758,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00218"
+    "zukan_no": "No.00225"
   },
   {
     "id": "3D04P0004",
@@ -559,7 +781,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00219"
+    "zukan_no": "No.00226"
   },
   {
     "id": "3D04P0005",
@@ -582,7 +804,7 @@
     "main_family": "植物系",
     "sub_family": "トロピカル",
     "release_date": "2020年5月9日",
-    "zukan_no": "No.00220"
+    "zukan_no": "No.00227"
   },
   {
     "id": "3D04P0006",
@@ -606,7 +828,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00221"
+    "zukan_no": "No.00228"
   },
   {
     "id": "3D04P0007",
@@ -631,7 +853,116 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00222"
+    "zukan_no": "No.00229"
+  },
+  {
+    "id": "3D04P0008",
+    "name": "ダンスニードル",
+    "furigana": "だんすにーどる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dance-needle/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダンスニードル.webp",
+    "search_keywords": [
+      "Fandangow",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ11",
+      "DQM3",
+      "DQM4",
+      "DQMJ3",
+      "DQMJ3_P",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00230"
+  },
+  {
+    "id": "3D04P0009",
+    "name": "わらいぐさ",
+    "furigana": "わらいぐさ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/10/screwball-pitcher/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/わらいぐさ.webp",
+    "search_keywords": [
+      "Screwball pitcher",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "MSP",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00231"
+  },
+  {
+    "id": "3D04P0010",
+    "name": "ブルベリーノ",
+    "furigana": "ぶるべりーの",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/blueberryno/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブルベリーノ.webp",
+    "search_keywords": [
+      "Foebergine",
+      "たべもの",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "DQM4",
+      "DQBS",
+      "DQMSL",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00232"
+  },
+  {
+    "id": "3D04P0011",
+    "name": "モコフル",
+    "furigana": "もこふる",
+    "page_url": "https://dqfan527.xsrv.jp/2024/09/28/fluffy-fur/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モコフル.webp",
+    "search_keywords": [
+      "Fluffy fur",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00233"
   },
   {
     "id": "4C04P0001",
@@ -668,7 +999,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00308"
+    "zukan_no": "No.00319"
   },
   {
     "id": "4C04P0002",
@@ -692,6 +1023,81 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00309"
+    "zukan_no": "No.00320"
+  },
+  {
+    "id": "4C04P0003",
+    "name": "エビルプラント",
+    "furigana": "えびるぷらんと",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/10/screwball-pitcher/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エビルプラント.webp",
+    "search_keywords": [
+      "Gourdzilla",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "MSP",
+      "STAR"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00321"
+  },
+  {
+    "id": "5B04P0001",
+    "name": "オベルジーヌ",
+    "furigana": "おべるじーぬ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オベルジーヌ.webp",
+    "search_keywords": [
+      "Übergine",
+      "たべもの",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7_3D",
+    "appearances": [
+      "DQ7_3D",
+      "DQ10",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "2013年2月7日",
+    "zukan_no": "No.00394"
+  },
+  {
+    "id": "6A04P0001",
+    "name": "ヘルバオム",
+    "furigana": "へるばおむ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/09/27/malign-vine/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルバオム.webp",
+    "search_keywords": [
+      "Malign vine",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00441"
   }
 ]

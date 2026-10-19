@@ -1,0 +1,63 @@
+{
+  "id": "2E04P0007",
+  "name": "メランザーナ",
+  "furigana": "めらんざーな",
+  "english_name": "Awebergine",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メランザーナ.webp",
+  "monster_family": "ナスビナーラ族",
+  "search_keywords": [
+    "Awebergine",
+    "たべもの",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00139",
+  "prev_id": "2E04P0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/06/mental-pitcher/",
+  "next_id": "2E04P0008",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/26/donguri-baby/",
+  "color_variants": [
+    {
+      "id": "1F04P0003",
+      "name": "ナスビナーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ナスビナーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/20/nasubina-ra/"
+    },
+    {
+      "id": "3D04P0010",
+      "name": "ブルベリーノ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブルベリーノ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/blueberryno/"
+    },
+    {
+      "id": "5B04P0001",
+      "name": "オベルジーヌ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オベルジーヌ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

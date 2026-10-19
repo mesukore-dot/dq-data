@@ -47,7 +47,20 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "2E04P0008",
+      "name": "どんぐりベビー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/どんぐりベビー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/26/donguri-baby/"
+    },
+    {
+      "id": "3D04P0011",
+      "name": "モコフル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モコフル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/09/28/fluffy-fur/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"
