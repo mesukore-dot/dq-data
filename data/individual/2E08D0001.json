@@ -1,0 +1,62 @@
+{
+  "id": "2E08D0001",
+  "name": "コンジャラー",
+  "furigana": "こんじゃらー",
+  "english_name": "Whizzard",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+  "monster_family": "カロン族",
+  "search_keywords": [
+    "Whizzard",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQM3",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00143",
+  "prev_id": "2E05B0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "next_id": "2E09M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/09/13/grublin/",
+  "color_variants": [
+    {
+      "id": "3D08D0002",
+      "name": "カメレオンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/chameleon-man/"
+    },
+    {
+      "id": "4C08D0003",
+      "name": "ピサロのてさき",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/"
+    },
+    {
+      "id": "5B08D0003",
+      "name": "カロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/karon/"
+    },
+    {
+      "id": "6A08D0002",
+      "name": "エヴォス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エヴォス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

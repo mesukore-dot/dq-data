@@ -3,7 +3,7 @@
   "name": "ピサロのてさき",
   "furigana": "ぴさろのてさき",
   "english_name": "Psaro's pawn",
-  "page_url": "https://dqfan527.xsrv.jp/2024/06/10/tyriant/",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
   "monster_family": "カロン族",
   "search_keywords": [
@@ -39,7 +39,7 @@
   ],
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00326",
+  "zukan_no": "No.00328",
   "prev_id": "4C08D0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/08/zombie-master/",
   "next_id": "4C09M0001",
@@ -62,7 +62,32 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "2E08D0001",
+      "name": "コンジャラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/"
+    },
+    {
+      "id": "3D08D0002",
+      "name": "カメレオンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/chameleon-man/"
+    },
+    {
+      "id": "5B08D0003",
+      "name": "カロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/karon/"
+    },
+    {
+      "id": "6A08D0002",
+      "name": "エヴォス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エヴォス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
