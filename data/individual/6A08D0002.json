@@ -1,0 +1,57 @@
+{
+  "id": "6A08D0002",
+  "name": "エヴォス",
+  "furigana": "えゔぉす",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エヴォス.webp",
+  "monster_family": "カロン族",
+  "search_keywords": [
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "KSKS",
+  "appearances": [
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年10月15日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00450",
+  "prev_id": "6A08D0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/15/shirobaranokishi/",
+  "next_id": "6A10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/go-remu/",
+  "color_variants": [
+    {
+      "id": "2E08D0001",
+      "name": "コンジャラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/"
+    },
+    {
+      "id": "3D08D0002",
+      "name": "カメレオンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/chameleon-man/"
+    },
+    {
+      "id": "4C08D0003",
+      "name": "ピサロのてさき",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/"
+    },
+    {
+      "id": "5B08D0003",
+      "name": "カロン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カロン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/karon/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

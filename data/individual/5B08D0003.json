@@ -1,0 +1,63 @@
+{
+  "id": "5B08D0003",
+  "name": "カロン",
+  "furigana": "かろん",
+  "english_name": "Hell raiser",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/20/karon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カロン.webp",
+  "monster_family": "カロン族",
+  "search_keywords": [
+    "Hell raiser",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQMB",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00404",
+  "prev_id": "5B08D0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/08/macrobeta/",
+  "next_id": "5B10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/",
+  "color_variants": [
+    {
+      "id": "2E08D0001",
+      "name": "コンジャラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/"
+    },
+    {
+      "id": "3D08D0002",
+      "name": "カメレオンマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/chameleon-man/"
+    },
+    {
+      "id": "4C08D0003",
+      "name": "ピサロのてさき",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/"
+    },
+    {
+      "id": "6A08D0002",
+      "name": "エヴォス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エヴォス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
