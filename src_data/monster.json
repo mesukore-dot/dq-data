@@ -4118,7 +4118,7 @@
     "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
     "FTR2","FTR3","FY1","MRMR2","MRMR3","KS","DQSW","DQB2",
     "DQMB","DQBS","XB",
-    "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","DQSG"
     ],
     "main_family": "けもの系",
     "sub_family": "-",
@@ -10046,7 +10046,7 @@
     "first_appearance": "DQ4",
     "appearances": ["DQ4","DQ4_PS","DQ7_3D","DQ9","DQ10","DQ10_OFF", "DQ11",
     "DQBS",
-    "MSP","STAR","RIV","WALK","TACT","KSKS","champ"],
+    "MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"],
     "main_family": "スライム系",
     "sub_family": "-",
     "other_families": [],
