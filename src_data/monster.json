@@ -38,11 +38,96 @@
     "related_characters": []
   },
   {
+    "id": "6A08D0002",
+    "name": "エヴォス",
+    "furigana": "えゔぉす",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エヴォス.webp",
+    "monster_family": "カロン族",
+    "search_keywords": ["ボス","公式イラストあり"],
+    "first_appearance": "KSKS",
+    "appearances": [
+      "TACT","KSKS"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2023年10月15日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B08D0003",
+    "name": "カロン",
+    "furigana": "かろん",
+    "english_name": "Hell raiser",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/20/karon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カロン.webp",
+    "monster_family": "カロン族",
+    "search_keywords": ["Hell raiser","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "DQMB",
+      "DQMSL","STAR","RIV","TACT","KSKS"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E08D0001",
+    "name": "コンジャラー",
+    "furigana": "こんじゃらー",
+    "english_name": "Whizzard",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+    "monster_family": "カロン族",
+    "search_keywords": ["Whizzard","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "DQM3",
+      "DQMSL","STAR","RIV","TACT"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D08D0002",
+    "name": "カメレオンマン",
+    "furigana": "かめれおんまん",
+    "english_name": "Master Kung",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/20/chameleon-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カメレオンマン.webp",
+    "monster_family": "カロン族",
+    "search_keywords": ["Master Kung","ボス","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "STAR"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C08D0003",
     "name": "ピサロのてさき",
     "furigana": "ぴさろのてさき",
     "english_name": "Psaro's pawn",
-    "page_url": "https://dqfan527.xsrv.jp/2024/06/10/tyriant/",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
     "monster_family": "カロン族",
     "search_keywords": ["Psaro's pawn","ボス","公式イラストあり"],
