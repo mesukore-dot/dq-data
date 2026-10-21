@@ -1,35 +1,5 @@
 {
   "id": "3D06B0001",
-  "dqsg_id": "E0053",
-  "dqsg_name": "さそりアーマー",
-  "dqsg_furigana": "さそりあーまー",
-  "dqsg_rarity": "ほこら",
-  "dqsg_color": "赤",
-  "dqsg_system": "虫系",
-  "dqsg_cost": 88,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/さそりアーマー-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/18/sasori-armor/",
-  "dqsg_panels": [
-    "武闘家1",
-    "武闘家2",
-    "武闘家3",
-    "武闘家4",
-    "レンジャー1"
-  ],
-  "dqsg_status": {
-    "dqsg_hp": 139,
-    "dqsg_attack": 121,
-    "dqsg_magic_attack": 58,
-    "dqsg_magic_heal": 51,
-    "dqsg_defense": 76,
-    "dqsg_magic_defense": 67,
-    "dqsg_dexterity": 77
-  },
-  "dqsg_effects": [
-    "最初からジバリアスパイクを所持",
-    "土属性の物理ダメージ +10%"
-  ],
   "name": "さそりアーマー",
   "furigana": "さそりあーまー",
   "english_name": "Armoured scorpion",
@@ -95,6 +65,36 @@
     "HPが半分以下になると、こうげき力が3段階上がる。"
   ],
   "dqsg_official_mamechishiki": "黄金に輝く鎧を身にまとった　サソリ型のまもの。\n両腕のハサミで相手を切り裂き　尻尾の針でトドメをさす。",
+  "dqsg_id": "E0053",
+  "dqsg_name": "さそりアーマー",
+  "dqsg_furigana": "さそりあーまー",
+  "dqsg_rarity": "ほこら",
+  "dqsg_color": "赤",
+  "dqsg_system": "虫系",
+  "dqsg_cost": 88,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/さそりアーマー-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/18/sasori-armor/",
+  "dqsg_panels": [
+    "武闘家1",
+    "武闘家2",
+    "武闘家3",
+    "武闘家4",
+    "レンジャー1"
+  ],
+  "dqsg_status": {
+    "dqsg_hp": 139,
+    "dqsg_attack": 121,
+    "dqsg_magic_attack": 58,
+    "dqsg_magic_heal": 51,
+    "dqsg_defense": 76,
+    "dqsg_magic_defense": 67,
+    "dqsg_dexterity": 77
+  },
+  "dqsg_effects": [
+    "最初からジバリアスパイクを所持",
+    "土属性の物理ダメージ +10%"
+  ],
   "zukan_no": "No.00236",
   "prev_id": "3D05B0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%83%a1%e3%82%a4%e3%82%b8%e3%82%ad%e3%83%a1%e3%83%a9/",
