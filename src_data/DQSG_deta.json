@@ -1,4 +1,21 @@
 [
+  {
+    "id": "4C08D0003",
+    "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ピサロのてさき.webp", 
+    "dqsg_release_date": "2026年10月21日",       
+    "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」", 
+    "dqsg_element_resistances": {  
+      "dqsg_super_weak": ["風"],
+      "dqsg_weak":       ["-"],
+      "dqsg_resist":     ["雷","土","光","闇"]
+    },
+    "dqsg_features": [             
+      "M字にギラ（炎属性の呪文）を放つ。",
+      "4方向の扇形範囲に時計回りに　炎属性のダメージを与える。",
+      "自身と　おおめだまの　与ダメージ・すばやさを3段階上げる。"
+    ],
+    "dqsg_official_mamechishiki": "魔族の王からの命を受け　まものたちを\n率先して　勇者を探す　邪悪な魔法使い。\n策をめぐらせ　子どもたちを　さらっていた。"
+  },
     {
       "id": "3D06B0001",
       "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-さそりアーマー.webp", 
