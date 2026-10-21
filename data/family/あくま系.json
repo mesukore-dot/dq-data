@@ -97,6 +97,51 @@
     "zukan_no": "No.00143"
   },
   {
+    "id": "2E08D0002",
+    "name": "おおめだま",
+    "furigana": "おおめだま",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおめだま.webp",
+    "search_keywords": [
+      "Winky",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ8",
+      "DQ8_3D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQSW",
+      "DQMB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00144"
+  },
+  {
     "id": "3D08D0001",
     "name": "シャーマン",
     "furigana": "しゃーまん",
@@ -129,7 +174,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00240"
+    "zukan_no": "No.00241"
   },
   {
     "id": "3D08D0002",
@@ -151,7 +196,46 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00241"
+    "zukan_no": "No.00242"
+  },
+  {
+    "id": "3D08D0003",
+    "name": "スペクテット",
+    "furigana": "すぺくてっと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/28/supektet/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スペクテット.webp",
+    "search_keywords": [
+      "Peeper",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ8",
+      "DQ8_3D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00243"
   },
   {
     "id": "4C08D0001",
@@ -184,7 +268,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00326"
+    "zukan_no": "No.00328"
   },
   {
     "id": "4C08D0002",
@@ -210,7 +294,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00327"
+    "zukan_no": "No.00329"
   },
   {
     "id": "4C08D0003",
@@ -243,7 +327,27 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00328"
+    "zukan_no": "No.00330"
+  },
+  {
+    "id": "4C08D0004",
+    "name": "デスペクテル",
+    "furigana": "ですぺくてる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/26/gander/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/11/デスペクテル.webp",
+    "search_keywords": [
+      "Gander",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQM3",
+      "TACT"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "2023年12月1日",
+    "zukan_no": "No.00331"
   },
   {
     "id": "5B08D0001",
@@ -262,7 +366,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2022年1月27日",
-    "zukan_no": "No.00402"
+    "zukan_no": "No.00405"
   },
   {
     "id": "5B08D0002",
@@ -288,7 +392,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00403"
+    "zukan_no": "No.00406"
   },
   {
     "id": "5B08D0003",
@@ -314,7 +418,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00404"
+    "zukan_no": "No.00407"
   },
   {
     "id": "6A08D0001",
@@ -355,7 +459,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00448"
+    "zukan_no": "No.00451"
   },
   {
     "id": "6A08D0001-1",
@@ -378,7 +482,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00449"
+    "zukan_no": "No.00452"
   },
   {
     "id": "6A08D0002",
@@ -398,7 +502,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2023年10月15日",
-    "zukan_no": "No.00450"
+    "zukan_no": "No.00453"
   },
   {
     "id": "7S08D0001",
@@ -444,6 +548,6 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00486"
+    "zukan_no": "No.00489"
   }
 ]

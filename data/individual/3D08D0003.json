@@ -1,0 +1,64 @@
+{
+  "id": "3D08D0003",
+  "name": "スペクテット",
+  "furigana": "すぺくてっと",
+  "english_name": "Peeper",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/28/supektet/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スペクテット.webp",
+  "monster_family": "おおめだま族",
+  "search_keywords": [
+    "Peeper",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ8",
+    "DQ8_3D",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00243",
+  "prev_id": "3D08D0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/20/chameleon-man/",
+  "next_id": "3D09M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/05/25/pious-dogra/",
+  "color_variants": [
+    {
+      "id": "2E08D0002",
+      "name": "おおめだま",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおめだま.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/"
+    },
+    {
+      "id": "4C08D0004",
+      "name": "デスペクテル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/11/デスペクテル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/26/gander/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

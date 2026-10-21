@@ -1,0 +1,45 @@
+{
+  "id": "4C08D0004",
+  "name": "デスペクテル",
+  "furigana": "ですぺくてる",
+  "english_name": "Gander",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/26/gander/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/11/デスペクテル.webp",
+  "monster_family": "おおめだま族",
+  "search_keywords": [
+    "Gander",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQM3",
+    "TACT"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年12月1日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00331",
+  "prev_id": "4C08D0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/",
+  "next_id": "4C09M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/16/daimadou-dq1/",
+  "color_variants": [
+    {
+      "id": "2E08D0002",
+      "name": "おおめだま",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおめだま.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/"
+    },
+    {
+      "id": "3D08D0003",
+      "name": "スペクテット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スペクテット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/28/supektet/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
