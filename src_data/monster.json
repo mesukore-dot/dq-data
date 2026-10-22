@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "1F08D0003",
+    "name": "つかいま",
+    "furigana": "つかいま",
+    "english_name": "Wimp",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/22/tukaima/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/つかいま.webp",
+    "monster_family": "ベビーサタン族",
+    "search_keywords": ["Wimp","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ10","DQ10_OFF",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","champ"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A08D0003",
     "name": "ギガンテス",
     "furigana": "ぎがんてす",
