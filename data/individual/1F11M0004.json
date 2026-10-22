@@ -27,7 +27,20 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/22/karakuri-egg/",
   "next_id": "1F12E0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/23/whip-ghost/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D11M0001",
+      "name": "メタルハンター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルハンター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/"
+    },
+    {
+      "id": "5B11M0001",
+      "name": "キラーマシン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/28/killer-machine/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
