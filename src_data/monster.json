@@ -38,6 +38,52 @@
     "related_characters": []
   },
   {
+    "id": "4C11M0001",
+    "name": "アイアンクック",
+    "furigana": "あいあんくっく",
+    "english_name": "Robo-robin",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/19/robo-robin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アイアンクック.webp",
+    "monster_family": "メタッピー族",
+    "search_keywords": ["Robo-robin","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ7_3D","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF","DQ11",
+      "DQMJ3","DQMJ3_P",
+      "FY1",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E11M0001",
+    "name": "ガチャコッコ",
+    "furigana": "がちゃこっこ",
+    "english_name": "Clockwork cuckoo",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガチャコッコ.webp",
+    "monster_family": "メタッピー族",
+    "search_keywords": ["Clockwork cuckoo","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ7_3D","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF","DQ11",
+      "DQM3","DQMJ3","DQMJ3_P",
+      "FY1",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "1F11M0001",
     "name": "メタッピー",
     "furigana": "めたっぴー",
