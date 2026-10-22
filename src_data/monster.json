@@ -89,7 +89,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/おおめだま.webp",
     "monster_family": "おおめだま族",
-    "search_keywords": ["Winky","公式イラストあり"],
+    "search_keywords": ["Winky","麻倉もも","公式イラストあり"],
     "first_appearance": "DQ4",
     "appearances": [
       "DQ4","DQ4_PS","DQ8","DQ8_3D",
@@ -102,6 +102,11 @@
     "sub_family": "-",
     "other_families": [],
     "release_date": "1990年2月11日",
+    "voice_actor": "麻倉もも",
+    "quotes": [
+      "ふんっ　ご苦労なことだな！\nやっと　ここを\nつきとめたということか……。",
+      "ふん！　なもない　おうきゅうの\nせんしなどに　ようはないわい！"
+    ],
     "related_items": [],
     "related_characters": []
   },
