@@ -47,6 +47,60 @@
     "zukan_no": "No.00072"
   },
   {
+    "id": "1F11M0002",
+    "name": "たけやりへい",
+    "furigana": "たけやりへい",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/21/takeyarihei/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/たけやりへい.webp",
+    "search_keywords": [
+      "Bambooligan",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ3",
+      "DQMJ3_P",
+      "STAR",
+      "RIV",
+      "DQSG"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00073"
+  },
+  {
+    "id": "1F11M0003",
+    "name": "からくりエッグ",
+    "furigana": "からくりえっぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/22/karakuri-egg/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/からくりエッグ.webp",
+    "search_keywords": [
+      "Eggsoskeleton",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM1_SP",
+      "DQM2_SP",
+      "DQM3",
+      "DQMSL",
+      "RIV"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00074"
+  },
+  {
     "id": "2E11M0001",
     "name": "ガチャコッコ",
     "furigana": "がちゃこっこ",
@@ -80,7 +134,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00151"
+    "zukan_no": "No.00153"
   },
   {
     "id": "4C11M0001",
@@ -114,6 +168,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00338"
+    "zukan_no": "No.00340"
   }
 ]
