@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "1F11M0004",
+    "name": "キラーマシンライト",
+    "furigana": "きらーましんらいと",
+    "english_name": "Killing machine light",
+    "page_url": "https://dqfan527.xsrv.jp/2025/04/12/killer-machine-light/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシンライト.webp",
+    "monster_family": "キラーマシン族",
+    "search_keywords": ["Killing machine light","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","RIV","TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2014年1月23日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "1F11M0003",
     "name": "からくりエッグ",
     "furigana": "からくりえっぐ",
