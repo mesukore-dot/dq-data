@@ -1,5 +1,23 @@
 [
   {
+    "id": "2E08D0002",
+    "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/スマグロ-おおめだま.webp", 
+    "dqsg_release_date": "2026年10月21日",       
+    "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」", 
+    "dqsg_element_resistances": {  
+      "dqsg_super_weak": ["-"],
+      "dqsg_weak":       ["風"],
+      "dqsg_resist":     ["-"]
+    },
+    "dqsg_features": [             
+      "HPがへったり　ダメージを受けると怒って覚醒する。",
+      "強敵ピサロのてさき戦では　残り時間1：15秒で　強制的に覚醒する。",
+      "怒り状態になると　通常攻撃が必ず　つうこんのいちげきになり　ちいさな岩が飛ぶようになる。よけるのが　むずかしいので　なるべく距離をとろう。",
+      "怒り状態になると　レーザービームを放つようになる。"
+    ],
+    "dqsg_official_mamechishiki": "大きな目玉に　手足が生えた　奇妙な姿のモンスター。\n怒らせると　身体が赤くなり　とても強くなるらしい。"
+  },
+  {
     "id": "4C08D0003",
     "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ピサロのてさき.webp", 
     "dqsg_release_date": "2026年10月21日",       
