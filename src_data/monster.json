@@ -38,6 +38,78 @@
     "related_characters": []
   },
   {
+    "id": "6A11M0001",
+    "name": "メカバーン",
+    "furigana": "めかばーん",
+    "english_name": "Mechan-o'-wyrm",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mekaba-n/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メカバーン.webp",
+    "monster_family": "メタルドラゴン族",
+    "search_keywords": ["Mechan-o'-wyrm","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ10","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FY1",
+      "DQBS",
+      "DQMSL","MSP","STAR","WALK","TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B11M0002",
+    "name": "メタルドラゴン",
+    "furigana": "めたるどらごん",
+    "english_name": "Metal dragon",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/metal-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルドラゴン.webp",
+    "monster_family": "メタルドラゴン族",
+    "search_keywords": ["Metal dragon","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ10","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FY1",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B11M0001-1",
+    "name": "タイプG",
+    "furigana": "たいぷじー",
+    "english_name": "Type G0",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/13/type-g/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/タイプG.webp",
+    "monster_family": "キラーマシン族",
+    "search_keywords": ["Type G0","転生モンスター","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF","DQ11",
+      "DQM2_3DS","DQM2_SP","DQMJ3","DQMJ3_P",
+      "DQH1","DQH2",
+      "DQBS",
+      "DQMSL","MSP","STAR","RIV"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年12月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B11M0001",
     "name": "キラーマシン",
     "furigana": "きらーましん",
