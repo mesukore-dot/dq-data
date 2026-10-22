@@ -38,6 +38,50 @@
     "related_characters": []
   },
   {
+    "id": "1F11M0003",
+    "name": "からくりエッグ",
+    "furigana": "からくりえっぐ",
+    "english_name": "Eggsoskeleton",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/22/karakuri-egg/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/からくりエッグ.webp",
+    "monster_family": "からくりエッグ族",
+    "search_keywords": ["Eggsoskeleton","公式イラストあり"],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM1_SP","DQM2_SP","DQM3",
+      "DQMSL","RIV"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2017年7月29日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F11M0002",
+    "name": "たけやりへい",
+    "furigana": "たけやりへい",
+    "english_name": "Bambooligan",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/21/takeyarihei/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/たけやりへい.webp",
+    "monster_family": "たけやりへい族",
+    "search_keywords": ["Bambooligan","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF","DQ11",
+      "DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ3","DQMJ3_P",
+      "STAR","RIV","DQSG"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C11M0001",
     "name": "アイアンクック",
     "furigana": "あいあんくっく",
