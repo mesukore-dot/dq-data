@@ -1,5 +1,28 @@
 {
   "id": "4C08D0003",
+  "dqsg_id": "E0056",
+  "dqsg_name": "ピサロのてさき",
+  "dqsg_furigana": "ぴさろのてさき",
+  "dqsg_rarity": "強敵",
+  "dqsg_color": "黄",
+  "dqsg_system": "ゾンビ系",
+  "dqsg_cost": 48,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ピサロのてさき-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 103,
+    "dqsg_attack": 50,
+    "dqsg_magic_attack": 20,
+    "dqsg_magic_heal": 14,
+    "dqsg_defense": 58,
+    "dqsg_magic_defense": 39,
+    "dqsg_dexterity": 24
+  },
+  "dqsg_effects": [
+    "剣装備時：風属性の物理ダメージ +10%"
+  ],
   "name": "ピサロのてさき",
   "furigana": "ぴさろのてさき",
   "english_name": "Psaro's pawn",
@@ -38,7 +61,9 @@
     "いのちしらずなやつめ！\nそんなに　しにたいのなら\nのぞみを　かなえてやろう！"
   ],
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "2E08D0002"
+  ],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ピサロのてさき.webp",
   "dqsg_release_date": "2026年10月21日",
   "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
@@ -63,29 +88,6 @@
     "自身と　おおめだまの　与ダメージ・すばやさを3段階上げる。"
   ],
   "dqsg_official_mamechishiki": "魔族の王からの命を受け　まものたちを\n率先して　勇者を探す　邪悪な魔法使い。\n策をめぐらせ　子どもたちを　さらっていた。",
-  "dqsg_id": "E0056",
-  "dqsg_name": "ピサロのてさき",
-  "dqsg_furigana": "ぴさろのてさき",
-  "dqsg_rarity": "強敵",
-  "dqsg_color": "黄",
-  "dqsg_system": "ゾンビ系",
-  "dqsg_cost": 48,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ピサロのてさき-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 103,
-    "dqsg_attack": 50,
-    "dqsg_magic_attack": 20,
-    "dqsg_magic_heal": 14,
-    "dqsg_defense": 58,
-    "dqsg_magic_defense": 39,
-    "dqsg_dexterity": 24
-  },
-  "dqsg_effects": [
-    "剣装備時：風属性の物理ダメージ +10%"
-  ],
   "zukan_no": "No.00330",
   "prev_id": "4C08D0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/08/zombie-master/",
@@ -136,5 +138,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "2E08D0002",
+      "name": "おおめだま",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/おおめだま.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/"
+    }
+  ]
 }
