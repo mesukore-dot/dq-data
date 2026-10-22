@@ -38,6 +38,54 @@
     "related_characters": []
   },
   {
+    "id": "6A11M0002",
+    "name": "キラーマシン2",
+    "furigana": "きらーましん2",
+    "english_name": "Overkilling machine",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/23/killer-machine2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシン2.webp",
+    "monster_family": "キラーマシン2族",
+    "search_keywords": ["Overkilling machine","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ2_HD2D","DQ6","DQ7_3D","DQ10","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQH1","DQH2",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS11M0004",
+    "name": "スーパーキラーマシン",
+    "furigana": "すーぱーきらーましん",
+    "english_name": "Trauminator",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/super-killer-machine/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スーパーキラーマシン.webp",
+    "monster_family": "スーパーキラーマシン族",
+    "search_keywords": ["Trauminator","ボス","公式イラストあり"],
+    "first_appearance": "DQMB",
+    "appearances": [
+      "DQ9","DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQH1","DQH2",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2008年1月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A11M0001",
     "name": "メカバーン",
     "furigana": "めかばーん",
