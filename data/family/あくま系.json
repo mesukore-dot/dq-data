@@ -72,6 +72,37 @@
     "zukan_no": "No.00060"
   },
   {
+    "id": "1F08D0003",
+    "name": "つかいま",
+    "furigana": "つかいま",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/22/tukaima/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/つかいま.webp",
+    "search_keywords": [
+      "Wimp",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00061"
+  },
+  {
     "id": "2E08D0001",
     "name": "コンジャラー",
     "furigana": "こんじゃらー",
@@ -94,7 +125,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00143"
+    "zukan_no": "No.00144"
   },
   {
     "id": "2E08D0002",
@@ -140,7 +171,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00144"
+    "zukan_no": "No.00145"
   },
   {
     "id": "3D08D0001",
@@ -175,7 +206,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00241"
+    "zukan_no": "No.00242"
   },
   {
     "id": "3D08D0002",
@@ -197,7 +228,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00242"
+    "zukan_no": "No.00243"
   },
   {
     "id": "3D08D0003",
@@ -236,7 +267,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00243"
+    "zukan_no": "No.00244"
   },
   {
     "id": "4C08D0001",
@@ -269,7 +300,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00328"
+    "zukan_no": "No.00329"
   },
   {
     "id": "4C08D0002",
@@ -295,7 +326,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00329"
+    "zukan_no": "No.00330"
   },
   {
     "id": "4C08D0003",
@@ -328,7 +359,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00330"
+    "zukan_no": "No.00331"
   },
   {
     "id": "4C08D0004",
@@ -348,7 +379,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00331"
+    "zukan_no": "No.00332"
   },
   {
     "id": "5B08D0001",
@@ -367,7 +398,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2022年1月27日",
-    "zukan_no": "No.00405"
+    "zukan_no": "No.00406"
   },
   {
     "id": "5B08D0002",
@@ -393,7 +424,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00406"
+    "zukan_no": "No.00407"
   },
   {
     "id": "5B08D0003",
@@ -419,7 +450,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00407"
+    "zukan_no": "No.00408"
   },
   {
     "id": "6A08D0001",
@@ -460,7 +491,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00451"
+    "zukan_no": "No.00452"
   },
   {
     "id": "6A08D0001-1",
@@ -483,7 +514,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00452"
+    "zukan_no": "No.00453"
   },
   {
     "id": "6A08D0002",
@@ -503,7 +534,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2023年10月15日",
-    "zukan_no": "No.00453"
+    "zukan_no": "No.00454"
   },
   {
     "id": "6A08D0003",
@@ -568,7 +599,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00454"
+    "zukan_no": "No.00455"
   },
   {
     "id": "7S08D0001",
@@ -614,6 +645,6 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00490"
+    "zukan_no": "No.00491"
   }
 ]

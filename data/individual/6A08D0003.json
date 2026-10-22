@@ -1,29 +1,5 @@
 {
   "id": "6A08D0003",
-  "dqsg_id": "E0051",
-  "dqsg_name": "ギガンテス",
-  "dqsg_furigana": "ぎがんてす",
-  "dqsg_rarity": "イベント",
-  "dqsg_color": "青",
-  "dqsg_system": "あくま系",
-  "dqsg_cost": 100,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ギガンテス-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/05/25/gigantesu/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 162,
-    "dqsg_attack": 106,
-    "dqsg_magic_attack": 79,
-    "dqsg_magic_heal": 75,
-    "dqsg_defense": 90,
-    "dqsg_magic_defense": 86,
-    "dqsg_dexterity": 88
-  },
-  "dqsg_effects": [
-    "最初からメラつぶてを所持",
-    "つぶて系のダメージ +5%"
-  ],
   "name": "ギガンテス",
   "furigana": "ぎがんてす",
   "english_name": "Gigantes",
@@ -107,13 +83,38 @@
     ]
   },
   "dqsg_features": [
+    "前方3箇所の円形範囲に　土属性の物理ダメージを与える。",
     "5箇所の円形範囲に　土属性の物理ダメージを与える。",
     "巨大な岩を1つ転がす。怒り状態だと　岩が2つになる。",
     "3回から5回　ゆっくり片足ずつ踏みならす。",
     "HPが半分以下になると　怒り状態になり　こうげき速度が上がる。"
   ],
   "dqsg_official_mamechishiki": "つぶされた旅人は数知れず。情けを持たぬ　悪魔の巨人。\n勇気試しで近づいた旅人を　愛用の棍棒で一掃する。",
-  "zukan_no": "No.00454",
+  "dqsg_id": "E0051",
+  "dqsg_name": "ギガンテス",
+  "dqsg_furigana": "ぎがんてす",
+  "dqsg_rarity": "イベント",
+  "dqsg_color": "青",
+  "dqsg_system": "あくま系",
+  "dqsg_cost": 100,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ギガンテス-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/05/25/gigantesu/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 162,
+    "dqsg_attack": 106,
+    "dqsg_magic_attack": 79,
+    "dqsg_magic_heal": 75,
+    "dqsg_defense": 90,
+    "dqsg_magic_defense": 86,
+    "dqsg_dexterity": 88
+  },
+  "dqsg_effects": [
+    "最初からメラつぶてを所持",
+    "つぶて系のダメージ +5%"
+  ],
+  "zukan_no": "No.00455",
   "prev_id": "6A08D0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/",
   "next_id": "6A10M0001",
@@ -125,7 +126,7 @@
       "what_kind": "遠くからでも目立つほどデカい　巨人族のまもの。興味本位で近づいたニンゲンたちを　ぺしゃんこにしてしまう　まもの界のそうじ屋。",
       "ability": "トクベツな技術はないが　こんぼうにこめた　チカラまかせのいっぱつで　大地がゆれ　地割れを引き起こす。",
       "ecology": "ほんとうは右利きなのだが　利き手でこんぼうを持つと折れてしまうので　左手で持つようにしている。木製から鉄製に変えたこともあったが　冬場はつめたいので　やっぱり木製にもどした。",
-      "trivia_notes": "ギガース（Gigas）ギリシャ神話に登場する巨人族。ギガンテスはギガースの複数形にあたる言葉で　英語のジャイアントや単位のギガの語源でもある。見た目はサイクロプスのように　ひとつ目の巨人ではなく　足がヘビになっている巨人族である。",
+      "trivia_notes": "ギガース（Gigas）ギリシャ神話に登場する巨人族。ギガンテスはギガースの複数形にあたる言葉で　英語のジャイアントや単位のギガの語源でもある。見た目はサイクロプスのように　ひとつ目の巨人ではなく　足がヘビになっている巨人である。",
       "links": {
         "variants_url": "#色違い"
       }
