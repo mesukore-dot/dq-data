@@ -1,0 +1,61 @@
+{
+  "id": "2E11M0001",
+  "name": "ガチャコッコ",
+  "furigana": "がちゃこっこ",
+  "english_name": "Clockwork cuckoo",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガチャコッコ.webp",
+  "monster_family": "メタッピー族",
+  "search_keywords": [
+    "Clockwork cuckoo",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ7_3D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "マシン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00151",
+  "prev_id": "2E10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/honey-eater/",
+  "next_id": "2E4P0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/25/takenoko-kozou/",
+  "color_variants": [
+    {
+      "id": "1F11M0001",
+      "name": "メタッピー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタッピー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/metapy/"
+    },
+    {
+      "id": "4C11M0001",
+      "name": "アイアンクック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アイアンクック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/19/robo-robin/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
