@@ -1,0 +1,64 @@
+{
+  "id": "5B11M0001-1",
+  "name": "タイプG",
+  "furigana": "たいぷじー",
+  "english_name": "Type G0",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/13/type-g/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/タイプG.webp",
+  "monster_family": "キラーマシン族",
+  "search_keywords": [
+    "Type G0",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH1",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "マシン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年12月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00419",
+  "prev_id": "5B11M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/28/killer-machine/",
+  "next_id": "5B11M0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/metal-dragon/",
+  "color_variants": [
+    {
+      "id": "1F11M0004",
+      "name": "キラーマシンライト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシンライト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/12/killer-machine-light/"
+    },
+    {
+      "id": "3D11M0001",
+      "name": "メタルハンター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルハンター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/"
+    },
+    {
+      "id": "5B11M0001",
+      "name": "キラーマシン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/28/killer-machine/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
