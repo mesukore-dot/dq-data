@@ -1,5 +1,28 @@
 {
   "id": "2E08D0002",
+  "dqsg_id": "E0055",
+  "dqsg_name": "おおめだま",
+  "dqsg_furigana": "おおめだま",
+  "dqsg_rarity": "イベスト",
+  "dqsg_color": "黄",
+  "dqsg_system": "あくま系",
+  "dqsg_cost": 64,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおめだま-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 85,
+    "dqsg_attack": 41,
+    "dqsg_magic_attack": 16,
+    "dqsg_magic_heal": 11,
+    "dqsg_defense": 47,
+    "dqsg_magic_defense": 32,
+    "dqsg_dexterity": 20
+  },
+  "dqsg_effects": [
+    "炎属性の呪文耐性 +2%"
+  ],
   "name": "おおめだま",
   "furigana": "おおめだま",
   "english_name": "Winky",
@@ -51,7 +74,9 @@
     "ふん！　なもない　おうきゅうの\nせんしなどに　ようはないわい！"
   ],
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "4C08D0003"
+  ],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/スマグロ-おおめだま.webp",
   "dqsg_release_date": "2026年10月21日",
   "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
@@ -68,34 +93,11 @@
   },
   "dqsg_features": [
     "HPがへったり　ダメージを受けると怒って覚醒する。",
-    "強敵ピサロのてさき戦では　残り時間1：15秒で　強制的に覚醒する。",
+    "強敵ピサロのてさき戦では　残り時間1：13秒で　強制的に覚醒する。",
     "怒り状態になると　通常攻撃が必ず　つうこんのいちげきになり　ちいさな岩が飛ぶようになる。よけるのが　むずかしいので　なるべく距離をとろう。",
     "怒り状態になると　レーザービームを放つようになる。"
   ],
   "dqsg_official_mamechishiki": "大きな目玉に　手足が生えた　奇妙な姿のモンスター。\n怒らせると　身体が赤くなり　とても強くなるらしい。",
-  "dqsg_id": "E0055",
-  "dqsg_name": "おおめだま",
-  "dqsg_furigana": "おおめだま",
-  "dqsg_rarity": "イベスト",
-  "dqsg_color": "黄",
-  "dqsg_system": "あくま系",
-  "dqsg_cost": 64,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおめだま-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 85,
-    "dqsg_attack": 41,
-    "dqsg_magic_attack": 16,
-    "dqsg_magic_heal": 11,
-    "dqsg_defense": 47,
-    "dqsg_magic_defense": 32,
-    "dqsg_dexterity": 20
-  },
-  "dqsg_effects": [
-    "炎属性の呪文耐性 +2%"
-  ],
   "zukan_no": "No.00144",
   "prev_id": "2E08D0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
@@ -133,5 +135,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "4C08D0003",
+      "name": "ピサロのてさき",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/"
+    }
+  ]
 }
