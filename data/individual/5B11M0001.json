@@ -83,8 +83,8 @@
   "zukan_no": "No.00418",
   "prev_id": "5B10M0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/",
-  "next_id": "5B13Z0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+  "next_id": "5B11M0001-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/13/type-g/",
   "color_variants": [
     {
       "id": "1F11M0004",
@@ -97,6 +97,12 @@
       "name": "メタルハンター",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルハンター.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/"
+    },
+    {
+      "id": "5B11M0001-1",
+      "name": "タイプG",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/タイプG.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/13/type-g/"
     }
   ],
   "related_items_details": [],
