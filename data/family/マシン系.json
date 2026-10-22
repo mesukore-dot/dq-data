@@ -101,6 +101,27 @@
     "zukan_no": "No.00074"
   },
   {
+    "id": "1F11M0004",
+    "name": "キラーマシンライト",
+    "furigana": "きらーましんらいと",
+    "page_url": "https://dqfan527.xsrv.jp/2025/04/12/killer-machine-light/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシンライト.webp",
+    "search_keywords": [
+      "Killing machine light",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2014年1月23日",
+    "zukan_no": "No.00075"
+  },
+  {
     "id": "2E11M0001",
     "name": "ガチャコッコ",
     "furigana": "がちゃこっこ",
@@ -134,7 +155,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00153"
+    "zukan_no": "No.00154"
   },
   {
     "id": "4C11M0001",
@@ -168,6 +189,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00340"
+    "zukan_no": "No.00341"
   }
 ]
