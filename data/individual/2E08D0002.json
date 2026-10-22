@@ -8,6 +8,7 @@
   "monster_family": "おおめだま族",
   "search_keywords": [
     "Winky",
+    "麻倉もも",
     "公式イラストあり"
   ],
   "first_appearance": "DQ4",
@@ -44,6 +45,11 @@
   "sub_family": "-",
   "other_families": [],
   "release_date": "1990年2月11日",
+  "voice_actor": "麻倉もも",
+  "quotes": [
+    "ふんっ　ご苦労なことだな！\nやっと　ここを\nつきとめたということか……。",
+    "ふん！　なもない　おうきゅうの\nせんしなどに　ようはないわい！"
+  ],
   "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00144",
@@ -51,6 +57,23 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
   "next_id": "2E09M0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/09/13/grublin/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成2年）1990年2月11日、ファミコン版「ドラゴンクエストIV 導かれし者たち（DQ4）」から登場。",
+      "works_count": "20作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "おおきなひとつ目を持つ　ふしぎなまもの。くらやみでも　明るく見えているらしい。",
+      "ability": "かわいい見た目だが　怒ると超やっかい。充血した目玉から強力なレーザービームを放ち　つうこんのいちげきを　れんぞくでくりだす。",
+      "ecology": "めだま以外は退化しており　アタマが大きいので　バランスを取るのがやっと。",
+      "connection": "ピサロのてさきと共に　ピサロの忠実なるしもべになることを誓った。",
+      "voice_actor": {
+        "name": "麻倉もも（あさくら　もも）\n※DQ4本編やライバルズではなく　｢ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅」にて　メダリカ（おおめだま）の声優を担当。",
+        "works": "\n｢マギアレコード 魔法少女まどか☆マギカ外伝｣環いろは 役"
+      },
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D08D0003",
