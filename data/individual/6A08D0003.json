@@ -1,0 +1,112 @@
+{
+  "id": "6A08D0003",
+  "name": "ギガンテス",
+  "furigana": "ぎがんてす",
+  "english_name": "Gigantes",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/25/gigantesu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ギガンテス.webp",
+  "monster_family": "ギガンテス族",
+  "search_keywords": [
+    "Gigantes",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQH1",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQTR",
+    "DQMB",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "DQSG"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ギガンテス.webp",
+  "dqsg_release_date": "2026年9月22日",
+  "dqsg_release_event": "期間限定イベント「遺跡に潜む巨大魔物の謎」",
+  "dqsg_element_resistances": {
+    "dqsg_super_weak": [
+      "土"
+    ],
+    "dqsg_weak": [
+      "闇"
+    ],
+    "dqsg_resist": [
+      "雷",
+      "氷",
+      "炎"
+    ]
+  },
+  "dqsg_features": [
+    "5箇所の円形範囲に　土属性の物理ダメージを与える。",
+    "巨大な岩を1つ転がす。怒り状態だと　岩が2つになる。",
+    "3回から5回　ゆっくり片足ずつ踏みならす。",
+    "HPが半分以下になると　怒り状態になり　こうげき速度が上がる。"
+  ],
+  "dqsg_official_mamechishiki": "つぶされた旅人は数知れず。情けを持たぬ　悪魔の巨人。\n勇気試しで近づいた旅人を　愛用の棍棒で一掃する。",
+  "zukan_no": "No.00454",
+  "prev_id": "6A08D0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/",
+  "next_id": "6A10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/go-remu/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和62年）1987年1月26日、ファミコン版「ドラゴンクエストII 悪霊の神々（DQ2）」から登場。",
+      "works_count": "34作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "遠くからでも目立つほどデカい　巨人族のまもの。興味本位で近づいたニンゲンたちを　ぺしゃんこにしてしまう　まもの界のそうじ屋。",
+      "ability": "トクベツな技術はないが　こんぼうにこめた　チカラまかせのいっぱつで　大地がゆれ　地割れを引き起こす。",
+      "ecology": "ほんとうは右利きなのだが　利き手でこんぼうを持つと折れてしまうので　左手で持つようにしている。木製から鉄製に変えたこともあったが　冬場はつめたいので　やっぱり木製にもどした。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
+  "color_variants": [],
+  "related_items_details": [],
+  "related_characters_details": []
+}
