@@ -38,6 +38,70 @@
     "related_characters": []
   },
   {
+    "id": "4C03B0019",
+    "name": "ベンガルクーン",
+    "furigana": "べんがるくーん",
+    "english_name": "Purrestidigitator",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/11/purrestidigitator/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベンガルクーン.webp",
+    "monster_family": "ねこまどう族",
+    "search_keywords": ["Purrestidigitator","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM","DQ9","DQ10","DQ10_OFF",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0014",
+    "name": "ジャガーメイジ",
+    "furigana": "じゃがーめいじ",
+    "english_name": "Clawcerer",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/11/clawcerer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ジャガーメイジ.webp",
+    "monster_family": "ねこまどう族",
+    "search_keywords": ["Clawcerer","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM","DQ9","DQ10","DQ10_OFF",
+      "DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0018",
+    "name": "ケンタラウス",
+    "furigana": "けんたらうす",
+    "english_name": "Revaulting horse",
+    "page_url": "https://dqfan527.xsrv.jp/2024/04/02/revaulting-horse/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ケンタラウス.webp",
+    "monster_family": "ケンタラウス族",
+    "search_keywords": ["Revaulting horse","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQMSL","STAR","RIV","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年3月25日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "7S03B0005",
     "name": "プオーン",
     "furigana": "ぷおーん",
