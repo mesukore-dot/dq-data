@@ -38,6 +38,51 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0007",
+    "name": "グレンデル",
+    "furigana": "ぐれんでる",
+    "english_name": "Thwarthog",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/11/thwarthog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレンデル.webp",
+    "monster_family": "ソルジャーブル族",
+    "search_keywords": ["Thwarthog","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ10",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP",
+      "DQMSL","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0009",
+    "name": "ソルジャーブル",
+    "furigana": "そるじゃーぶる",
+    "english_name": "Warhog",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/13/warhog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ソルジャーブル.webp",
+    "monster_family": "ソルジャーブル族",
+    "search_keywords": ["Warhog","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ10",
+      "DQM3","DQM4",
+      "DQMB",
+      "DQMSL","STAR","RIV","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A01S0004-1",
     "name": "テンカー",
     "furigana": "てんかー",
