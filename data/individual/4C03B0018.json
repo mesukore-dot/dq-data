@@ -1,0 +1,44 @@
+{
+  "id": "4C03B0018",
+  "name": "ケンタラウス",
+  "furigana": "けんたらうす",
+  "english_name": "Revaulting horse",
+  "page_url": "https://dqfan527.xsrv.jp/2024/04/02/revaulting-horse/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ケンタラウス.webp",
+  "monster_family": "ケンタラウス族",
+  "search_keywords": [
+    "Revaulting horse",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年3月25日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00334",
+  "prev_id": "4C03B0017",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/10/kemukemubes/",
+  "next_id": "4C03B0019",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/11/purrestidigitator/",
+  "color_variants": [
+    {
+      "id": "7S03B0003",
+      "name": "ジャミ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ジャミ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/06/kon-the-knight/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

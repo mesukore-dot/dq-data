@@ -1,0 +1,68 @@
+{
+  "id": "3D03B0014",
+  "name": "ジャガーメイジ",
+  "furigana": "じゃがーめいじ",
+  "english_name": "Clawcerer",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/11/clawcerer/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ジャガーメイジ.webp",
+  "monster_family": "ねこまどう族",
+  "search_keywords": [
+    "Clawcerer",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00231",
+  "prev_id": "3D03B0013",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/kakutou-pansa/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "1F03B0007",
+      "name": "ねこまどう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ねこまどう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%81%ad%e3%81%93%e3%81%be%e3%81%a9%e3%81%86/"
+    },
+    {
+      "id": "1F03B0007-1",
+      "name": "ミケまどう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ミケまどう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/20/caliconjurer/"
+    },
+    {
+      "id": "4C03B0019",
+      "name": "ベンガルクーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベンガルクーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/11/purrestidigitator/"
+    },
+    {
+      "id": "5B03B0001",
+      "name": "ダークペルシャ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークペルシャ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/16/dark-persia/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
