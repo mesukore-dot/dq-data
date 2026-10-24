@@ -443,6 +443,53 @@
     "zukan_no": "No.00467"
   },
   {
+    "id": "6A11M0002",
+    "name": "キラーマシン2",
+    "furigana": "きらーましん2",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/23/killer-machine2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシン2.webp",
+    "search_keywords": [
+      "Overkilling machine",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ6",
+      "DQ7_3D",
+      "DQ10",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00468"
+  },
+  {
     "id": "8SS11M0001",
     "name": "サージタウス",
     "furigana": "さーじたうす",
@@ -473,7 +520,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00530"
+    "zukan_no": "No.00531"
   },
   {
     "id": "8SS11M0002",
@@ -497,7 +544,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00531"
+    "zukan_no": "No.00532"
   },
   {
     "id": "8SS11M0003",
@@ -519,6 +566,45 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00532"
+    "zukan_no": "No.00533"
+  },
+  {
+    "id": "8SS11M0004",
+    "name": "スーパーキラーマシン",
+    "furigana": "すーぱーきらーましん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/super-killer-machine/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スーパーキラーマシン.webp",
+    "search_keywords": [
+      "Trauminator",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMB",
+    "appearances": [
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2008年1月11日",
+    "zukan_no": "No.00534"
   }
 ]
