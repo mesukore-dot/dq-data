@@ -1,0 +1,62 @@
+{
+  "id": "6A02D0011",
+  "name": "ノエルドラゴン",
+  "furigana": "のえるどらごん",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2023/12/14/noel-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ノエルドラゴン.webp",
+  "monster_family": "スカイドラゴン族",
+  "search_keywords": [
+    "クリスマス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "TACT",
+  "appearances": [
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "クリスマス",
+  "other_families": [],
+  "release_date": "2023年12月4日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00473",
+  "prev_id": "6A02D0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/10/15/devil-dragoner/",
+  "next_id": "6A03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/23/hibabango/",
+  "color_variants": [
+    {
+      "id": "3D02D0002",
+      "name": "スカイドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スカイドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/06/sky-dragon/"
+    },
+    {
+      "id": "4C02D0004",
+      "name": "スノードラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スノードラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/snow-dragon/"
+    },
+    {
+      "id": "6A02D0007",
+      "name": "サラマンダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サラマンダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/salamander/"
+    },
+    {
+      "id": "7S02D0006",
+      "name": "魔竜ネドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/魔竜ネドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/09/25/auroral-serpent/"
+    },
+    {
+      "id": "9X02D0001",
+      "name": "しんりゅう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/しんりゅう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/shinryu/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
