@@ -26,7 +26,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00420",
+  "zukan_no": "No.00421",
   "prev_id": "5B03B0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/01/08/blood-ox/",
   "next_id": "5B03B0006",
@@ -43,6 +43,12 @@
       "name": "サブナック",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サブナック.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/11/sub-nack/"
+    },
+    {
+      "id": "4C03B0023",
+      "name": "フレイムドック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フレイムドック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/flam-dog/"
     }
   ],
   "related_items_details": [],
