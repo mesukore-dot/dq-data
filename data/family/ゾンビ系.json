@@ -135,6 +135,55 @@
     "zukan_no": "No.00079"
   },
   {
+    "id": "1F13Z0003",
+    "name": "こうもりおとこ",
+    "furigana": "こうもりおとこ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/koumoriotoko/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/こうもりおとこ.webp",
+    "search_keywords": [
+      "Vladdy",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQMSL"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00080"
+  },
+  {
+    "id": "3D13Z0001",
+    "name": "バンパイア",
+    "furigana": "ばんぱいあ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/vampire/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バンパイア.webp",
+    "search_keywords": [
+      "Drac the Vlad",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00261"
+  },
+  {
     "id": "4C13Z0001",
     "name": "タタリ御前",
     "furigana": "たたりごぜん",
@@ -154,7 +203,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00353"
+    "zukan_no": "No.00355"
   },
   {
     "id": "4C13Z0002",
@@ -176,7 +225,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00354"
+    "zukan_no": "No.00356"
   },
   {
     "id": "4C13Z0003",
@@ -208,7 +257,29 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00355"
+    "zukan_no": "No.00357"
+  },
+  {
+    "id": "4C13Z0004",
+    "name": "バーナバス",
+    "furigana": "ばーなばす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/bernabath/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バーナバス.webp",
+    "search_keywords": [
+      "Vladiator",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00358"
   },
   {
     "id": "5B13Z0001",
@@ -237,7 +308,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00434"
+    "zukan_no": "No.00437"
   },
   {
     "id": "5B13Z0002",
@@ -261,7 +332,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00435"
+    "zukan_no": "No.00438"
   },
   {
     "id": "8SS13Z0001",
@@ -297,7 +368,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00553"
+    "zukan_no": "No.00556"
   },
   {
     "id": "8SS13Z0002",
@@ -326,6 +397,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00554"
+    "zukan_no": "No.00557"
   }
 ]
