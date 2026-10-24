@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "6A02D0011",
+    "name": "ノエルドラゴン",
+    "furigana": "のえるどらごん",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/14/noel-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ノエルドラゴン.webp",
+    "monster_family": "スカイドラゴン族",
+    "search_keywords": ["クリスマス","公式イラストあり"],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "クリスマス",
+    "other_families": [],
+    "release_date": "2023年12月4日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "8SS02D0007",
     "name": "ローレット",
     "furigana": "ろーれっと",
