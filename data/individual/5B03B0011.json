@@ -1,0 +1,64 @@
+{
+  "id": "5B03B0011",
+  "name": "ウイングタイガー",
+  "furigana": "ういんぐたいがー",
+  "english_name": "Missing lynx",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/wing-tiger/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ウイングタイガー.webp",
+  "monster_family": "ゲリュオン族",
+  "search_keywords": [
+    "Missing lynx",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ4_PS",
+    "DQ7",
+    "DQ7_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00420",
+  "prev_id": "5B03B0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/unicorn/",
+  "next_id": "5B04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+  "color_variants": [
+    {
+      "id": "4C03B0021",
+      "name": "ダークパンサー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークパンサー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dark-panther/"
+    },
+    {
+      "id": "6A03B0008",
+      "name": "ゲリュオン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゲリュオン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/02/geryuon/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

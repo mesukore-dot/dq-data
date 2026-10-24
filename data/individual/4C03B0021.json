@@ -1,0 +1,53 @@
+{
+  "id": "4C03B0021",
+  "name": "ダークパンサー",
+  "furigana": "だーくぱんさー",
+  "english_name": "Winged sabrecat",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dark-panther/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークパンサー.webp",
+  "monster_family": "ゲリュオン族",
+  "search_keywords": [
+    "Winged sabrecat",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "TACT",
+    "champ"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00339",
+  "prev_id": "4C03B0020",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/18/grizzly/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "color_variants": [
+    {
+      "id": "5B03B0011",
+      "name": "ウイングタイガー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ウイングタイガー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/wing-tiger/"
+    },
+    {
+      "id": "6A03B0008",
+      "name": "ゲリュオン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゲリュオン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/02/geryuon/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

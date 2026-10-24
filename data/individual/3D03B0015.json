@@ -1,0 +1,54 @@
+{
+  "id": "3D03B0015",
+  "name": "ごうけつぐま",
+  "furigana": "ごうけつぐま",
+  "english_name": "Ursa minor",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/05/gouketuguma/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ごうけつぐま.webp",
+  "monster_family": "ごうけつぐま族",
+  "search_keywords": [
+    "Ursa minor",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ7_3D",
+    "DQ10",
+    "DQ11",
+    "DQMSL",
+    "MSP",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00232",
+  "prev_id": "3D03B0014",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/11/clawcerer/",
+  "next_id": "3D03B0015-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/28/rough-panda/",
+  "color_variants": [
+    {
+      "id": "3D03B0015-1",
+      "name": "あらくれパンダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あらくれパンダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/28/rough-panda/"
+    },
+    {
+      "id": "4C03B0020",
+      "name": "グリズリー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グリズリー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/18/grizzly/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
