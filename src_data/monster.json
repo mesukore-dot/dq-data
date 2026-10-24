@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "5B03B0010",
+    "name": "ユニコーン",
+    "furigana": "ゆにこーん",
+    "english_name": "Ewwnicorn",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/unicorn/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ユニコーン.webp",
+    "monster_family": "ユニコーン族",
+    "search_keywords": ["Ewwnicorn","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ3","DQMJ3_P",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "2E03B0014",
     "name": "モコモコじゅう",
     "furigana": "もこもこじゅう",
