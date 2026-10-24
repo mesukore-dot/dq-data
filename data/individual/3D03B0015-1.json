@@ -1,0 +1,49 @@
+{
+  "id": "3D03B0015-1",
+  "name": "あらくれパンダ",
+  "furigana": "あらくれぱんだ",
+  "english_name": "Ursa panda",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/28/rough-panda/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あらくれパンダ.webp",
+  "monster_family": "ごうけつぐま族",
+  "search_keywords": [
+    "Ursa panda",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ10",
+    "DQ11",
+    "DQM2_SP",
+    "DQMSL",
+    "WALK"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00233",
+  "prev_id": "3D03B0015",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/gouketuguma/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "3D03B0015",
+      "name": "ごうけつぐま",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ごうけつぐま.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/gouketuguma/"
+    },
+    {
+      "id": "4C03B0020",
+      "name": "グリズリー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グリズリー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/18/grizzly/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
