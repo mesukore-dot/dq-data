@@ -1,0 +1,54 @@
+{
+  "id": "2E03B0014",
+  "name": "モコモコじゅう",
+  "furigana": "もこもこじゅう",
+  "english_name": "Rotten cotton",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mokomokoju/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モコモコじゅう.webp",
+  "monster_family": "ファーラット族",
+  "search_keywords": [
+    "Rotten cotton",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "FY1",
+    "DQBS",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00137",
+  "prev_id": "2E03B0013",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/10/baby-panther/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "color_variants": [
+    {
+      "id": "1F03B0001",
+      "name": "ファーラット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ファーラット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/farrat/"
+    },
+    {
+      "id": "1F03B0001-1",
+      "name": "ピンクボンボン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/06/ピンクボンボン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/06/08/pink-bonbon/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
