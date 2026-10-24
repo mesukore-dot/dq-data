@@ -26,11 +26,11 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00426",
+  "zukan_no": "No.00427",
   "prev_id": "6A01S0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/24/ultra-slime/",
-  "next_id": "6A01S0005",
-  "next_page_url": "https://dqfan527.xsrv.jp/2025/04/08/slime-energon/",
+  "next_id": "6A01S0004-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/09/tenker/",
   "color_variants": [
     {
       "id": "4C01S0014",
@@ -49,6 +49,12 @@
       "name": "花の祠の守護者",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-エメラルド.webp",
       "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
+    },
+    {
+      "id": "6A01S0004-1",
+      "name": "テンカー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/テンカー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/09/tenker/"
     },
     {
       "id": "6A01S0007",

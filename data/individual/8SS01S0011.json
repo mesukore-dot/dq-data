@@ -30,12 +30,19 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00516",
+  "zukan_no": "No.00518",
   "prev_id": "8SS01S0009",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/06/25/king-hoimi-slime/",
-  "next_id": "8SS01S0012",
-  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/09/surawashoi/",
-  "color_variants": [],
+  "next_id": "8SS01S0011-A",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/06/17/stray-royal-king/",
+  "color_variants": [
+    {
+      "id": "8SS01S0011-A",
+      "name": "はぐれロイヤルキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/はぐれロイヤルキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/06/17/stray-royal-king/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"
