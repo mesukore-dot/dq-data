@@ -1,0 +1,54 @@
+{
+  "id": "5B03B0009",
+  "name": "ソルジャーブル",
+  "furigana": "そるじゃーぶる",
+  "english_name": "Warhog",
+  "page_url": "https://dqfan527.xsrv.jp/2023/12/13/warhog/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ソルジャーブル.webp",
+  "monster_family": "ソルジャーブル族",
+  "search_keywords": [
+    "Warhog",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ10",
+    "DQM3",
+    "DQM4",
+    "DQMB",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00410",
+  "prev_id": "5B03B0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/14/tiger-jackal/",
+  "next_id": "5B04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+  "color_variants": [
+    {
+      "id": "6A03B0007",
+      "name": "グレンデル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレンデル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/11/thwarthog/"
+    },
+    {
+      "id": "7S03B0004",
+      "name": "ゴンズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴンズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/06/slon-the-rook/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
