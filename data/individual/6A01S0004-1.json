@@ -1,0 +1,75 @@
+{
+  "id": "6A01S0004-1",
+  "name": "テンカー",
+  "furigana": "てんかー",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/09/tenker/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/テンカー.webp",
+  "monster_family": "スライムジェネラル族",
+  "search_keywords": [
+    "和風",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "STAR",
+  "appearances": [
+    "STAR"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2018年3月22日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00428",
+  "prev_id": "6A01S0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/26/denga/",
+  "next_id": "6A01S0005",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/04/08/slime-energon/",
+  "color_variants": [
+    {
+      "id": "4C01S0014",
+      "name": "撃滅隊長ジェリゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-サファイア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
+    },
+    {
+      "id": "5B01S0005",
+      "name": "ゴッドライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ゴッドライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/god-rider/"
+    },
+    {
+      "id": "5B01S0008",
+      "name": "花の祠の守護者",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-エメラルド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
+    },
+    {
+      "id": "6A01S0004",
+      "name": "デンガー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/デンガー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/denga/"
+    },
+    {
+      "id": "6A01S0007",
+      "name": "カラミティキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-オニキス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
+    },
+    {
+      "id": "7S01S0003",
+      "name": "ダークアドミラル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-アメジスト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
+    },
+    {
+      "id": "7S01S0016",
+      "name": "スライムジェネラル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スライムジェネラル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/slime-general/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
