@@ -2580,6 +2580,38 @@
     "zukan_no": "No.00508"
   },
   {
+    "id": "7S03B0005",
+    "name": "プオーン",
+    "furigana": "ぷおーん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/03/rebjorn/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/プオーン.webp",
+    "search_keywords": [
+      "Rebjorn",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5_PS2",
+    "appearances": [
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2004年3月25日",
+    "zukan_no": "No.00509"
+  },
+  {
     "id": "8SS03B0001",
     "name": "キングレオ",
     "furigana": "きんぐれお",
@@ -2623,7 +2655,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00534"
+    "zukan_no": "No.00535"
   },
   {
     "id": "8SS03B0002",
@@ -2650,7 +2682,7 @@
     "main_family": "けもの系",
     "sub_family": "美女系",
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00535"
+    "zukan_no": "No.00536"
   },
   {
     "id": "8SS03B0003",
@@ -2675,7 +2707,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00536"
+    "zukan_no": "No.00537"
   },
   {
     "id": "8SS03B0004",
@@ -2698,7 +2730,7 @@
     "main_family": "けもの系",
     "sub_family": "氷・雪",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00537"
+    "zukan_no": "No.00538"
   },
   {
     "id": "9X03B0001",
@@ -2735,6 +2767,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00552"
+    "zukan_no": "No.00553"
   }
 ]
