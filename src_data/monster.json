@@ -38,6 +38,67 @@
     "related_characters": []
   },
   {
+    "id": "6A01S0004-1",
+    "name": "テンカー",
+    "furigana": "てんかー",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/09/tenker/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/テンカー.webp",
+    "monster_family": "スライムジェネラル族",
+    "search_keywords": ["和風","ボス","公式イラストあり"],
+    "first_appearance": "STAR",
+    "appearances": [
+      "STAR"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2018年3月22日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS01S0011-A",
+    "name": "はぐれロイヤルキング",
+    "furigana": "はぐれろいやるきんぐ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/06/17/stray-royal-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/はぐれロイヤルキング.webp",
+    "monster_family": "はぐれメタルキング族",
+    "search_keywords": ["メタル系","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "メタル系",
+    "other_families": [],
+    "release_date": "2020年2月5日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0017",
+    "name": "ケムケムベス",
+    "furigana": "けむけむべす",
+    "english_name": "Lazy eye",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/10/kemukemubes/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ケムケムベス.webp",
+    "monster_family": "ビックアイ族",
+    "search_keywords": ["Lazy eye","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQMSL","STAR","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A11M0002",
     "name": "キラーマシン2",
     "furigana": "きらーましん2",
