@@ -45,7 +45,7 @@
   "voice_actor": "稲田徹",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00563",
+  "zukan_no": "No.00564",
   "prev_id": "9X01S0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-go-death/",
   "next_id": "9X02D0002",
@@ -68,6 +68,12 @@
       "name": "サラマンダー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サラマンダー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/04/salamander/"
+    },
+    {
+      "id": "6A02D0011",
+      "name": "ノエルドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ノエルドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/12/14/noel-dragon/"
     },
     {
       "id": "7S02D0006",
