@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "4C03B0022",
+    "name": "ダースウルフェン",
+    "furigana": "だーすうるふぇん",
+    "english_name": "Hellhound",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/13/darth-wolfen/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダースウルフェン.webp",
+    "monster_family": "ダースウルフェン族",
+    "search_keywords": ["Hellhound","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8","DQ8_3D",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ","DQMJ2","DQMJ2_P",
+      "STAR","WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C03B0021",
     "name": "ダークパンサー",
     "furigana": "だーくぱんさー",
