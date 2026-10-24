@@ -38,6 +38,29 @@
     "related_characters": []
   },
   {
+    "id": "7S03B0005",
+    "name": "プオーン",
+    "furigana": "ぷおーん",
+    "english_name": "Rebjorn",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/03/rebjorn/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/プオーン.webp",
+    "monster_family": "プオーン族",
+    "search_keywords": ["Rebjorn","公式イラストあり"],
+    "first_appearance": "DQ5_PS2",
+    "appearances": [
+      "DQ5_PS2","DQ5_DS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ3_P",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年3月25日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B03B0010",
     "name": "ユニコーン",
     "furigana": "ゆにこーん",
