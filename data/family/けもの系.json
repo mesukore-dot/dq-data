@@ -2153,6 +2153,35 @@
     "zukan_no": "No.00409"
   },
   {
+    "id": "5B03B0009",
+    "name": "ソルジャーブル",
+    "furigana": "そるじゃーぶる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/13/warhog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ソルジャーブル.webp",
+    "search_keywords": [
+      "Warhog",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQM3",
+      "DQM4",
+      "DQMB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00410"
+  },
+  {
     "id": "6A03B0001",
     "name": "ヒババンゴ",
     "furigana": "ひばばんご",
@@ -2173,7 +2202,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00456"
+    "zukan_no": "No.00457"
   },
   {
     "id": "6A03B0002",
@@ -2215,7 +2244,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00457"
+    "zukan_no": "No.00458"
   },
   {
     "id": "6A03B0003",
@@ -2237,7 +2266,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00458"
+    "zukan_no": "No.00459"
   },
   {
     "id": "6A03B0004",
@@ -2270,7 +2299,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00459"
+    "zukan_no": "No.00460"
   },
   {
     "id": "6A03B0005",
@@ -2299,7 +2328,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00460"
+    "zukan_no": "No.00461"
   },
   {
     "id": "6A03B0006",
@@ -2326,7 +2355,40 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00461"
+    "zukan_no": "No.00462"
+  },
+  {
+    "id": "6A03B0007",
+    "name": "グレンデル",
+    "furigana": "ぐれんでる",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/11/thwarthog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレンデル.webp",
+    "search_keywords": [
+      "Thwarthog",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00463"
   },
   {
     "id": "7S03B0001",
@@ -2358,7 +2420,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00501"
+    "zukan_no": "No.00503"
   },
   {
     "id": "7S03B0002",
@@ -2376,7 +2438,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2023年3月28日",
-    "zukan_no": "No.00502"
+    "zukan_no": "No.00504"
   },
   {
     "id": "7S03B0003",
@@ -2413,7 +2475,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00503"
+    "zukan_no": "No.00505"
   },
   {
     "id": "7S03B0004",
@@ -2450,7 +2512,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00504"
+    "zukan_no": "No.00506"
   },
   {
     "id": "8SS03B0001",
@@ -2496,7 +2558,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00530"
+    "zukan_no": "No.00532"
   },
   {
     "id": "8SS03B0002",
@@ -2523,7 +2585,7 @@
     "main_family": "けもの系",
     "sub_family": "美女系",
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00531"
+    "zukan_no": "No.00533"
   },
   {
     "id": "8SS03B0003",
@@ -2548,7 +2610,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00532"
+    "zukan_no": "No.00534"
   },
   {
     "id": "8SS03B0004",
@@ -2571,7 +2633,7 @@
     "main_family": "けもの系",
     "sub_family": "氷・雪",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00533"
+    "zukan_no": "No.00535"
   },
   {
     "id": "9X03B0001",
@@ -2608,6 +2670,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00548"
+    "zukan_no": "No.00550"
   }
 ]

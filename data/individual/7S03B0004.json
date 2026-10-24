@@ -41,12 +41,25 @@
     ""
   ],
   "related_characters": [],
-  "zukan_no": "No.00504",
+  "zukan_no": "No.00506",
   "prev_id": "7S03B0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/06/kon-the-knight/",
   "next_id": "7S08D0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "5B03B0009",
+      "name": "ソルジャーブル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ソルジャーブル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/12/13/warhog/"
+    },
+    {
+      "id": "6A03B0007",
+      "name": "グレンデル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレンデル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/11/thwarthog/"
+    }
+  ],
   "related_items_details": [
     {
       "id": ""

@@ -1,0 +1,58 @@
+{
+  "id": "6A03B0007",
+  "name": "グレンデル",
+  "furigana": "ぐれんでる",
+  "english_name": "Thwarthog",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/11/thwarthog/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレンデル.webp",
+  "monster_family": "ソルジャーブル族",
+  "search_keywords": [
+    "Thwarthog",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ10",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00463",
+  "prev_id": "6A03B0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/03/jackal-ripper/",
+  "next_id": "6A04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/27/malign-vine/",
+  "color_variants": [
+    {
+      "id": "5B03B0009",
+      "name": "ソルジャーブル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ソルジャーブル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/12/13/warhog/"
+    },
+    {
+      "id": "7S03B0004",
+      "name": "ゴンズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴンズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/06/slon-the-rook/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
