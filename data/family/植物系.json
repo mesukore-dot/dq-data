@@ -1170,5 +1170,43 @@
     "sub_family": "-",
     "release_date": "2000年8月26日",
     "zukan_no": "No.00485"
+  },
+  {
+    "id": "7S04P0001",
+    "name": "ローズバトラー",
+    "furigana": "ろーずばとらー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/rose-battler/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ローズバトラー.webp",
+    "search_keywords": [
+      "Gripevine",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM1",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1988年9月25日",
+    "zukan_no": "No.00529"
   }
 ]

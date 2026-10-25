@@ -1,0 +1,57 @@
+{
+  "id": "7S04P0001",
+  "name": "ローズバトラー",
+  "furigana": "ろーずばとらー",
+  "english_name": "Gripevine",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/rose-battler/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ローズバトラー.webp",
+  "monster_family": "ローズバトラー族",
+  "search_keywords": [
+    "Gripevine",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM1",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3_P",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年9月25日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00529",
+  "prev_id": "7S03B0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/03/rebjorn/",
+  "next_id": "7S08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
+  "color_variants": [
+    {
+      "id": "6A04P0001",
+      "name": "ヘルバオム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルバオム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/09/27/malign-vine/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
