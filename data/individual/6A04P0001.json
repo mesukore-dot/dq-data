@@ -35,7 +35,14 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/02/geryuon/",
   "next_id": "6A05B0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2025/11/01/murder-goile/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "7S04P0001",
+      "name": "ローズバトラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ローズバトラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/rose-battler/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
