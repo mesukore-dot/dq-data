@@ -1,0 +1,40 @@
+{
+  "id": "4C08D0006",
+  "name": "ゴーゴンヘッド",
+  "furigana": "ごーごんへっど",
+  "english_name": "Goregon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/27/go-gon-hed/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴーゴンヘッド.webp",
+  "monster_family": "メドーサボール族",
+  "search_keywords": [
+    "Goregon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00360",
+  "prev_id": "4C08D0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/29/babyl/",
+  "next_id": "4C09M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/16/daimadou-dq1/",
+  "color_variants": [
+    {
+      "id": "3D08D0006",
+      "name": "メドーサボール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メドーサボール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/27/medo-sa-ball/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

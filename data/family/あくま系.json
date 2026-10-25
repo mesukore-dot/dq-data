@@ -270,6 +270,108 @@
     "zukan_no": "No.00257"
   },
   {
+    "id": "3D08D0004",
+    "name": "あくまのめだま",
+    "furigana": "あくまのめだま",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/akumanomedama/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのめだま.webp",
+    "search_keywords": [
+      "Heyedra Eyepod",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2",
+      "DQMJ2_P",
+      "RIV"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00258"
+  },
+  {
+    "id": "3D08D0005",
+    "name": "グレムリン",
+    "furigana": "ぐれむりん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/29/guremurin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレムリン.webp",
+    "search_keywords": [
+      "Gremlin",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQB2",
+      "DQMB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00259"
+  },
+  {
+    "id": "3D08D0006",
+    "name": "メドーサボール",
+    "furigana": "めどーさぼーる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/27/medo-sa-ball/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メドーサボール.webp",
+    "search_keywords": [
+      "Madusa",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQB2",
+      "DQMSL",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00260"
+  },
+  {
     "id": "4C08D0001",
     "name": "よろいのきし",
     "furigana": "よろいのきし",
@@ -300,7 +402,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00352"
+    "zukan_no": "No.00355"
   },
   {
     "id": "4C08D0002",
@@ -326,7 +428,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00353"
+    "zukan_no": "No.00356"
   },
   {
     "id": "4C08D0003",
@@ -359,7 +461,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00354"
+    "zukan_no": "No.00357"
   },
   {
     "id": "4C08D0004",
@@ -379,7 +481,58 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00355"
+    "zukan_no": "No.00358"
+  },
+  {
+    "id": "4C08D0005",
+    "name": "べビル",
+    "furigana": "べびる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/29/babyl/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/べビル.webp",
+    "search_keywords": [
+      "Grimlin",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00359"
+  },
+  {
+    "id": "4C08D0006",
+    "name": "ゴーゴンヘッド",
+    "furigana": "ごーごんへっど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/27/go-gon-hed/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴーゴンヘッド.webp",
+    "search_keywords": [
+      "Goregon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00360"
   },
   {
     "id": "5B08D0001",
@@ -398,7 +551,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2022年1月27日",
-    "zukan_no": "No.00438"
+    "zukan_no": "No.00443"
   },
   {
     "id": "5B08D0002",
@@ -424,7 +577,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00439"
+    "zukan_no": "No.00444"
   },
   {
     "id": "5B08D0003",
@@ -450,7 +603,35 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00440"
+    "zukan_no": "No.00445"
+  },
+  {
+    "id": "5B08D0004",
+    "name": "ダークアイ",
+    "furigana": "だーくあい",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/dark-eye/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークアイ.webp",
+    "search_keywords": [
+      "Eyelashes",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00446"
   },
   {
     "id": "6A08D0001",
@@ -491,7 +672,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00492"
+    "zukan_no": "No.00498"
   },
   {
     "id": "6A08D0001-1",
@@ -514,7 +695,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00493"
+    "zukan_no": "No.00499"
   },
   {
     "id": "6A08D0002",
@@ -534,7 +715,7 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "2023年10月15日",
-    "zukan_no": "No.00494"
+    "zukan_no": "No.00500"
   },
   {
     "id": "6A08D0003",
@@ -599,7 +780,26 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00495"
+    "zukan_no": "No.00501"
+  },
+  {
+    "id": "6A08D0004",
+    "name": "ブラッドメイジ",
+    "furigana": "ぶらっどめいじ",
+    "page_url": "https://dqfan527.xsrv.jp/2025/02/10/blood-mage/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブラッドメイジ.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "TACT"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "2014年12月25日",
+    "zukan_no": "No.00502"
   },
   {
     "id": "7S08D0001",
@@ -645,6 +845,6 @@
     "main_family": "あくま系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00535"
+    "zukan_no": "No.00542"
   }
 ]
