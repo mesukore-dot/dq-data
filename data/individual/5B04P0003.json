@@ -21,7 +21,7 @@
   "release_date": "2021年7月21日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00440",
+  "zukan_no": "No.00447",
   "prev_id": "5B04P0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/jigokunotamanegi/",
   "next_id": "5B04P0004",
@@ -32,6 +32,18 @@
       "name": "スイカ岩",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/"
+    },
+    {
+      "id": "4C10M0004",
+      "name": "ばくだんいわ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ばくだんいわ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/bakudaniwa/"
+    },
+    {
+      "id": "5B10M0003",
+      "name": "ブリザーロック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブリザーロック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/08/blizzard-rock/"
     },
     {
       "id": "6A04P0002",
