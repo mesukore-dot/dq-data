@@ -38,6 +38,49 @@
     "related_characters": []
   },
   {
+    "id": "7S02D0009-1",
+    "name": "テラードランゴ",
+    "furigana": "てらーどらんご",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/29/halloween-dorango/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/テラードランゴ.webp",
+    "monster_family": "バトルレックス族",
+    "search_keywords": ["ハロウィン","公式イラストあり"],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "ハロウィン",
+    "other_families": [],
+    "release_date": "2025年10月29日",
+    "voice_actor": "山口眞弓",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "7S02D0009",
+    "name": "ドランゴ",
+    "furigana": "どらんご",
+    "english_name": "Lizzie",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/14/drango/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドランゴ.webp",
+    "monster_family": "バトルレックス族",
+    "search_keywords": ["Lizzie","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ10",
+      "DQMSL","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "voice_actor": "山口眞弓",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C10M0004",
     "name": "ばくだんいわ",
     "furigana": "ばくだんいわ",
