@@ -1007,6 +1007,25 @@
     "zukan_no": "No.00248"
   },
   {
+    "id": "3D04P0012",
+    "name": "もりじじい",
+    "furigana": "もりじじい",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/25/budding-sorcerer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/もりじじい.webp",
+    "search_keywords": [
+      "Budding sorcerer",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00249"
+  },
+  {
     "id": "4C04P0001",
     "name": "ウドラー",
     "furigana": "うどらー",
@@ -1041,7 +1060,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00347"
+    "zukan_no": "No.00348"
   },
   {
     "id": "4C04P0002",
@@ -1065,7 +1084,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00348"
+    "zukan_no": "No.00349"
   },
   {
     "id": "4C04P0003",
@@ -1088,7 +1107,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00349"
+    "zukan_no": "No.00350"
   },
   {
     "id": "5B04P0001",
@@ -1112,7 +1131,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2013年2月7日",
-    "zukan_no": "No.00429"
+    "zukan_no": "No.00430"
   },
   {
     "id": "5B04P0002",
@@ -1141,7 +1160,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00430"
+    "zukan_no": "No.00431"
   },
   {
     "id": "5B04P0003",
@@ -1161,7 +1180,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2021年7月21日",
-    "zukan_no": "No.00431"
+    "zukan_no": "No.00432"
   },
   {
     "id": "5B04P0004",
@@ -1181,7 +1200,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2021年7月21日",
-    "zukan_no": "No.00432"
+    "zukan_no": "No.00433"
   },
   {
     "id": "5B04P0005",
@@ -1201,7 +1220,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2021年7月21日",
-    "zukan_no": "No.00433"
+    "zukan_no": "No.00434"
   },
   {
     "id": "6A04P0001",
@@ -1229,7 +1248,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00488"
+    "zukan_no": "No.00489"
   },
   {
     "id": "6A04P0002",
@@ -1250,7 +1269,7 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "2020年7月16日",
-    "zukan_no": "No.00489"
+    "zukan_no": "No.00490"
   },
   {
     "id": "7S04P0001",
@@ -1288,6 +1307,6 @@
     "main_family": "植物系",
     "sub_family": "-",
     "release_date": "1988年9月25日",
-    "zukan_no": "No.00533"
+    "zukan_no": "No.00534"
   }
 ]
