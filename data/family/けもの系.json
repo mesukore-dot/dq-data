@@ -1044,6 +1044,25 @@
     "zukan_no": "No.00141"
   },
   {
+    "id": "2E03B0015",
+    "name": "ハロウィンハット",
+    "furigana": "はろうぃんはっと",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/03/halloween-hat/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンハット.webp",
+    "search_keywords": [
+      "ハロウィン",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "ハロウィン",
+    "release_date": "2019年10月15日",
+    "zukan_no": "No.00142"
+  },
+  {
     "id": "3D03B0001",
     "name": "リカント",
     "furigana": "りかんと",
