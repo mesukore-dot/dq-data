@@ -1,0 +1,47 @@
+{
+  "id": "5B08D0004",
+  "name": "ダークアイ",
+  "furigana": "だーくあい",
+  "english_name": "Eyelashes",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/30/dark-eye/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ダークアイ.webp",
+  "monster_family": "あくまのめだま族",
+  "search_keywords": [
+    "Eyelashes",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQM1",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00446",
+  "prev_id": "5B08D0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/20/karon/",
+  "next_id": "5B10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/",
+  "color_variants": [
+    {
+      "id": "3D08D0004",
+      "name": "あくまのめだま",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくまのめだま.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/akumanomedama/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

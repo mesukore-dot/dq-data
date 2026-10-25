@@ -1,0 +1,59 @@
+{
+  "id": "3D08D0005",
+  "name": "グレムリン",
+  "furigana": "ぐれむりん",
+  "english_name": "Gremlin",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/29/guremurin/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレムリン.webp",
+  "monster_family": "グレムリン族",
+  "search_keywords": [
+    "Gremlin",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQB2",
+    "DQMB",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00259",
+  "prev_id": "3D08D0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/akumanomedama/",
+  "next_id": "3D08D0006",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/27/medo-sa-ball/",
+  "color_variants": [
+    {
+      "id": "4C08D0005",
+      "name": "べビル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/べビル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/babyl/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

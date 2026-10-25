@@ -1,0 +1,49 @@
+{
+  "id": "4C08D0005",
+  "name": "べビル",
+  "furigana": "べびる",
+  "english_name": "Grimlin",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/29/babyl/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/べビル.webp",
+  "monster_family": "グレムリン族",
+  "search_keywords": [
+    "Grimlin",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQB2",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00359",
+  "prev_id": "4C08D0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/26/gander/",
+  "next_id": "4C08D0006",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/27/go-gon-hed/",
+  "color_variants": [
+    {
+      "id": "3D08D0005",
+      "name": "グレムリン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グレムリン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/guremurin/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
