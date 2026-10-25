@@ -58,6 +58,66 @@
     "related_characters": []
   },
   {
+    "id": "2E13Z0002",
+    "name": "ハロウィンマミー",
+    "furigana": "はろうぃんまみー",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/19/halloween-mummy/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンマミー.webp",
+    "monster_family": "ミイラおとこ族",
+    "search_keywords": ["ハロウィン","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "ハロウィン",
+    "other_families": [],
+    "release_date": "2014年10月15日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E13Z0001",
+    "name": "ハロウィンゴースト",
+    "furigana": "はろうぃんごーすと",
+    "english_name": "-",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンゴースト.webp",
+    "monster_family": "ゴースト族",
+    "search_keywords": ["ハロウィン","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "ハロウィン",
+    "other_families": [],
+    "release_date": "2014年10月15日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E05B0003",
+    "name": "ハロウィンドラキー",
+    "furigana": "はろうぃんどらきー",
+    "english_name": "-",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンドラキー.webp",
+    "monster_family": "ドラキー族",
+    "search_keywords": ["ハロウィン","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","WALK"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "ハロウィン",
+    "other_families": [],
+    "release_date": "2014年10月15日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D08D0006",
     "name": "メドーサボール",
     "furigana": "めどーさぼーる",
