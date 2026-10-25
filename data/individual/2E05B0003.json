@@ -3,7 +3,7 @@
   "name": "ハロウィンドラキー",
   "furigana": "はろうぃんどらきー",
   "english_name": "-",
-  "page_url": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-dracky/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンドラキー.webp",
   "monster_family": "ドラキー族",
   "search_keywords": [
@@ -20,12 +20,15 @@
   "other_families": [],
   "release_date": "2014年10月15日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "2E13Z0001",
+    "2E13Z0002"
+  ],
   "zukan_no": "No.00152",
-  "prev_id": "",
-  "prev_page_url": "",
-  "next_id": "",
-  "next_page_url": "",
+  "prev_id": "2E05B0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "next_id": "2E08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
   "color_variants": [
     {
       "id": "1F05B0001",
@@ -47,5 +50,18 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "2E13Z0001",
+      "name": "ハロウィンゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-ghost/"
+    },
+    {
+      "id": "2E13Z0002",
+      "name": "ハロウィンマミー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンマミー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/19/halloween-mummy/"
+    }
+  ]
 }

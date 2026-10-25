@@ -3,7 +3,7 @@
   "name": "ハロウィンゴースト",
   "furigana": "はろうぃんごーすと",
   "english_name": "-",
-  "page_url": "",
+  "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-ghost/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンゴースト.webp",
   "monster_family": "ゴースト族",
   "search_keywords": [
@@ -20,12 +20,15 @@
   "other_families": [],
   "release_date": "2014年10月15日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "2E05B0003",
+    "2E13Z0002"
+  ],
   "zukan_no": "No.00160",
-  "prev_id": "",
-  "prev_page_url": "",
-  "next_id": "",
-  "next_page_url": "",
+  "prev_id": "2E11M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/",
+  "next_id": "2E13Z0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/10/19/halloween-mummy/",
   "color_variants": [
     {
       "id": "1F13Z0001",
@@ -41,5 +44,18 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "2E05B0003",
+      "name": "ハロウィンドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-dracky/"
+    },
+    {
+      "id": "2E13Z0002",
+      "name": "ハロウィンマミー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンマミー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/19/halloween-mummy/"
+    }
+  ]
 }
