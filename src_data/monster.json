@@ -75,14 +75,14 @@
     "other_families": [],
     "release_date": "2014年10月15日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E13Z0001","2E05B0003"]
   },
   {
     "id": "2E13Z0001",
     "name": "ハロウィンゴースト",
     "furigana": "はろうぃんごーすと",
     "english_name": "-",
-    "page_url": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-ghost/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンゴースト.webp",
     "monster_family": "ゴースト族",
     "search_keywords": ["ハロウィン","公式イラストあり"],
@@ -95,14 +95,14 @@
     "other_families": [],
     "release_date": "2014年10月15日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E05B0003","2E13Z0002"]
   },
   {
     "id": "2E05B0003",
     "name": "ハロウィンドラキー",
     "furigana": "はろうぃんどらきー",
     "english_name": "-",
-    "page_url": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-dracky/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンドラキー.webp",
     "monster_family": "ドラキー族",
     "search_keywords": ["ハロウィン","公式イラストあり"],
@@ -115,7 +115,7 @@
     "other_families": [],
     "release_date": "2014年10月15日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E13Z0001","2E13Z0002"]
   },
   {
     "id": "3D08D0006",
