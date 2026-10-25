@@ -1,0 +1,57 @@
+{
+  "id": "7S02D0009-1",
+  "name": "テラードランゴ",
+  "furigana": "てらーどらんご",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/10/29/halloween-dorango/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/テラードランゴ.webp",
+  "monster_family": "バトルレックス族",
+  "search_keywords": [
+    "ハロウィン",
+    "公式イラストあり"
+  ],
+  "first_appearance": "TACT",
+  "appearances": [
+    "TACT"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "ハロウィン",
+  "other_families": [],
+  "release_date": "2025年10月29日",
+  "voice_actor": "山口眞弓",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00548",
+  "prev_id": "7S02D0009",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/14/drango/",
+  "next_id": "7S03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+  "color_variants": [
+    {
+      "id": "4C02D0008",
+      "name": "アックスドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/アックスドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/03/axe-dragon/"
+    },
+    {
+      "id": "5B02D0010",
+      "name": "ドラゴンソルジャー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンソルジャー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/03/dragon-soldier/"
+    },
+    {
+      "id": "6A02D0004",
+      "name": "バトルレックス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/バトルレックス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/03/09/battlerex/"
+    },
+    {
+      "id": "7S02D0009",
+      "name": "ドランゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドランゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/14/drango/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
