@@ -1,0 +1,56 @@
+{
+  "id": "5B10M0003",
+  "name": "ブリザーロック",
+  "furigana": "ぶりざーろっく",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/11/08/blizzard-rock/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブリザーロック.webp",
+  "monster_family": "ばくだんいわ族",
+  "search_keywords": [
+    "氷・雪",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2_HD2D",
+  "appearances": [
+    "DQ2_HD2D"
+  ],
+  "main_family": "物質系",
+  "sub_family": "氷・雪",
+  "other_families": [],
+  "release_date": "2025年10月30日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00459",
+  "prev_id": "5B10M0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/23/ice-golem/",
+  "next_id": "5B11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/28/killer-machine/",
+  "color_variants": [
+    {
+      "id": "3D04P0005",
+      "name": "スイカ岩",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/"
+    },
+    {
+      "id": "4C10M0004",
+      "name": "ばくだんいわ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ばくだんいわ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/bakudaniwa/"
+    },
+    {
+      "id": "5B04P0003",
+      "name": "エル・サンティーア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/エル・サンティーア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/15/el-sandia/"
+    },
+    {
+      "id": "6A04P0002",
+      "name": "キングスイカ岩",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キングスイカ岩.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/15/king-suikaiwa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

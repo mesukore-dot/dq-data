@@ -1,0 +1,63 @@
+{
+  "id": "4C10M0002",
+  "name": "パペットマン",
+  "furigana": "ぱぺっとまん",
+  "english_name": "Magic marionette",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/23/puppet-man/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/パペットマン.webp",
+  "monster_family": "どろにんぎょう族",
+  "search_keywords": [
+    "Magic marionette",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQMCH",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQH2",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00371",
+  "prev_id": "4C10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/",
+  "next_id": "4C10M0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/11/16/acro-knight/",
+  "color_variants": [
+    {
+      "id": "3D10M0003",
+      "name": "どろにんぎょう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/どろにんぎょう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/doroningyou/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
