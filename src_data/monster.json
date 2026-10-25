@@ -38,6 +38,52 @@
     "related_characters": []
   },
   {
+    "id": "5B04P0002",
+    "name": "じごくのたまねぎ",
+    "furigana": "じごくのたまねぎ",
+    "english_name": "Brimstone bulb",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/jigokunotamanegi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じごくのたまねぎ.webp",
+    "monster_family": "オニオーン族",
+    "search_keywords": ["Brimstone bulb","野菜","たべもの","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ10","DQ10_OFF",
+      "DQM3","DQMJ3","DQMJ3_P",
+      "FY1",
+      "DQMSL","WALK"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F04P0009",
+    "name": "オニオーン",
+    "furigana": "おにおーん",
+    "english_name": "Ornery onion",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/20/onio-n/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オニオーン.webp",
+    "monster_family": "オニオーン族",
+    "search_keywords": ["Ornery onion","野菜","たべもの","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ7_3D","DQ10","DQ10_OFF",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ3","DQMJ3_P",
+      "FTR2","FTR3","FY1",
+      "DQMSL","STAR","RIV","WALK"
+    ],
+    "main_family": "植物系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A02D0011",
     "name": "ノエルドラゴン",
     "furigana": "のえるどらごん",
