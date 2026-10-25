@@ -1,0 +1,48 @@
+{
+  "id": "5B04P0002",
+  "name": "じごくのたまねぎ",
+  "furigana": "じごくのたまねぎ",
+  "english_name": "Brimstone bulb",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/jigokunotamanegi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じごくのたまねぎ.webp",
+  "monster_family": "オニオーン族",
+  "search_keywords": [
+    "Brimstone bulb",
+    "野菜",
+    "たべもの",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "DQMSL",
+    "WALK"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00430",
+  "prev_id": "5B04P0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+  "next_id": "5B05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "color_variants": [
+    {
+      "id": "1F04P0009",
+      "name": "オニオーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オニオーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/20/onio-n/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
