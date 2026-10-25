@@ -1,0 +1,51 @@
+{
+  "id": "2E05B0003",
+  "name": "ハロウィンドラキー",
+  "furigana": "はろうぃんどらきー",
+  "english_name": "-",
+  "page_url": "",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンドラキー.webp",
+  "monster_family": "ドラキー族",
+  "search_keywords": [
+    "ハロウィン",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQMSL",
+  "appearances": [
+    "DQMSL",
+    "WALK"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "ハロウィン",
+  "other_families": [],
+  "release_date": "2014年10月15日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00152",
+  "prev_id": "",
+  "prev_page_url": "",
+  "next_id": "",
+  "next_page_url": "",
+  "color_variants": [
+    {
+      "id": "1F05B0001",
+      "name": "ドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/24/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/"
+    },
+    {
+      "id": "2E05B0001",
+      "name": "メイジドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイジドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%a1%e3%82%a4%e3%82%b8%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/"
+    },
+    {
+      "id": "3D05B0001",
+      "name": "ドラキーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドラキーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

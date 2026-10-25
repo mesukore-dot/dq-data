@@ -273,6 +273,26 @@
     "zukan_no": "No.00151"
   },
   {
+    "id": "2E05B0003",
+    "name": "ハロウィンドラキー",
+    "furigana": "はろうぃんどらきー",
+    "page_url": "",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンドラキー.webp",
+    "search_keywords": [
+      "ハロウィン",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL",
+      "WALK"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "ハロウィン",
+    "release_date": "2014年10月15日",
+    "zukan_no": "No.00152"
+  },
+  {
     "id": "3D05B0001",
     "name": "ドラキーマ",
     "furigana": "どらきーま",
@@ -323,7 +343,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00250"
+    "zukan_no": "No.00253"
   },
   {
     "id": "3D05B0002",
@@ -379,7 +399,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00251"
+    "zukan_no": "No.00254"
   },
   {
     "id": "5B05B0001",
@@ -428,7 +448,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00440"
+    "zukan_no": "No.00443"
   },
   {
     "id": "5B05B0001-1",
@@ -461,7 +481,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00441"
+    "zukan_no": "No.00444"
   },
   {
     "id": "6A05B0001",
@@ -481,6 +501,6 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00497"
+    "zukan_no": "No.00500"
   }
 ]
