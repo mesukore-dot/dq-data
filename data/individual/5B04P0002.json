@@ -33,14 +33,20 @@
   "zukan_no": "No.00430",
   "prev_id": "5B04P0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
-  "next_id": "5B05B0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ad%e3%83%a1%e3%83%a9/",
+  "next_id": "5B04P0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/15/el-sandia/",
   "color_variants": [
     {
       "id": "1F04P0009",
       "name": "オニオーン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オニオーン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/09/20/onio-n/"
+    },
+    {
+      "id": "5B04P0005",
+      "name": "エル・ピタージャ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/エル・ピタージャ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/15/el-pitaja/"
     }
   ],
   "related_items_details": [],

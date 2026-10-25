@@ -1,0 +1,45 @@
+{
+  "id": "5B04P0003",
+  "name": "エル・サンティーア",
+  "furigana": "える・さんてぃーあ",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/07/15/el-sandia/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/エル・サンティーア.webp",
+  "monster_family": "ばくだんいわ族",
+  "search_keywords": [
+    "トロピカル・夏",
+    "トロピカルアミーゴ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "WALK",
+  "appearances": [
+    "WALK"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2021年7月21日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00431",
+  "prev_id": "5B04P0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/jigokunotamanegi/",
+  "next_id": "5B04P0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/15/el-banana/",
+  "color_variants": [
+    {
+      "id": "3D04P0005",
+      "name": "スイカ岩",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/"
+    },
+    {
+      "id": "6A04P0002",
+      "name": "キングスイカ岩",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キングスイカ岩.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/15/king-suikaiwa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

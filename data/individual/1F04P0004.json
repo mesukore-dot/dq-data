@@ -58,7 +58,14 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "5B04P0004",
+      "name": "エル・バナーニャ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/エル・バナーニャ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/15/el-banana/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"
