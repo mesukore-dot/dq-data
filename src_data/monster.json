@@ -2206,7 +2206,7 @@
     "related_characters": []
   },
   {
-    "id": "3D04P0005",
+    "id": "3D04P0013",
     "name": "エビルアップル",
     "furigana": "えびるあっぷる",
     "english_name": "Rotten apple",
@@ -2340,7 +2340,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["2E01S0018","3D04P0005"]
+    "related_characters": ["2E01S0018","3D04P0005","3D04P0013"]
   },
   {
     "id": "1F04P0007",
@@ -8676,8 +8676,8 @@
     "other_families": [],
     "release_date": "2020年5月9日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": ["1F01S0014"]
+    "related_items": [],
+    "related_characters": ["1F01S0014","1F04P0008","2E01S0002"]
   },
        {
     "id": "1F01S0014",
@@ -12276,8 +12276,8 @@
     "other_families": ["水系"],
     "release_date": "1988年2月10日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["3D04P0005"]
   },
           {
     "id": "4C01S0001",
