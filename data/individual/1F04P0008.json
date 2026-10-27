@@ -27,7 +27,8 @@
   "related_items": [],
   "related_characters": [
     "2E01S0018",
-    "3D04P0005"
+    "3D04P0005",
+    "3D04P0013"
   ],
   "zukan_no": "No.00047",
   "prev_id": "1F04P0007",
@@ -59,6 +60,12 @@
       "name": "スイカ岩",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/"
+    },
+    {
+      "id": "3D04P0013",
+      "name": "エビルアップル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エビルアップル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/20/rotten-apple/"
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "id": "3D04P0013",
+  "name": "エビルアップル",
+  "furigana": "えびるあっぷる",
+  "english_name": "Rotten apple",
+  "page_url": "https://dqfan527.xsrv.jp/2024/06/20/rotten-apple/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エビルアップル.webp",
+  "monster_family": "エビルアップル族",
+  "search_keywords": [
+    "Rotten apple",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_3D",
+    "DQM4",
+    "MSP",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "植物系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [
+    "1F04P0008"
+  ],
+  "zukan_no": "No.00256",
+  "prev_id": "3D04P0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/25/budding-sorcerer/",
+  "next_id": "3D05B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/",
+  "color_variants": [
+    {
+      "id": "2E04P0004",
+      "name": "ガップリン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガップリン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/20/bad-apple/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": [
+    {
+      "id": "1F04P0008",
+      "name": "デビルパイン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/デビルパイン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/03/22/devil-pine/"
+    }
+  ]
+}

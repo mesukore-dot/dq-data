@@ -41,7 +41,14 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/18/hitokuisou/",
   "next_id": "2E04P0005",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/26/saboten-ball/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D04P0013",
+      "name": "エビルアップル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/エビルアップル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/20/rotten-apple/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
