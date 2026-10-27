@@ -20,10 +20,11 @@
   "other_families": [],
   "release_date": "2021年5月15日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "1F04P0009",
+    "2E01S0030"
   ],
-  "related_characters": [],
   "zukan_no": "No.00407",
   "prev_id": "5B01S0027",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/27/fuji-slime/",
@@ -139,10 +140,19 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "1F04P0009",
+      "name": "オニオーン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オニオーン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/20/onio-n/"
+    },
+    {
+      "id": "2E01S0030",
+      "name": "たまねぎスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
