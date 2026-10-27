@@ -2724,7 +2724,7 @@
       "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
       "DQH1","DQH2",
       "DQMB","DQBS",
-      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","DQSG"
     ],
     "main_family": "けもの系",
     "sub_family": "-",
@@ -3793,7 +3793,7 @@
      "DQ4","DQ4_PS","DQ5","DQ10","DQ10_OFF",
      "DQM3",
      "DQH2",
-     "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+     "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","DQSG"
     ],
     "main_family": "けもの系",
     "sub_family": "-",

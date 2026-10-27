@@ -1,6 +1,6 @@
 [ 
   {
-    "dqsg_id": "E0060",
+    "dqsg_id": "E0067",
             "dqsg_name": "ブライ",
             "dqsg_furigana": "ぶらい",
             "dqsg_rarity": "イベント",
@@ -22,7 +22,7 @@
             "dqsg_effects": ["メモリアスキル：ヒャダルコ","氷属性の呪文ダメージ +5%"]
   },
   {
-    "dqsg_id": "E0059",
+    "dqsg_id": "E0066",
             "dqsg_name": "クリフト",
             "dqsg_furigana": "くりふと",
             "dqsg_rarity": "イベント",
@@ -44,7 +44,7 @@
             "dqsg_effects": ["メモリアスキル：ザキ","光属性の呪文ダメージ +5%"]
   },
   {
-    "dqsg_id": "E0058",
+    "dqsg_id": "E0065",
             "dqsg_name": "アリーナ",
             "dqsg_furigana": "ありーな",
             "dqsg_rarity": "イベント",
@@ -66,7 +66,7 @@
             "dqsg_effects": ["メモリアスキル：ばくれつきゃく","風属性のダメージ +5%"]
   },
   {
-    "dqsg_id": "E0057",
+    "dqsg_id": "E0064",
             "dqsg_name": "ライアン",
             "dqsg_furigana": "らいあん",
             "dqsg_rarity": "イベント",
@@ -88,8 +88,53 @@
             "dqsg_effects": ["メモリアスキル：ホイミンとの絆","けもの系への耐性 +2%"]
   },
   {
+    "dqsg_id": "E0061",
+            "dqsg_name": "キングレオ軍",
+            "dqsg_furigana": "きんぐれおぐん",
+            "dqsg_rarity": "マルチ",
+            "dqsg_color": "緑",
+            "dqsg_system": "？？？系",
+            "dqsg_cost": 95,
+            "dqsg_available": true,
+            "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キングレオ軍-メモリ.webp",
+            "dqsg_url": "",
+            "dqsg_panels": [],
+            "dqsg_status": { 
+              "dqsg_hp": 125,
+              "dqsg_attack": 81, 
+              "dqsg_magic_attack": 72, 
+              "dqsg_magic_heal": 167, 
+              "dqsg_defense": 73, 
+              "dqsg_magic_defense": 91, 
+              "dqsg_dexterity": 52},
+            "dqsg_effects": ["風属性の物理ダメージ +7%"]
+  },
+  {
+    "id": "6A03B0004",
+    "dqsg_id": "E0058",
+            "dqsg_name": "ベロリンマン",
+            "dqsg_furigana": "べろりんまん",
+            "dqsg_rarity": "強敵",
+            "dqsg_color": "赤",
+            "dqsg_system": "けもの系",
+            "dqsg_cost": 46,
+            "dqsg_available": true,
+            "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロリンマン-メモリ.webp",
+            "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/12/berorinman-dq4/",
+            "dqsg_panels": [],
+            "dqsg_status": { 
+              "dqsg_hp": 73,
+              "dqsg_attack": 63, 
+              "dqsg_magic_attack": 30, 
+              "dqsg_magic_heal": 27, 
+              "dqsg_defense": 40, 
+              "dqsg_magic_defense": 35, 
+              "dqsg_dexterity": 40},
+            "dqsg_effects": ["ツメ装備時：氷属性の物理ダメージ +10%"]
+  },
+  {
     "id": "4C08D0003",
-    "dqsg_id": "E0056",
+    "dqsg_id": "E0057",
             "dqsg_name": "ピサロのてさき",
             "dqsg_furigana": "ぴさろのてさき",
             "dqsg_rarity": "強敵",
