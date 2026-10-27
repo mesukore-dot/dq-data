@@ -21,15 +21,24 @@
   "other_families": [],
   "release_date": "2000年8月26日",
   "voice_actor": "-",
-  "related_items": [
-    ""
-  ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00038",
   "prev_id": "1F03B0008",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/yamanezumi/",
   "next_id": "1F04P0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/09/28/bushy-baby/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成12年）2000年8月26日、PlayStation版「ドラゴンクエストVII エデンの戦士たち（DQ7）」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "巨大な耳が4枚も生えた　そらとぶネズミ。ハチのように　すばやく飛べるように　下半身は変異した。",
+      "ecology": "耳が進化したと思われがちだが　バサバサと風の音しか聴こえていないため　耳としての機能は退化している。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "2E03B0010",
@@ -38,10 +47,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/08/25/mousenap/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": ""
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }

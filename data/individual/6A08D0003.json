@@ -1,53 +1,5 @@
 {
   "id": "6A08D0003",
-  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ギガンテス.webp",
-  "dqsg_release_date": "2026年9月22日",
-  "dqsg_release_event": "期間限定イベント「遺跡に潜む巨大魔物の謎」",
-  "dqsg_element_resistances": {
-    "dqsg_super_weak": [
-      "土"
-    ],
-    "dqsg_weak": [
-      "闇"
-    ],
-    "dqsg_resist": [
-      "雷",
-      "氷",
-      "炎"
-    ]
-  },
-  "dqsg_features": [
-    "前方3箇所の円形範囲に　土属性の物理ダメージを与える。",
-    "5箇所の円形範囲に　土属性の物理ダメージを与える。",
-    "巨大な岩を1つ転がす。怒り状態だと　岩が2つになる。",
-    "3回から5回　ゆっくり片足ずつ踏みならす。",
-    "HPが半分以下になると　怒り状態になり　こうげき速度が上がる。"
-  ],
-  "dqsg_official_mamechishiki": "つぶされた旅人は数知れず。情けを持たぬ　悪魔の巨人。\n勇気試しで近づいた旅人を　愛用の棍棒で一掃する。",
-  "dqsg_id": "E0051",
-  "dqsg_name": "ギガンテス",
-  "dqsg_furigana": "ぎがんてす",
-  "dqsg_rarity": "イベント",
-  "dqsg_color": "青",
-  "dqsg_system": "あくま系",
-  "dqsg_cost": 100,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ギガンテス-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/05/25/gigantesu/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 162,
-    "dqsg_attack": 106,
-    "dqsg_magic_attack": 79,
-    "dqsg_magic_heal": 75,
-    "dqsg_defense": 90,
-    "dqsg_magic_defense": 86,
-    "dqsg_dexterity": 88
-  },
-  "dqsg_effects": [
-    "最初からメラつぶてを所持",
-    "つぶて系のダメージ +5%"
-  ],
   "name": "ギガンテス",
   "furigana": "ぎがんてす",
   "english_name": "Gigantes",
@@ -114,6 +66,54 @@
   "release_date": "1987年1月26日",
   "related_items": [],
   "related_characters": [],
+  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ギガンテス.webp",
+  "dqsg_release_date": "2026年9月22日",
+  "dqsg_release_event": "期間限定イベント「遺跡に潜む巨大魔物の謎」",
+  "dqsg_element_resistances": {
+    "dqsg_super_weak": [
+      "土"
+    ],
+    "dqsg_weak": [
+      "闇"
+    ],
+    "dqsg_resist": [
+      "雷",
+      "氷",
+      "炎"
+    ]
+  },
+  "dqsg_features": [
+    "前方3箇所の円形範囲に　土属性の物理ダメージを与える。",
+    "5箇所の円形範囲に　土属性の物理ダメージを与える。",
+    "巨大な岩を1つ転がす。怒り状態だと　岩が2つになる。",
+    "3回から5回　ゆっくり片足ずつ踏みならす。",
+    "HPが半分以下になると　怒り状態になり　こうげき速度が上がる。"
+  ],
+  "dqsg_official_mamechishiki": "つぶされた旅人は数知れず。情けを持たぬ　悪魔の巨人。\n勇気試しで近づいた旅人を　愛用の棍棒で一掃する。",
+  "dqsg_id": "E0051",
+  "dqsg_name": "ギガンテス",
+  "dqsg_furigana": "ぎがんてす",
+  "dqsg_rarity": "イベント",
+  "dqsg_color": "青",
+  "dqsg_system": "あくま系",
+  "dqsg_cost": 100,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ギガンテス-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/05/25/gigantesu/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 162,
+    "dqsg_attack": 106,
+    "dqsg_magic_attack": 79,
+    "dqsg_magic_heal": 75,
+    "dqsg_defense": 90,
+    "dqsg_magic_defense": 86,
+    "dqsg_dexterity": 88
+  },
+  "dqsg_effects": [
+    "最初からメラつぶてを所持",
+    "つぶて系のダメージ +5%"
+  ],
   "zukan_no": "No.00512",
   "prev_id": "6A08D0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/30/evos/",
