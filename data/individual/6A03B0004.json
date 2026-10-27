@@ -26,7 +26,8 @@
     "RIV",
     "WALK",
     "TACT",
-    "KSKS"
+    "KSKS",
+    "DQSG"
   ],
   "main_family": "けもの系",
   "sub_family": "-",
@@ -37,6 +38,29 @@
     ""
   ],
   "related_characters": [],
+  "dqsg_id": "E0058",
+  "dqsg_name": "ベロリンマン",
+  "dqsg_furigana": "べろりんまん",
+  "dqsg_rarity": "強敵",
+  "dqsg_color": "赤",
+  "dqsg_system": "けもの系",
+  "dqsg_cost": 46,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロリンマン-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/12/berorinman-dq4/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 73,
+    "dqsg_attack": 63,
+    "dqsg_magic_attack": 30,
+    "dqsg_magic_heal": 27,
+    "dqsg_defense": 40,
+    "dqsg_magic_defense": 35,
+    "dqsg_dexterity": 40
+  },
+  "dqsg_effects": [
+    "ツメ装備時：氷属性の物理ダメージ +10%"
+  ],
   "zukan_no": "No.00501",
   "prev_id": "6A03B0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/killer-tiger-dq2/",
