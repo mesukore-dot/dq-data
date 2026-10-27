@@ -53,6 +53,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/waraibukuro/",
   "next_id": "1F11M0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/21/takeyarihei/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成16年）2004年11月27日、PlayStation2版「ドラゴンクエストVIII 空と海と大地と呪われし姫君（DQ8）」から登場。",
+      "works_count": "19作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ニンゲンを監視するために作られた　小型マシン。デザインがあまりにも　かわいいので　油断してしまう冒険者が多いらしい。",
+      "ability": "まるっこい身体で　たいあたりしてくる。鋼鉄でできているため　威力は大砲レベル。最初にピオラを使うように　プログラミングされている。",
+      "ecology": "じぶんのことをマシンだと忘れて　本物のトリたちと　ピヨピヨ遊んでしまうことがあるらしい。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "2E11M0001",
