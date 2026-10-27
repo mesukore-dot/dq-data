@@ -1,5 +1,46 @@
 {
   "id": "4C08D0003",
+  "name": "ピサロのてさき",
+  "furigana": "ぴさろのてさき",
+  "english_name": "Psaro's pawn",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
+  "monster_family": "カロン族",
+  "search_keywords": [
+    "Psaro's pawn",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMB",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT",
+    "KSKS",
+    "DQSG"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "voice_actor": "葉山翔太",
+  "quotes": [
+    "ありがとうございます！　やったー！\nこれからは　ピサロさまの手先だ！",
+    "いのちしらずなやつめ！\nそんなに　しにたいのなら\nのぞみを　かなえてやろう！"
+  ],
+  "related_items": [],
+  "related_characters": [
+    "2E08D0002"
+  ],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ピサロのてさき.webp",
   "dqsg_release_date": "2026年10月21日",
   "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
@@ -46,47 +87,6 @@
   },
   "dqsg_effects": [
     "剣装備時：風属性の物理ダメージ +10%"
-  ],
-  "name": "ピサロのてさき",
-  "furigana": "ぴさろのてさき",
-  "english_name": "Psaro's pawn",
-  "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
-  "monster_family": "カロン族",
-  "search_keywords": [
-    "Psaro's pawn",
-    "ボス",
-    "公式イラストあり"
-  ],
-  "first_appearance": "DQ4",
-  "appearances": [
-    "DQ4",
-    "DQ4_PS",
-    "DQM1_3DS",
-    "DQM1_SP",
-    "DQM2_3DS",
-    "DQM2_SP",
-    "DQM3",
-    "DQMB",
-    "DQMSL",
-    "STAR",
-    "RIV",
-    "TACT",
-    "KSKS",
-    "DQSG"
-  ],
-  "main_family": "あくま系",
-  "sub_family": "-",
-  "other_families": [],
-  "release_date": "1990年2月11日",
-  "voice_actor": "葉山翔太",
-  "quotes": [
-    "ありがとうございます！　やったー！\nこれからは　ピサロさまの手先だ！",
-    "いのちしらずなやつめ！\nそんなに　しにたいのなら\nのぞみを　かなえてやろう！"
-  ],
-  "related_items": [],
-  "related_characters": [
-    "2E08D0002"
   ],
   "zukan_no": "No.00365",
   "prev_id": "4C08D0002",
