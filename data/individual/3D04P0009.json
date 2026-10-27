@@ -25,7 +25,9 @@
   "release_date": "1992年9月27日",
   "voice_actor": "-",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "1F10M0005"
+  ],
   "zukan_no": "No.00252",
   "prev_id": "3D04P0008",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/dance-needle/",
@@ -46,5 +48,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "1F10M0005",
+      "name": "わらいぶくろ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/わらいぶくろ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/waraibukuro/"
+    }
+  ]
 }

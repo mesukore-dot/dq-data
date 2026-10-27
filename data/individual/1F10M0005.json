@@ -59,7 +59,11 @@
   "other_families": [],
   "release_date": "1988年2月10日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "3D04P0009",
+    "1F09M0004",
+    "1F13Z0001"
+  ],
   "zukan_no": "No.00073",
   "prev_id": "1F10M0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/21/fondue/",
@@ -89,5 +93,24 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "3D04P0009",
+      "name": "わらいぐさ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/わらいぐさ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/10/screwball-pitcher/"
+    },
+    {
+      "id": "1F09M0004",
+      "name": "おおきづち",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おおきづち.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/24/ookiduchi/"
+    },
+    {
+      "id": "1F13Z0001",
+      "name": "ゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/29/ghost/"
+    }
+  ]
 }

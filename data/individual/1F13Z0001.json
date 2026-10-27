@@ -60,10 +60,10 @@
   "other_families": [],
   "release_date": "1986年5月27日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "1F10M0005"
   ],
-  "related_characters": [],
   "zukan_no": "No.00079",
   "prev_id": "1F12E0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/23/whip-ghost/",
@@ -96,10 +96,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-ghost/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "1F10M0005",
+      "name": "わらいぶくろ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/わらいぶくろ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/waraibukuro/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
