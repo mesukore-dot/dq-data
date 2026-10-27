@@ -2226,7 +2226,7 @@
     "release_date": "1992年9月27日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["1F04P0008"]
   },
   {
     "id": "4C04P0002",
@@ -2340,7 +2340,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E01S0018","3D04P0005"]
   },
   {
     "id": "1F04P0007",
@@ -10351,8 +10351,8 @@
     "other_families": [],
     "release_date": "2001年3月9日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F04P0008"]
   },
           {
     "id": "3D01S0028",
