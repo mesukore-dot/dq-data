@@ -23,11 +23,11 @@
   "other_families": [],
   "release_date": "2020年5月9日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [
-    "1F01S0014"
+    "1F01S0014",
+    "1F04P0008",
+    "2E01S0002"
   ],
   "zukan_no": "No.00248",
   "prev_id": "3D04P0004",
@@ -73,17 +73,25 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/15/king-suikaiwa/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": [
     {
       "id": "1F01S0014",
       "name": "スイカつむり",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スイカつむり.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/26/suikatumuri/"
+    },
+    {
+      "id": "1F04P0008",
+      "name": "デビルパイン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/デビルパイン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/03/22/devil-pine/"
+    },
+    {
+      "id": "2E01S0002",
+      "name": "マリンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/マリンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/04/marine-slime/"
     }
   ]
 }
