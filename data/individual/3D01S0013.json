@@ -20,7 +20,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00181",
+  "zukan_no": "No.00180",
   "prev_id": "3D01S0012",
   "prev_page_url": "https://dqfan527.xsrv.jp/home/monster-slime/",
   "next_id": "3D01S0014",
@@ -85,12 +85,6 @@
       "name": "海賊スライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/海賊スライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/"
-    },
-    {
-      "id": "2E01S0030",
-      "name": "たまねぎスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
       "id": "2E01S0031",
@@ -223,6 +217,12 @@
       "name": "ポッピングシャワースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
+    },
+    {
+      "id": "CPM-ISL01S0001",
+      "name": "たまねぎスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
       "id": "CPM-YS01S0001",

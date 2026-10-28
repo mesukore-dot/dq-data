@@ -33,8 +33,8 @@
   "zukan_no": "No.00112",
   "prev_id": "2E01S0028",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/04/dango-slime/",
-  "next_id": "2E01S0030",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/",
+  "next_id": "2E01S0031",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成26年）2024年8月5日、スマートフォン向けアプリ「ドラゴンクエストタクト」から登場。",
@@ -102,12 +102,6 @@
       "name": "マシュマロスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マシュマロスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marshmallow-slime/"
-    },
-    {
-      "id": "2E01S0030",
-      "name": "たまねぎスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
       "id": "2E01S0031",
@@ -246,6 +240,12 @@
       "name": "ポッピングシャワースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
+    },
+    {
+      "id": "CPM-ISL01S0001",
+      "name": "たまねぎスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
       "id": "CPM-YS01S0001",
