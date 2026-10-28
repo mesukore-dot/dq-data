@@ -20,12 +20,25 @@
   "release_date": "2014年12月25日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00512",
+  "zukan_no": "No.00514",
   "prev_id": "6A08D0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/25/gigantesu/",
   "next_id": "6A10M0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/go-remu/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D08D0007",
+      "name": "じごくのつかい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じごくのつかい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/jigokunotukai/"
+    },
+    {
+      "id": "4C08D0007",
+      "name": "あくましんかん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくましんかん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/14/akumashinkan/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
