@@ -23,7 +23,7 @@
   "related_items": [],
   "related_characters": [
     "1F04P0009",
-    "2E01S0030"
+    "CPM-ISL01S0001"
   ],
   "zukan_no": "No.00606",
   "prev_id": "CPM-ISL01S0001",
@@ -149,7 +149,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/20/onio-n/"
     },
     {
-      "id": "2E01S0030"
+      "id": "CPM-ISL01S0001",
+      "name": "たまねぎスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     }
   ]
 }

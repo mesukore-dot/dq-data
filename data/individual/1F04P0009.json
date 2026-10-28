@@ -42,8 +42,8 @@
   "release_date": "1995年12月9日",
   "related_items": [],
   "related_characters": [
-    "2E01S0030",
-    "5B01S0028"
+    "CPM-ISL01S0001",
+    "CPM-ISL01S0002"
   ],
   "zukan_no": "No.00048",
   "prev_id": "1F04P0008",
@@ -79,10 +79,16 @@
   "related_items_details": [],
   "related_characters_details": [
     {
-      "id": "2E01S0030"
+      "id": "CPM-ISL01S0001",
+      "name": "たまねぎスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
-      "id": "5B01S0028"
+      "id": "CPM-ISL01S0002",
+      "name": "たまねぎキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/31/onion-king-slime/"
     }
   ]
 }
