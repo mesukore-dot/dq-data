@@ -1,5 +1,5 @@
 {
-  "id": "2E01S0030",
+  "id": "CPM-ISL01S0001",
   "name": "たまねぎスライム",
   "furigana": "たまねぎすらいむ",
   "english_name": "",
@@ -27,24 +27,11 @@
     "1F04P0009",
     "5B01S0028"
   ],
-  "zukan_no": "No.00113",
-  "prev_id": "2E01S0029",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/",
-  "next_id": "2E01S0031",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/",
-  "mamechishiki_pages": [
-    {
-      "first_appearance": "（令和3年）2021年5月15日、兵庫県淡路島公園アニメパーク　ニジゲンノモリ「ドラゴンクエストアイランド」から登場。",
-      "works_count": "4作品\n (リメイク・アニメ・漫画等は含めない数字)",
-      "what_kind": "あまりにもおいしい　たまねぎをたべすぎてしまったスライム。たまねぎが有名なふるさとで　生まれたらしい。",
-      "form": "温暖な気候で　太陽の光をたっぷりと浴びた素肌が特徴。皮付きと　つるんと光る皮なしの2種類がいる。",
-      "connection": "同じたまねぎのまもの　オニオーン。このふたりが出会ったら　お互いに　どんな反応をするんだろう…。",
-      "trivia_notes": "ドラゴンクエストの生みの親　堀井雄二さんの故郷である兵庫県淡路島。淡路島といえば　たまねぎが有名で　甘みはイチゴと同じ糖度だという。やわらかく　辛みが少ないため　たまねぎがニガテな人でも　バクバクたべれる。他にも　淡路島には　たまねぎをモチーフにしたテーマパークや　観光スポットがたくさん存在する。",
-      "links": {
-        "variants_url": "#色違い"
-      }
-    }
-  ],
+  "zukan_no": "No.00605",
+  "prev_id": "CPM-CO01S0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/",
+  "next_id": "CPM-ISL01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/31/onion-king-slime/",
   "color_variants": [
     {
       "id": "1F01S0001",
@@ -260,10 +247,7 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/20/onio-n/"
     },
     {
-      "id": "5B01S0028",
-      "name": "たまねぎキング",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎキング.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/31/onion-king-slime/"
+      "id": "5B01S0028"
     }
   ]
 }

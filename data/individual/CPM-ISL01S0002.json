@@ -1,5 +1,5 @@
 {
-  "id": "5B01S0028",
+  "id": "CPM-ISL01S0002",
   "name": "たまねぎキング",
   "furigana": "たまねぎきんぐ",
   "english_name": "",
@@ -25,11 +25,11 @@
     "1F04P0009",
     "2E01S0030"
   ],
-  "zukan_no": "No.00407",
-  "prev_id": "5B01S0027",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/27/fuji-slime/",
-  "next_id": "5B01S0029",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/",
+  "zukan_no": "No.00606",
+  "prev_id": "CPM-ISL01S0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/",
+  "next_id": "CPM-MC01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/",
   "color_variants": [
     {
       "id": "4C01S0003",
@@ -149,10 +149,7 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/09/20/onio-n/"
     },
     {
-      "id": "2E01S0030",
-      "name": "たまねぎスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
+      "id": "2E01S0030"
     }
   ]
 }

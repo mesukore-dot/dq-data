@@ -22,11 +22,11 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00406",
+  "zukan_no": "No.00405",
   "prev_id": "5B01S0026",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/22/white-king/",
-  "next_id": "5B01S0028",
-  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/31/onion-king-slime/",
+  "next_id": "5B01S0029",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/27/queen-slime/",
   "color_variants": [
     {
       "id": "1F01S0001",
@@ -87,12 +87,6 @@
       "name": "海賊スライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/海賊スライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/02/kaizoku-slime/"
-    },
-    {
-      "id": "2E01S0030",
-      "name": "たまねぎスライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
       "id": "2E01S0031",
@@ -225,6 +219,12 @@
       "name": "ポッピングシャワースライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
+    },
+    {
+      "id": "CPM-ISL01S0001",
+      "name": "たまねぎスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
     },
     {
       "id": "CPM-YS01S0001",
