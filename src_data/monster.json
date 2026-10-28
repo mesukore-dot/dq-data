@@ -38,6 +38,53 @@
     "related_characters": []
   },
   {
+    "id": "4C08D0007",
+    "name": "あくましんかん",
+    "furigana": "あくましんかん",
+    "english_name": "Wrecktor",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/14/akumashinkan/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/あくましんかん.webp",
+    "monster_family": "あくましんかん族",
+    "search_keywords": ["Wrecktor","公式イラストあり"],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2","DQ2_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ7_3D","DQ7_RM","DQ10","DQ10_OFF","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P",
+      "FTR2","FTR3","DQB2",
+      "DQMB","DQBS","XB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","DQSG"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D08D0007",
+    "name": "じごくのつかい",
+    "furigana": "じごくのつかい",
+    "english_name": "Whackolyte",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/23/jigokunotukai/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じごくのつかい.webp",
+    "monster_family": "あくましんかん族",
+    "search_keywords": ["Whackolyte","公式イラストあり"],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2","DQ2_HD2D","DQ7_3D","DQ7_RM","DQ10","DQ10_OFF","DQ11",
+      "FTR2","FTR3","DQB2",
+      "DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","DQSG"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "7S02D0009-1",
     "name": "テラードランゴ",
     "furigana": "てらーどらんご",
