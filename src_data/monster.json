@@ -662,7 +662,7 @@
     "other_families": [],
     "release_date": "1995年12月9日",
     "related_items": [],
-    "related_characters": ["2E01S0030","5B01S0028"]
+    "related_characters": ["CPM-ISL01S0001","CPM-ISL01S0002"]
   },
   {
     "id": "6A02D0011",
@@ -8056,7 +8056,7 @@
     "release_date": "2021年5月15日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["1F04P0009","2E01S0030"]
+    "related_characters": ["1F04P0009","CPM-ISL01S0001"]
   },
        {
     "id": "CPM-ISL01S0001",
@@ -8078,7 +8078,7 @@
     "release_date": "2021年5月15日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["1F04P0009","5B01S0028"]
+    "related_characters": ["1F04P0009","CPM-ISL01S0002"]
   },
        {
     "id": "3D01S0037",
