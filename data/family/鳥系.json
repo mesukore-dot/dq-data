@@ -293,6 +293,81 @@
     "zukan_no": "No.00153"
   },
   {
+    "id": "2E05B0004",
+    "name": "タホドラキー",
+    "furigana": "たほどらきー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/22/tahodoraky/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/タホドラキー.webp",
+    "search_keywords": [
+      "Drackmage",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ7_3D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQSW",
+      "DQH1",
+      "DQH2",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00154"
+  },
+  {
+    "id": "2E05B0005",
+    "name": "おおくちばし",
+    "furigana": "おおくちばし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/ookuchibashi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおくちばし.webp",
+    "search_keywords": [
+      "Beakon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "STAR",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00155"
+  },
+  {
     "id": "3D05B0001",
     "name": "ドラキーマ",
     "furigana": "どらきーま",
@@ -343,7 +418,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00256"
+    "zukan_no": "No.00258"
   },
   {
     "id": "3D05B0002",
@@ -399,7 +474,182 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00257"
+    "zukan_no": "No.00259"
+  },
+  {
+    "id": "3D05B0003",
+    "name": "デスフラッター",
+    "furigana": "ですふらったー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/death-flutter/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デスフラッター.webp",
+    "search_keywords": [
+      "Raven Lunatic",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ10",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00260"
+  },
+  {
+    "id": "3D05B0004",
+    "name": "ホークマン",
+    "furigana": "ほーくまん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/23/fork-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ホークマン.webp",
+    "search_keywords": [
+      "Hawk man",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FY1",
+      "DQSW",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00261"
+  },
+  {
+    "id": "3D05B0005",
+    "name": "デッドペッカー",
+    "furigana": "でっどぺっかー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/dead-peccer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デッドペッカー.webp",
+    "search_keywords": [
+      "Weaken beakon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "STAR",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00262"
+  },
+  {
+    "id": "4C05B0001",
+    "name": "ガーゴイル",
+    "furigana": "がーごいる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/23/gargoyle/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガーゴイル.webp",
+    "search_keywords": [
+      "Gargoyle",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FY1",
+      "DQSW",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00367"
   },
   {
     "id": "5B05B0001",
@@ -448,7 +698,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00451"
+    "zukan_no": "No.00457"
   },
   {
     "id": "5B05B0001-1",
@@ -481,7 +731,71 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00452"
+    "zukan_no": "No.00458"
+  },
+  {
+    "id": "5B05B0002",
+    "name": "ヘルズクロウ",
+    "furigana": "へるずくろう",
+    "page_url": "https://dqfan527.xsrv.jp/2024/09/26/rantingen-raven/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルズクロウ.webp",
+    "search_keywords": [
+      "Rantingen raven",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQMSL",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00459"
+  },
+  {
+    "id": "5B05B0003",
+    "name": "ノスフェイラ",
+    "furigana": "のすふぇいら",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/08/nosfeira/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ノスフェイラ.webp",
+    "search_keywords": [
+      "Succubeast",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00460"
+  },
+  {
+    "id": "5B05B0004",
+    "name": "クレセンス",
+    "furigana": "くれせんす",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/19/kuresensu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/クレセンス.webp",
+    "search_keywords": [
+      "Lunagriff",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00461"
   },
   {
     "id": "6A05B0001",
@@ -501,6 +815,6 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00509"
+    "zukan_no": "No.00518"
   }
 ]

@@ -1,0 +1,47 @@
+{
+  "id": "2E05B0005",
+  "name": "おおくちばし",
+  "furigana": "おおくちばし",
+  "english_name": "Beakon",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/06/ookuchibashi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おおくちばし.webp",
+  "monster_family": "おおくちばし族",
+  "search_keywords": [
+    "Beakon",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "STAR",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00155",
+  "prev_id": "2E05B0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/22/tahodoraky/",
+  "next_id": "2E08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
+  "color_variants": [
+    {
+      "id": "3D05B0005",
+      "name": "デッドペッカー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デッドペッカー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/06/dead-peccer/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

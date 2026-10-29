@@ -1,0 +1,47 @@
+{
+  "id": "5B05B0002",
+  "name": "ヘルズクロウ",
+  "furigana": "へるずくろう",
+  "english_name": "Rantingen raven",
+  "page_url": "https://dqfan527.xsrv.jp/2024/09/26/rantingen-raven/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルズクロウ.webp",
+  "monster_family": "おおがらす族",
+  "search_keywords": [
+    "Rantingen raven",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ11",
+    "DQMSL",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00459",
+  "prev_id": "5B05B0001-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/16/moonkimera/",
+  "next_id": "5B05B0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/11/08/nosfeira/",
+  "color_variants": [
+    {
+      "id": "1F05B0002",
+      "name": "おおがらす",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おおがらす.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/07/oogarasu-2/"
+    },
+    {
+      "id": "3D05B0003",
+      "name": "デスフラッター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デスフラッター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/06/death-flutter/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
