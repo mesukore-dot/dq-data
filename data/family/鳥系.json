@@ -652,6 +652,36 @@
     "zukan_no": "No.00367"
   },
   {
+    "id": "4C05B0002",
+    "name": "アカイライ",
+    "furigana": "あかいらい",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/akairai/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アカイライ.webp",
+    "search_keywords": [
+      "Belisha beakon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00368"
+  },
+  {
     "id": "5B05B0001",
     "name": "スターキメラ",
     "furigana": "すたーきめら",
@@ -698,7 +728,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00457"
+    "zukan_no": "No.00458"
   },
   {
     "id": "5B05B0001-1",
@@ -731,7 +761,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00458"
+    "zukan_no": "No.00459"
   },
   {
     "id": "5B05B0002",
@@ -753,7 +783,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00459"
+    "zukan_no": "No.00460"
   },
   {
     "id": "5B05B0003",
@@ -773,7 +803,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00460"
+    "zukan_no": "No.00461"
   },
   {
     "id": "5B05B0004",
@@ -795,7 +825,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00461"
+    "zukan_no": "No.00462"
   },
   {
     "id": "6A05B0001",
@@ -815,6 +845,6 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00518"
+    "zukan_no": "No.00519"
   }
 ]
