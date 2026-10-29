@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "4C05B0002",
+    "name": "アカイライ",
+    "furigana": "あかいらい",
+    "english_name": "Belisha beakon",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/akairai/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アカイライ.webp",
+    "monster_family": "おおくちばし族",
+    "search_keywords": ["Belisha beakon","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ9","DQ10","DQ10_OFF",
+      "DQM3",
+      "MSP","STAR","RIV","WALK"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D05B0005",
     "name": "デッドペッカー",
     "furigana": "でっどぺっかー",
