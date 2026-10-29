@@ -1,0 +1,69 @@
+{
+  "id": "3D05B0004",
+  "name": "ホークマン",
+  "furigana": "ほーくまん",
+  "english_name": "Hawk man",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/23/fork-man/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ホークマン.webp",
+  "monster_family": "ガーゴイル族",
+  "search_keywords": [
+    "Hawk man",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "DQSW",
+    "DQH1",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00261",
+  "prev_id": "3D05B0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/06/death-flutter/",
+  "next_id": "3D05B0005",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/06/dead-peccer/",
+  "color_variants": [
+    {
+      "id": "4C05B0001",
+      "name": "ガーゴイル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガーゴイル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/gargoyle/"
+    },
+    {
+      "id": "6A05B0001",
+      "name": "マーダーゴイル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マーダーゴイル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/01/murder-goile/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

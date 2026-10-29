@@ -24,12 +24,25 @@
     ""
   ],
   "related_characters": [],
-  "zukan_no": "No.00509",
+  "zukan_no": "No.00518",
   "prev_id": "6A04P0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/15/king-suikaiwa/",
   "next_id": "6A08D0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D05B0004",
+      "name": "ホークマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ホークマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/fork-man/"
+    },
+    {
+      "id": "4C05B0001",
+      "name": "ガーゴイル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガーゴイル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/23/gargoyle/"
+    }
+  ],
   "related_items_details": [
     {
       "id": ""

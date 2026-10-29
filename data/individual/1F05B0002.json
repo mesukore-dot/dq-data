@@ -60,7 +60,20 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D05B0003",
+      "name": "デスフラッター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デスフラッター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/06/death-flutter/"
+    },
+    {
+      "id": "5B05B0002",
+      "name": "ヘルズクロウ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ヘルズクロウ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/09/26/rantingen-raven/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"

@@ -27,8 +27,8 @@
   "zukan_no": "No.00153",
   "prev_id": "2E05B0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/27/%e3%82%ad%e3%83%a1%e3%83%a9/",
-  "next_id": "2E08D0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
+  "next_id": "2E05B0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/22/tahodoraky/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成26年）2014年10月15日、スマートフォン向けアプリ「ドラゴンクエストモンスターズ スーパーライト」から登場。",
@@ -53,6 +53,12 @@
       "name": "メイジドラキー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイジドラキー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%a1%e3%82%a4%e3%82%b8%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/"
+    },
+    {
+      "id": "2E05B0004",
+      "name": "タホドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/タホドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/22/tahodoraky/"
     },
     {
       "id": "3D05B0001",
