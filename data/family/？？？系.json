@@ -1,6 +1,50 @@
 [
   {
-    "id": "9X14?0001",
+    "id": "8SS14?1N010001",
+    "name": "りゅうおう",
+    "furigana": "りゅうおう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおう.webp",
+    "search_keywords": [
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQB1",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1987年5月27日",
+    "zukan_no": "No.00603"
+  },
+  {
+    "id": "8SS14?2MJ30001",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
     "page_url": "https://dqfan527.xsrv.jp/2026/07/10/daimao-madexuraja/",
@@ -18,10 +62,56 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00612"
+    "zukan_no": "No.00604"
   },
   {
-    "id": "9X14?0002",
+    "id": "9X14?1N010001",
+    "name": "竜王",
+    "furigana": "りゅうおう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王.webp",
+    "search_keywords": [
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ7_RM",
+      "DQ9",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQB1",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1987年5月27日",
+    "zukan_no": "No.00614"
+  },
+  {
+    "id": "9X14?2MJ30002",
     "name": "魔界神マデュラーシャ",
     "furigana": "まかいしんまでゅらーしゃ",
     "page_url": "https://dqfan527.xsrv.jp/2026/07/10/makaishin-madexuraja/",
@@ -39,6 +129,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00613"
+    "zukan_no": "No.00615"
   }
 ]
