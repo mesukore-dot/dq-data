@@ -8,6 +8,7 @@
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおう.webp",
   "monster_family": "りゅうおう族",
   "search_keywords": [
+    "Dragonlord",
     "ボス",
     "魔王",
     "公式イラストあり"
@@ -43,18 +44,25 @@
   "main_family": "？？？系",
   "sub_family": "-",
   "other_families": [],
-  "release_date": "1987年5月27日",
+  "release_date": "1986年5月27日",
   "voice_actor": "大塚芳忠",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00603",
+  "zukan_no": "No.00604",
   "prev_id": "8SS13Z0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/10/tyriant/",
-  "next_id": "8SS14?2MJ30001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/10/daimao-madexuraja/",
-  "color_variants": [],
+  "next_id": "8SS14?1N020001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/25/ha-gon/",
+  "color_variants": [
+    {
+      "id": "7S14?1N020001",
+      "name": "りゅうおうのひまご",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおうのひまご.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"

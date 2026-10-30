@@ -1,11 +1,34 @@
 [
   {
+    "id": "7S14?1N020001",
+    "name": "りゅうおうのひまご",
+    "furigana": "りゅうおうのひまご",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおうのひまご.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00569"
+  },
+  {
     "id": "8SS14?1N010001",
     "name": "りゅうおう",
     "furigana": "りゅうおう",
     "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおう.webp",
     "search_keywords": [
+      "Dragonlord",
       "ボス",
       "魔王",
       "公式イラストあり"
@@ -40,8 +63,72 @@
     ],
     "main_family": "？？？系",
     "sub_family": "-",
-    "release_date": "1987年5月27日",
-    "zukan_no": "No.00603"
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00604"
+  },
+  {
+    "id": "8SS14?1N020001",
+    "name": "ハーゴン",
+    "furigana": "はーごん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/25/ha-gon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハーゴン.webp",
+    "search_keywords": [
+      "Hargon",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00605"
+  },
+  {
+    "id": "8SS14?1N020002",
+    "name": "竜王のひ孫",
+    "furigana": "りゅうおうのひまご",
+    "page_url": "https://dqfan527.xsrv.jp/2025/12/03/ryuou-no-himago2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王のひ孫.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00606"
   },
   {
     "id": "8SS14?2MJ30001",
@@ -62,7 +149,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00604"
+    "zukan_no": "No.00607"
   },
   {
     "id": "9X14?1N010001",
@@ -71,6 +158,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王.webp",
     "search_keywords": [
+      "Dragonlord",
       "ボス",
       "魔王",
       "公式イラストあり"
@@ -107,8 +195,78 @@
     ],
     "main_family": "？？？系",
     "sub_family": "-",
-    "release_date": "1987年5月27日",
-    "zukan_no": "No.00614"
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00617"
+  },
+  {
+    "id": "9X14?1N020001",
+    "name": "シドー",
+    "furigana": "しどー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/25/shido/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/シドー.webp",
+    "search_keywords": [
+      "Malroth",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ7_RM",
+      "DQ9",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH2",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00618"
+  },
+  {
+    "id": "9X14?1N020002",
+    "name": "マガシドー",
+    "furigana": "まがしどー",
+    "page_url": "https://dqfan527.xsrv.jp/2025/12/03/magashido/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/マガシドー.webp",
+    "search_keywords": [
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00619"
   },
   {
     "id": "9X14?2MJ30002",
@@ -129,6 +287,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00615"
+    "zukan_no": "No.00620"
   }
 ]
