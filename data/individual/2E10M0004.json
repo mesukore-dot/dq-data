@@ -36,7 +36,14 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/samayouyoroi/",
   "next_id": "2E10M0005",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/29/grinade/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D10M0005",
+      "name": "キラートーチ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラートーチ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/20/killer-torch/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }

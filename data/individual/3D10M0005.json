@@ -1,0 +1,43 @@
+{
+  "id": "3D10M0005",
+  "name": "キラートーチ",
+  "furigana": "きらーとーち",
+  "english_name": "Killer torch",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/20/killer-torch/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラートーチ.webp",
+  "monster_family": "おばけキャンドル族",
+  "search_keywords": [
+    "Killer torch",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQBS",
+    "MSP",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年8月2日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00284",
+  "prev_id": "3D10M0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/jigokunoyoroi/",
+  "next_id": "3D11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/",
+  "color_variants": [
+    {
+      "id": "2E10M0004",
+      "name": "ともしびこぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ともしびこぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/17/tomoshibikozou/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
