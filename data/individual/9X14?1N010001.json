@@ -8,6 +8,7 @@
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王.webp",
   "monster_family": "竜王族",
   "search_keywords": [
+    "Dragonlord",
     "ボス",
     "魔王",
     "公式イラストあり"
@@ -45,18 +46,25 @@
   "main_family": "？？？系",
   "sub_family": "-",
   "other_families": [],
-  "release_date": "1987年5月27日",
+  "release_date": "1986年5月27日",
   "voice_actor": "-",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00614",
+  "zukan_no": "No.00617",
   "prev_id": "9X03B0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/12/bjorn-the-behemoose/",
-  "next_id": "9X14?2MJ30002",
-  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/10/makaishin-madexuraja/",
-  "color_variants": [],
+  "next_id": "9X14?1N020001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/25/shido/",
+  "color_variants": [
+    {
+      "id": "8SS14?1N020002",
+      "name": "竜王のひ孫",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王のひ孫.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/12/03/ryuou-no-himago2/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"
