@@ -416,6 +416,43 @@
     "zukan_no": "No.00165"
   },
   {
+    "id": "2E10M0005",
+    "name": "スマイルロック",
+    "furigana": "すまいるろっく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/29/grinade/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマイルロック.webp",
+    "search_keywords": [
+      "grinade",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FY1",
+      "DQH1",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00166"
+  },
+  {
     "id": "3D10M0001",
     "name": "マジカルハット",
     "furigana": "まじかるはっと",
@@ -442,7 +479,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00279"
+    "zukan_no": "No.00280"
   },
   {
     "id": "3D10M0002",
@@ -462,7 +499,7 @@
     "main_family": "物質系",
     "sub_family": "炎・マグマ",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00280"
+    "zukan_no": "No.00281"
   },
   {
     "id": "3D10M0003",
@@ -514,7 +551,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00281"
+    "zukan_no": "No.00282"
   },
   {
     "id": "3D10M0004",
@@ -562,7 +599,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00282"
+    "zukan_no": "No.00283"
   },
   {
     "id": "4C10M0001",
@@ -617,7 +654,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00384"
+    "zukan_no": "No.00385"
   },
   {
     "id": "4C10M0002",
@@ -661,7 +698,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00385"
+    "zukan_no": "No.00386"
   },
   {
     "id": "4C10M0003",
@@ -679,7 +716,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00386"
+    "zukan_no": "No.00387"
   },
   {
     "id": "4C10M0004",
@@ -755,7 +792,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00387"
+    "zukan_no": "No.00388"
   },
   {
     "id": "4C10M0005",
@@ -810,7 +847,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00388"
+    "zukan_no": "No.00389"
   },
   {
     "id": "4C10M0006",
@@ -835,7 +872,26 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00389"
+    "zukan_no": "No.00390"
+  },
+  {
+    "id": "4C10M0007",
+    "name": "オーロラウンダー",
+    "furigana": "おーろらうんだー",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/15/aurora-rounder/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オーロラウンダー.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2015年12月24日",
+    "zukan_no": "No.00391"
   },
   {
     "id": "5B10M0001",
@@ -893,7 +949,7 @@
     "main_family": "物質系",
     "sub_family": "ゴールデン",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00475"
+    "zukan_no": "No.00477"
   },
   {
     "id": "5B10M0002",
@@ -923,7 +979,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00476"
+    "zukan_no": "No.00478"
   },
   {
     "id": "5B10M0003",
@@ -942,7 +998,53 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00477"
+    "zukan_no": "No.00479"
+  },
+  {
+    "id": "5B10M0004",
+    "name": "メガザルロック",
+    "furigana": "めがざるろっく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/29/megararu-rock/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メガザルロック.webp",
+    "search_keywords": [
+      "Wickerman",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ6",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQSW",
+      "DQH1",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00480"
   },
   {
     "id": "6A10M0001",
@@ -1015,7 +1117,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00532"
+    "zukan_no": "No.00535"
   },
   {
     "id": "6A10M0002",
@@ -1038,7 +1140,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00533"
+    "zukan_no": "No.00536"
   },
   {
     "id": "6A10M0003",
@@ -1062,7 +1164,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00534"
+    "zukan_no": "No.00537"
   },
   {
     "id": "7S10M0001",
@@ -1101,7 +1203,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00576"
+    "zukan_no": "No.00579"
   },
   {
     "id": "7S10M0002",
@@ -1124,7 +1226,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1993年12月18日",
-    "zukan_no": "No.00577"
+    "zukan_no": "No.00580"
   },
   {
     "id": "7S10M0003",
@@ -1162,7 +1264,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00578"
+    "zukan_no": "No.00581"
   },
   {
     "id": "8SS10M0001",
@@ -1185,6 +1287,6 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00609"
+    "zukan_no": "No.00612"
   }
 ]
