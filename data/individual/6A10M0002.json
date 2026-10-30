@@ -1,0 +1,84 @@
+{
+  "id": "6A10M0002",
+  "name": "アイアンナイト",
+  "furigana": "あいあんないと",
+  "english_name": "IronNite",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/11/iron-knight/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アイアンナイト.webp",
+  "monster_family": "さまようよろい族",
+  "search_keywords": [
+    "IronNite",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3_GBC",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年12月8日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00533",
+  "prev_id": "6A10M0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/17/go-remu/",
+  "next_id": "6A10M0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/12/golden-corporal/",
+  "color_variants": [
+    {
+      "id": "2E10M0003",
+      "name": "さまようよろい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/さまようよろい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/samayouyoroi/"
+    },
+    {
+      "id": "3D10M0004",
+      "name": "じごくのよろい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じごくのよろい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/jigokunoyoroi/"
+    },
+    {
+      "id": "3D14?1N030001",
+      "name": "カンダタこぶん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カンダタこぶん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/"
+    },
+    {
+      "id": "4C10M0003",
+      "name": "アクロナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アクロナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/16/acro-knight/"
+    },
+    {
+      "id": "4C10M0005",
+      "name": "キラーアーマー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーアーマー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/killer-armor/"
+    },
+    {
+      "id": "6A10M0003",
+      "name": "黄金兵長",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/黄金兵長.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/12/golden-corporal/"
+    },
+    {
+      "id": "7S10M0003",
+      "name": "ピサロナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ピサロナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/pisaroknight/"
+    },
+    {
+      "id": "8SS10M0001",
+      "name": "さまようロトのよろい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/さまようロトのよろい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/11/erdricks-restless-armour/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

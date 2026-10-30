@@ -19,17 +19,59 @@
   "release_date": "2025年10月30日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00383",
+  "zukan_no": "No.00386",
   "prev_id": "4C10M0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/23/puppet-man/",
   "next_id": "4C10M0004",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/bakudaniwa/",
   "color_variants": [
     {
+      "id": "2E10M0003",
+      "name": "さまようよろい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/さまようよろい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/samayouyoroi/"
+    },
+    {
+      "id": "3D10M0004",
+      "name": "じごくのよろい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/じごくのよろい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/jigokunoyoroi/"
+    },
+    {
       "id": "3D14?1N030001",
       "name": "カンダタこぶん",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カンダタこぶん.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/"
+    },
+    {
+      "id": "4C10M0005",
+      "name": "キラーアーマー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーアーマー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/killer-armor/"
+    },
+    {
+      "id": "6A10M0002",
+      "name": "アイアンナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/アイアンナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/iron-knight/"
+    },
+    {
+      "id": "6A10M0003",
+      "name": "黄金兵長",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/黄金兵長.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/12/golden-corporal/"
+    },
+    {
+      "id": "7S10M0003",
+      "name": "ピサロナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ピサロナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/pisaroknight/"
+    },
+    {
+      "id": "8SS10M0001",
+      "name": "さまようロトのよろい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/さまようロトのよろい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/11/erdricks-restless-armour/"
     }
   ],
   "related_items_details": [],
