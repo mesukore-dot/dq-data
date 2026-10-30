@@ -1,5 +1,44 @@
 [
   {
+    "id": "3D14?1N030001",
+    "name": "カンダタこぶん",
+    "furigana": "かんだたこぶん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カンダタこぶん.webp",
+    "search_keywords": [
+      "Robbin'hyddle",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ10",
+      "DQ11",
+      "FY1",
+      "DQH1",
+      "DQH2",
+      "DQTR",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00281"
+  },
+  {
     "id": "7S14?1N020001",
     "name": "りゅうおうのひまご",
     "furigana": "りゅうおうのひまご",
@@ -19,7 +58,62 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00569"
+    "zukan_no": "No.00570"
+  },
+  {
+    "id": "7S14?1N030001",
+    "name": "カンダタ",
+    "furigana": "かんだた",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kandata/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/カンダタ.webp",
+    "search_keywords": [
+      "Robbin''ood",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_3D",
+      "DQ10",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "FY1",
+      "DQH1",
+      "DQH2",
+      "DQTR",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00571"
   },
   {
     "id": "8SS14?1N010001",
@@ -64,7 +158,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00604"
+    "zukan_no": "No.00606"
   },
   {
     "id": "8SS14?1N020001",
@@ -107,7 +201,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00605"
+    "zukan_no": "No.00607"
   },
   {
     "id": "8SS14?1N020002",
@@ -128,7 +222,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00606"
+    "zukan_no": "No.00608"
   },
   {
     "id": "8SS14?2MJ30001",
@@ -149,7 +243,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00607"
+    "zukan_no": "No.00609"
   },
   {
     "id": "9X14?1N010001",
@@ -196,7 +290,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00617"
+    "zukan_no": "No.00619"
   },
   {
     "id": "9X14?1N020001",
@@ -245,7 +339,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00618"
+    "zukan_no": "No.00620"
   },
   {
     "id": "9X14?1N020002",
@@ -266,7 +360,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00619"
+    "zukan_no": "No.00621"
   },
   {
     "id": "9X14?2MJ30002",
@@ -287,6 +381,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00620"
+    "zukan_no": "No.00622"
   }
 ]
