@@ -29,7 +29,7 @@
     "1F04P0008",
     "2E01S0002"
   ],
-  "zukan_no": "No.00252",
+  "zukan_no": "No.00253",
   "prev_id": "3D04P0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/27/paprikan/",
   "next_id": "3D04P0006",
@@ -49,10 +49,22 @@
   ],
   "color_variants": [
     {
+      "id": "2E10M0005",
+      "name": "スマイルロック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマイルロック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/29/grinade/"
+    },
+    {
       "id": "4C10M0004",
       "name": "ばくだんいわ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ばくだんいわ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/11/bakudaniwa/"
+    },
+    {
+      "id": "4C10M0007",
+      "name": "オーロラウンダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オーロラウンダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/15/aurora-rounder/"
     },
     {
       "id": "5B04P0003",
@@ -65,6 +77,12 @@
       "name": "ブリザーロック",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブリザーロック.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/11/08/blizzard-rock/"
+    },
+    {
+      "id": "5B10M0004",
+      "name": "メガザルロック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メガザルロック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/29/megararu-rock/"
     },
     {
       "id": "6A04P0002",

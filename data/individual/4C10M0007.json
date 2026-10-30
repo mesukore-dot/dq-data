@@ -1,0 +1,74 @@
+{
+  "id": "4C10M0007",
+  "name": "オーロラウンダー",
+  "furigana": "おーろらうんだー",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/03/15/aurora-rounder/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/オーロラウンダー.webp",
+  "monster_family": "ばくだんいわ族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2015年12月24日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00391",
+  "prev_id": "4C10M0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/14/gyldenaut/",
+  "next_id": "4C11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/19/robo-robin/",
+  "color_variants": [
+    {
+      "id": "2E10M0005",
+      "name": "スマイルロック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマイルロック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/29/grinade/"
+    },
+    {
+      "id": "3D04P0005",
+      "name": "スイカ岩",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/スイカ岩.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/01/suikaiwa/"
+    },
+    {
+      "id": "4C10M0004",
+      "name": "ばくだんいわ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ばくだんいわ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/bakudaniwa/"
+    },
+    {
+      "id": "5B04P0003",
+      "name": "エル・サンティーア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/エル・サンティーア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/15/el-sandia/"
+    },
+    {
+      "id": "5B10M0003",
+      "name": "ブリザーロック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ブリザーロック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/08/blizzard-rock/"
+    },
+    {
+      "id": "5B10M0004",
+      "name": "メガザルロック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メガザルロック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/29/megararu-rock/"
+    },
+    {
+      "id": "6A04P0002",
+      "name": "キングスイカ岩",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キングスイカ岩.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/07/15/king-suikaiwa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
