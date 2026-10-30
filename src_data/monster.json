@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "3D10M0005",
+    "name": "キラートーチ",
+    "furigana": "きらーとーち",
+    "english_name": "Killer torch",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/20/killer-torch/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラートーチ.webp",
+    "monster_family": "おばけキャンドル族",
+    "search_keywords": ["Killer torch","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+     "DQ10",
+     "DQBS",
+     "MSP","STAR","WALK","TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C10M0007",
     "name": "オーロラウンダー",
     "furigana": "おーろらうんだー",
