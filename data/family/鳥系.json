@@ -846,5 +846,80 @@
     "sub_family": "-",
     "release_date": "2025年10月30日",
     "zukan_no": "No.00520"
+  },
+  {
+    "id": "9X05B0001",
+    "name": "ラーミア",
+    "furigana": "らーみあ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/ramia/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ラーミア.webp",
+    "search_keywords": [
+      "Ramia",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00619"
+  },
+  {
+    "id": "9X05B0002",
+    "name": "神鳥レティス",
+    "furigana": "しんちょうれてぃす",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/14/ramia-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/神鳥レティス.webp",
+    "search_keywords": [
+      "Ramia",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00620"
   }
 ]
