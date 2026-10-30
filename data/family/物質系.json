@@ -146,6 +146,28 @@
     "zukan_no": "No.00072"
   },
   {
+    "id": "1F10M0004-1",
+    "name": "モッツァレーラ",
+    "furigana": "もっつぁれーら",
+    "page_url": "https://dqfan527.xsrv.jp/2026/10/30/mozzarella/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モッツァレーラ.webp",
+    "search_keywords": [
+      "転生モンスター",
+      "たべもの",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2014年12月25日",
+    "zukan_no": "No.00073"
+  },
+  {
     "id": "1F10M0005",
     "name": "わらいぶくろ",
     "furigana": "わらいぶくろ",
@@ -202,7 +224,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00073"
+    "zukan_no": "No.00074"
   },
   {
     "id": "2E10M0001",
@@ -222,7 +244,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00161"
+    "zukan_no": "No.00162"
   },
   {
     "id": "2E10M0002",
@@ -288,7 +310,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00162"
+    "zukan_no": "No.00163"
   },
   {
     "id": "3D10M0001",
@@ -317,7 +339,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00276"
+    "zukan_no": "No.00277"
   },
   {
     "id": "3D10M0002",
@@ -337,7 +359,7 @@
     "main_family": "物質系",
     "sub_family": "炎・マグマ",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00277"
+    "zukan_no": "No.00278"
   },
   {
     "id": "3D10M0003",
@@ -389,7 +411,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00278"
+    "zukan_no": "No.00279"
   },
   {
     "id": "4C10M0001",
@@ -444,7 +466,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00380"
+    "zukan_no": "No.00381"
   },
   {
     "id": "4C10M0002",
@@ -488,7 +510,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00381"
+    "zukan_no": "No.00382"
   },
   {
     "id": "4C10M0003",
@@ -506,7 +528,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00382"
+    "zukan_no": "No.00383"
   },
   {
     "id": "4C10M0004",
@@ -582,7 +604,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00383"
+    "zukan_no": "No.00384"
   },
   {
     "id": "5B10M0001",
@@ -640,7 +662,7 @@
     "main_family": "物質系",
     "sub_family": "ゴールデン",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00469"
+    "zukan_no": "No.00470"
   },
   {
     "id": "5B10M0002",
@@ -670,7 +692,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00470"
+    "zukan_no": "No.00471"
   },
   {
     "id": "5B10M0003",
@@ -689,7 +711,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00471"
+    "zukan_no": "No.00472"
   },
   {
     "id": "6A10M0001",
@@ -762,7 +784,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00526"
+    "zukan_no": "No.00527"
   },
   {
     "id": "7S10M0001",
@@ -801,7 +823,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00568"
+    "zukan_no": "No.00569"
   },
   {
     "id": "7S10M0002",
@@ -824,6 +846,6 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1993年12月18日",
-    "zukan_no": "No.00569"
+    "zukan_no": "No.00570"
   }
 ]

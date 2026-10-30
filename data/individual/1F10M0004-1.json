@@ -1,0 +1,41 @@
+{
+  "id": "1F10M0004-1",
+  "name": "モッツァレーラ",
+  "furigana": "もっつぁれーら",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/10/30/mozzarella/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モッツァレーラ.webp",
+  "monster_family": "フォンデュ族",
+  "search_keywords": [
+    "転生モンスター",
+    "たべもの",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2014年12月25日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00073",
+  "prev_id": "1F10M0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/21/fondue/",
+  "next_id": "1F10M0005",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/waraibukuro/",
+  "color_variants": [
+    {
+      "id": "1F10M0004",
+      "name": "フォンデュ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/フォンデュ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/fondue/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
