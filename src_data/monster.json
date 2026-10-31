@@ -1188,6 +1188,28 @@
     "related_characters": []
   },
   {
+    "id": "2E10M0002-1",
+    "name": "スウィートバッグ",
+    "furigana": "すうぃーとばっぐ",
+    "english_name": "Bag o'sweets",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sweets-bag/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スウィートバッグ.webp",
+    "monster_family": "おどるほうせき族",
+    "search_keywords": ["Bag o'sweets","転生モンスター","バレンタイン・ホワイトデー","たべもの","お菓子","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ7_3D","DQ10","DQ10_OFF","DQ11",
+      "DQM3",
+      "RIV","WALK","TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年12月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "2E10M0002",
     "name": "おどるほうせき",
     "furigana": "おどるほうせき",
