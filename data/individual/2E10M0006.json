@@ -1,0 +1,68 @@
+{
+  "id": "2E10M0006",
+  "name": "くろカビこぞう",
+  "furigana": "くろかびこぞう",
+  "english_name": "Fromage grey",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/16/fromage-grey/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/くろカビこぞう.webp",
+  "monster_family": "フォンデュ族",
+  "search_keywords": [
+    "Fromage grey",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "STAR"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2014年2月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00167",
+  "prev_id": "2E10M0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/29/grinade/",
+  "next_id": "2E11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/",
+  "color_variants": [
+    {
+      "id": "1F10M0004",
+      "name": "フォンデュ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/フォンデュ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/fondue/"
+    },
+    {
+      "id": "1F10M0004-1",
+      "name": "モッツァレーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モッツァレーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/30/mozzarella/"
+    },
+    {
+      "id": "3D10M0006",
+      "name": "ケミカルゼリー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ケミカルゼリー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chemical-jelly/"
+    },
+    {
+      "id": "4C10M0008",
+      "name": "ゴルゴンゾーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴルゴンゾーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/09/19/goregonzolla/"
+    },
+    {
+      "id": "5B10M0005",
+      "name": "ハロウィンフォンデュ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンフォンデュ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/03/halloween-fondue/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

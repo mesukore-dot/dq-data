@@ -1,0 +1,65 @@
+{
+  "id": "3D10M0006",
+  "name": "ケミカルゼリー",
+  "furigana": "けみかるぜりー",
+  "english_name": "Fromage fey",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chemical-jelly/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ケミカルゼリー.webp",
+  "monster_family": "フォンデュ族",
+  "search_keywords": [
+    "Fromage fey",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ11",
+    "DQM3",
+    "RIV"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2016年5月25日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00286",
+  "prev_id": "3D10M0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/20/killer-torch/",
+  "next_id": "3D10M0007",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/iron-maiden/",
+  "color_variants": [
+    {
+      "id": "1F10M0004",
+      "name": "フォンデュ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/フォンデュ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/fondue/"
+    },
+    {
+      "id": "1F10M0004-1",
+      "name": "モッツァレーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/モッツァレーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/30/mozzarella/"
+    },
+    {
+      "id": "2E10M0006",
+      "name": "くろカビこぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/くろカビこぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/16/fromage-grey/"
+    },
+    {
+      "id": "4C10M0008",
+      "name": "ゴルゴンゾーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴルゴンゾーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/09/19/goregonzolla/"
+    },
+    {
+      "id": "5B10M0005",
+      "name": "ハロウィンフォンデュ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンフォンデュ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/03/halloween-fondue/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

@@ -453,6 +453,31 @@
     "zukan_no": "No.00166"
   },
   {
+    "id": "2E10M0006",
+    "name": "くろカビこぞう",
+    "furigana": "くろかびこぞう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/16/fromage-grey/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/くろカビこぞう.webp",
+    "search_keywords": [
+      "Fromage grey",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2014年2月27日",
+    "zukan_no": "No.00167"
+  },
+  {
     "id": "3D10M0001",
     "name": "マジカルハット",
     "furigana": "まじかるはっと",
@@ -479,7 +504,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00280"
+    "zukan_no": "No.00281"
   },
   {
     "id": "3D10M0002",
@@ -499,7 +524,7 @@
     "main_family": "物質系",
     "sub_family": "炎・マグマ",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00281"
+    "zukan_no": "No.00282"
   },
   {
     "id": "3D10M0003",
@@ -551,7 +576,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00282"
+    "zukan_no": "No.00283"
   },
   {
     "id": "3D10M0004",
@@ -599,7 +624,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00283"
+    "zukan_no": "No.00284"
   },
   {
     "id": "3D10M0005",
@@ -623,7 +648,56 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00284"
+    "zukan_no": "No.00285"
+  },
+  {
+    "id": "3D10M0006",
+    "name": "ケミカルゼリー",
+    "furigana": "けみかるぜりー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/chemical-jelly/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ケミカルゼリー.webp",
+    "search_keywords": [
+      "Fromage fey",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ11",
+      "DQM3",
+      "RIV"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2016年5月25日",
+    "zukan_no": "No.00286"
+  },
+  {
+    "id": "3D10M0007",
+    "name": "メイデンドール",
+    "furigana": "めいでんどーる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/iron-maiden/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイデンドール.webp",
+    "search_keywords": [
+      "Iron maiden",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ10",
+      "DQ11",
+      "DQM1_SP",
+      "DQM2_SP",
+      "DQM3",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00287"
   },
   {
     "id": "4C10M0001",
@@ -678,7 +752,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00386"
+    "zukan_no": "No.00389"
   },
   {
     "id": "4C10M0002",
@@ -722,7 +796,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00387"
+    "zukan_no": "No.00390"
   },
   {
     "id": "4C10M0003",
@@ -740,7 +814,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00388"
+    "zukan_no": "No.00391"
   },
   {
     "id": "4C10M0004",
@@ -816,7 +890,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00389"
+    "zukan_no": "No.00392"
   },
   {
     "id": "4C10M0005",
@@ -871,7 +945,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00390"
+    "zukan_no": "No.00393"
   },
   {
     "id": "4C10M0006",
@@ -896,7 +970,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00391"
+    "zukan_no": "No.00394"
   },
   {
     "id": "4C10M0007",
@@ -915,7 +989,53 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00392"
+    "zukan_no": "No.00395"
+  },
+  {
+    "id": "4C10M0008",
+    "name": "ゴルゴンゾーラ",
+    "furigana": "ごるごんぞーら",
+    "page_url": "https://dqfan527.xsrv.jp/2024/09/19/goregonzolla/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴルゴンゾーラ.webp",
+    "search_keywords": [
+      "Goregonzolla",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMJ3",
+    "appearances": [
+      "DQ10",
+      "DQMJ3",
+      "DQMJ3_P",
+      "RIV"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2016年3月24日",
+    "zukan_no": "No.00396"
+  },
+  {
+    "id": "4C10M0009",
+    "name": "セイレーンゴースト",
+    "furigana": "せいれーんごーすと",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/10/siren-ghost/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/セイレーンゴースト.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM1_SP",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00397"
   },
   {
     "id": "5B10M0001",
@@ -973,7 +1093,7 @@
     "main_family": "物質系",
     "sub_family": "ゴールデン",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00478"
+    "zukan_no": "No.00483"
   },
   {
     "id": "5B10M0002",
@@ -1003,7 +1123,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00479"
+    "zukan_no": "No.00484"
   },
   {
     "id": "5B10M0003",
@@ -1022,7 +1142,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00480"
+    "zukan_no": "No.00485"
   },
   {
     "id": "5B10M0004",
@@ -1068,7 +1188,50 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00481"
+    "zukan_no": "No.00486"
+  },
+  {
+    "id": "5B10M0005",
+    "name": "ハロウィンフォンデュ",
+    "furigana": "はろうぃんふぉんでゅ",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/03/halloween-fondue/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンフォンデュ.webp",
+    "search_keywords": [
+      "ハロウィン",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2018年10月19日",
+    "zukan_no": "No.00487"
+  },
+  {
+    "id": "5B10M0006",
+    "name": "デスマドモアゼル",
+    "furigana": "ですまどもあぜる",
+    "page_url": "https://dqfan527.xsrv.jp/2025/02/13/death-mademoiselle/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デスマドモアゼル.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1_SP",
+      "DQM2_SP",
+      "DQMSL",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00488"
   },
   {
     "id": "6A10M0001",
@@ -1141,7 +1304,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00536"
+    "zukan_no": "No.00543"
   },
   {
     "id": "6A10M0002",
@@ -1164,7 +1327,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00537"
+    "zukan_no": "No.00544"
   },
   {
     "id": "6A10M0003",
@@ -1188,7 +1351,49 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00538"
+    "zukan_no": "No.00545"
+  },
+  {
+    "id": "6A10M0004",
+    "name": "ゴールデンゴーレム",
+    "furigana": "ごーるでんごーれむ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/golden-golem/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールデンゴーレム.webp",
+    "search_keywords": [
+      "Balhib",
+      "ゴールデン・黄金",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00546"
   },
   {
     "id": "7S10M0001",
@@ -1227,7 +1432,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00580"
+    "zukan_no": "No.00588"
   },
   {
     "id": "7S10M0002",
@@ -1250,7 +1455,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1993年12月18日",
-    "zukan_no": "No.00581"
+    "zukan_no": "No.00589"
   },
   {
     "id": "7S10M0003",
@@ -1288,7 +1493,51 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00582"
+    "zukan_no": "No.00590"
+  },
+  {
+    "id": "7S10M0004",
+    "name": "メルトア",
+    "furigana": "めるとあ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dora-in-grey/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メルトア.webp",
+    "search_keywords": [
+      "Dora-in-grey",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM1_SP",
+      "DQM2_SP",
+      "DQM3",
+      "DQMSL",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00591"
+  },
+  {
+    "id": "7S10M0004-1",
+    "name": "ハロウィンメルトア",
+    "furigana": "はろうぃんめるとあ",
+    "page_url": "https://dqfan527.xsrv.jp/2025/09/16/halloween-mertoa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メルトア.webp",
+    "search_keywords": [
+      "ハロウィン",
+      "公式イラストあり"
+    ],
+    "first_appearance": "TACT",
+    "appearances": [
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "ハロウィン",
+    "release_date": "2021年10月22日",
+    "zukan_no": "No.00592"
   },
   {
     "id": "8SS10M0001",
@@ -1311,6 +1560,6 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00613"
+    "zukan_no": "No.00623"
   }
 ]

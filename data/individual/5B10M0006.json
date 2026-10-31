@@ -1,0 +1,67 @@
+{
+  "id": "5B10M0006",
+  "name": "デスマドモアゼル",
+  "furigana": "ですまどもあぜる",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/02/13/death-mademoiselle/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デスマドモアゼル.webp",
+  "monster_family": "メイデンドール族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1_SP",
+    "DQM2_SP",
+    "DQMSL",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00488",
+  "prev_id": "5B10M0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/10/03/halloween-fondue/",
+  "next_id": "5B11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/28/killer-machine/",
+  "color_variants": [
+    {
+      "id": "3D10M0007",
+      "name": "メイデンドール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイデンドール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/iron-maiden/"
+    },
+    {
+      "id": "4C10M0009",
+      "name": "セイレーンゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/セイレーンゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/10/siren-ghost/"
+    },
+    {
+      "id": "7S10M0002",
+      "name": "ミリエラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ミリエラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/10/miriera/"
+    },
+    {
+      "id": "7S10M0004",
+      "name": "メルトア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メルトア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dora-in-grey/"
+    },
+    {
+      "id": "7S10M0004-1",
+      "name": "ハロウィンメルトア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メルトア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/16/halloween-mertoa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
