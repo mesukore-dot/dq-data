@@ -1,0 +1,55 @@
+{
+  "id": "2E10M0002-1",
+  "name": "スウィートバッグ",
+  "furigana": "すうぃーとばっぐ",
+  "english_name": "Bag o'sweets",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sweets-bag/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スウィートバッグ.webp",
+  "monster_family": "おどるほうせき族",
+  "search_keywords": [
+    "Bag o'sweets",
+    "転生モンスター",
+    "バレンタイン・ホワイトデー",
+    "たべもの",
+    "お菓子",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ7_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM3",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年12月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00164",
+  "prev_id": "2E10M0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/11/odoruhouseki/",
+  "next_id": "2E10M0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/samayouyoroi/",
+  "color_variants": [
+    {
+      "id": "1F10M0005",
+      "name": "わらいぶくろ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/わらいぶくろ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/waraibukuro/"
+    },
+    {
+      "id": "2E10M0002",
+      "name": "おどるほうせき",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/おどるほうせき.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/11/odoruhouseki/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

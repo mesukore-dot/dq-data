@@ -70,14 +70,20 @@
   "zukan_no": "No.00163",
   "prev_id": "2E10M0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/honey-eater/",
-  "next_id": "2E10M0003",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/samayouyoroi/",
+  "next_id": "2E10M0002-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/sweets-bag/",
   "color_variants": [
     {
       "id": "1F10M0005",
       "name": "わらいぶくろ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/わらいぶくろ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/06/11/waraibukuro/"
+    },
+    {
+      "id": "2E10M0002-1",
+      "name": "スウィートバッグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スウィートバッグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/sweets-bag/"
     }
   ],
   "related_items_details": [],
