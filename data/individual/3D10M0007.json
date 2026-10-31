@@ -1,0 +1,70 @@
+{
+  "id": "3D10M0007",
+  "name": "メイデンドール",
+  "furigana": "めいでんどーる",
+  "english_name": "Iron maiden",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/iron-maiden/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイデンドール.webp",
+  "monster_family": "メイデンドール族",
+  "search_keywords": [
+    "Iron maiden",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ10",
+    "DQ11",
+    "DQM1_SP",
+    "DQM2_SP",
+    "DQM3",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00287",
+  "prev_id": "3D10M0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/chemical-jelly/",
+  "next_id": "3D11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/",
+  "color_variants": [
+    {
+      "id": "4C10M0009",
+      "name": "セイレーンゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/セイレーンゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/10/siren-ghost/"
+    },
+    {
+      "id": "5B10M0006",
+      "name": "デスマドモアゼル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/デスマドモアゼル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/13/death-mademoiselle/"
+    },
+    {
+      "id": "7S10M0002",
+      "name": "ミリエラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ミリエラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/10/miriera/"
+    },
+    {
+      "id": "7S10M0004",
+      "name": "メルトア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メルトア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/dora-in-grey/"
+    },
+    {
+      "id": "7S10M0004-1",
+      "name": "ハロウィンメルトア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メルトア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/16/halloween-mertoa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
