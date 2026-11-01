@@ -1525,6 +1525,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくひょうぞう.webp",
     "search_keywords": [
       "Ice sculpture",
+      "氷・雪",
       "公式イラストあり"
     ],
     "first_appearance": "DQH2",
@@ -1535,7 +1536,7 @@
       "TACT"
     ],
     "main_family": "物質系",
-    "sub_family": "-",
+    "sub_family": "氷・雪",
     "release_date": "2016年5月27日",
     "zukan_no": "No.00497"
   },
@@ -1566,6 +1567,26 @@
     "sub_family": "-",
     "release_date": "1990年2月11日",
     "zukan_no": "No.00498"
+  },
+  {
+    "id": "5B10M0011",
+    "name": "エビルバイブル",
+    "furigana": "えびるばいぶる",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/27/evil-bible/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルバイブル.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00499"
   },
   {
     "id": "6A10M0001",
@@ -1638,7 +1659,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00553"
+    "zukan_no": "No.00554"
   },
   {
     "id": "6A10M0002",
@@ -1661,7 +1682,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00554"
+    "zukan_no": "No.00555"
   },
   {
     "id": "6A10M0003",
@@ -1685,7 +1706,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00555"
+    "zukan_no": "No.00556"
   },
   {
     "id": "6A10M0004",
@@ -1727,7 +1748,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00556"
+    "zukan_no": "No.00557"
   },
   {
     "id": "6A10M0005",
@@ -1748,7 +1769,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00557"
+    "zukan_no": "No.00558"
   },
   {
     "id": "6A10M0006",
@@ -1760,7 +1781,7 @@
       "Freaky tiki",
       "公式イラストあり"
     ],
-    "first_appearance": "D9",
+    "first_appearance": "DQ9",
     "appearances": [
       "DQ9",
       "STAR",
@@ -1769,7 +1790,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00558"
+    "zukan_no": "No.00559"
   },
   {
     "id": "7S10M0001",
@@ -1808,7 +1829,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00600"
+    "zukan_no": "No.00601"
   },
   {
     "id": "7S10M0002",
@@ -1831,7 +1852,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1993年12月18日",
-    "zukan_no": "No.00601"
+    "zukan_no": "No.00602"
   },
   {
     "id": "7S10M0003",
@@ -1869,7 +1890,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00602"
+    "zukan_no": "No.00603"
   },
   {
     "id": "7S10M0004",
@@ -1894,7 +1915,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00603"
+    "zukan_no": "No.00604"
   },
   {
     "id": "7S10M0004-1",
@@ -1913,7 +1934,7 @@
     "main_family": "物質系",
     "sub_family": "ハロウィン",
     "release_date": "2021年10月22日",
-    "zukan_no": "No.00604"
+    "zukan_no": "No.00605"
   },
   {
     "id": "8SS10M0001",
@@ -1936,6 +1957,6 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00635"
+    "zukan_no": "No.00636"
   }
 ]
