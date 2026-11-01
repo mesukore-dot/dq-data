@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "5B10M0011",
+    "name": "エビルバイブル",
+    "furigana": "えびるばいぶる",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/27/evil-bible/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルバイブル.webp",
+    "monster_family": "あくまの書族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A10M0006",
     "name": "まおうのかめん",
     "furigana": "まおうのかめん",
@@ -46,7 +67,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まおうのかめん.webp",
     "monster_family": "ガオン族",
     "search_keywords": ["Freaky tiki","公式イラストあり"],
-    "first_appearance": "D9",
+    "first_appearance": "DQ9",
     "appearances": [
       "DQ9",
       "STAR","RIV"
@@ -110,14 +131,14 @@
     "page_url": "https://dqfan527.xsrv.jp/2024/07/26/ice-sculpture/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくひょうぞう.webp",
     "monster_family": "うごくせきぞう族",
-    "search_keywords": ["Ice sculpture","公式イラストあり"],
+    "search_keywords": ["Ice sculpture","氷・雪","公式イラストあり"],
     "first_appearance": "DQH2",
     "appearances": [
       "DQH2",
       "DQMSL","WALK","TACT"
     ],
     "main_family": "物質系",
-    "sub_family": "-",
+    "sub_family": "氷・雪",
     "other_families": [],
     "release_date": "2016年5月27日",
     "related_items": [],
