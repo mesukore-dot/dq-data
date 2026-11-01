@@ -1,0 +1,77 @@
+{
+  "id": "4C10M0011",
+  "name": "だいまじん",
+  "furigana": "だいまじん",
+  "english_name": "Stone guardian",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/13/daimajin/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/だいまじん.webp",
+  "monster_family": "うごくせきぞう族",
+  "search_keywords": [
+    "Stone guardian",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ6",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQMJ3_P",
+    "DQH1",
+    "DQH2",
+    "DQB2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "WALK",
+    "KSKS"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00403",
+  "prev_id": "4C10M0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/01/mystery-dole/",
+  "next_id": "4C11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/19/robo-robin/",
+  "color_variants": [
+    {
+      "id": "3D10M0008",
+      "name": "うごくせきぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくせきぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/ugokusekizou/"
+    },
+    {
+      "id": "5B10M0008",
+      "name": "てんのもんばん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てんのもんばん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/tennomonban/"
+    },
+    {
+      "id": "5B10M0009",
+      "name": "うごくひょうぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくひょうぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/26/ice-sculpture/"
+    },
+    {
+      "id": "6A10M0005",
+      "name": "はがねのきょぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/はがねのきょぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/haganenokyozou/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

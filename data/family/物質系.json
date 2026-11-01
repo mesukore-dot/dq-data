@@ -508,6 +508,36 @@
     "zukan_no": "No.00168"
   },
   {
+    "id": "2E10M0007",
+    "name": "いしにんぎょう",
+    "furigana": "いしにんぎょう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/ishiningyou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/いしにんぎょう.webp",
+    "search_keywords": [
+      "Dirty dogu",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ7_3D",
+      "DQ10",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "DQSG"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00169"
+  },
+  {
     "id": "3D10M0001",
     "name": "マジカルハット",
     "furigana": "まじかるはっと",
@@ -534,7 +564,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00282"
+    "zukan_no": "No.00283"
   },
   {
     "id": "3D10M0002",
@@ -554,7 +584,7 @@
     "main_family": "物質系",
     "sub_family": "炎・マグマ",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00283"
+    "zukan_no": "No.00284"
   },
   {
     "id": "3D10M0003",
@@ -606,7 +636,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00284"
+    "zukan_no": "No.00285"
   },
   {
     "id": "3D10M0004",
@@ -654,7 +684,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00285"
+    "zukan_no": "No.00286"
   },
   {
     "id": "3D10M0005",
@@ -678,7 +708,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00286"
+    "zukan_no": "No.00287"
   },
   {
     "id": "3D10M0006",
@@ -700,7 +730,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2016年5月25日",
-    "zukan_no": "No.00287"
+    "zukan_no": "No.00288"
   },
   {
     "id": "3D10M0007",
@@ -727,7 +757,94 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00288"
+    "zukan_no": "No.00289"
+  },
+  {
+    "id": "3D10M0008",
+    "name": "うごくせきぞう",
+    "furigana": "うごくせきぞう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/11/ugokusekizou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくせきぞう.webp",
+    "search_keywords": [
+      "Living statue",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "DQH1",
+      "DQH2",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00290"
+  },
+  {
+    "id": "3D10M0009",
+    "name": "ガオン",
+    "furigana": "がおん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/gaon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガオン.webp",
+    "search_keywords": [
+      "Cheeky tiki",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2",
+      "DQMJ2_P",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00291"
   },
   {
     "id": "4C10M0001",
@@ -782,7 +899,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00390"
+    "zukan_no": "No.00393"
   },
   {
     "id": "4C10M0002",
@@ -826,7 +943,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00391"
+    "zukan_no": "No.00394"
   },
   {
     "id": "4C10M0003",
@@ -844,7 +961,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00392"
+    "zukan_no": "No.00395"
   },
   {
     "id": "4C10M0004",
@@ -920,7 +1037,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00393"
+    "zukan_no": "No.00396"
   },
   {
     "id": "4C10M0005",
@@ -975,7 +1092,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00394"
+    "zukan_no": "No.00397"
   },
   {
     "id": "4C10M0006",
@@ -1000,7 +1117,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00395"
+    "zukan_no": "No.00398"
   },
   {
     "id": "4C10M0007",
@@ -1019,7 +1136,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2015年12月24日",
-    "zukan_no": "No.00396"
+    "zukan_no": "No.00399"
   },
   {
     "id": "4C10M0008",
@@ -1041,7 +1158,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2016年3月24日",
-    "zukan_no": "No.00397"
+    "zukan_no": "No.00400"
   },
   {
     "id": "4C10M0009",
@@ -1065,7 +1182,88 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00398"
+    "zukan_no": "No.00401"
+  },
+  {
+    "id": "4C10M0010",
+    "name": "ミステリドール",
+    "furigana": "みすてりどーる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/mystery-dole/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ミステリドール.webp",
+    "search_keywords": [
+      "Pocus poppet",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_3D",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00402"
+  },
+  {
+    "id": "4C10M0011",
+    "name": "だいまじん",
+    "furigana": "だいまじん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/13/daimajin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/だいまじん.webp",
+    "search_keywords": [
+      "Stone guardian",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "WALK",
+      "KSKS"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00403"
   },
   {
     "id": "5B10M0001",
@@ -1123,7 +1321,7 @@
     "main_family": "物質系",
     "sub_family": "ゴールデン",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00484"
+    "zukan_no": "No.00489"
   },
   {
     "id": "5B10M0002",
@@ -1153,7 +1351,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2013年12月5日",
-    "zukan_no": "No.00485"
+    "zukan_no": "No.00490"
   },
   {
     "id": "5B10M0003",
@@ -1172,7 +1370,7 @@
     "main_family": "物質系",
     "sub_family": "氷・雪",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00486"
+    "zukan_no": "No.00491"
   },
   {
     "id": "5B10M0004",
@@ -1218,7 +1416,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00487"
+    "zukan_no": "No.00492"
   },
   {
     "id": "5B10M0005",
@@ -1237,7 +1435,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2018年10月19日",
-    "zukan_no": "No.00488"
+    "zukan_no": "No.00493"
   },
   {
     "id": "5B10M0006",
@@ -1261,7 +1459,113 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00489"
+    "zukan_no": "No.00494"
+  },
+  {
+    "id": "5B10M0007",
+    "name": "どぐうせんし",
+    "furigana": "どぐうせんし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/dogusenshi-dq4/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どぐうせんし.webp",
+    "search_keywords": [
+      "Terracotta warrior",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "FTR2",
+      "DQMSL",
+      "RIV"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00495"
+  },
+  {
+    "id": "5B10M0008",
+    "name": "てんのもんばん",
+    "furigana": "てんのもんばん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/11/tennomonban/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てんのもんばん.webp",
+    "search_keywords": [
+      "Great keeper",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3_SFC",
+    "appearances": [
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8_3D",
+      "DQ11",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3_P",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1996年12月6日",
+    "zukan_no": "No.00496"
+  },
+  {
+    "id": "5B10M0009",
+    "name": "うごくひょうぞう",
+    "furigana": "うごくひょうぞう",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/26/ice-sculpture/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくひょうぞう.webp",
+    "search_keywords": [
+      "Ice sculpture",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQH2",
+    "appearances": [
+      "DQH2",
+      "DQMSL",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2016年5月27日",
+    "zukan_no": "No.00497"
+  },
+  {
+    "id": "5B10M0010",
+    "name": "トーテムキラー",
+    "furigana": "とーてむきらー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/totem-killer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/トーテムキラー.webp",
+    "search_keywords": [
+      "Teaky mask",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ9",
+      "DQM1",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMCH",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00498"
   },
   {
     "id": "6A10M0001",
@@ -1334,7 +1638,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00544"
+    "zukan_no": "No.00553"
   },
   {
     "id": "6A10M0002",
@@ -1357,7 +1661,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2000年12月8日",
-    "zukan_no": "No.00545"
+    "zukan_no": "No.00554"
   },
   {
     "id": "6A10M0003",
@@ -1381,7 +1685,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00546"
+    "zukan_no": "No.00555"
   },
   {
     "id": "6A10M0004",
@@ -1423,7 +1727,49 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00547"
+    "zukan_no": "No.00556"
+  },
+  {
+    "id": "6A10M0005",
+    "name": "はがねのきょぞう",
+    "furigana": "はがねのきょぞう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/11/haganenokyozou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/はがねのきょぞう.webp",
+    "search_keywords": [
+      "SteelHulk",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3_GBC",
+    "appearances": [
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "MSP"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2000年12月8日",
+    "zukan_no": "No.00557"
+  },
+  {
+    "id": "6A10M0006",
+    "name": "まおうのかめん",
+    "furigana": "まおうのかめん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/17/freaky-tiki/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まおうのかめん.webp",
+    "search_keywords": [
+      "Freaky tiki",
+      "公式イラストあり"
+    ],
+    "first_appearance": "D9",
+    "appearances": [
+      "DQ9",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00558"
   },
   {
     "id": "7S10M0001",
@@ -1462,7 +1808,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00589"
+    "zukan_no": "No.00600"
   },
   {
     "id": "7S10M0002",
@@ -1485,7 +1831,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1993年12月18日",
-    "zukan_no": "No.00590"
+    "zukan_no": "No.00601"
   },
   {
     "id": "7S10M0003",
@@ -1523,7 +1869,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00591"
+    "zukan_no": "No.00602"
   },
   {
     "id": "7S10M0004",
@@ -1548,7 +1894,7 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00592"
+    "zukan_no": "No.00603"
   },
   {
     "id": "7S10M0004-1",
@@ -1567,7 +1913,7 @@
     "main_family": "物質系",
     "sub_family": "ハロウィン",
     "release_date": "2021年10月22日",
-    "zukan_no": "No.00593"
+    "zukan_no": "No.00604"
   },
   {
     "id": "8SS10M0001",
@@ -1590,6 +1936,6 @@
     "main_family": "物質系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00624"
+    "zukan_no": "No.00635"
   }
 ]

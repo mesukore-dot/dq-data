@@ -1,0 +1,54 @@
+{
+  "id": "3D10M0009",
+  "name": "ガオン",
+  "furigana": "がおん",
+  "english_name": "Cheeky tiki",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/01/gaon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガオン.webp",
+  "monster_family": "ガオン族",
+  "search_keywords": [
+    "Cheeky tiki",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ9",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ2",
+    "DQMJ2_P",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00291",
+  "prev_id": "3D10M0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/ugokusekizou/",
+  "next_id": "3D11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/",
+  "color_variants": [
+    {
+      "id": "5B10M0010",
+      "name": "トーテムキラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/トーテムキラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/totem-killer/"
+    },
+    {
+      "id": "6A10M0006",
+      "name": "まおうのかめん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まおうのかめん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/17/freaky-tiki/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
