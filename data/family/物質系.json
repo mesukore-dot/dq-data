@@ -1958,5 +1958,41 @@
     "sub_family": "-",
     "release_date": "2017年7月29日",
     "zukan_no": "No.00636"
+  },
+  {
+    "id": "8SS10M0002",
+    "name": "暗黒の魔人",
+    "furigana": "あんこくのまじん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/14/ruin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/暗黒の魔人.webp",
+    "search_keywords": [
+      "Ruin",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQMSL",
+      "STAR",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00637"
   }
 ]
