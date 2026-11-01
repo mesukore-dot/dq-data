@@ -38,6 +38,29 @@
     "related_characters": []
   },
   {
+    "id": "8SS10M0002",
+    "name": "暗黒の魔人",
+    "furigana": "あんこくのまじん",
+    "english_name": "Ruin",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/14/ruin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/暗黒の魔人.webp",
+    "monster_family": "暗黒の魔人族",
+    "search_keywords": ["Ruin","ボス","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8","DQ8_3D","DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQMB",
+      "DQMSL","STAR","TACT","KSKS"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B10M0011",
     "name": "エビルバイブル",
     "furigana": "えびるばいぶる",
