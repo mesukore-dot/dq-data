@@ -1,0 +1,66 @@
+{
+  "id": "4C10M0010",
+  "name": "ミステリドール",
+  "furigana": "みすてりどーる",
+  "english_name": "Pocus poppet",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/01/mystery-dole/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ミステリドール.webp",
+  "monster_family": "ミステリドール族",
+  "search_keywords": [
+    "Pocus poppet",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7_3D",
+    "DQ10",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ2_P",
+    "DQMJ3_P",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "DQB2",
+    "DQMSL",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00402",
+  "prev_id": "4C10M0009",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/10/siren-ghost/",
+  "next_id": "4C10M0011",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/13/daimajin/",
+  "color_variants": [
+    {
+      "id": "2E10M0007",
+      "name": "いしにんぎょう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/いしにんぎょう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/ishiningyou/"
+    },
+    {
+      "id": "5B10M0007",
+      "name": "どぐうせんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どぐうせんし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/dogusenshi-dq4/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

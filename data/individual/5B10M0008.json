@@ -1,0 +1,67 @@
+{
+  "id": "5B10M0008",
+  "name": "てんのもんばん",
+  "furigana": "てんのもんばん",
+  "english_name": "Great keeper",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/11/tennomonban/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てんのもんばん.webp",
+  "monster_family": "うごくせきぞう族",
+  "search_keywords": [
+    "Great keeper",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3_SFC",
+  "appearances": [
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ8_3D",
+    "DQ11",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ3_P",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1996年12月6日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00496",
+  "prev_id": "5B10M0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/01/dogusenshi-dq4/",
+  "next_id": "5B10M0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/07/26/ice-sculpture/",
+  "color_variants": [
+    {
+      "id": "3D10M0008",
+      "name": "うごくせきぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくせきぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/ugokusekizou/"
+    },
+    {
+      "id": "4C10M0011",
+      "name": "だいまじん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/だいまじん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/13/daimajin/"
+    },
+    {
+      "id": "5B10M0009",
+      "name": "うごくひょうぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/うごくひょうぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/26/ice-sculpture/"
+    },
+    {
+      "id": "6A10M0005",
+      "name": "はがねのきょぞう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/はがねのきょぞう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/haganenokyozou/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

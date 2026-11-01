@@ -1,0 +1,46 @@
+{
+  "id": "6A10M0006",
+  "name": "まおうのかめん",
+  "furigana": "まおうのかめん",
+  "english_name": "Freaky tiki",
+  "page_url": "https://dqfan527.xsrv.jp/2024/05/17/freaky-tiki/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まおうのかめん.webp",
+  "monster_family": "ガオン族",
+  "search_keywords": [
+    "Freaky tiki",
+    "公式イラストあり"
+  ],
+  "first_appearance": "D9",
+  "appearances": [
+    "DQ9",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2009年7月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00558",
+  "prev_id": "6A10M0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/haganenokyozou/",
+  "next_id": "6A11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/mekaba-n/",
+  "color_variants": [
+    {
+      "id": "3D10M0009",
+      "name": "ガオン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガオン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/gaon/"
+    },
+    {
+      "id": "5B10M0010",
+      "name": "トーテムキラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/トーテムキラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/totem-killer/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
