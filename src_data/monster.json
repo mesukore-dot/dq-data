@@ -38,6 +38,96 @@
     "related_characters": []
   },
   {
+    "id": "3D06B0003",
+    "name": "メーダロード",
+    "furigana": "めーだろーど",
+    "english_name": "Raving lunatick",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/02/%e3%83%a1%e3%83%bc%e3%83%80%e3%83%ad%e3%83%bc%e3%83%89/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メーダロード.webp",
+    "monster_family": "メーダ族",
+    "search_keywords": ["Raving lunatick","公式イラストあり"],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1","DQ1_HD2D","DQ2_HD2D","DQ9","DQ10","DQ10_OFF",
+      "DQB1","DQB2",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1986年5月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F06B0008",
+    "name": "メーダ",
+    "furigana": "めーだ",
+    "english_name": "Lunatick",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/02/%e3%83%a1%e3%83%bc%e3%83%80/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メーダ.webp",
+    "monster_family": "メーダ族",
+    "search_keywords": ["Lunatick","公式イラストあり"],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1","DQ1_HD2D","DQ2_HD2D","DQ9","DQ10","DQ10_OFF",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3",
+      "DQB1","DQB2",
+      "DQMB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","DQSG"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1986年5月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B06B0001",
+    "name": "しのさそり",
+    "furigana": "しのさそり",
+    "english_name": "Death scorpion",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/28/%e3%81%97%e3%81%ae%e3%81%95%e3%81%9d%e3%82%8a/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しのさそり.webp",
+    "monster_family": "おおさそり族",
+    "search_keywords": ["Death scorpion","公式イラストあり"],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1","DQ1_HD2D","DQ2_HD2D","DQ8","DQ8_3D","DQ10",
+      "DQB1","DQB2",
+      "MSP","STAR","WALK","TACT","KSKS"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1986年5月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C06B0002",
+    "name": "てつのさそり",
+    "furigana": "てつのさそり",
+    "english_name": "Iron scorpion",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/28/%e3%81%a6%e3%81%a4%e3%81%ae%e3%81%95%e3%81%9d%e3%82%8a/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てつのさそり.webp",
+    "monster_family": "おおさそり族",
+    "search_keywords": ["Iron scorpion","公式イラストあり"],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1","DQ1_HD2D","DQ2_HD2D","DQ8","DQ8_3D","DQ10",
+      "DQB1","DQB2",
+      "MSP","STAR","RIV","WALK","TACT","champ","DQSG"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1986年5月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C06B0001",
     "name": "ベノムピード",
     "furigana": "べのむぴーど",
