@@ -470,6 +470,30 @@
     "zukan_no": "No.00389"
   },
   {
+    "id": "4C06B0003",
+    "name": "メーダクイン",
+    "furigana": "めーだくいん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/02/%e3%83%a1%e3%83%bc%e3%83%80%e3%82%af%e3%82%a4%e3%83%b3/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メーダクイン.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQMSL",
+      "MSP",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "release_date": "2012年10月9日",
+    "zukan_no": "No.00390"
+  },
+  {
     "id": "5B06B0001",
     "name": "しのさそり",
     "furigana": "しのさそり",
@@ -498,6 +522,6 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00492"
+    "zukan_no": "No.00493"
   }
 ]
