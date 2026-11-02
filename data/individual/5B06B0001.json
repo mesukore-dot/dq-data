@@ -1,0 +1,56 @@
+{
+  "id": "5B06B0001",
+  "name": "しのさそり",
+  "furigana": "しのさそり",
+  "english_name": "Death scorpion",
+  "page_url": "https://dqfan527.xsrv.jp/2023/01/28/%e3%81%97%e3%81%ae%e3%81%95%e3%81%9d%e3%82%8a/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しのさそり.webp",
+  "monster_family": "おおさそり族",
+  "search_keywords": [
+    "Death scorpion",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQB1",
+    "DQB2",
+    "MSP",
+    "STAR",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "虫系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1986年5月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00492",
+  "prev_id": "5B05B0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/11/19/kuresensu/",
+  "next_id": "5B07W0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/10/18/hula-whale/",
+  "color_variants": [
+    {
+      "id": "1F06B0006",
+      "name": "おおさそり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おおさそり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/28/%e3%81%8a%e3%81%8a%e3%81%95%e3%81%9d%e3%82%8a/"
+    },
+    {
+      "id": "4C06B0002",
+      "name": "てつのさそり",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てつのさそり.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/28/%e3%81%a6%e3%81%a4%e3%81%ae%e3%81%95%e3%81%9d%e3%82%8a/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
