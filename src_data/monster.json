@@ -3404,7 +3404,7 @@
     "first_appearance": "DQ7_3D",
     "appearances": [
       "DQ7_3D","DQ10",
-      "STAR","RIV","TACT"
+      "STAR","WALK","RIV","TACT"
     ],
     "main_family": "植物系",
     "sub_family": "-",
@@ -4461,7 +4461,7 @@
       "DQ4","DQ4_PS","DQ10","DQ11",
       "DQMJ3","DQMJ3_P",
       "DQH2",
-      "DQMSL","MSP","STAR","RIV","TACT","KSKS","champ"
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ"
     ],
     "main_family": "けもの系",
     "sub_family": "-",
