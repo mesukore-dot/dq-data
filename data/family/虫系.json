@@ -277,6 +277,50 @@
     "zukan_no": "No.00060"
   },
   {
+    "id": "1F06B0009",
+    "name": "リップス",
+    "furigana": "りっぷす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/23/ripps/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/リップス.webp",
+    "search_keywords": [
+      "Lips",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "FY1",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00061"
+  },
+  {
     "id": "2E06B0001",
     "name": "どくイモムシ",
     "furigana": "どくいもむし",
@@ -309,7 +353,7 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00159"
+    "zukan_no": "No.00160"
   },
   {
     "id": "3D06B0001",
@@ -347,7 +391,7 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00273"
+    "zukan_no": "No.00275"
   },
   {
     "id": "3D06B0002",
@@ -383,7 +427,7 @@
     "main_family": "虫系",
     "sub_family": "炎・マグマ",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00274"
+    "zukan_no": "No.00276"
   },
   {
     "id": "3D06B0003",
@@ -415,7 +459,7 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00275"
+    "zukan_no": "No.00277"
   },
   {
     "id": "4C06B0001",
@@ -434,7 +478,7 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "2018年12月5日",
-    "zukan_no": "No.00388"
+    "zukan_no": "No.00390"
   },
   {
     "id": "4C06B0002",
@@ -467,7 +511,7 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00389"
+    "zukan_no": "No.00391"
   },
   {
     "id": "4C06B0003",
@@ -491,7 +535,40 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "2012年10月9日",
-    "zukan_no": "No.00390"
+    "zukan_no": "No.00392"
+  },
+  {
+    "id": "4C06B0004",
+    "name": "ブチュチュンパ",
+    "furigana": "ぶちゅちゅんぱ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/butyutyunpa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ブチュチュンパ.webp",
+    "search_keywords": [
+      "Kisser",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQM3",
+      "FY1",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00393"
   },
   {
     "id": "5B06B0001",
@@ -522,6 +599,6 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00493"
+    "zukan_no": "No.00496"
   }
 ]

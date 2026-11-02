@@ -1,0 +1,69 @@
+{
+  "id": "1F06B0009",
+  "name": "リップス",
+  "furigana": "りっぷす",
+  "english_name": "Lips",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/23/ripps/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/リップス.webp",
+  "monster_family": "リップス族",
+  "search_keywords": [
+    "Lips",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "FY1",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "虫系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00061",
+  "prev_id": "1F06B0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/02/02/%e3%83%a1%e3%83%bc%e3%83%80/",
+  "next_id": "1F07W0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/08/froger/",
+  "color_variants": [
+    {
+      "id": "2E07W0001",
+      "name": "おばけうみうし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おばけうみうし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/02/wet-kisser/"
+    },
+    {
+      "id": "4C06B0004",
+      "name": "ブチュチュンパ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ブチュチュンパ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/butyutyunpa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

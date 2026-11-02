@@ -1,0 +1,49 @@
+{
+  "id": "2E07W0001",
+  "name": "おばけうみうし",
+  "furigana": "おばけうみうし",
+  "english_name": "Wet kisser",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/02/wet-kisser/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/おばけうみうし.webp",
+  "monster_family": "リップス族",
+  "search_keywords": [
+    "Wet kisser",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00161",
+  "prev_id": "2E06B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/07/dokuimomushi/",
+  "next_id": "2E08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/20/konjara/",
+  "color_variants": [
+    {
+      "id": "1F06B0009",
+      "name": "リップス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/リップス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/23/ripps/"
+    },
+    {
+      "id": "4C06B0004",
+      "name": "ブチュチュンパ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ブチュチュンパ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/butyutyunpa/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
