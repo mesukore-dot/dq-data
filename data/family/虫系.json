@@ -236,6 +236,47 @@
     "zukan_no": "No.00059"
   },
   {
+    "id": "1F06B0008",
+    "name": "メーダ",
+    "furigana": "めーだ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/02/%e3%83%a1%e3%83%bc%e3%83%80/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メーダ.webp",
+    "search_keywords": [
+      "Lunatick",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00060"
+  },
+  {
     "id": "2E06B0001",
     "name": "どくイモムシ",
     "furigana": "どくいもむし",
@@ -268,7 +309,7 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00158"
+    "zukan_no": "No.00159"
   },
   {
     "id": "3D06B0001",
@@ -306,7 +347,7 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00272"
+    "zukan_no": "No.00273"
   },
   {
     "id": "3D06B0002",
@@ -342,7 +383,39 @@
     "main_family": "虫系",
     "sub_family": "炎・マグマ",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00273"
+    "zukan_no": "No.00274"
+  },
+  {
+    "id": "3D06B0003",
+    "name": "メーダロード",
+    "furigana": "めーだろーど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/02/%e3%83%a1%e3%83%bc%e3%83%80%e3%83%ad%e3%83%bc%e3%83%89/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メーダロード.webp",
+    "search_keywords": [
+      "Raving lunatick",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00275"
   },
   {
     "id": "4C06B0001",
@@ -361,6 +434,70 @@
     "main_family": "虫系",
     "sub_family": "-",
     "release_date": "2018年12月5日",
-    "zukan_no": "No.00386"
+    "zukan_no": "No.00388"
+  },
+  {
+    "id": "4C06B0002",
+    "name": "てつのさそり",
+    "furigana": "てつのさそり",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/28/%e3%81%a6%e3%81%a4%e3%81%ae%e3%81%95%e3%81%9d%e3%82%8a/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てつのさそり.webp",
+    "search_keywords": [
+      "Iron scorpion",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQB1",
+      "DQB2",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00389"
+  },
+  {
+    "id": "5B06B0001",
+    "name": "しのさそり",
+    "furigana": "しのさそり",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/28/%e3%81%97%e3%81%ae%e3%81%95%e3%81%9d%e3%82%8a/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しのさそり.webp",
+    "search_keywords": [
+      "Death scorpion",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQB1",
+      "DQB2",
+      "MSP",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "虫系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00492"
   }
 ]
