@@ -1,0 +1,55 @@
+{
+  "id": "4C10M0013",
+  "name": "あくまのツボ",
+  "furigana": "あくまのつぼ",
+  "english_name": "Urnexpected",
+  "page_url": "https://dqfan527.xsrv.jp/2024/07/12/urnexpected/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/あくまのツボ.webp",
+  "monster_family": "あくまのツボ族",
+  "search_keywords": [
+    "Urnexpected",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM4",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00418",
+  "prev_id": "4C10M0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/02/sand-wonderer/",
+  "next_id": "4C10M0014",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/mimic-2/",
+  "color_variants": [
+    {
+      "id": "5B10M0012",
+      "name": "ツボック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ツボック.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/17/frighturn/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
