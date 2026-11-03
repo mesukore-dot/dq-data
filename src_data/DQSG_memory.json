@@ -1,5 +1,27 @@
 [ 
   {
+    "dqsg_id": "E0071",
+            "dqsg_name": "ソロ",
+            "dqsg_furigana": "そろ",
+            "dqsg_rarity": "イベント",
+            "dqsg_color": "緑",
+            "dqsg_system": "？？？系",
+            "dqsg_cost": 64,
+            "dqsg_available": true,
+            "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ソロ-メモリ.webp",
+            "dqsg_url": "https://dqfan527.xsrv.jp/2023/01/28/syujinkou1-3/",
+            "dqsg_panels": [],
+            "dqsg_status": { 
+              "dqsg_hp": 84,
+              "dqsg_attack": 55, 
+              "dqsg_magic_attack": 49, 
+              "dqsg_magic_heal": 113, 
+              "dqsg_defense": 50, 
+              "dqsg_magic_defense": 62, 
+              "dqsg_dexterity": 35},
+            "dqsg_effects": ["メモリアスキル：天空の一閃","？？？系にダメージ +5%"]
+  },
+  {
     "dqsg_id": "E0070",
             "dqsg_name": "ミネア",
             "dqsg_furigana": "みねあ",
@@ -174,6 +196,29 @@
               "dqsg_magic_defense": 91, 
               "dqsg_dexterity": 52},
             "dqsg_effects": ["風属性の物理ダメージ +7%"]
+  },
+  {
+    "id": "8SS03B0001",
+    "dqsg_id": "E0060",
+            "dqsg_name": "キングレオ",
+            "dqsg_furigana": "きんぐれお",
+            "dqsg_rarity": "ほこら",
+            "dqsg_color": "赤",
+            "dqsg_system": "けもの系",
+            "dqsg_cost": 90,
+            "dqsg_available": true,
+            "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キングレオ-メモリ.webp",
+            "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/13/king-reo/",
+            "dqsg_panels": [],
+            "dqsg_status": { 
+              "dqsg_hp": 143,
+              "dqsg_attack": 123, 
+              "dqsg_magic_attack": 59, 
+              "dqsg_magic_heal": 52, 
+              "dqsg_defense": 78, 
+              "dqsg_magic_defense": 68, 
+              "dqsg_dexterity": 78},
+            "dqsg_effects": ["最初からイオブラストを所持","氷属性の物理ダメージ +10%"]
   },
   {
     "id": "6A03B0004",
