@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "5B02D0024",
+    "name": "ウルフドラゴン",
+    "furigana": "うるふどらごん",
+    "english_name": "Chihuawyrm",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/wolf-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウルフドラゴン.webp",
+    "monster_family": "ワイバーンドッグ族",
+    "search_keywords": ["Chihuawyrm","氷・雪","公式イラストあり"],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM2_SP","DQM3",
+      "DQMSL","STAR"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2017年7月29日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C02D0023",
     "name": "アイスフライ",
     "furigana": "あいすふらい",
