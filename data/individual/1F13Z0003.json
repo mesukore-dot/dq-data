@@ -29,6 +29,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/16/gaikotu/",
   "next_id": "2E01S0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和63年）1988年2月10日、ファミコン版「ドラゴンクエストIII そして伝説へ…」から登場。",
+      "works_count": "3作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ブンブン飛びまわる　ぶきみなコウモリ怪人。夜にだけ　あらわれる。",
+      "ability": "マホトーンや　ふしぎなおどりで　魔法使いや僧侶のじゅもんをふうじこめる。",
+      "ecology": "おしゃれに気をつかっており　特注スーツと　ちょうネクタイは　毎日ピカピカに　みがいている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D13Z0001",
