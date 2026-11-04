@@ -35,7 +35,7 @@
   "release_date": "2004年11月27日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00424",
+  "zukan_no": "No.00425",
   "prev_id": "4C10M0014",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/mimic-2/",
   "next_id": "4C13Z0001",
@@ -51,6 +51,12 @@
       "id": "2E11M0001",
       "name": "ガチャコッコ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ガチャコッコ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/"
+    },
+    {
+      "id": "2E11M0001-1",
+      "name": "ファイアボール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファイアボール.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/"
     }
   ],
