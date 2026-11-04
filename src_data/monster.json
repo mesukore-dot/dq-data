@@ -1338,7 +1338,7 @@
     "other_families": [],
     "release_date": "1990年2月11日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E08D0002","2E08D0002"]
   },
   {
     "id": "6A10M0002",
@@ -3691,7 +3691,7 @@
       "ふん！　なもない　おうきゅうの\nせんしなどに　ようはないわい！"
     ],
     "related_items": [],
-    "related_characters": ["4C08D0003","1F06B0008"]
+    "related_characters": ["4C08D0003","1F06B0008","7S10M0003"]
   },
   {
     "id": "6A08D0002",
@@ -3804,7 +3804,7 @@
       "いのちしらずなやつめ！\nそんなに　しにたいのなら\nのぞみを　かなえてやろう！"
     ],
     "related_items": [],
-    "related_characters": ["2E08D0002"]
+    "related_characters": ["2E08D0002","7S10M0003"]
   },
   {
     "id": "8SS13Z0002",
