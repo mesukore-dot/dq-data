@@ -38,6 +38,69 @@
     "related_characters": []
   },
   {
+    "id": "4C10M0016",
+    "name": "リビングスタチュー",
+    "furigana": "りびんぐすたちゅー",
+    "english_name": "Sculpture vulture",
+    "page_url": "https://dqfan527.xsrv.jp/2025/02/02/sculpture-vulture/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/リビングスタチュー.webp",
+    "monster_family": "ヘルビースト族",
+    "search_keywords": ["Sculpture vulture","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM","DQ9","DQ10","DQ10_OFF",
+      "MSP","STAR","TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B10M0014",
+    "name": "じゃしんぞう",
+    "furigana": "じゃしんぞう",
+    "english_name": "Sinisculpture",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/13/sinisculpture/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じゃしんぞう.webp",
+    "monster_family": "ヘルビースト族",
+    "search_keywords": ["Sinisculpture","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ7_3D",
+      "MSP","STAR","TACT"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D10M0011",
+    "name": "ストーンビースト",
+    "furigana": "すとーんびーすと",
+    "english_name": "Arrghgoyle",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/26/arrghgoyle/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ストーンビースト.webp",
+    "monster_family": "ヘルビースト族",
+    "search_keywords": ["Arrghgoyle","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "MSP","STAR","RIV","WALK","TACT","DQSG"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C10M0015",
     "name": "デスソーサー",
     "furigana": "ですそーさー",
