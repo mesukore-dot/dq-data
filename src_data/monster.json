@@ -38,6 +38,117 @@
     "related_characters": []
   },
   {
+    "id": "6A05B0002",
+    "name": "アンズー",
+    "furigana": "あんずー",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/01/29/anzu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンズー.webp",
+    "monster_family": "ヘルコンドル族",
+    "search_keywords": ["ごくえんちょうるたがるーだ","獄炎鳥ルタガルーダ","炎・マグマ","公式イラストあり"],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3",
+      "TACT"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "炎・マグマ",
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "7S05B0001",
+    "name": "ほうおう",
+    "furigana": "ほうおう",
+    "english_name": "Phoenix",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/houou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ほうおう.webp",
+    "monster_family": "ヘルコンドル族",
+    "search_keywords": ["Phoenix","公式イラストあり"],
+    "first_appearance": "DQ3_SFC",
+    "appearances": [
+      "DQ2_HD2D","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ8_3D","DQ11",
+      "DQM3","DQMJ3","DQMJ3_P",
+      "DQMSL","MSP","STAR","RIV","TACT","KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1996年12月6日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C05B0003",
+    "name": "ごくらくちょう",
+    "furigana": "ごくらくちょう",
+    "english_name": "Elysium bird",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gokurakucho/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ごくらくちょう.webp",
+    "monster_family": "ヘルコンドル族",
+    "search_keywords": ["Elysium bird","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ8","DQ8_3D","DQ11",
+      "DQMJ3","DQMJ3_P",
+      "DQTR",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D05B0006",
+    "name": "ヘルコンドル",
+    "furigana": "へるこんどる",
+    "english_name": "Hades condor",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/hell-condor/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルコンドル.webp",
+    "monster_family": "ヘルコンドル族",
+    "search_keywords": ["Hades condor","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ8","DQ8_3D","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQB1","DQTR",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E05B0006",
+    "name": "ガルーダ",
+    "furigana": "がるーだ",
+    "english_name": "Garuda",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gal-da/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガルーダ.webp",
+    "monster_family": "ヘルコンドル族",
+    "search_keywords": ["Garuda","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ8","DQ8_3D","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","DQSG"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B10M0013",
     "name": "ヘルギフト",
     "furigana": "へるぎふと",
