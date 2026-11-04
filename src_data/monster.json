@@ -461,7 +461,7 @@
     "other_families": [],
     "release_date": "1986年5月27日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E08D0002"]
   },
   {
     "id": "5B06B0001",
@@ -3669,7 +3669,7 @@
       "ふん！　なもない　おうきゅうの\nせんしなどに　ようはないわい！"
     ],
     "related_items": [],
-    "related_characters": ["4C08D0003"]
+    "related_characters": ["4C08D0003","1F06B0008"]
   },
   {
     "id": "6A08D0002",
