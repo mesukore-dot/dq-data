@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "1F05B0001-1",
+    "name": "ツンドラキー",
+    "furigana": "つんどらきー",
+    "english_name": "Arctic Dracky Tundracky",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%84%e3%83%b3%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ツンドラキー.webp",
+    "monster_family": "ドラキー族",
+    "search_keywords": ["Arctic Dracky Tundracky","転生モンスター","氷・雪","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQTR",
+      "STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "氷・雪",
+    "other_families": [],
+    "release_date": "2015年10月28日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A05B0002",
     "name": "アンズー",
     "furigana": "あんずー",
