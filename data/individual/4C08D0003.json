@@ -1,5 +1,29 @@
 {
   "id": "4C08D0003",
+  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ピサロのてさき.webp",
+  "dqsg_release_date": "2026年10月21日",
+  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
+  "dqsg_element_resistances": {
+    "dqsg_super_weak": [
+      "風"
+    ],
+    "dqsg_weak": [
+      "-"
+    ],
+    "dqsg_resist": [
+      "雷",
+      "土",
+      "光",
+      "闇"
+    ]
+  },
+  "dqsg_features": [
+    "M字にギラ（炎属性の呪文）を放つ。",
+    "手にした杖で　目の前をなぐる。",
+    "4方向の扇形範囲に時計回りに　炎属性のダメージを与える。",
+    "なかま全員の　与ダメージ・すばやさを3段階上げる。"
+  ],
+  "dqsg_official_mamechishiki": "魔族の王からの命を受け　まものたちを\n率先して　勇者を探す　邪悪な魔法使い。\n策をめぐらせ　子どもたちを　さらっていた。",
   "name": "ピサロのてさき",
   "furigana": "ぴさろのてさき",
   "english_name": "Psaro's pawn",
@@ -39,32 +63,9 @@
   ],
   "related_items": [],
   "related_characters": [
-    "2E08D0002"
+    "2E08D0002",
+    "7S10M0003"
   ],
-  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/スマグロ-ピサロのてさき.webp",
-  "dqsg_release_date": "2026年10月21日",
-  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
-  "dqsg_element_resistances": {
-    "dqsg_super_weak": [
-      "風"
-    ],
-    "dqsg_weak": [
-      "-"
-    ],
-    "dqsg_resist": [
-      "雷",
-      "土",
-      "光",
-      "闇"
-    ]
-  },
-  "dqsg_features": [
-    "M字にギラ（炎属性の呪文）を放つ。",
-    "手にした杖で　目の前をなぐる。",
-    "4方向の扇形範囲に時計回りに　炎属性のダメージを与える。",
-    "なかま全員の　与ダメージ・すばやさを3段階上げる。"
-  ],
-  "dqsg_official_mamechishiki": "魔族の王からの命を受け　まものたちを\n率先して　勇者を探す　邪悪な魔法使い。\n策をめぐらせ　子どもたちを　さらっていた。",
   "dqsg_id": "E0057",
   "dqsg_name": "ピサロのてさき",
   "dqsg_furigana": "ぴさろのてさき",
@@ -88,7 +89,7 @@
   "dqsg_effects": [
     "剣装備時：風属性の物理ダメージ +10%"
   ],
-  "zukan_no": "No.00404",
+  "zukan_no": "No.00405",
   "prev_id": "4C08D0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/08/zombie-master/",
   "next_id": "4C08D0004",
@@ -144,6 +145,12 @@
       "name": "おおめだま",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/おおめだま.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/"
+    },
+    {
+      "id": "7S10M0003",
+      "name": "ピサロナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ピサロナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/pisaroknight/"
     }
   ]
 }

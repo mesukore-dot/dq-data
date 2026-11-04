@@ -24,11 +24,24 @@
   "release_date": "2017年7月29日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00663",
+  "zukan_no": "No.00667",
   "prev_id": "8SS03B0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/06/18/manmodeus/",
   "next_id": "8SS10M0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/06/14/ruin/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日、3DS版「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "5作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "伝説のそうびに　邪悪なたましいが　とりついた！つよいニンゲンやまものを求め　ロンダルキアへの洞くつを　さまよう。",
+      "form": "いなずまのけん　ロトのかぶと　ロトのよろい　ロトのたて。時の守り神が考えた　最強のモンスター。",
+      "ability": "1ターンに3回行動する。まるで勇者のごとく　ギガデインや　ギガスラッシュで　敵を斬り裂く。",
+      "personality": "ありあまる　じぶんのチカラに酔いしれている。別に勇者になる気もない。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "2E10M0003",

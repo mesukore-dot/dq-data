@@ -1,0 +1,48 @@
+{
+  "id": "5B10M0014",
+  "name": "じゃしんぞう",
+  "furigana": "じゃしんぞう",
+  "english_name": "Sinisculpture",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/13/sinisculpture/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じゃしんぞう.webp",
+  "monster_family": "ヘルビースト族",
+  "search_keywords": [
+    "Sinisculpture",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ7_3D",
+    "MSP",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "物質系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00527",
+  "prev_id": "5B10M0013",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/03/09/hell-gift/",
+  "next_id": "5B11M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/28/killer-machine/",
+  "color_variants": [
+    {
+      "id": "3D10M0011",
+      "name": "ストーンビースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ストーンビースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/26/arrghgoyle/"
+    },
+    {
+      "id": "4C10M0016",
+      "name": "リビングスタチュー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/リビングスタチュー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/02/sculpture-vulture/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
