@@ -3506,6 +3506,28 @@
     "related_characters": []
   },
   {
+    "id": "2E11M0001-1",
+    "name": "ファイアボール",
+    "furigana": "ふぁいあぼーる",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファイアボール.webp",
+    "monster_family": "メタッピー族",
+    "search_keywords": ["転生モンスター","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQMJ3","DQMJ3_P",
+      "MSP","RIV","WALK","TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2013年5月16日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "2E11M0001",
     "name": "ガチャコッコ",
     "furigana": "がちゃこっこ",
