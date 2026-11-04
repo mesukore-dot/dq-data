@@ -1,0 +1,70 @@
+{
+  "id": "1F05B0001-1",
+  "name": "ツンドラキー",
+  "furigana": "つんどらきー",
+  "english_name": "Arctic Dracky Tundracky",
+  "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%84%e3%83%b3%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ツンドラキー.webp",
+  "monster_family": "ドラキー族",
+  "search_keywords": [
+    "Arctic Dracky Tundracky",
+    "転生モンスター",
+    "氷・雪",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQTR",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "氷・雪",
+  "other_families": [],
+  "release_date": "2015年10月28日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00050",
+  "prev_id": "1F05B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/24/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/",
+  "next_id": "1F05B0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/07/oogarasu-2/",
+  "color_variants": [
+    {
+      "id": "1F05B0001",
+      "name": "ドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/24/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/"
+    },
+    {
+      "id": "2E05B0001",
+      "name": "メイジドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メイジドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%a1%e3%82%a4%e3%82%b8%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc/"
+    },
+    {
+      "id": "2E05B0003",
+      "name": "ハロウィンドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-dracky/"
+    },
+    {
+      "id": "2E05B0004",
+      "name": "タホドラキー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/タホドラキー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/22/tahodoraky/"
+    },
+    {
+      "id": "3D05B0001",
+      "name": "ドラキーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ドラキーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/25/%e3%83%89%e3%83%a9%e3%82%ad%e3%83%bc%e3%83%9e/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
