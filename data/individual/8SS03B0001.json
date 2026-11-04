@@ -1,29 +1,5 @@
 {
   "id": "8SS03B0001",
-  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-キングレオ.webp",
-  "dqsg_release_date": "2026年11月3日",
-  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
-  "dqsg_element_resistances": {
-    "dqsg_super_weak": [
-      "氷"
-    ],
-    "dqsg_weak": [
-      "-"
-    ],
-    "dqsg_resist": [
-      "光",
-      "土"
-    ]
-  },
-  "dqsg_features": [
-    "前方範囲を　ツメで2回きりさく。",
-    "2回　十字範囲に炎で燃やす。",
-    "3箇所に　氷のダメージを与える。",
-    "自身の周囲以外のフィールド全域に　氷のダメージを与えるエリアが出現。",
-    "カウントダウンの間に　一定ダメージを与えなければ　9999のダメージを受けてしまう。",
-    "氷のつぶてが　ランダムに散らばり　当たるとダメージを受ける。"
-  ],
-  "dqsg_official_mamechishiki": "元は人間だったが　悪魔に魂を譲り渡した　キングレオ城の\n真の支配者。その戦闘能力は　非常に高い。",
   "name": "キングレオ",
   "furigana": "きんぐれお",
   "english_name": "Marquis de Leon",
@@ -97,6 +73,30 @@
     "最初からイオブラストを所持",
     "氷属性の物理ダメージ +10%"
   ],
+  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-キングレオ.webp",
+  "dqsg_release_date": "2026年11月3日",
+  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
+  "dqsg_element_resistances": {
+    "dqsg_super_weak": [
+      "氷"
+    ],
+    "dqsg_weak": [
+      "-"
+    ],
+    "dqsg_resist": [
+      "光",
+      "土"
+    ]
+  },
+  "dqsg_features": [
+    "前方範囲を　ツメで2回きりさく。",
+    "2回　十字範囲に炎で燃やす。",
+    "3箇所に　氷のダメージを与える。",
+    "自身の周囲以外のフィールド全域に　氷のダメージを与えるエリアが出現。",
+    "カウントダウンの間に　一定ダメージを与えなければ　9999のダメージを受けてしまう。",
+    "氷のつぶてが　ランダムに散らばり　当たるとダメージを受ける。"
+  ],
+  "dqsg_official_mamechishiki": "元は人間だったが　悪魔に魂を譲り渡した　キングレオ城の\n真の支配者。その戦闘能力は　非常に高い。",
   "zukan_no": "No.00658",
   "prev_id": "8SS02D0007",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/07/05/roret/",

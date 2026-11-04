@@ -8,6 +8,7 @@
   "monster_family": "ダッシュラン族",
   "search_keywords": [
     "Tundra dragon",
+    "氷・雪",
     "公式イラストあり"
   ],
   "first_appearance": "DQ10",
@@ -25,7 +26,7 @@
     "WALK"
   ],
   "main_family": "ドラゴン系",
-  "sub_family": "-",
+  "sub_family": "氷・雪",
   "other_families": [],
   "release_date": "2012年8月2日",
   "voice_actor": "-",

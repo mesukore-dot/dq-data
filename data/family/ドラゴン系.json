@@ -961,6 +961,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/せつげんりゅう.webp",
     "search_keywords": [
       "Tundra dragon",
+      "氷・雪",
       "公式イラストあり"
     ],
     "first_appearance": "DQ10",
@@ -978,7 +979,7 @@
       "WALK"
     ],
     "main_family": "ドラゴン系",
-    "sub_family": "-",
+    "sub_family": "氷・雪",
     "release_date": "2012年8月2日",
     "zukan_no": "No.00232"
   },
@@ -1319,6 +1320,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スノードラゴン.webp",
     "search_keywords": [
       "Boreal serpent",
+      "氷・雪",
       "公式イラストあり"
     ],
     "first_appearance": "DQ3",
@@ -1344,7 +1346,7 @@
       "KSKS"
     ],
     "main_family": "ドラゴン系",
-    "sub_family": "-",
+    "sub_family": "氷・雪",
     "release_date": "1988年2月10日",
     "zukan_no": "No.00348"
   },
