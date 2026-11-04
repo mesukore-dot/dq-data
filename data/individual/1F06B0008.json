@@ -41,12 +41,26 @@
   "other_families": [],
   "release_date": "1986年5月27日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "2E08D0002"
+  ],
   "zukan_no": "No.00061",
   "prev_id": "1F06B0007",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/07/kyatapira/",
   "next_id": "1F06B0009",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/09/23/ripps/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "(昭和61年) 1986年5月27日\nファミコン版「ドラゴンクエスト」から登場。",
+      "works_count": "16作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "暗闇の中でも　エモノを逃さず　捕まえるために　大きな目に進化した　とても奇妙なまもの。メーダは　めだまという意味である。",
+      "form": "おおきな目玉と　ながいアタマから　何本も生えた触手が特徴。意外と　笑顔がかわいい。",
+      "ability": "冒険者をこしょこしょと　触手でくすぐった後　目から でんげきビームで　マヒさせる。ビリビリのバリアを　はることもできるぞ。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D06B0003",
@@ -62,5 +76,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "2E08D0002",
+      "name": "おおめだま",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/おおめだま.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/"
+    }
+  ]
 }

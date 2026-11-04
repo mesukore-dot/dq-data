@@ -52,7 +52,8 @@
   ],
   "related_items": [],
   "related_characters": [
-    "4C08D0003"
+    "4C08D0003",
+    "1F06B0008"
   ],
   "dqsg_id": "E0055",
   "dqsg_name": "おおめだま",
@@ -141,6 +142,12 @@
       "name": "ピサロのてさき",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/ピサロのてさき.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/20/pisaronotesaki/"
+    },
+    {
+      "id": "1F06B0008",
+      "name": "メーダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メーダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/02/02/%e3%83%a1%e3%83%bc%e3%83%80/"
     }
   ]
 }
