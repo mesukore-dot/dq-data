@@ -1,0 +1,70 @@
+{
+  "id": "7S05B0001",
+  "name": "ほうおう",
+  "furigana": "ほうおう",
+  "english_name": "Phoenix",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/07/houou/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ほうおう.webp",
+  "monster_family": "ヘルコンドル族",
+  "search_keywords": [
+    "Phoenix",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3_SFC",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ8_3D",
+    "DQ11",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1996年12月6日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00623",
+  "prev_id": "7S04P0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/rose-battler/",
+  "next_id": "7S08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
+  "color_variants": [
+    {
+      "id": "2E05B0006",
+      "name": "ガルーダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガルーダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gal-da/"
+    },
+    {
+      "id": "3D05B0006",
+      "name": "ヘルコンドル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルコンドル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/hell-condor/"
+    },
+    {
+      "id": "4C05B0003",
+      "name": "ごくらくちょう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ごくらくちょう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gokurakucho/"
+    },
+    {
+      "id": "6A05B0002",
+      "name": "アンズー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンズー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/01/29/anzu/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

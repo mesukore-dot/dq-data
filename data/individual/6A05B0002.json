@@ -1,0 +1,59 @@
+{
+  "id": "6A05B0002",
+  "name": "アンズー",
+  "furigana": "あんずー",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2024/01/29/anzu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンズー.webp",
+  "monster_family": "ヘルコンドル族",
+  "search_keywords": [
+    "ごくえんちょうるたがるーだ",
+    "獄炎鳥ルタガルーダ",
+    "炎・マグマ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM3",
+  "appearances": [
+    "DQM3",
+    "TACT"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "炎・マグマ",
+  "other_families": [],
+  "release_date": "2023年12月1日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00571",
+  "prev_id": "6A05B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/11/01/murder-goile/",
+  "next_id": "6A08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/16/shinigaminokishi/",
+  "color_variants": [
+    {
+      "id": "2E05B0006",
+      "name": "ガルーダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガルーダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gal-da/"
+    },
+    {
+      "id": "3D05B0006",
+      "name": "ヘルコンドル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルコンドル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/hell-condor/"
+    },
+    {
+      "id": "4C05B0003",
+      "name": "ごくらくちょう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ごくらくちょう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gokurakucho/"
+    },
+    {
+      "id": "7S05B0001",
+      "name": "ほうおう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ほうおう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/houou/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

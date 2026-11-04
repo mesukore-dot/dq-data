@@ -368,6 +368,50 @@
     "zukan_no": "No.00159"
   },
   {
+    "id": "2E05B0006",
+    "name": "ガルーダ",
+    "furigana": "がるーだ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gal-da/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガルーダ.webp",
+    "search_keywords": [
+      "Garuda",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00160"
+  },
+  {
     "id": "3D05B0001",
     "name": "ドラキーマ",
     "furigana": "どらきーま",
@@ -418,7 +462,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00271"
+    "zukan_no": "No.00272"
   },
   {
     "id": "3D05B0002",
@@ -474,7 +518,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00272"
+    "zukan_no": "No.00273"
   },
   {
     "id": "3D05B0003",
@@ -512,7 +556,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00273"
+    "zukan_no": "No.00274"
   },
   {
     "id": "3D05B0004",
@@ -556,7 +600,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00274"
+    "zukan_no": "No.00275"
   },
   {
     "id": "3D05B0005",
@@ -593,7 +637,54 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00275"
+    "zukan_no": "No.00276"
+  },
+  {
+    "id": "3D05B0006",
+    "name": "ヘルコンドル",
+    "furigana": "へるこんどる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/hell-condor/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルコンドル.webp",
+    "search_keywords": [
+      "Hades condor",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQB1",
+      "DQTR",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00277"
   },
   {
     "id": "4C05B0001",
@@ -649,7 +740,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00390"
+    "zukan_no": "No.00392"
   },
   {
     "id": "4C05B0002",
@@ -679,7 +770,43 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00391"
+    "zukan_no": "No.00393"
+  },
+  {
+    "id": "4C05B0003",
+    "name": "ごくらくちょう",
+    "furigana": "ごくらくちょう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gokurakucho/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ごくらくちょう.webp",
+    "search_keywords": [
+      "Elysium bird",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQTR",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00394"
   },
   {
     "id": "5B05B0001",
@@ -728,7 +855,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00495"
+    "zukan_no": "No.00498"
   },
   {
     "id": "5B05B0001-1",
@@ -761,7 +888,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2013年3月5日",
-    "zukan_no": "No.00496"
+    "zukan_no": "No.00499"
   },
   {
     "id": "5B05B0002",
@@ -784,7 +911,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00497"
+    "zukan_no": "No.00500"
   },
   {
     "id": "5B05B0003",
@@ -804,7 +931,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00498"
+    "zukan_no": "No.00501"
   },
   {
     "id": "5B05B0004",
@@ -826,7 +953,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00499"
+    "zukan_no": "No.00502"
   },
   {
     "id": "6A05B0001",
@@ -846,7 +973,62 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00567"
+    "zukan_no": "No.00570"
+  },
+  {
+    "id": "6A05B0002",
+    "name": "アンズー",
+    "furigana": "あんずー",
+    "page_url": "https://dqfan527.xsrv.jp/2024/01/29/anzu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンズー.webp",
+    "search_keywords": [
+      "ごくえんちょうるたがるーだ",
+      "獄炎鳥ルタガルーダ",
+      "炎・マグマ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3",
+      "TACT"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "炎・マグマ",
+    "release_date": "2023年12月1日",
+    "zukan_no": "No.00571"
+  },
+  {
+    "id": "7S05B0001",
+    "name": "ほうおう",
+    "furigana": "ほうおう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/houou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ほうおう.webp",
+    "search_keywords": [
+      "Phoenix",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3_SFC",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8_3D",
+      "DQ11",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "鳥系",
+    "sub_family": "-",
+    "release_date": "1996年12月6日",
+    "zukan_no": "No.00623"
   },
   {
     "id": "9X05B0001",
@@ -882,7 +1064,7 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00677"
+    "zukan_no": "No.00682"
   },
   {
     "id": "9X05B0002",
@@ -921,6 +1103,6 @@
     "main_family": "鳥系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00678"
+    "zukan_no": "No.00683"
   }
 ]
