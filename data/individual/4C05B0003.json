@@ -1,0 +1,73 @@
+{
+  "id": "4C05B0003",
+  "name": "ごくらくちょう",
+  "furigana": "ごくらくちょう",
+  "english_name": "Elysium bird",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gokurakucho/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ごくらくちょう.webp",
+  "monster_family": "ヘルコンドル族",
+  "search_keywords": [
+    "Elysium bird",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ8",
+    "DQ8_3D",
+    "DQ11",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQTR",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "鳥系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00394",
+  "prev_id": "4C05B0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/06/akairai/",
+  "next_id": "4C06B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/03/08/venom-peed/",
+  "color_variants": [
+    {
+      "id": "2E05B0006",
+      "name": "ガルーダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガルーダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/gal-da/"
+    },
+    {
+      "id": "3D05B0006",
+      "name": "ヘルコンドル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルコンドル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/hell-condor/"
+    },
+    {
+      "id": "6A05B0002",
+      "name": "アンズー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンズー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/01/29/anzu/"
+    },
+    {
+      "id": "7S05B0001",
+      "name": "ほうおう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ほうおう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/07/houou/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
