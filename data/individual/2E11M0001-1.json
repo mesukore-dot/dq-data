@@ -3,7 +3,7 @@
   "name": "ファイアボール",
   "furigana": "ふぁいあぼーる",
   "english_name": "-",
-  "page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/04/fire-ball/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファイアボール.webp",
   "monster_family": "メタッピー族",
   "search_keywords": [
@@ -32,6 +32,18 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/20/gatyakoko/",
   "next_id": "2E13Z0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-ghost/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成25年）2013年5月16日「ドラゴンクエストXオンライン 目覚めし五つの種族（DQ10 Ver.1.4）」から登場。",
+      "works_count": "6作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ガチャコッコに　突然変異が起きた　レアなまもの。火の玉のごとく　かけぬける　恐怖の殺人マシン。",
+      "ability": "くちばしと　つばさから炎を吹き出し　メラストームをはなつ。いざとなったら　自爆ダンスをおどり　最期まで破壊をつくす。",
+      "doctor": "大昔　ファイアボールの正体は　熱暴走した　ただのガチャコッコだと言うとるやつがおったの。それが最近になって　わかったのじゃ。この世の全てのガチャコッコから　選りすぐりの個体をチューンナップした　特製品だったということがのう。それにしても　あの小さいボデーに　発火装置をつけるとは　なかなかやるわい。どこのだれか　知らんがの。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F11M0001",
