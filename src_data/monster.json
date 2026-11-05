@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "6A02D0004-1",
+    "name": "パラディノス",
+    "furigana": "ぱらでぃのす",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/05/paradeinos/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/パラディノス.webp",
+    "monster_family": "バトルレックス族",
+    "search_keywords": ["転生モンスター","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQMSL"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2015年8月24日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B11M0002-1",
     "name": "ドラゴントイズ",
     "furigana": "どらごんといず",
