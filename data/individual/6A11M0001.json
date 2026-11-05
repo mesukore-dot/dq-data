@@ -42,7 +42,7 @@
   "release_date": "1992年9月27日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00591",
+  "zukan_no": "No.00592",
   "prev_id": "6A10M0006",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/17/freaky-tiki/",
   "next_id": "6A11M0002",
@@ -53,6 +53,12 @@
       "name": "メタルドラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルドラゴン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/metal-dragon/"
+    },
+    {
+      "id": "5B11M0002-1",
+      "name": "ドラゴントイズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドラゴントイズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/05/clockwyrm/"
     }
   ],
   "related_items_details": [],

@@ -428,6 +428,28 @@
     "zukan_no": "No.00532"
   },
   {
+    "id": "5B11M0002-1",
+    "name": "ドラゴントイズ",
+    "furigana": "どらごんといず",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/05/clockwyrm/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドラゴントイズ.webp",
+    "search_keywords": [
+      "Clockwyrm",
+      "転生モンスター",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ10",
+      "DQ11",
+      "DQMSL"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00533"
+  },
+  {
     "id": "6A11M0001",
     "name": "メカバーン",
     "furigana": "めかばーん",
@@ -466,7 +488,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00591"
+    "zukan_no": "No.00592"
   },
   {
     "id": "6A11M0002",
@@ -513,7 +535,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00592"
+    "zukan_no": "No.00593"
   },
   {
     "id": "8SS11M0001",
@@ -546,7 +568,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00671"
+    "zukan_no": "No.00672"
   },
   {
     "id": "8SS11M0002",
@@ -570,7 +592,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00672"
+    "zukan_no": "No.00673"
   },
   {
     "id": "8SS11M0003",
@@ -592,7 +614,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00673"
+    "zukan_no": "No.00674"
   },
   {
     "id": "8SS11M0004",
@@ -631,6 +653,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年1月11日",
-    "zukan_no": "No.00674"
+    "zukan_no": "No.00675"
   }
 ]
