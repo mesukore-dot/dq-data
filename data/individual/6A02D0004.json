@@ -59,8 +59,8 @@
   "zukan_no": "No.00561",
   "prev_id": "6A02D0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/10/great-dragon/",
-  "next_id": "6A02D0005",
-  "next_page_url": "https://dqfan527.xsrv.jp/2025/02/15/crocodog/",
+  "next_id": "6A02D0004-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/11/05/paradeinos/",
   "color_variants": [
     {
       "id": "4C02D0008",
@@ -73,6 +73,12 @@
       "name": "ドラゴンソルジャー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ドラゴンソルジャー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/11/03/dragon-soldier/"
+    },
+    {
+      "id": "6A02D0004-1",
+      "name": "パラディノス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/パラディノス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/05/paradeinos/"
     },
     {
       "id": "7S02D0009",
