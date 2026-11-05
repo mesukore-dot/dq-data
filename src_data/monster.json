@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "5B11M0002-1",
+    "name": "ドラゴントイズ",
+    "furigana": "どらごんといず",
+    "english_name": "Clockwyrm",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/05/clockwyrm/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドラゴントイズ.webp",
+    "monster_family": "メタルドラゴン族",
+    "search_keywords": ["Clockwyrm","転生モンスター","公式イラストあり"],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ10","DQ11",
+      "DQMSL"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2017年7月29日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B02D0024",
     "name": "ウルフドラゴン",
     "furigana": "うるふどらごん",
