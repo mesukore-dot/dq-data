@@ -49,9 +49,15 @@
   "zukan_no": "No.00532",
   "prev_id": "5B11M0001-1",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/13/type-g/",
-  "next_id": "5B13Z0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+  "next_id": "5B11M0002-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/11/05/clockwyrm/",
   "color_variants": [
+    {
+      "id": "5B11M0002-1",
+      "name": "ドラゴントイズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドラゴントイズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/05/clockwyrm/"
+    },
     {
       "id": "6A11M0001",
       "name": "メカバーン",
