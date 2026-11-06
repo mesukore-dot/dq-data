@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "3D03B0016",
+    "name": "スノーベビー",
+    "furigana": "すのーべびー",
+    "english_name": "Silver sabrecub",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/20/silver-sabrecub/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スノーベビー.webp",
+    "monster_family": "ベビーパンサー族",
+    "search_keywords": ["Silver sabrecub","氷・雪","公式イラストあり"],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQBS",
+      "DQMSL","STAR","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "氷・雪",
+    "other_families": [],
+    "release_date": "2017年7月29日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A04P0003",
     "name": "エビルプラント",
     "furigana": "えびるぷらんと",
