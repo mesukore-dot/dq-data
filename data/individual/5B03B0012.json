@@ -1,0 +1,61 @@
+{
+  "id": "5B03B0012",
+  "name": "デスニャーゴ",
+  "furigana": "ですにゃーご",
+  "english_name": "Killer kitty",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/death-nyago/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスニャーゴ.webp",
+  "monster_family": "プリズニャン族",
+  "search_keywords": [
+    "Killer kitty",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "FY1",
+  "appearances": [
+    "FY1",
+    "MSP",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2006年4月20日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00502",
+  "prev_id": "5B03B0011",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/wing-tiger/",
+  "next_id": "5B04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+  "color_variants": [
+    {
+      "id": "1F03B0003",
+      "name": "しましまキャット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/しましまキャット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/"
+    },
+    {
+      "id": "1F03B0003-1",
+      "name": "マーブルン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/"
+    },
+    {
+      "id": "2E03B0005",
+      "name": "プリズニャン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/プリズニャン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/purizunyan/"
+    },
+    {
+      "id": "4C03B0004",
+      "name": "ベロニャーゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロニャーゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/03/terror-tabby/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
