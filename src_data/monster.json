@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "3D03B0018",
+    "name": "ドッグスナイパー",
+    "furigana": "どっぐすないぱー",
+    "english_name": "Sniping barksman",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/03/sniping-barksman/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドッグスナイパー.webp",
+    "monster_family": "アロードッグ族",
+    "search_keywords": ["Sniping barksman","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "FTR2","FTR3","FY1",
+      "DQMSL","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A03B0010",
     "name": "バーサクオーク",
     "furigana": "ばーさくおーく",
@@ -118,7 +140,7 @@
     "other_families": [],
     "release_date": "1995年12月9日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["1F09M0002"]
   },
   {
     "id": "8SS03B0006",
@@ -7991,8 +8013,8 @@
     "other_families": "-",
     "release_date": "1990年2月11日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F03B0010"]
   },
   {
     "id": "7S03B0001",
