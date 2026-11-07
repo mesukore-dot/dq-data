@@ -38,6 +38,90 @@
     "related_characters": []
   },
   {
+    "id": "3D03B0017",
+    "name": "アルケミストン",
+    "furigana": "あるけみすとん",
+    "english_name": "Sham hamwitch",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/20/sham-hamwitch/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アルケミストン.webp",
+    "monster_family": "ビッグハット族",
+    "search_keywords": ["Sham hamwitch","転生モンスター","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQM2_3DS","DQM2_SP","DQMJ3","DQMJ3_P",
+      "DQBS",
+      "DQMSL","MSP","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年10月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0012",
+    "name": "デスニャーゴ",
+    "furigana": "ですにゃーご",
+    "english_name": "Killer kitty",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/death-nyago/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスニャーゴ.webp",
+    "monster_family": "プリズニャン族",
+    "search_keywords": ["Killer kitty","ボス","公式イラストあり"],
+    "first_appearance": "FY1",
+    "appearances": [
+      "FY1",
+      "MSP","STAR","RIV","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2006年4月20日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS03B0005",
+    "name": "グリフィンクス",
+    "furigana": "ぐりふぃんくす",
+    "english_name": "Griffinx",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/14/griffinx/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グリフィンクス.webp",
+    "monster_family": "グリフィンクス族",
+    "search_keywords": ["Griffinx","ボス","公式イラストあり"],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM3","DQMCH"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A03B0009",
+    "name": "ビッグももんじゃ",
+    "furigana": "びっぐももんじゃ",
+    "english_name": "Greater platypunk",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/big-momonja/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ビッグももんじゃ.webp",
+    "monster_family": "ビッグももんじゃ族",
+    "search_keywords": ["Greater platypunk","公式イラストあり"],
+    "first_appearance": "DQMCH",
+    "appearances": [
+      "DQM3","DQMCH"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2003年3月29日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D03B0016",
     "name": "スノーベビー",
     "furigana": "すのーべびー",
