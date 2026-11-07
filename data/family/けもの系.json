@@ -3061,6 +3061,30 @@
     "zukan_no": "No.00636"
   },
   {
+    "id": "7S03B0006",
+    "name": "チョメ",
+    "furigana": "ちょめ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/19/clawde/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チョメ.webp",
+    "search_keywords": [
+      "Clawde",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQMSL",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2013年12月5日",
+    "zukan_no": "No.00637"
+  },
+  {
     "id": "8SS03B0001",
     "name": "キングレオ",
     "furigana": "きんぐれお",
@@ -3105,7 +3129,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00672"
+    "zukan_no": "No.00673"
   },
   {
     "id": "8SS03B0002",
@@ -3132,7 +3156,7 @@
     "main_family": "けもの系",
     "sub_family": "美女系",
     "release_date": "2012年5月31日",
-    "zukan_no": "No.00673"
+    "zukan_no": "No.00674"
   },
   {
     "id": "8SS03B0003",
@@ -3157,7 +3181,7 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00674"
+    "zukan_no": "No.00675"
   },
   {
     "id": "8SS03B0004",
@@ -3180,7 +3204,7 @@
     "main_family": "けもの系",
     "sub_family": "氷・雪",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00675"
+    "zukan_no": "No.00676"
   },
   {
     "id": "8SS03B0005",
@@ -3201,7 +3225,44 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00676"
+    "zukan_no": "No.00677"
+  },
+  {
+    "id": "8SS03B0006",
+    "name": "魔犬レオパルド",
+    "furigana": "まけんれおぱるど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/makenreoparudo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔犬レオパルド.webp",
+    "search_keywords": [
+      "Sir Leopold",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00678"
   },
   {
     "id": "9X03B0001",
@@ -3238,6 +3299,6 @@
     "main_family": "けもの系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00697"
+    "zukan_no": "No.00699"
   }
 ]
