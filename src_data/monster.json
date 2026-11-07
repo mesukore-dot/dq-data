@@ -38,6 +38,89 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0010",
+    "name": "バーサクオーク",
+    "furigana": "ばーさくおーく",
+    "english_name": "Berzorker",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/15/berzorker/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バーサクオーク.webp",
+    "monster_family": "オークマン族",
+    "search_keywords": ["Berzorker","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0013",
+    "name": "ハイオーク",
+    "furigana": "はいおーく",
+    "english_name": "Boarker",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/09/boarker/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハイオーク.webp",
+    "monster_family": "オークマン族",
+    "search_keywords": ["Boarker","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0024",
+    "name": "オークマン",
+    "furigana": "おーくまん",
+    "english_name": "Porker",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/04/porker/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オークマン.webp",
+    "monster_family": "オークマン族",
+    "search_keywords": ["Porker","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F03B0010",
+    "name": "アロードッグ",
+    "furigana": "あろーどっぐ",
+    "english_name": "Barksman",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/29/barksman/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アロードッグ.webp",
+    "monster_family": "アロードッグ族",
+    "search_keywords": ["Barksman","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM2_3DS","DQM2_SP",
+      "FY1",
+      "DQMSL","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "8SS03B0006",
     "name": "魔犬レオパルド",
     "furigana": "まけんれおぱるど",
