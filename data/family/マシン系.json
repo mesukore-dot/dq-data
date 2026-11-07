@@ -347,7 +347,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00537"
+    "zukan_no": "No.00538"
   },
   {
     "id": "5B11M0001-1",
@@ -380,7 +380,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2012年12月26日",
-    "zukan_no": "No.00538"
+    "zukan_no": "No.00539"
   },
   {
     "id": "5B11M0002",
@@ -425,7 +425,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00539"
+    "zukan_no": "No.00540"
   },
   {
     "id": "5B11M0002-1",
@@ -447,7 +447,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00540"
+    "zukan_no": "No.00541"
   },
   {
     "id": "6A11M0001",
@@ -488,7 +488,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00603"
+    "zukan_no": "No.00605"
   },
   {
     "id": "6A11M0002",
@@ -535,7 +535,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00604"
+    "zukan_no": "No.00606"
   },
   {
     "id": "8SS11M0001",
@@ -568,7 +568,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00687"
+    "zukan_no": "No.00690"
   },
   {
     "id": "8SS11M0002",
@@ -592,7 +592,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00688"
+    "zukan_no": "No.00691"
   },
   {
     "id": "8SS11M0003",
@@ -614,7 +614,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00689"
+    "zukan_no": "No.00692"
   },
   {
     "id": "8SS11M0004",
@@ -653,6 +653,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年1月11日",
-    "zukan_no": "No.00690"
+    "zukan_no": "No.00693"
   }
 ]

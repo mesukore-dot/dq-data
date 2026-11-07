@@ -323,6 +323,55 @@
     "zukan_no": "No.00438"
   },
   {
+    "id": "4C13Z0005",
+    "name": "スカルゴン",
+    "furigana": "すかるごん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/scull-gon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルゴン.webp",
+    "search_keywords": [
+      "Skelegon",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00439"
+  },
+  {
     "id": "5B13Z0001",
     "name": "ドラゴンコープス",
     "furigana": "どらごんこーぷす",
@@ -349,7 +398,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00541"
+    "zukan_no": "No.00542"
   },
   {
     "id": "5B13Z0002",
@@ -373,7 +422,72 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00542"
+    "zukan_no": "No.00543"
+  },
+  {
+    "id": "5B13Z0003",
+    "name": "ドラゴンゾンビ",
+    "furigana": "どらごんぞんび",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/dragon-zombie/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドラゴンゾンビ.webp",
+    "search_keywords": [
+      "Dragon zombie",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00544"
+  },
+  {
+    "id": "6A13Z0001",
+    "name": "スカルドン",
+    "furigana": "すかるどん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/31/drakenstein/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バラモスゾンビ.webp",
+    "search_keywords": [
+      "Dakenstein",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQMJ3",
+      "DQMJ3_P",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00607"
   },
   {
     "id": "8SS13Z0001",
@@ -409,7 +523,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00691"
+    "zukan_no": "No.00694"
   },
   {
     "id": "8SS13Z0002",
@@ -438,6 +552,47 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00692"
+    "zukan_no": "No.00695"
+  },
+  {
+    "id": "8SS13Z0003",
+    "name": "バラモスゾンビ",
+    "furigana": "ばらもすぞんび",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu-zombie/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バラモスゾンビ.webp",
+    "search_keywords": [
+      "Bones of Baramos",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00696"
   }
 ]
