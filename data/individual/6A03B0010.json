@@ -1,0 +1,44 @@
+{
+  "id": "6A03B0010",
+  "name": "バーサクオーク",
+  "furigana": "ばーさくおーく",
+  "english_name": "Berzorker",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/15/berzorker/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バーサクオーク.webp",
+  "monster_family": "オークマン族",
+  "search_keywords": [
+    "Berzorker",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00585",
+  "prev_id": "6A03B0009",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/big-momonja/",
+  "next_id": "6A04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/27/malign-vine/",
+  "color_variants": [
+    {
+      "id": "4C03B0024",
+      "name": "オークマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オークマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/04/porker/"
+    },
+    {
+      "id": "5B03B0013",
+      "name": "ハイオーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハイオーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/09/boarker/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
