@@ -1,0 +1,62 @@
+{
+  "id": "3D03B0017",
+  "name": "アルケミストン",
+  "furigana": "あるけみすとん",
+  "english_name": "Sham hamwitch",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/20/sham-hamwitch/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アルケミストン.webp",
+  "monster_family": "ビッグハット族",
+  "search_keywords": [
+    "Sham hamwitch",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年10月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00261",
+  "prev_id": "3D03B0016",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/20/silver-sabrecub/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "1F03B0006",
+      "name": "ビッグハット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ビッグハット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/21/big-hat/"
+    },
+    {
+      "id": "2E03B0015",
+      "name": "ハロウィンハット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンハット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/03/halloween-hat/"
+    },
+    {
+      "id": "3D10M0001",
+      "name": "マジカルハット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マジカルハット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
