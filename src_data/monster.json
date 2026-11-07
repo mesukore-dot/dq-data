@@ -38,6 +38,97 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0001",
+    "name": "スカルドン",
+    "furigana": "すかるどん",
+    "english_name": "Dakenstein",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/31/drakenstein/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バラモスゾンビ.webp",
+    "monster_family": "ドラゴンゾンビ族",
+    "search_keywords": ["Dakenstein","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQMJ3","DQMJ3_P",
+      "TACT","KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS13Z0003",
+    "name": "バラモスゾンビ",
+    "furigana": "ばらもすぞんび",
+    "english_name": "Bones of Baramos",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu-zombie/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バラモスゾンビ.webp",
+    "monster_family": "ドラゴンゾンビ族",
+    "search_keywords": ["Bones of Baramos","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ3","DQMJ3_P",
+      "DQMB","DQBS","XB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B13Z0003",
+    "name": "ドラゴンゾンビ",
+    "furigana": "どらごんぞんび",
+    "english_name": "Dragon zombie",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/dragon-zombie/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドラゴンゾンビ.webp",
+    "monster_family": "ドラゴンゾンビ族",
+    "search_keywords": ["Dragon zombie","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ10","DQ10_OFF","DQ11",
+      "DQMJ3","DQMJ3_P",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0005",
+    "name": "スカルゴン",
+    "furigana": "すかるごん",
+    "english_name": "Skelegon",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/scull-gon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルゴン.webp",
+    "monster_family": "ドラゴンゾンビ族",
+    "search_keywords": ["Skelegon","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ10","DQ10_OFF","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMCH","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","champ","DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "9X14?1N030001",
     "name": "ゾーマ",
     "furigana": "ぞーま",
