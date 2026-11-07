@@ -65,7 +65,14 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/20/arm-lion/",
   "next_id": "4C03B0016",
   "next_page_url": "https://dqfan527.xsrv.jp/2025/08/07/tokonatupansa/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "7S03B0006",
+      "name": "チョメ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チョメ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/19/clawde/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
