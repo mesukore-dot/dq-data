@@ -1,0 +1,43 @@
+{
+  "id": "3D03B0018",
+  "name": "ドッグスナイパー",
+  "furigana": "どっぐすないぱー",
+  "english_name": "Sniping barksman",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/03/sniping-barksman/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドッグスナイパー.webp",
+  "monster_family": "アロードッグ族",
+  "search_keywords": [
+    "Sniping barksman",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQMSL",
+    "RIV"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00263",
+  "prev_id": "3D03B0017",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/20/sham-hamwitch/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "1F03B0010",
+      "name": "アロードッグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アロードッグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/29/barksman/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

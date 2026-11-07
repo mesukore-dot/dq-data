@@ -24,7 +24,9 @@
   "other_families": [],
   "release_date": "1995年12月9日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "1F09M0002"
+  ],
   "zukan_no": "No.00039",
   "prev_id": "1F03B0009",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/17/mouseflap/",
@@ -41,7 +43,21 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D03B0018",
+      "name": "ドッグスナイパー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドッグスナイパー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/03/sniping-barksman/"
+    }
+  ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "1F09M0002",
+      "name": "リリパット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/リリパット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/19/riripat/"
+    }
+  ]
 }
