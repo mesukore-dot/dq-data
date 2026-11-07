@@ -38,6 +38,50 @@
     "related_characters": []
   },
   {
+    "id": "8SS03B0006",
+    "name": "魔犬レオパルド",
+    "furigana": "まけんれおぱるど",
+    "english_name": "Sir Leopold",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/makenreoparudo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔犬レオパルド.webp",
+    "monster_family": "魔犬レオパルド族",
+    "search_keywords": ["Sir Leopold","ボス","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8","DQ8_3D","DQ10",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQMB",
+      "DQMSL","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "7S03B0006",
+    "name": "チョメ",
+    "furigana": "ちょめ",
+    "english_name": "Clawde",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/19/clawde/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チョメ.webp",
+    "monster_family": "キラーパンサー族",
+    "search_keywords": ["Clawde","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQMSL","RIV","TACT","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2013年12月5日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D03B0017",
     "name": "アルケミストン",
     "furigana": "あるけみすとん",
