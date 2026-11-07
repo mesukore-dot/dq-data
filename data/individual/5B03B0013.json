@@ -1,0 +1,44 @@
+{
+  "id": "5B03B0013",
+  "name": "ハイオーク",
+  "furigana": "はいおーく",
+  "english_name": "Boarker",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/09/boarker/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハイオーク.webp",
+  "monster_family": "オークマン族",
+  "search_keywords": [
+    "Boarker",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00505",
+  "prev_id": "5B03B0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/death-nyago/",
+  "next_id": "5B04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/meranza-na/",
+  "color_variants": [
+    {
+      "id": "4C03B0024",
+      "name": "オークマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オークマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/04/porker/"
+    },
+    {
+      "id": "6A03B0010",
+      "name": "バーサクオーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バーサクオーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/15/berzorker/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
