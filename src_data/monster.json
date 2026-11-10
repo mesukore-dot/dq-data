@@ -1967,7 +1967,7 @@
     "other_families": [],
     "release_date": "1990年2月11日",
     "related_items": [],
-    "related_characters": ["2E08D0002","2E08D0002"]
+    "related_characters": ["4C08D0003","2E08D0002"]
   },
   {
     "id": "6A10M0002",
@@ -4482,7 +4482,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["6A03B0005","8SS03B0001"]
   },
   {
     "id": "3D07W0002",
@@ -5356,7 +5356,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["7S10M0001","6A03B0005"]
   },
   {
     "id": "5B03B0007",
@@ -5429,7 +5429,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["7S10M0001","8SS03B0001"]
   },
   {
     "id": "5B03B0006",
