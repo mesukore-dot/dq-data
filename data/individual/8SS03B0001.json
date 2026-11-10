@@ -72,7 +72,10 @@
   "release_date": "1990年2月11日",
   "voice_actor": "-",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "7S10M0001",
+    "6A03B0005"
+  ],
   "dqsg_id": "E0060",
   "dqsg_name": "キングレオ",
   "dqsg_furigana": "きんぐれお",
@@ -117,5 +120,18 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "7S10M0001",
+      "name": "バルザック＋",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バルザック＋.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/24/balzack/"
+    },
+    {
+      "id": "6A03B0005",
+      "name": "バルザック",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バルザックビースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/13/balzac-beast/"
+    }
+  ]
 }
