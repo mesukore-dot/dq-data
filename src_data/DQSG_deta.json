@@ -26,10 +26,12 @@
     "dqsg_element_resistances": {  
       "dqsg_super_weak": ["炎"],
       "dqsg_weak":       ["風"],
-      "dqsg_resist":     ["-"]
+      "dqsg_resist":     ["雷"]
     },
     "dqsg_features": [             
-      "前方5本の直線範囲に　剣の衝撃波を飛ばす。"
+      "前方5本の直線範囲に　剣の衝撃波を飛ばす。",
+      "剣で　周囲をなぎはらう。",
+      "剣で　前方をきりさく。"
     ],
     "dqsg_official_mamechishiki": "魔族のあいだで　知らない者の　ないほどの　魔剣の使い手。\n刃を交えたピサロに　その実力を認められ　直属の騎士となった。"
   },
