@@ -10642,14 +10642,14 @@
     "related_characters": []
   },
        {
-    "id": "6A01S0020",
+    "id": "CPM-ISL01S0003",
     "name": "ホミロット",
     "furigana": "ほみろっと",
-    "english_name": "",
+    "english_name": "Healdrick",
     "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
     "monster_family": "ホイミスライム族",
-    "search_keywords": ["ドラクエアイランド","マスコット","公式イラストあり"],
+    "search_keywords": ["Healdrick","ドラクエアイランド","マスコット","公式イラストあり"],
     "first_appearance": "Island",
     "appearances": ["DQ10"
       ],
@@ -10659,7 +10659,7 @@
     "release_date": "2021年5月15日",
     "voice_actor": "-",
     "related_items": ["-"],
-    "related_characters": []
+    "related_characters": ["CPM-ISL01S0001","CPM-ISL01S0002"]
   },
        {
     "id": "CPM-ISL01S0002",
@@ -10680,7 +10680,7 @@
     "release_date": "2021年5月15日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["1F04P0009","CPM-ISL01S0001"]
+    "related_characters": ["1F04P0009","CPM-ISL01S0001","CPM-ISL01S0003"]
   },
        {
     "id": "CPM-ISL01S0001",
@@ -10702,7 +10702,7 @@
     "release_date": "2021年5月15日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["1F04P0009","CPM-ISL01S0002"]
+    "related_characters": ["1F04P0009","CPM-ISL01S0002","CPM-ISL01S0003"]
   },
        {
     "id": "3D01S0037",
