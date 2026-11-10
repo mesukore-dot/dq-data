@@ -27,7 +27,7 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00630",
+  "zukan_no": "No.00629",
   "prev_id": "7S01S0020",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/",
   "next_id": "7S02D0001",
@@ -88,12 +88,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/05/21/magic-slime/"
     },
     {
-      "id": "6A01S0020",
-      "name": "ホミロット",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/"
-    },
-    {
       "id": "7S01S0001",
       "name": "ホミちょ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホミちょ.webp",
@@ -104,6 +98,12 @@
       "name": "ホイミン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ホイミン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/27/healiedq4/"
+    },
+    {
+      "id": "CPM-ISL01S0003",
+      "name": "ホミロット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/"
     }
   ],
   "related_items_details": [

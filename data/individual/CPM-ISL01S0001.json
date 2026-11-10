@@ -25,9 +25,10 @@
   "related_items": [],
   "related_characters": [
     "1F04P0009",
-    "CPM-ISL01S0002"
+    "CPM-ISL01S0002",
+    "CPM-ISL01S0003"
   ],
-  "zukan_no": "No.00722",
+  "zukan_no": "No.00721",
   "prev_id": "CPM-CO01S0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/",
   "next_id": "CPM-ISL01S0002",
@@ -264,6 +265,12 @@
       "name": "たまねぎキング",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎキング.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/31/onion-king-slime/"
+    },
+    {
+      "id": "CPM-ISL01S0003",
+      "name": "ホミロット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/28/homirot/"
     }
   ]
 }
