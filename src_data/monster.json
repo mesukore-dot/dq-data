@@ -1960,7 +1960,7 @@
       "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
       "DQH1","DQH2",
       "DQMB",
-      "DQMSL","MSP","STAR","RIV","TACT","KSKS"
+      "DQMSL","MSP","STAR","RIV","TACT","KSKS","DQSG"
     ],
     "main_family": "物質系",
     "sub_family": "-",
@@ -4474,7 +4474,7 @@
       "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3","DQMJ3_P",
       "DQH2",
       "DQBS",
-      "DQMSL","MSP","STAR","RIV","TACT","KSKS"
+      "DQMSL","MSP","STAR","RIV","TACT","KSKS","DQSG"
     ],
     "main_family": "物質系",
     "sub_family": "-",
