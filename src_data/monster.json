@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "5B11M0003",
+    "name": "デザートモデル",
+    "furigana": "でざーともでる",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/24/desert-model/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/デザートモデル.webp",
+    "monster_family": "キラーマシン族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQTR",
+    "appearances": [
+      "DQ10",
+      "DQTR"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2022年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A11M0003",
     "name": "デュランダル",
     "furigana": "でゅらんだる",
