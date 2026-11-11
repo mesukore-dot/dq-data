@@ -1,0 +1,46 @@
+{
+  "id": "6A03B0012",
+  "name": "カイザーマムー",
+  "furigana": "かいざーまむー",
+  "english_name": "Fouler jowler",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/12/great-mamu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/カイザーマムー.webp",
+  "monster_family": "マムー族",
+  "search_keywords": [
+    "Fouler jowler",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ11",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00596",
+  "prev_id": "6A03B0011",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/shingantanuki/",
+  "next_id": "6A04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/27/malign-vine/",
+  "color_variants": [
+    {
+      "id": "4C03B0025",
+      "name": "マムー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マムー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/12/mamu/"
+    },
+    {
+      "id": "5B03B0014",
+      "name": "グレイトマムー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレイトマムー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/12/great-mamu/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
