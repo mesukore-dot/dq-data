@@ -1,0 +1,39 @@
+{
+  "id": "1F03B0011",
+  "name": "ワンワンダック",
+  "furigana": "わんわんだっく",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/06/13/wanwan-duck/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ワンワンダック.webp",
+  "monster_family": "ワンワンダック族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM4",
+  "appearances": [
+    "DQM4"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年12月3日",
+  "related_items": [],
+  "related_characters": [
+    "1F03B0002"
+  ],
+  "zukan_no": "No.00040",
+  "prev_id": "1F03B0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/29/barksman/",
+  "next_id": "1F04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/28/bushy-baby/",
+  "color_variants": [],
+  "related_items_details": [],
+  "related_characters_details": [
+    {
+      "id": "1F03B0002",
+      "name": "ももんじゃ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ももんじゃ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/12/momonja/"
+    }
+  ]
+}
