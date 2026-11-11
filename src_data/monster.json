@@ -38,6 +38,29 @@
     "related_characters": []
   },
   {
+    "id": "6A11M0003",
+    "name": "デュランダル",
+    "furigana": "でゅらんだる",
+    "english_name": "A3G15",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/08/durandal/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デュランダル.webp",
+    "monster_family": "キラーマシン族",
+    "search_keywords": ["A3G15","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ11",
+      "DQM3",
+      "DQBS",
+      "MSP","RIV","WALK"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2015年4月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0001",
     "name": "スカルドン",
     "furigana": "すかるどん",
