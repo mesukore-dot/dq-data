@@ -582,6 +582,32 @@
     "zukan_no": "No.00607"
   },
   {
+    "id": "7S11M0001",
+    "name": "キラーマシン3",
+    "furigana": "きらーましん3",
+    "page_url": "https://dqfan527.xsrv.jp/2026/03/06/killer-machine3/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キラーマシン3.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMB",
+    "appearances": [
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "TACT"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2008年3月14日",
+    "zukan_no": "No.00657"
+  },
+  {
     "id": "8SS11M0001",
     "name": "サージタウス",
     "furigana": "さーじたうす",
@@ -612,7 +638,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00691"
+    "zukan_no": "No.00692"
   },
   {
     "id": "8SS11M0002",
@@ -636,7 +662,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00692"
+    "zukan_no": "No.00693"
   },
   {
     "id": "8SS11M0003",
@@ -658,7 +684,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00693"
+    "zukan_no": "No.00694"
   },
   {
     "id": "8SS11M0004",
@@ -697,6 +723,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年1月11日",
-    "zukan_no": "No.00694"
+    "zukan_no": "No.00695"
   }
 ]
