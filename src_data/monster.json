@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "8SS03B0007",
+    "name": "神馬アルシオン",
+    "furigana": "しんめあるしおん",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/09/divine-horse-alcyone/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/神馬アルシオン.webp",
+    "monster_family": "黒竜丸族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQSB",
+    "appearances": [
+      "DQMJ3_P",
+      "DQBS",
+      "DQMSL","STAR","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2017年2月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A03B0011",
     "name": "心眼たぬき",
     "furigana": "しんがんたぬき",
