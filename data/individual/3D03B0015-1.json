@@ -24,7 +24,9 @@
   "other_families": [],
   "release_date": "2017年7月29日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "3D03B0019"
+  ],
   "zukan_no": "No.00262",
   "prev_id": "3D03B0015",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/gouketuguma/",
@@ -45,5 +47,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "3D03B0019",
+      "name": "放浪パンダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/放浪パンダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/11/hourou-panda/"
+    }
+  ]
 }
