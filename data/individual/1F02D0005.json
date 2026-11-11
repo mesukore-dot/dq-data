@@ -45,7 +45,14 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D02D0019",
+      "name": "かればなドラゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/かればなドラゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/11/karebana-drago/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": [
     {
