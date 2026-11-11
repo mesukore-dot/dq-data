@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "1F03B0011",
+    "name": "ワンワンダック",
+    "furigana": "わんわんだっく",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/13/wanwan-duck/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ワンワンダック.webp",
+    "monster_family": "ワンワンダック族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQM4",
+    "appearances": [
+      "DQM4"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2026年12月3日",
+    "related_items": [],
+    "related_characters": ["1F03B0002"]
+  },
+  {
     "id": "6A03B0012",
     "name": "カイザーマムー",
     "furigana": "かいざーまむー",
@@ -15852,8 +15872,8 @@
     "other_families": "-",
     "release_date": "1990年2月11日",
     "voice_actor": "-",
-    "related_items": ["item_dokubari"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F03B0011"]
   },
           {
     "id": "1F03B0001-1",
