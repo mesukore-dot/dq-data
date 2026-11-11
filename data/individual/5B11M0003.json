@@ -1,0 +1,62 @@
+{
+  "id": "5B11M0003",
+  "name": "デザートモデル",
+  "furigana": "でざーともでる",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2024/10/24/desert-model/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/デザートモデル.webp",
+  "monster_family": "キラーマシン族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQTR",
+  "appearances": [
+    "DQ10",
+    "DQTR"
+  ],
+  "main_family": "マシン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2022年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00542",
+  "prev_id": "5B11M0002-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/05/clockwyrm/",
+  "next_id": "5B13Z0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/grotwyrm/",
+  "color_variants": [
+    {
+      "id": "1F11M0004",
+      "name": "キラーマシンライト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシンライト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/04/12/killer-machine-light/"
+    },
+    {
+      "id": "3D11M0001",
+      "name": "メタルハンター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルハンター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/"
+    },
+    {
+      "id": "5B11M0001",
+      "name": "キラーマシン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/キラーマシン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/28/killer-machine/"
+    },
+    {
+      "id": "5B11M0001-1",
+      "name": "タイプG",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/タイプG.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/13/type-g/"
+    },
+    {
+      "id": "6A11M0003",
+      "name": "デュランダル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デュランダル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/08/durandal/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

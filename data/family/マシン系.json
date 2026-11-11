@@ -450,6 +450,25 @@
     "zukan_no": "No.00541"
   },
   {
+    "id": "5B11M0003",
+    "name": "デザートモデル",
+    "furigana": "でざーともでる",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/24/desert-model/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/デザートモデル.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQTR",
+    "appearances": [
+      "DQ10",
+      "DQTR"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2022年12月9日",
+    "zukan_no": "No.00542"
+  },
+  {
     "id": "6A11M0001",
     "name": "メカバーン",
     "furigana": "めかばーん",
@@ -488,7 +507,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00604"
+    "zukan_no": "No.00605"
   },
   {
     "id": "6A11M0002",
@@ -535,7 +554,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00605"
+    "zukan_no": "No.00606"
   },
   {
     "id": "6A11M0003",
@@ -560,7 +579,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00606"
+    "zukan_no": "No.00607"
   },
   {
     "id": "8SS11M0001",
@@ -593,7 +612,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00690"
+    "zukan_no": "No.00691"
   },
   {
     "id": "8SS11M0002",
@@ -617,7 +636,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00691"
+    "zukan_no": "No.00692"
   },
   {
     "id": "8SS11M0003",
@@ -639,7 +658,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00692"
+    "zukan_no": "No.00693"
   },
   {
     "id": "8SS11M0004",
@@ -678,6 +697,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年1月11日",
-    "zukan_no": "No.00693"
+    "zukan_no": "No.00694"
   }
 ]
