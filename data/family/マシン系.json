@@ -185,6 +185,25 @@
     "zukan_no": "No.00180"
   },
   {
+    "id": "2E11M0002",
+    "name": "トルトリーナ",
+    "furigana": "とるとりーな",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/30/toltori-na/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/トルトリーナ.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3",
+      "DQM4"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2023年12月1日",
+    "zukan_no": "No.00181"
+  },
+  {
     "id": "3D11M0001",
     "name": "メタルハンター",
     "furigana": "めたるはんたー",
@@ -241,7 +260,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00310"
+    "zukan_no": "No.00311"
   },
   {
     "id": "4C11M0001",
@@ -275,7 +294,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00434"
+    "zukan_no": "No.00435"
   },
   {
     "id": "5B11M0001",
@@ -347,7 +366,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00538"
+    "zukan_no": "No.00539"
   },
   {
     "id": "5B11M0001-1",
@@ -380,7 +399,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2012年12月26日",
-    "zukan_no": "No.00539"
+    "zukan_no": "No.00540"
   },
   {
     "id": "5B11M0002",
@@ -425,7 +444,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00540"
+    "zukan_no": "No.00541"
   },
   {
     "id": "5B11M0002-1",
@@ -447,7 +466,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00541"
+    "zukan_no": "No.00542"
   },
   {
     "id": "5B11M0003",
@@ -466,7 +485,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2022年12月9日",
-    "zukan_no": "No.00542"
+    "zukan_no": "No.00543"
   },
   {
     "id": "6A11M0001",
@@ -507,7 +526,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00605"
+    "zukan_no": "No.00606"
   },
   {
     "id": "6A11M0002",
@@ -554,7 +573,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00606"
+    "zukan_no": "No.00607"
   },
   {
     "id": "6A11M0003",
@@ -579,7 +598,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00607"
+    "zukan_no": "No.00608"
   },
   {
     "id": "7S11M0001",
@@ -605,7 +624,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年3月14日",
-    "zukan_no": "No.00657"
+    "zukan_no": "No.00658"
   },
   {
     "id": "8SS11M0001",
@@ -638,7 +657,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00692"
+    "zukan_no": "No.00693"
   },
   {
     "id": "8SS11M0002",
@@ -662,7 +681,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00693"
+    "zukan_no": "No.00694"
   },
   {
     "id": "8SS11M0003",
@@ -684,7 +703,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00694"
+    "zukan_no": "No.00695"
   },
   {
     "id": "8SS11M0004",
@@ -723,6 +742,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年1月11日",
-    "zukan_no": "No.00695"
+    "zukan_no": "No.00696"
   }
 ]
