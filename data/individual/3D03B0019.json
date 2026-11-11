@@ -35,7 +35,14 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "6A03B0011",
+      "name": "心眼たぬき",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/心眼たぬき.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/shingantanuki/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
