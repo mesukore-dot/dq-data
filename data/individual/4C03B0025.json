@@ -1,0 +1,50 @@
+{
+  "id": "4C03B0025",
+  "name": "マムー",
+  "furigana": "まむー",
+  "english_name": "Jowler",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/12/mamu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マムー.webp",
+  "monster_family": "マムー族",
+  "search_keywords": [
+    "Jowler",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ11",
+    "DQM2_SP",
+    "DQM3",
+    "STAR"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00402",
+  "prev_id": "4C03B0024",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/04/porker/",
+  "next_id": "4C04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/udora/",
+  "color_variants": [
+    {
+      "id": "5B03B0014",
+      "name": "グレイトマムー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレイトマムー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/12/great-mamu/"
+    },
+    {
+      "id": "6A03B0012",
+      "name": "カイザーマムー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/カイザーマムー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/12/great-mamu/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
