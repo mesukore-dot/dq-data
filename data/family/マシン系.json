@@ -538,6 +538,31 @@
     "zukan_no": "No.00605"
   },
   {
+    "id": "6A11M0003",
+    "name": "デュランダル",
+    "furigana": "でゅらんだる",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/08/durandal/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デュランダル.webp",
+    "search_keywords": [
+      "A3G15",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ11",
+      "DQM3",
+      "DQBS",
+      "MSP",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2015年4月30日",
+    "zukan_no": "No.00606"
+  },
+  {
     "id": "8SS11M0001",
     "name": "サージタウス",
     "furigana": "さーじたうす",
@@ -568,7 +593,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00689"
+    "zukan_no": "No.00690"
   },
   {
     "id": "8SS11M0002",
@@ -592,7 +617,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00690"
+    "zukan_no": "No.00691"
   },
   {
     "id": "8SS11M0003",
@@ -614,7 +639,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00691"
+    "zukan_no": "No.00692"
   },
   {
     "id": "8SS11M0004",
@@ -653,6 +678,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年1月11日",
-    "zukan_no": "No.00692"
+    "zukan_no": "No.00693"
   }
 ]
