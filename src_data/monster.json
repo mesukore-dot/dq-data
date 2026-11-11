@@ -38,6 +38,70 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0012",
+    "name": "カイザーマムー",
+    "furigana": "かいざーまむー",
+    "english_name": "Fouler jowler",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/12/great-mamu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/カイザーマムー.webp",
+    "monster_family": "マムー族",
+    "search_keywords": ["Fouler jowler","公式イラスト待機中"],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "STAR","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2017年7月29日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0014",
+    "name": "グレイトマムー",
+    "furigana": "ぐれいとまむー",
+    "english_name": "Prowler jowler",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/12/great-mamu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレイトマムー.webp",
+    "monster_family": "マムー族",
+    "search_keywords": ["Prowler jowler","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ11",
+      "STAR","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0025",
+    "name": "マムー",
+    "furigana": "まむー",
+    "english_name": "Jowler",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/12/mamu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マムー.webp",
+    "monster_family": "マムー族",
+    "search_keywords": ["Jowler","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ11",
+      "DQM2_SP","DQM3",
+      "STAR"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "8SS03B0007",
     "name": "神馬アルシオン",
     "furigana": "しんめあるしおん",
