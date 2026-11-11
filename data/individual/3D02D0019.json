@@ -1,0 +1,37 @@
+{
+  "id": "3D02D0019",
+  "name": "かればなドラゴ",
+  "furigana": "かればなどらご",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/11/karebana-drago/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/かればなドラゴ.webp",
+  "monster_family": "はなまきドラゴ族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM4",
+  "appearances": [
+    "DQM4"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年12月3日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00245",
+  "prev_id": "3D02D0018",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/20/forest-dragon/",
+  "next_id": "3D03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/19/rikanto/",
+  "color_variants": [
+    {
+      "id": "1F02D0005",
+      "name": "はなまきドラゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/はなまきドラゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/19/hanamaki-dragon/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
