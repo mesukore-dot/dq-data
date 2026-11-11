@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0011",
+    "name": "心眼たぬき",
+    "furigana": "しんがんたぬき",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/shingantanuki/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/心眼たぬき.webp",
+    "monster_family": "心眼たぬき族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3","DQM4",
+      "WALK","TACT","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D03B0019",
     "name": "放浪パンダ",
     "furigana": "ほうろうぱんだ",
