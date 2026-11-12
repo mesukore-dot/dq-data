@@ -38,6 +38,72 @@
     "related_characters": []
   },
   {
+    "id": "7S13Z0001",
+    "name": "エクソダス",
+    "furigana": "えくそだす",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/01/exordas/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エクソダス.webp",
+    "monster_family": "がいこつけんし族",
+    "search_keywords": ["ボス","公式イラストあり"],
+    "first_appearance": "DQ1_HD2D",
+    "appearances": [
+      "DQ1_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2025年10月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D13Z0004",
+    "name": "ドロルメイジ",
+    "furigana": "どろるめいじ",
+    "english_name": "Drohl diabolist",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororumeiji/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロルメイジ.webp",
+    "monster_family": "ドロル族",
+    "search_keywords": ["Drohl diabolist","公式イラストあり"],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1","DQ1_HD2D","DQ2_HD2D","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P",
+      "DQB1","DQB2",
+      "STAR","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1986年5月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E13Z0004",
+    "name": "ドロル",
+    "furigana": "どろる",
+    "english_name": "Drohl drone",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロル.webp",
+    "monster_family": "ドロル族",
+    "search_keywords": ["Drohl drone","公式イラストあり"],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1","DQ1_HD2D","DQ2_HD2D","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ2","DQMJ2_P",
+      "MRMR3","DQB1","DQB2",
+      "DQMSL","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1986年5月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B13Z0004",
     "name": "かげのきし",
     "furigana": "かげのきし",
