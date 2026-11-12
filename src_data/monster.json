@@ -38,6 +38,66 @@
     "related_characters": []
   },
   {
+    "id": "3D01S0039",
+    "name": "おしろつむり",
+    "furigana": "おしろつむり",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/28/oshirotumuri/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おしろつむり.webp",
+    "monster_family": "スライムつむり族",
+    "search_keywords": ["和風","公式イラストあり"],
+    "first_appearance": "DQW",
+    "appearances": [
+      "DQW"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2021年11月12日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-SP01S0002",
+    "name": "ファイターズナイト",
+    "furigana": "ふぁいたーずないと",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/05/fighters-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファイターズナイト.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": ["パ・リーグ","野球","コラボ","公式イラストあり"],
+    "first_appearance": "DQW",
+    "appearances": [
+      "DQW"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2021年5月7日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-CO01S0003",
+    "name": "Coke ONコラボ大王",
+    "furigana": "こーくおんこらぼだいおう",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/15/cokeon-collaboration-daiou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Coke-ONコラボ大王.webp",
+    "monster_family": "キングスライム族",
+    "search_keywords": ["コカ・コーラCokeON","コラボ","公式イラストあり"],
+    "first_appearance": "DQW",
+    "appearances": [
+      "DQW"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2022年12月3日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B01S0032",
     "name": "プリム",
     "furigana": "ぷりむ",
