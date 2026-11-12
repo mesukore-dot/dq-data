@@ -1,0 +1,80 @@
+{
+  "id": "3D13Z0008",
+  "name": "リビングデッド",
+  "furigana": "りびんぐでっど",
+  "english_name": "Corpse corporal",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/27/living-dead/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/リビングデッド.webp",
+  "monster_family": "くさったしたい族",
+  "search_keywords": [
+    "Corpse corporal",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQSW",
+    "DQH1",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQMB",
+    "DQBS",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00340",
+  "prev_id": "3D13Z0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/21/anded-man/",
+  "next_id": "3D14?1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
+  "color_variants": [
+    {
+      "id": "2E13Z0007",
+      "name": "くさったしたい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/くさったしたい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/27/kusattashitai/"
+    },
+    {
+      "id": "4C13Z0009",
+      "name": "どくどくゾンビ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どくどくゾンビ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/dokudoku-zombie/"
+    },
+    {
+      "id": "5B13Z0005",
+      "name": "グール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/gool/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
