@@ -5939,7 +5939,48 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月12日",
-    "zukan_no": "No.00738"
+    "zukan_no": "No.00739"
+  },
+  {
+    "id": "CPM-VJ01S0001",
+    "name": "Vスライム",
+    "furigana": "Vすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/27/v-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Vスライム.webp",
+    "search_keywords": [
+      "Vジャンプ",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL",
+      "MSP"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2014年4月21日",
+    "zukan_no": "No.00740"
+  },
+  {
+    "id": "CPM-VJ01S0002",
+    "name": "Vスライムナイト",
+    "furigana": "Vすらいむないと",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/05/v-slime-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Vスライムナイト.webp",
+    "search_keywords": [
+      "Vジャンプ",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2014年7月18日",
+    "zukan_no": "No.00741"
   },
   {
     "id": "CPM-YS01S0001",
@@ -5959,7 +6000,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00739"
+    "zukan_no": "No.00742"
   },
   {
     "id": "CPM-YS01S0002",
@@ -5979,7 +6020,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00740"
+    "zukan_no": "No.00743"
   },
   {
     "id": "CPM-YS01S0003",
@@ -5999,6 +6040,6 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00741"
+    "zukan_no": "No.00744"
   }
 ]
