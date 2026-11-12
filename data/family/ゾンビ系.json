@@ -158,6 +158,77 @@
     "zukan_no": "No.00093"
   },
   {
+    "id": "1F13Z0004",
+    "name": "マドハンド",
+    "furigana": "まどはんど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/31/madohand/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マドハンド.webp",
+    "search_keywords": [
+      "Muddy hand",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ6",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "MRMR1",
+      "DQSW",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00094"
+  },
+  {
     "id": "2E13Z0001",
     "name": "ハロウィンゴースト",
     "furigana": "はろうぃんごーすと",
@@ -175,7 +246,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "ハロウィン",
     "release_date": "2014年10月15日",
-    "zukan_no": "No.00190"
+    "zukan_no": "No.00191"
   },
   {
     "id": "2E13Z0002",
@@ -195,7 +266,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "ハロウィン",
     "release_date": "2014年10月15日",
-    "zukan_no": "No.00191"
+    "zukan_no": "No.00192"
   },
   {
     "id": "2E13Z0003",
@@ -223,7 +294,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00192"
+    "zukan_no": "No.00193"
   },
   {
     "id": "2E13Z0004",
@@ -262,7 +333,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00193"
+    "zukan_no": "No.00194"
   },
   {
     "id": "2E13Z0005",
@@ -292,7 +363,57 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00194"
+    "zukan_no": "No.00195"
+  },
+  {
+    "id": "2E13Z0006",
+    "name": "ミイラおとこ",
+    "furigana": "みいらおとこ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/26/mirra-otoko/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ミイラおとこ.webp",
+    "search_keywords": [
+      "Mummy boy",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00196"
   },
   {
     "id": "3D13Z0001",
@@ -318,7 +439,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00330"
+    "zukan_no": "No.00332"
   },
   {
     "id": "3D13Z0002",
@@ -355,7 +476,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00331"
+    "zukan_no": "No.00333"
   },
   {
     "id": "3D13Z0003",
@@ -412,7 +533,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00332"
+    "zukan_no": "No.00334"
   },
   {
     "id": "3D13Z0004",
@@ -445,7 +566,108 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00333"
+    "zukan_no": "No.00335"
+  },
+  {
+    "id": "3D13Z0005",
+    "name": "ブラッドハンド",
+    "furigana": "ぶらっどはんど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/31/brad-hand/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラッドハンド.webp",
+    "search_keywords": [
+      "Bloody hand",
+      "ぶらっでぃはんど",
+      "ブラッディハンド",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ4_PS",
+      "DQ6",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQSW",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00336"
+  },
+  {
+    "id": "3D13Z0006",
+    "name": "マミー",
+    "furigana": "まみー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/26/mummy/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マミー.webp",
+    "search_keywords": [
+      "Mummy",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMCH",
+      "FTR2",
+      "FTR3",
+      "MRMR1",
+      "MRMR3",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00337"
   },
   {
     "id": "4C13Z0001",
@@ -468,7 +690,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00463"
+    "zukan_no": "No.00467"
   },
   {
     "id": "4C13Z0002",
@@ -490,7 +712,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00464"
+    "zukan_no": "No.00468"
   },
   {
     "id": "4C13Z0003",
@@ -522,7 +744,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00465"
+    "zukan_no": "No.00469"
   },
   {
     "id": "4C13Z0004",
@@ -544,7 +766,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00466"
+    "zukan_no": "No.00470"
   },
   {
     "id": "4C13Z0005",
@@ -593,7 +815,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00467"
+    "zukan_no": "No.00471"
   },
   {
     "id": "4C13Z0006",
@@ -632,7 +854,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00468"
+    "zukan_no": "No.00472"
   },
   {
     "id": "4C13Z0007",
@@ -668,7 +890,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00469"
+    "zukan_no": "No.00473"
   },
   {
     "id": "5B13Z0001",
@@ -697,7 +919,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00576"
+    "zukan_no": "No.00580"
   },
   {
     "id": "5B13Z0002",
@@ -721,7 +943,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00577"
+    "zukan_no": "No.00581"
   },
   {
     "id": "5B13Z0003",
@@ -761,7 +983,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00578"
+    "zukan_no": "No.00582"
   },
   {
     "id": "5B13Z0004",
@@ -806,7 +1028,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00579"
+    "zukan_no": "No.00583"
   },
   {
     "id": "6A13Z0001",
@@ -831,7 +1053,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00646"
+    "zukan_no": "No.00650"
   },
   {
     "id": "7S13Z0001",
@@ -850,7 +1072,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00697"
+    "zukan_no": "No.00701"
   },
   {
     "id": "8SS13Z0001",
@@ -886,7 +1108,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00738"
+    "zukan_no": "No.00742"
   },
   {
     "id": "8SS13Z0002",
@@ -915,7 +1137,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00739"
+    "zukan_no": "No.00743"
   },
   {
     "id": "8SS13Z0003",
@@ -956,6 +1178,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00740"
+    "zukan_no": "No.00744"
   }
 ]
