@@ -38,6 +38,66 @@
     "related_characters": []
   },
   {
+    "id": "CPM-MV07W0001",
+    "name": "しびれくらげひめ",
+    "furigana": "しびれくらげひめ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/27/woman-o-war/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しびれくらげひめ.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["海月姫","コラボ","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2014年12月24日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-VJ01S0002",
+    "name": "Vスライムナイト",
+    "furigana": "Vすらいむないと",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/05/v-slime-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Vスライムナイト.webp",
+    "monster_family": "スライムナイト族",
+    "search_keywords": ["Vジャンプ","コラボ","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2014年7月18日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-VJ01S0001",
+    "name": "Vスライム",
+    "furigana": "Vすらいむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/27/v-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Vスライム.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["Vジャンプ","コラボ","公式イラストあり"],
+    "first_appearance": "DQMSL",
+    "appearances": [
+      "DQMSL","MSP"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2014年4月21日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "1F03B0011",
     "name": "ワンワンダック",
     "furigana": "わんわんだっく",
