@@ -20,10 +20,10 @@
   "other_families": [],
   "release_date": "2022年12月9日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [
+    "5B11M0003",
+    "4C10M0012",
     "1F03B0003-1"
   ],
   "zukan_no": "No.00116",
@@ -254,12 +254,20 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": [
+    {
+      "id": "5B11M0003",
+      "name": "デザートモデル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/デザートモデル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/24/desert-model/"
+    },
+    {
+      "id": "4C10M0012",
+      "name": "サンドワンダラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サンドワンダラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/02/sand-wonderer/"
+    },
     {
       "id": "1F03B0003-1",
       "name": "マーブルン",
