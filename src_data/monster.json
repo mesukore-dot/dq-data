@@ -38,6 +38,67 @@
     "related_characters": []
   },
   {
+    "id": "9X02D0004-1",
+    "name": "黒き偽竜グレイナル",
+    "furigana": "くろきぎりゅうぐれいなる",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/05/05/kuroki-giryu-gureinaru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/黒き偽竜グレイナル.webp",
+    "monster_family": "グレイナル族",
+    "search_keywords": ["ボス","公式イラストあり"],
+    "first_appearance": "DQW",
+    "appearances": [
+      "DQW"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2026年4月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C02D0001-1",
+    "name": "根絶やしの竜",
+    "furigana": "ねだやしのりゅう",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/28/nedayashi-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/根絶やしの竜.webp",
+    "monster_family": "ドラゴン族",
+    "search_keywords": ["ボス","公式イラストあり"],
+    "first_appearance": "DQW",
+    "appearances": [
+      "DQW"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2025年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A07W0001",
+    "name": "ましょううお",
+    "furigana": "ましょううお",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/30/mashouu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ましょううお.webp",
+    "monster_family": "ポイズンリザード族",
+    "search_keywords": ["ボス","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D01S0039",
     "name": "おしろつむり",
     "furigana": "おしろつむり",
