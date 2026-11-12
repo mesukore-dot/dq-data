@@ -1,0 +1,76 @@
+{
+  "id": "4C13Z0009",
+  "name": "どくどくゾンビ",
+  "furigana": "どくどくぞんび",
+  "english_name": "Toxic zombie",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/11/dokudoku-zombie/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どくどくゾンビ.webp",
+  "monster_family": "くさったしたい族",
+  "search_keywords": [
+    "Toxic zombie",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQSW",
+    "DQH1",
+    "DQH2",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00478",
+  "prev_id": "4C13Z0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/",
+  "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "color_variants": [
+    {
+      "id": "2E13Z0007",
+      "name": "くさったしたい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/くさったしたい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/27/kusattashitai/"
+    },
+    {
+      "id": "3D13Z0008",
+      "name": "リビングデッド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/リビングデッド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/27/living-dead/"
+    },
+    {
+      "id": "5B13Z0005",
+      "name": "グール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/gool/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
