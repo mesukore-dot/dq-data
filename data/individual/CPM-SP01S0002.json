@@ -1,0 +1,94 @@
+{
+  "id": "CPM-SP01S0002",
+  "name": "ファイターズナイト",
+  "furigana": "ふぁいたーずないと",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2024/10/05/fighters-knight/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファイターズナイト.webp",
+  "monster_family": "スライムナイト族",
+  "search_keywords": [
+    "パ・リーグ",
+    "野球",
+    "コラボ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQW",
+  "appearances": [
+    "DQW"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2021年5月7日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00743",
+  "prev_id": "CPM-SP01S0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
+  "next_id": "CPM-VJ01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/27/v-slime/",
+  "color_variants": [
+    {
+      "id": "2E01S0004",
+      "name": "スライムナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/"
+    },
+    {
+      "id": "2E01S0004-1",
+      "name": "ハートナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ハートナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/02/heart-knight/"
+    },
+    {
+      "id": "3D01S0002",
+      "name": "メタルライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/07/metal-rider/"
+    },
+    {
+      "id": "3D01S0011",
+      "name": "のっかりゼラチン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ページ未作成-トパーズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/home/monster-slime/"
+    },
+    {
+      "id": "3D01S0037",
+      "name": "パティシエナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/パティシエナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/"
+    },
+    {
+      "id": "5B01S0016",
+      "name": "ダークナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダークナイト（DQMCH）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/dark-knight-ch/"
+    },
+    {
+      "id": "5B01S0025",
+      "name": "戦士スライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/戦士スライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/30/senshi-slime/"
+    },
+    {
+      "id": "6A01S0019",
+      "name": "ジェノライダー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/"
+    },
+    {
+      "id": "CPM-CO01S0002",
+      "name": "かじゅうナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/かじゅうナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/"
+    },
+    {
+      "id": "CPM-VJ01S0002",
+      "name": "Vスライムナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Vスライムナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/05/v-slime-knight/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
