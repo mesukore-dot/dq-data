@@ -24,9 +24,9 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00739",
-  "prev_id": "CPM-SP01S0001",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
+  "zukan_no": "No.00742",
+  "prev_id": "CPM-VJ01S0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/10/05/v-slime-knight/",
   "next_id": "CPM-YS01S0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
   "color_variants": [
@@ -233,6 +233,12 @@
       "name": "たまねぎスライム",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/"
+    },
+    {
+      "id": "CPM-VJ01S0001",
+      "name": "Vスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Vスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/v-slime/"
     }
   ],
   "related_items_details": [
