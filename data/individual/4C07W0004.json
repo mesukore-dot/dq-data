@@ -1,0 +1,39 @@
+{
+  "id": "4C07W0004",
+  "name": "クリオドラゴ",
+  "furigana": "くりおどらご",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/12/clione-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/クリオドラゴ.webp",
+  "monster_family": "クリオドラゴ族",
+  "search_keywords": [
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM4",
+  "appearances": [
+    "DQM4"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年12月3日",
+  "related_items": [],
+  "related_characters": [
+    "2E07W0004"
+  ],
+  "zukan_no": "No.00428",
+  "prev_id": "4C07W0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/24/see-angel/",
+  "next_id": "4C08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/",
+  "color_variants": [],
+  "related_items_details": [],
+  "related_characters_details": [
+    {
+      "id": "2E07W0004",
+      "name": "シーメーダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シーメーダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/01/sea-meda/"
+    }
+  ]
+}

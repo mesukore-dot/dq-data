@@ -1,0 +1,40 @@
+{
+  "id": "4C07W0002",
+  "name": "マリンギャング",
+  "furigana": "まりんぎゃんぐ",
+  "english_name": "Poison eveel",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/14/poison-eveel/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マリンギャング.webp",
+  "monster_family": "おおうつぼ族",
+  "search_keywords": [
+    "Poison eveel",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ8",
+    "DQ8_3D"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00426",
+  "prev_id": "4C07W0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/mad-ruper/",
+  "next_id": "4C07W0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/05/24/see-angel/",
+  "color_variants": [
+    {
+      "id": "3D07W0004",
+      "name": "おおうつぼ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おおうつぼ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/08/eveel/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
