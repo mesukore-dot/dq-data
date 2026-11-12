@@ -38,6 +38,74 @@
     "related_characters": []
   },
   {
+    "id": "2E07W0003",
+    "name": "ポグフィッシュ",
+    "furigana": "ぽぐふぃっしゅ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/08/pogu-fish/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ポグフィッシュ.webp",
+    "monster_family": "ポグフィッシュ族",
+    "search_keywords": ["-","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8","DQ8_3D",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E07W0002",
+    "name": "だいおうキッズ",
+    "furigana": "だいおうきっず",
+    "english_name": "Squid kid",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/12/squid-kid/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/だいおうキッズ.webp",
+    "monster_family": "プチアーノン族",
+    "search_keywords": ["Squid kid","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8","DQ8_3D","DQ10","DQ10_OFF","DQ11",
+      "DQMJ3","DQMJ3_P",
+      "FY1",
+      "DQBS",
+      "MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F07W0002",
+    "name": "プチアーノン",
+    "furigana": "ぷちあーのん",
+    "english_name": "Khalamari kid",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/20/petit-ahnon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/プチアーノン.webp",
+    "monster_family": "プチアーノン族",
+    "search_keywords": ["Khalamari kid","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8","DQ8_3D","DQ10","DQ10_OFF","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FY1","DQMB","DQBS",
+      "MSP","STAR","RIV","WALK","TACT","KSKS","DQSG"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "9X02D0004-1",
     "name": "黒き偽竜グレイナル",
     "furigana": "くろきぎりゅうぐれいなる",
