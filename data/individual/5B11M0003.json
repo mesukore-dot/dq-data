@@ -19,7 +19,10 @@
   "other_families": [],
   "release_date": "2022年12月9日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "2E01S0025",
+    "4C10M0012"
+  ],
   "zukan_no": "No.00555",
   "prev_id": "5B11M0002-1",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/05/clockwyrm/",
@@ -58,5 +61,18 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "2E01S0025",
+      "name": "マーブルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/マーブルスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/27/marble-slime/"
+    },
+    {
+      "id": "4C10M0012",
+      "name": "サンドワンダラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/サンドワンダラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/02/sand-wonderer/"
+    }
+  ]
 }
