@@ -758,6 +758,26 @@
     "zukan_no": "No.00721"
   },
   {
+    "id": "CPM-CO07W0001",
+    "name": "グレープマーマン",
+    "furigana": "ぐれーぷまーまん",
+    "page_url": "https://dqfan527.xsrv.jp/2025/02/21/grape-merman/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレープマーマン.webp",
+    "search_keywords": [
+      "コカ・コーラCokeON",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQW",
+    "appearances": [
+      "DQW"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2023年11月14日",
+    "zukan_no": "No.00758"
+  },
+  {
     "id": "CPM-MV07W0001",
     "name": "しびれくらげひめ",
     "furigana": "しびれくらげひめ",
@@ -775,6 +795,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00762"
+    "zukan_no": "No.00763"
   }
 ]

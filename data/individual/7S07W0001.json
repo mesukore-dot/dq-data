@@ -48,7 +48,14 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/07/houou/",
   "next_id": "7S08D0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "CPM-CO07W0001",
+      "name": "グレープマーマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレープマーマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/21/grape-merman/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
