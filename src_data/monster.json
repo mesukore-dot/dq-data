@@ -67,9 +67,9 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレープマーマン.webp",
     "monster_family": "グラコス族",
     "search_keywords": ["コカ・コーラCokeON","コラボ","公式イラストあり"],
-    "first_appearance": "DQW",
+    "first_appearance": "WALK",
     "appearances": [
-      "DQW"
+      "WALK"
     ],
     "main_family": "水系",
     "sub_family": "-",
@@ -396,7 +396,7 @@
     "first_appearance": "DQ10",
     "appearances": [
       "DQ10",
-      "DQW","DQT"
+      "WALK","TACT"
     ],
     "main_family": "水系",
     "sub_family": "-",
@@ -482,9 +482,9 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/黒き偽竜グレイナル.webp",
     "monster_family": "グレイナル族",
     "search_keywords": ["ボス","公式イラストあり"],
-    "first_appearance": "DQW",
+    "first_appearance": "WALK",
     "appearances": [
-      "DQW"
+      "WALK"
     ],
     "main_family": "ドラゴン系",
     "sub_family": "-",
@@ -502,9 +502,9 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/根絶やしの竜.webp",
     "monster_family": "ドラゴン族",
     "search_keywords": ["ボス","公式イラストあり"],
-    "first_appearance": "DQW",
+    "first_appearance": "WALK",
     "appearances": [
-      "DQW"
+      "WALK"
     ],
     "main_family": "ドラゴン系",
     "sub_family": "-",
@@ -525,7 +525,7 @@
     "first_appearance": "DQ10",
     "appearances": [
       "DQ10","DQ10_OFF",
-      "DQT"
+      "TACT"
     ],
     "main_family": "水系",
     "sub_family": "-",
@@ -543,9 +543,9 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おしろつむり.webp",
     "monster_family": "スライムつむり族",
     "search_keywords": ["和風","公式イラストあり"],
-    "first_appearance": "DQW",
+    "first_appearance": "WALK",
     "appearances": [
-      "DQW"
+      "WALK"
     ],
     "main_family": "スライム系",
     "sub_family": "-",
@@ -563,9 +563,9 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファイターズナイト.webp",
     "monster_family": "スライムナイト族",
     "search_keywords": ["パ・リーグ","野球","コラボ","公式イラストあり"],
-    "first_appearance": "DQW",
+    "first_appearance": "WALK",
     "appearances": [
-      "DQW"
+      "WALK"
     ],
     "main_family": "スライム系",
     "sub_family": "-",
@@ -583,9 +583,9 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Coke-ONコラボ大王.webp",
     "monster_family": "キングスライム族",
     "search_keywords": ["コカ・コーラCokeON","コラボ","公式イラストあり"],
-    "first_appearance": "DQW",
+    "first_appearance": "WALK",
     "appearances": [
-      "DQW"
+      "WALK"
     ],
     "main_family": "スライム系",
     "sub_family": "-",
@@ -603,9 +603,9 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/プリム.webp",
     "monster_family": "ホイミスライム族",
     "search_keywords": ["公式イラストあり"],
-    "first_appearance": "DQT",
+    "first_appearance": "TACT",
     "appearances": [
-      "DQT"
+      "TACT"
     ],
     "main_family": "スライム系",
     "sub_family": "-",
