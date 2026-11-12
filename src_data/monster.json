@@ -576,7 +576,7 @@
     "other_families": [],
     "release_date": "2022年12月9日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E01S0025","4C10M0012"]
   },
   {
     "id": "6A11M0003",
@@ -1808,7 +1808,7 @@
     "other_families": [],
     "release_date": "2022年12月9日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E01S0025","5B11M0003"]
   },
   {
     "id": "8SS10M0002",
@@ -12153,8 +12153,8 @@
     "other_families": [],
     "release_date": "2022年12月9日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": ["1F03B0003-1"]
+    "related_items": [],
+    "related_characters": ["5B11M0003","4C10M0012","1F03B0003-1"]
   },
          {
     "id": "2E01S0024",
