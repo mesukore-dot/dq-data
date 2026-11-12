@@ -198,6 +198,34 @@
     "zukan_no": "No.00191"
   },
   {
+    "id": "2E13Z0003",
+    "name": "しりょう",
+    "furigana": "しりょう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/16/shiryou/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しりょう.webp",
+    "search_keywords": [
+      "Skeleton scrapper",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ7_3D",
+      "DQB1",
+      "DQB2",
+      "MSP",
+      "STAR",
+      "TACT",
+      "champ"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00192"
+  },
+  {
     "id": "3D13Z0001",
     "name": "バンパイア",
     "furigana": "ばんぱいあ",
@@ -221,7 +249,101 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00327"
+    "zukan_no": "No.00328"
+  },
+  {
+    "id": "3D13Z0002",
+    "name": "メトロゴースト",
+    "furigana": "めとろごーすと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/metro-ghost/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メトロゴースト.webp",
+    "search_keywords": [
+      "Fightgeist",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ7_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00329"
+  },
+  {
+    "id": "3D13Z0003",
+    "name": "しりょうのきし",
+    "furigana": "しりょうのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/17/shiryounokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しりょうのきし.webp",
+    "search_keywords": [
+      "Skeleton soldier",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ4",
+      "DQ4_PS",
+      "DQ7_3D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00330"
   },
   {
     "id": "4C13Z0001",
@@ -244,7 +366,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00457"
+    "zukan_no": "No.00460"
   },
   {
     "id": "4C13Z0002",
@@ -266,7 +388,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00458"
+    "zukan_no": "No.00461"
   },
   {
     "id": "4C13Z0003",
@@ -298,7 +420,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00459"
+    "zukan_no": "No.00462"
   },
   {
     "id": "4C13Z0004",
@@ -320,7 +442,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00460"
+    "zukan_no": "No.00463"
   },
   {
     "id": "4C13Z0005",
@@ -369,7 +491,46 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00461"
+    "zukan_no": "No.00464"
+  },
+  {
+    "id": "4C13Z0006",
+    "name": "ヘルゴースト",
+    "furigana": "へるごーすと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/hell-ghost/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルゴースト.webp",
+    "search_keywords": [
+      "Spitegeist",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ7_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00465"
   },
   {
     "id": "5B13Z0001",
@@ -398,7 +559,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00568"
+    "zukan_no": "No.00572"
   },
   {
     "id": "5B13Z0002",
@@ -422,7 +583,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00569"
+    "zukan_no": "No.00573"
   },
   {
     "id": "5B13Z0003",
@@ -462,7 +623,52 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00570"
+    "zukan_no": "No.00574"
+  },
+  {
+    "id": "5B13Z0004",
+    "name": "かげのきし",
+    "furigana": "かげのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/kagenokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/かげのきし.webp",
+    "search_keywords": [
+      "Dark skeleton",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ7_3D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "KS",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00575"
   },
   {
     "id": "6A13Z0001",
@@ -487,7 +693,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00637"
+    "zukan_no": "No.00642"
   },
   {
     "id": "8SS13Z0001",
@@ -523,7 +729,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00728"
+    "zukan_no": "No.00733"
   },
   {
     "id": "8SS13Z0002",
@@ -552,7 +758,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00729"
+    "zukan_no": "No.00734"
   },
   {
     "id": "8SS13Z0003",
@@ -593,6 +799,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00730"
+    "zukan_no": "No.00735"
   }
 ]

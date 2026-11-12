@@ -75,7 +75,26 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "2E13Z0003",
+      "name": "しりょう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しりょう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/16/shiryou/"
+    },
+    {
+      "id": "3D13Z0003",
+      "name": "しりょうのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しりょうのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/17/shiryounokishi/"
+    },
+    {
+      "id": "5B13Z0004",
+      "name": "かげのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/かげのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/kagenokishi/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"

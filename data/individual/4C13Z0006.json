@@ -1,0 +1,76 @@
+{
+  "id": "4C13Z0006",
+  "name": "ヘルゴースト",
+  "furigana": "へるごーすと",
+  "english_name": "Spitegeist",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/18/hell-ghost/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルゴースト.webp",
+  "monster_family": "ゴースト族",
+  "search_keywords": [
+    "Spitegeist",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ7_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "DQSG"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1986年5月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00465",
+  "prev_id": "4C13Z0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/scull-gon/",
+  "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "color_variants": [
+    {
+      "id": "1F13Z0001",
+      "name": "ゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/29/ghost/"
+    },
+    {
+      "id": "1F13Z0001-1",
+      "name": "キョンシーゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/キョンシーゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/15/jiangshi-ghost/"
+    },
+    {
+      "id": "2E13Z0001",
+      "name": "ハロウィンゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/25/halloween-ghost/"
+    },
+    {
+      "id": "3D13Z0002",
+      "name": "メトロゴースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メトロゴースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/metro-ghost/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
