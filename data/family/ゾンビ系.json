@@ -670,6 +670,36 @@
     "zukan_no": "No.00337"
   },
   {
+    "id": "3D13Z0007",
+    "name": "アンデッドマン",
+    "furigana": "あんでっどまん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/21/anded-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンデッドマン.webp",
+    "search_keywords": [
+      "Graveheart",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ7_RM",
+      "DQ11",
+      "DQM2_SP",
+      "DQMB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00338"
+  },
+  {
     "id": "4C13Z0001",
     "name": "タタリ御前",
     "furigana": "たたりごぜん",
@@ -690,7 +720,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00467"
+    "zukan_no": "No.00468"
   },
   {
     "id": "4C13Z0002",
@@ -712,7 +742,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00468"
+    "zukan_no": "No.00469"
   },
   {
     "id": "4C13Z0003",
@@ -744,7 +774,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00469"
+    "zukan_no": "No.00470"
   },
   {
     "id": "4C13Z0004",
@@ -766,7 +796,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00470"
+    "zukan_no": "No.00471"
   },
   {
     "id": "4C13Z0005",
@@ -815,7 +845,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00471"
+    "zukan_no": "No.00472"
   },
   {
     "id": "4C13Z0006",
@@ -854,7 +884,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00472"
+    "zukan_no": "No.00473"
   },
   {
     "id": "4C13Z0007",
@@ -890,7 +920,35 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00473"
+    "zukan_no": "No.00474"
+  },
+  {
+    "id": "4C13Z0008",
+    "name": "スカルナイト",
+    "furigana": "すかるないと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルナイト.webp",
+    "search_keywords": [
+      "Chasmonaut",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ7_RM",
+      "DQ11",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00475"
   },
   {
     "id": "5B13Z0001",
@@ -919,7 +977,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00580"
+    "zukan_no": "No.00582"
   },
   {
     "id": "5B13Z0002",
@@ -943,7 +1001,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00581"
+    "zukan_no": "No.00583"
   },
   {
     "id": "5B13Z0003",
@@ -983,7 +1041,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00582"
+    "zukan_no": "No.00584"
   },
   {
     "id": "5B13Z0004",
@@ -1028,7 +1086,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00583"
+    "zukan_no": "No.00585"
   },
   {
     "id": "6A13Z0001",
@@ -1053,7 +1111,34 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00650"
+    "zukan_no": "No.00652"
+  },
+  {
+    "id": "6A13Z0002",
+    "name": "ハーゴンのきし",
+    "furigana": "はーごんのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/hagonnokishi-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハーゴンのきし.webp",
+    "search_keywords": [
+      "Hargonaut",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQB2",
+      "DQMB",
+      "DQMSL",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00653"
   },
   {
     "id": "7S13Z0001",
@@ -1072,7 +1157,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00701"
+    "zukan_no": "No.00704"
   },
   {
     "id": "8SS13Z0001",
@@ -1108,7 +1193,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00742"
+    "zukan_no": "No.00745"
   },
   {
     "id": "8SS13Z0002",
@@ -1137,7 +1222,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00743"
+    "zukan_no": "No.00746"
   },
   {
     "id": "8SS13Z0003",
@@ -1178,6 +1263,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00744"
+    "zukan_no": "No.00747"
   }
 ]

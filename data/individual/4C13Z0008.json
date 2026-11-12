@@ -1,0 +1,59 @@
+{
+  "id": "4C13Z0008",
+  "name": "スカルナイト",
+  "furigana": "すかるないと",
+  "english_name": "Chasmonaut",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルナイト.webp",
+  "monster_family": "アンデッドマン族",
+  "search_keywords": [
+    "Chasmonaut",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ7_RM",
+    "DQ11",
+    "DQB2",
+    "DQMSL",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00475",
+  "prev_id": "4C13Z0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/shinigami/",
+  "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "color_variants": [
+    {
+      "id": "3D13Z0007",
+      "name": "アンデッドマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンデッドマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/21/anded-man/"
+    },
+    {
+      "id": "4C10M0006",
+      "name": "黄金兵",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/黄金兵.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/14/gyldenaut/"
+    },
+    {
+      "id": "6A13Z0002",
+      "name": "ハーゴンのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハーゴンのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/hagonnokishi-2/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

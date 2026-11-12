@@ -26,12 +26,31 @@
   "release_date": "2017年7月29日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00455",
+  "zukan_no": "No.00456",
   "prev_id": "4C10M0005",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/killer-armor/",
   "next_id": "4C10M0007",
   "next_page_url": "https://dqfan527.xsrv.jp/2025/03/15/aurora-rounder/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D13Z0007",
+      "name": "アンデッドマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンデッドマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/21/anded-man/"
+    },
+    {
+      "id": "4C13Z0008",
+      "name": "スカルナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/"
+    },
+    {
+      "id": "6A13Z0002",
+      "name": "ハーゴンのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハーゴンのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/hagonnokishi-2/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
