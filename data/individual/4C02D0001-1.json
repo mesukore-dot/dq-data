@@ -1,0 +1,56 @@
+{
+  "id": "4C02D0001-1",
+  "name": "根絶やしの竜",
+  "furigana": "ねだやしのりゅう",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/11/28/nedayashi-dragon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/根絶やしの竜.webp",
+  "monster_family": "ドラゴン族",
+  "search_keywords": [
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQW",
+  "appearances": [
+    "DQW"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2025年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00359",
+  "prev_id": "4C02D0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/",
+  "next_id": "4C02D0003",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/11/green-dragon/",
+  "color_variants": [
+    {
+      "id": "4C02D0001",
+      "name": "ドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラゴン-green.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/"
+    },
+    {
+      "id": "5B02D0001",
+      "name": "キースドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キースドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/19/ki-sudoragon/"
+    },
+    {
+      "id": "6A02D0001",
+      "name": "ダースドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ダースドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/19/da-sudoragon/"
+    },
+    {
+      "id": "6A02D0008",
+      "name": "ゴールデンドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴールデンドラゴン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/19/golden-dragon/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

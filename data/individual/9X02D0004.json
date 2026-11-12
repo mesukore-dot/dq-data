@@ -40,12 +40,18 @@
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00722",
+  "zukan_no": "No.00724",
   "prev_id": "9X02D0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/10/master-dragon/",
-  "next_id": "9X02D0005",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/03/29/yamiryubaruborosu/",
+  "next_id": "9X02D0004-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/05/05/kuroki-giryu-gureinaru/",
   "color_variants": [
+    {
+      "id": "9X02D0004-1",
+      "name": "黒き偽竜グレイナル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/05/黒き偽竜グレイナル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/05/05/kuroki-giryu-gureinaru/"
+    },
     {
       "id": "9X02D0005",
       "name": "闇竜バルボロス",

@@ -74,9 +74,15 @@
   "zukan_no": "No.00358",
   "prev_id": "4C01S0038",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/23/generan/",
-  "next_id": "4C02D0003",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/07/11/green-dragon/",
+  "next_id": "4C02D0001-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/11/28/nedayashi-dragon/",
   "color_variants": [
+    {
+      "id": "4C02D0001-1",
+      "name": "根絶やしの竜",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/根絶やしの竜.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/28/nedayashi-dragon/"
+    },
     {
       "id": "5B02D0001",
       "name": "キースドラゴン",

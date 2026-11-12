@@ -49,7 +49,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00478",
+  "zukan_no": "No.00479",
   "prev_id": "5B01S0032",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/27/plimu/",
   "next_id": "5B02D0002",
@@ -60,6 +60,12 @@
       "name": "ドラゴン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラゴン-green.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/"
+    },
+    {
+      "id": "4C02D0001-1",
+      "name": "根絶やしの竜",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/根絶やしの竜.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/28/nedayashi-dragon/"
     },
     {
       "id": "6A02D0001",

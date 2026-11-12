@@ -176,7 +176,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00415"
+    "zukan_no": "No.00416"
   },
   {
     "id": "5B07W0001",
@@ -194,7 +194,28 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年9月9日",
-    "zukan_no": "No.00528"
+    "zukan_no": "No.00529"
+  },
+  {
+    "id": "6A07W0001",
+    "name": "ましょううお",
+    "furigana": "ましょううお",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/30/mashouu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ましょううお.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00606"
   },
   {
     "id": "CPM-MV07W0001",
@@ -214,6 +235,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00741"
+    "zukan_no": "No.00744"
   }
 ]
