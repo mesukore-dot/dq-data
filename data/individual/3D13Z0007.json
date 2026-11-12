@@ -1,0 +1,61 @@
+{
+  "id": "3D13Z0007",
+  "name": "アンデッドマン",
+  "furigana": "あんでっどまん",
+  "english_name": "Graveheart",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/21/anded-man/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンデッドマン.webp",
+  "monster_family": "アンデッドマン族",
+  "search_keywords": [
+    "Graveheart",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ7_RM",
+    "DQ11",
+    "DQM2_SP",
+    "DQMB",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00338",
+  "prev_id": "3D13Z0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/26/mummy/",
+  "next_id": "3D14?1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
+  "color_variants": [
+    {
+      "id": "4C10M0006",
+      "name": "黄金兵",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/黄金兵.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/14/gyldenaut/"
+    },
+    {
+      "id": "4C13Z0008",
+      "name": "スカルナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/"
+    },
+    {
+      "id": "6A13Z0002",
+      "name": "ハーゴンのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハーゴンのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/hagonnokishi-2/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
