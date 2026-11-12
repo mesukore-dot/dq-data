@@ -1,0 +1,39 @@
+{
+  "id": "CPM-CO07W0001",
+  "name": "グレープマーマン",
+  "furigana": "ぐれーぷまーまん",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/02/21/grape-merman/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレープマーマン.webp",
+  "monster_family": "グラコス族",
+  "search_keywords": [
+    "コカ・コーラCokeON",
+    "コラボ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQW",
+  "appearances": [
+    "DQW"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年11月14日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00758",
+  "prev_id": "CPM-CO01S0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/03/15/cokeon-collaboration-daiou/",
+  "next_id": "CPM-ISL01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/",
+  "color_variants": [
+    {
+      "id": "7S07W0001",
+      "name": "グラコス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グラコス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/13/gracos/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
