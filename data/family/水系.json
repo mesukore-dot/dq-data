@@ -37,6 +37,50 @@
     "zukan_no": "No.00065"
   },
   {
+    "id": "1F07W0002",
+    "name": "プチアーノン",
+    "furigana": "ぷちあーのん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/20/petit-ahnon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/プチアーノン.webp",
+    "search_keywords": [
+      "Khalamari kid",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FY1",
+      "DQMB",
+      "DQBS",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00066"
+  },
+  {
     "id": "2E07W0001",
     "name": "おばけうみうし",
     "furigana": "おばけうみうし",
@@ -58,7 +102,69 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00165"
+    "zukan_no": "No.00166"
+  },
+  {
+    "id": "2E07W0002",
+    "name": "だいおうキッズ",
+    "furigana": "だいおうきっず",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/12/squid-kid/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/だいおうキッズ.webp",
+    "search_keywords": [
+      "Squid kid",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FY1",
+      "DQBS",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00167"
+  },
+  {
+    "id": "2E07W0003",
+    "name": "ポグフィッシュ",
+    "furigana": "ぽぐふぃっしゅ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/06/08/pogu-fish/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ポグフィッシュ.webp",
+    "search_keywords": [
+      "-",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00168"
   },
   {
     "id": "3D07W0001",
@@ -113,7 +219,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00292"
+    "zukan_no": "No.00295"
   },
   {
     "id": "3D07W0002",
@@ -151,7 +257,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00293"
+    "zukan_no": "No.00296"
   },
   {
     "id": "4C07W0001",
@@ -176,7 +282,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00416"
+    "zukan_no": "No.00419"
   },
   {
     "id": "5B07W0001",
@@ -194,7 +300,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年9月9日",
-    "zukan_no": "No.00529"
+    "zukan_no": "No.00532"
   },
   {
     "id": "6A07W0001",
@@ -215,7 +321,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00606"
+    "zukan_no": "No.00609"
   },
   {
     "id": "CPM-MV07W0001",
@@ -235,6 +341,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00744"
+    "zukan_no": "No.00747"
   }
 ]
