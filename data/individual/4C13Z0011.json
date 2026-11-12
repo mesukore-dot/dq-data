@@ -1,0 +1,52 @@
+{
+  "id": "4C13Z0011",
+  "name": "デスジャッカル",
+  "furigana": "ですじゃっかる",
+  "english_name": "Rottenweiler",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/12/death-jackal/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスジャッカル.webp",
+  "monster_family": "アニマルゾンビ族",
+  "search_keywords": [
+    "Rottenweiler",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "STAR"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00482",
+  "prev_id": "4C13Z0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/11/05/siza-su/",
+  "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "color_variants": [
+    {
+      "id": "2E13Z0008",
+      "name": "アニマルゾンビ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アニマルゾンビ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/animal-zombie/"
+    },
+    {
+      "id": "3D13Z0009",
+      "name": "バリイドドッグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バリイドドッグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/barido-dog/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

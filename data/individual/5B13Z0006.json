@@ -1,0 +1,44 @@
+{
+  "id": "5B13Z0006",
+  "name": "やみぼうし",
+  "furigana": "やみぼうし",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/11/14/yamiboushi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/やみぼうし.webp",
+  "monster_family": "ゆうれい族",
+  "search_keywords": [
+    "ボス",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ2_HD2D",
+  "appearances": [
+    "DQ2_HD2D"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2025年10月30日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00594",
+  "prev_id": "5B13Z0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/gool/",
+  "next_id": "5B13Z0007",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/11/16/beast-bones/",
+  "color_variants": [
+    {
+      "id": "2E13Z0005",
+      "name": "ゆうれい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ゆうれい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/yurei/"
+    },
+    {
+      "id": "4C13Z0007",
+      "name": "しにがみ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/shinigami/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

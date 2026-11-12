@@ -1,0 +1,60 @@
+{
+  "id": "2E13Z0008",
+  "name": "アニマルゾンビ",
+  "furigana": "あにまるぞんび",
+  "english_name": "Putrefido",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/12/animal-zombie/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アニマルゾンビ.webp",
+  "monster_family": "アニマルゾンビ族",
+  "search_keywords": [
+    "Putrefido",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQMSL",
+    "STAR"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00198",
+  "prev_id": "2E13Z0007",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/27/kusattashitai/",
+  "next_id": "2E4P0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/25/takenoko-kozou/",
+  "color_variants": [
+    {
+      "id": "3D13Z0009",
+      "name": "バリイドドッグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バリイドドッグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/barido-dog/"
+    },
+    {
+      "id": "4C13Z0011",
+      "name": "デスジャッカル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスジャッカル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/death-jackal/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

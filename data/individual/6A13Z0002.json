@@ -28,7 +28,7 @@
   "release_date": "1987年1月26日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00657",
+  "zukan_no": "No.00663",
   "prev_id": "6A13Z0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/31/drakenstein/",
   "next_id": "6A14?1N030001",
@@ -51,6 +51,12 @@
       "name": "スカルナイト",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルナイト.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/"
+    },
+    {
+      "id": "5B13Z0007",
+      "name": "ビーストボーンズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ビーストボーンズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/16/beast-bones/"
     }
   ],
   "related_items_details": [],

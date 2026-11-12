@@ -491,6 +491,41 @@
     "zukan_no": "No.00197"
   },
   {
+    "id": "2E13Z0008",
+    "name": "アニマルゾンビ",
+    "furigana": "あにまるぞんび",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/animal-zombie/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アニマルゾンビ.webp",
+    "search_keywords": [
+      "Putrefido",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMCH",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00198"
+  },
+  {
     "id": "3D13Z0001",
     "name": "バンパイア",
     "furigana": "ばんぱいあ",
@@ -514,7 +549,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00333"
+    "zukan_no": "No.00334"
   },
   {
     "id": "3D13Z0002",
@@ -551,7 +586,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00334"
+    "zukan_no": "No.00335"
   },
   {
     "id": "3D13Z0003",
@@ -608,7 +643,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00335"
+    "zukan_no": "No.00336"
   },
   {
     "id": "3D13Z0004",
@@ -641,7 +676,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00336"
+    "zukan_no": "No.00337"
   },
   {
     "id": "3D13Z0005",
@@ -691,7 +726,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00337"
+    "zukan_no": "No.00338"
   },
   {
     "id": "3D13Z0006",
@@ -742,7 +777,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00338"
+    "zukan_no": "No.00339"
   },
   {
     "id": "3D13Z0007",
@@ -772,7 +807,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00339"
+    "zukan_no": "No.00340"
   },
   {
     "id": "3D13Z0008",
@@ -821,7 +856,34 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00340"
+    "zukan_no": "No.00341"
+  },
+  {
+    "id": "3D13Z0009",
+    "name": "バリイドドッグ",
+    "furigana": "ばりいどどっぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/barido-dog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バリイドドッグ.webp",
+    "search_keywords": [
+      "Bullmustiff",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00342"
   },
   {
     "id": "4C13Z0001",
@@ -844,7 +906,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00470"
+    "zukan_no": "No.00472"
   },
   {
     "id": "4C13Z0002",
@@ -866,7 +928,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00471"
+    "zukan_no": "No.00473"
   },
   {
     "id": "4C13Z0003",
@@ -898,7 +960,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00472"
+    "zukan_no": "No.00474"
   },
   {
     "id": "4C13Z0004",
@@ -920,7 +982,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00473"
+    "zukan_no": "No.00475"
   },
   {
     "id": "4C13Z0005",
@@ -969,7 +1031,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00474"
+    "zukan_no": "No.00476"
   },
   {
     "id": "4C13Z0006",
@@ -1008,7 +1070,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00475"
+    "zukan_no": "No.00477"
   },
   {
     "id": "4C13Z0007",
@@ -1044,7 +1106,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00476"
+    "zukan_no": "No.00478"
   },
   {
     "id": "4C13Z0008",
@@ -1072,7 +1134,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00477"
+    "zukan_no": "No.00479"
   },
   {
     "id": "4C13Z0009",
@@ -1117,7 +1179,53 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00478"
+    "zukan_no": "No.00480"
+  },
+  {
+    "id": "4C13Z0010",
+    "name": "シザース",
+    "furigana": "しざーす",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/05/siza-su/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シザース.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00481"
+  },
+  {
+    "id": "4C13Z0011",
+    "name": "デスジャッカル",
+    "furigana": "ですじゃっかる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/death-jackal/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスジャッカル.webp",
+    "search_keywords": [
+      "Rottenweiler",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00482"
   },
   {
     "id": "5B13Z0001",
@@ -1146,7 +1254,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00585"
+    "zukan_no": "No.00589"
   },
   {
     "id": "5B13Z0002",
@@ -1170,7 +1278,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00586"
+    "zukan_no": "No.00590"
   },
   {
     "id": "5B13Z0003",
@@ -1210,7 +1318,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00587"
+    "zukan_no": "No.00591"
   },
   {
     "id": "5B13Z0004",
@@ -1255,7 +1363,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00588"
+    "zukan_no": "No.00592"
   },
   {
     "id": "5B13Z0005",
@@ -1304,7 +1412,44 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00589"
+    "zukan_no": "No.00593"
+  },
+  {
+    "id": "5B13Z0006",
+    "name": "やみぼうし",
+    "furigana": "やみぼうし",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/14/yamiboushi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/やみぼうし.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00594"
+  },
+  {
+    "id": "5B13Z0007",
+    "name": "ビーストボーンズ",
+    "furigana": "びーすとぼーんず",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/16/beast-bones/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ビーストボーンズ.webp",
+    "search_keywords": [
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00595"
   },
   {
     "id": "6A13Z0001",
@@ -1329,7 +1474,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00656"
+    "zukan_no": "No.00662"
   },
   {
     "id": "6A13Z0002",
@@ -1356,7 +1501,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00657"
+    "zukan_no": "No.00663"
   },
   {
     "id": "7S13Z0001",
@@ -1375,7 +1520,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00708"
+    "zukan_no": "No.00714"
   },
   {
     "id": "8SS13Z0001",
@@ -1411,7 +1556,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00749"
+    "zukan_no": "No.00755"
   },
   {
     "id": "8SS13Z0002",
@@ -1440,7 +1585,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00750"
+    "zukan_no": "No.00756"
   },
   {
     "id": "8SS13Z0003",
@@ -1481,6 +1626,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00751"
+    "zukan_no": "No.00757"
   }
 ]
