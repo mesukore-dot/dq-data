@@ -464,6 +464,27 @@
     "zukan_no": "No.00302"
   },
   {
+    "id": "3D07W0005",
+    "name": "イカずきん",
+    "furigana": "いかずきん",
+    "page_url": "https://dqfan527.xsrv.jp/2026/03/25/ikazukin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/イカずきん.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2001年3月9日",
+    "zukan_no": "No.00303"
+  },
+  {
     "id": "4C07W0001",
     "name": "マッドルーパー",
     "furigana": "まっどるーぱー",
@@ -486,7 +507,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00425"
+    "zukan_no": "No.00426"
   },
   {
     "id": "4C07W0002",
@@ -507,7 +528,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00426"
+    "zukan_no": "No.00427"
   },
   {
     "id": "4C07W0003",
@@ -531,7 +552,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00427"
+    "zukan_no": "No.00428"
   },
   {
     "id": "4C07W0004",
@@ -549,7 +570,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00428"
+    "zukan_no": "No.00429"
   },
   {
     "id": "4C07W0005",
@@ -573,7 +594,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00429"
+    "zukan_no": "No.00430"
   },
   {
     "id": "5B07W0001",
@@ -591,7 +612,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年9月9日",
-    "zukan_no": "No.00542"
+    "zukan_no": "No.00543"
   },
   {
     "id": "5B07W0002",
@@ -615,7 +636,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00543"
+    "zukan_no": "No.00544"
   },
   {
     "id": "6A07W0001",
@@ -636,7 +657,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00620"
+    "zukan_no": "No.00621"
   },
   {
     "id": "6A07W0002",
@@ -657,7 +678,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2018年2月21日",
-    "zukan_no": "No.00621"
+    "zukan_no": "No.00622"
   },
   {
     "id": "7S07W0001",
@@ -699,7 +720,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00678"
+    "zukan_no": "No.00679"
   },
   {
     "id": "8SS07W0001",
@@ -734,7 +755,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00720"
+    "zukan_no": "No.00721"
   },
   {
     "id": "CPM-MV07W0001",
@@ -754,6 +775,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00761"
+    "zukan_no": "No.00762"
   }
 ]
