@@ -1,0 +1,58 @@
+{
+  "id": "2E13Z0004",
+  "name": "ドロル",
+  "furigana": "どろる",
+  "english_name": "Drohl drone",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロル.webp",
+  "monster_family": "ドロル族",
+  "search_keywords": [
+    "Drohl drone",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ2",
+    "DQMJ2_P",
+    "MRMR3",
+    "DQB1",
+    "DQB2",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1986年5月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00193",
+  "prev_id": "2E13Z0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/16/shiryou/",
+  "next_id": "2E4P0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/25/takenoko-kozou/",
+  "color_variants": [
+    {
+      "id": "3D13Z0004",
+      "name": "ドロルメイジ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロルメイジ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororumeiji/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

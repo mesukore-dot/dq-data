@@ -1,0 +1,52 @@
+{
+  "id": "3D13Z0004",
+  "name": "ドロルメイジ",
+  "furigana": "どろるめいじ",
+  "english_name": "Drohl diabolist",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororumeiji/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロルメイジ.webp",
+  "monster_family": "ドロル族",
+  "search_keywords": [
+    "Drohl diabolist",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ11",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQB1",
+    "DQB2",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1986年5月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00332",
+  "prev_id": "3D13Z0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/17/shiryounokishi/",
+  "next_id": "3D14?1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
+  "color_variants": [
+    {
+      "id": "2E13Z0004",
+      "name": "ドロル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororu/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
