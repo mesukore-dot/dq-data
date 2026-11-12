@@ -81,6 +81,119 @@
     "zukan_no": "No.00066"
   },
   {
+    "id": "1F07W0003",
+    "name": "おばけヒトデ",
+    "furigana": "おばけひとで",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/01/obakehitode/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おばけヒトデ.webp",
+    "search_keywords": [
+      "Scarfish",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "FTR3",
+      "DQMSL",
+      "RIV"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00067"
+  },
+  {
+    "id": "1F07W0004",
+    "name": "たこつぼこぞう",
+    "furigana": "たこつぼこぞう",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/02/cauldrone/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/たこつぼこぞう.webp",
+    "search_keywords": [
+      "Cauldrone",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ6",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "MRMR1",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00068"
+  },
+  {
+    "id": "1F07W0005",
+    "name": "ぐんたいガニ",
+    "furigana": "ぐんたいがに",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/07/guntaigani/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ぐんたいガニ.webp",
+    "search_keywords": [
+      "Crabid",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQB1",
+      "DQB2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00069"
+  },
+  {
     "id": "2E07W0001",
     "name": "おばけうみうし",
     "furigana": "おばけうみうし",
@@ -102,7 +215,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00166"
+    "zukan_no": "No.00169"
   },
   {
     "id": "2E07W0002",
@@ -135,7 +248,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00167"
+    "zukan_no": "No.00170"
   },
   {
     "id": "2E07W0003",
@@ -163,7 +276,40 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00168"
+    "zukan_no": "No.00171"
+  },
+  {
+    "id": "2E07W0004",
+    "name": "シーメーダ",
+    "furigana": "しーめーだ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/01/sea-meda/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シーメーダ.webp",
+    "search_keywords": [
+      "See urchin",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "STAR",
+      "RIV",
+      "KSKS"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00172"
   },
   {
     "id": "3D07W0001",
@@ -218,7 +364,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00295"
+    "zukan_no": "No.00299"
   },
   {
     "id": "3D07W0002",
@@ -256,7 +402,66 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00296"
+    "zukan_no": "No.00300"
+  },
+  {
+    "id": "3D07W0003",
+    "name": "エビラ",
+    "furigana": "えびら",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/ebira/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビラ.webp",
+    "search_keywords": [
+      "Yabby",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "STAR"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00301"
+  },
+  {
+    "id": "3D07W0004",
+    "name": "おおうつぼ",
+    "furigana": "おおうつぼ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/08/eveel/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おおうつぼ.webp",
+    "search_keywords": [
+      "Eveel",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00302"
   },
   {
     "id": "4C07W0001",
@@ -281,7 +486,70 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00419"
+    "zukan_no": "No.00425"
+  },
+  {
+    "id": "4C07W0002",
+    "name": "マリンギャング",
+    "furigana": "まりんぎゃんぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/14/poison-eveel/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マリンギャング.webp",
+    "search_keywords": [
+      "Poison eveel",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00426"
+  },
+  {
+    "id": "4C07W0003",
+    "name": "マリンフェアリー",
+    "furigana": "まりんふぇありー",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/24/see-angel/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マリンフェアリー.webp",
+    "search_keywords": [
+      "See angel",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQMJ3_P",
+      "STAR",
+      "RIV",
+      "KSKS"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00427"
+  },
+  {
+    "id": "4C07W0004",
+    "name": "クリオドラゴ",
+    "furigana": "くりおどらご",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/12/clione-dragon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/クリオドラゴ.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM4",
+    "appearances": [
+      "DQM4"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2026年12月3日",
+    "zukan_no": "No.00428"
   },
   {
     "id": "5B07W0001",
@@ -299,7 +567,31 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年9月9日",
-    "zukan_no": "No.00532"
+    "zukan_no": "No.00541"
+  },
+  {
+    "id": "5B07W0002",
+    "name": "マッドロブスター",
+    "furigana": "まっどろぶすたー",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/13/crayzee/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マッドロブスター.webp",
+    "search_keywords": [
+      "Crayzee",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "STAR"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00542"
   },
   {
     "id": "6A07W0001",
@@ -320,7 +612,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00609"
+    "zukan_no": "No.00619"
   },
   {
     "id": "6A07W0002",
@@ -341,7 +633,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2018年2月21日",
-    "zukan_no": "No.00610"
+    "zukan_no": "No.00620"
   },
   {
     "id": "CPM-MV07W0001",
@@ -361,6 +653,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00748"
+    "zukan_no": "No.00758"
   }
 ]

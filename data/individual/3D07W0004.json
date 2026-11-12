@@ -1,0 +1,49 @@
+{
+  "id": "3D07W0004",
+  "name": "おおうつぼ",
+  "furigana": "おおうつぼ",
+  "english_name": "Eveel",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/08/eveel/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おおうつぼ.webp",
+  "monster_family": "おおうつぼ族",
+  "search_keywords": [
+    "Eveel",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ8",
+    "DQ8_3D",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00302",
+  "prev_id": "3D07W0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/ebira/",
+  "next_id": "3D08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/08/shaman/",
+  "color_variants": [
+    {
+      "id": "4C07W0002",
+      "name": "マリンギャング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マリンギャング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/14/poison-eveel/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

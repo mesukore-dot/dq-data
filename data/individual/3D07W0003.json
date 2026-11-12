@@ -1,0 +1,48 @@
+{
+  "id": "3D07W0003",
+  "name": "エビラ",
+  "furigana": "えびら",
+  "english_name": "Yabby",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/ebira/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビラ.webp",
+  "monster_family": "エビラ族",
+  "search_keywords": [
+    "Yabby",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ8",
+    "DQ8_3D",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "STAR"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00301",
+  "prev_id": "3D07W0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/25/iron-turtle/",
+  "next_id": "3D07W0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/08/eveel/",
+  "color_variants": [
+    {
+      "id": "5B07W0002",
+      "name": "マッドロブスター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マッドロブスター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/13/crayzee/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

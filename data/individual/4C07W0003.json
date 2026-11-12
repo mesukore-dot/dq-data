@@ -1,0 +1,43 @@
+{
+  "id": "4C07W0003",
+  "name": "マリンフェアリー",
+  "furigana": "まりんふぇありー",
+  "english_name": "See angel",
+  "page_url": "https://dqfan527.xsrv.jp/2024/05/24/see-angel/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マリンフェアリー.webp",
+  "monster_family": "シーメーダ族",
+  "search_keywords": [
+    "See angel",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQMJ3_P",
+    "STAR",
+    "RIV",
+    "KSKS"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00427",
+  "prev_id": "4C07W0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/14/poison-eveel/",
+  "next_id": "4C07W0004",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/11/12/clione-dragon/",
+  "color_variants": [
+    {
+      "id": "2E07W0004",
+      "name": "シーメーダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シーメーダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/01/sea-meda/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
