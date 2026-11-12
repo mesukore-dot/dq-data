@@ -552,6 +552,30 @@
     "zukan_no": "No.00428"
   },
   {
+    "id": "4C07W0005",
+    "name": "ホエールマージ",
+    "furigana": "ほえーるまーじ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/whale-mage/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ホエールマージ.webp",
+    "search_keywords": [
+      "WhaleMage",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMSL",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2001年3月9日",
+    "zukan_no": "No.00429"
+  },
+  {
     "id": "5B07W0001",
     "name": "フラホエール",
     "furigana": "ふらほえーる",
@@ -567,7 +591,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年9月9日",
-    "zukan_no": "No.00541"
+    "zukan_no": "No.00542"
   },
   {
     "id": "5B07W0002",
@@ -591,7 +615,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00542"
+    "zukan_no": "No.00543"
   },
   {
     "id": "6A07W0001",
@@ -612,7 +636,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00619"
+    "zukan_no": "No.00620"
   },
   {
     "id": "6A07W0002",
@@ -633,7 +657,84 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2018年2月21日",
-    "zukan_no": "No.00620"
+    "zukan_no": "No.00621"
+  },
+  {
+    "id": "7S07W0001",
+    "name": "グラコス",
+    "furigana": "ぐらこす",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/13/gracos/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グラコス.webp",
+    "search_keywords": [
+      "Gracos",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ10",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00678"
+  },
+  {
+    "id": "8SS07W0001",
+    "name": "ぬしさま",
+    "furigana": "ぬしさま",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/13/gracos/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ぬしさま.webp",
+    "search_keywords": [
+      "Lleviathan",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMCH",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00720"
   },
   {
     "id": "CPM-MV07W0001",
@@ -653,6 +754,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00758"
+    "zukan_no": "No.00761"
   }
 ]

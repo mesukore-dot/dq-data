@@ -1,0 +1,43 @@
+{
+  "id": "4C07W0005",
+  "name": "ホエールマージ",
+  "furigana": "ほえーるまーじ",
+  "english_name": "WhaleMage",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/whale-mage/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ホエールマージ.webp",
+  "monster_family": "ホエールマージ族",
+  "search_keywords": [
+    "WhaleMage",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM2",
+  "appearances": [
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMSL",
+    "TACT"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2001年3月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00429",
+  "prev_id": "4C07W0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/12/clione-dragon/",
+  "next_id": "4C08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/",
+  "color_variants": [
+    {
+      "id": "5B07W0001",
+      "name": "フラホエール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/フラホエール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/10/18/hula-whale/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
