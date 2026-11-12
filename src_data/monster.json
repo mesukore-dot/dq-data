@@ -38,6 +38,74 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0002",
+    "name": "ハーゴンのきし",
+    "furigana": "はーごんのきし",
+    "english_name": "Hargonaut",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/hagonnokishi-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハーゴンのきし.webp",
+    "monster_family": "アンデッドマン族",
+    "search_keywords": ["Hargonaut","公式イラストあり"],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2","DQ2_HD2D",
+      "DQB2",
+      "DQMB",
+      "DQMSL","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0008",
+    "name": "スカルナイト",
+    "furigana": "すかるないと",
+    "english_name": "Chasmonaut",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルナイト.webp",
+    "monster_family": "アンデッドマン族",
+    "search_keywords": ["Chasmonaut","公式イラストあり"],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D","DQ2","DQ2_HD2D","DQ7_RM","DQ11",
+      "DQB2",
+      "DQMSL","STAR","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D13Z0007",
+    "name": "アンデッドマン",
+    "furigana": "あんでっどまん",
+    "english_name": "Graveheart",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/21/anded-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンデッドマン.webp",
+    "monster_family": "アンデッドマン族",
+    "search_keywords": ["Graveheart","公式イラストあり"],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D","DQ2","DQ2_HD2D","DQ7_RM","DQ11",
+      "DQM2_SP",
+      "DQMB",
+      "DQMSL","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D13Z0006",
     "name": "マミー",
     "furigana": "まみー",
