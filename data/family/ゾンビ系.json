@@ -226,6 +226,45 @@
     "zukan_no": "No.00192"
   },
   {
+    "id": "2E13Z0004",
+    "name": "ドロル",
+    "furigana": "どろる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロル.webp",
+    "search_keywords": [
+      "Drohl drone",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "MRMR3",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00193"
+  },
+  {
     "id": "3D13Z0001",
     "name": "バンパイア",
     "furigana": "ばんぱいあ",
@@ -249,7 +288,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00328"
+    "zukan_no": "No.00329"
   },
   {
     "id": "3D13Z0002",
@@ -286,7 +325,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00329"
+    "zukan_no": "No.00330"
   },
   {
     "id": "3D13Z0003",
@@ -343,7 +382,40 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00330"
+    "zukan_no": "No.00331"
+  },
+  {
+    "id": "3D13Z0004",
+    "name": "ドロルメイジ",
+    "furigana": "どろるめいじ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/18/dororumeiji/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロルメイジ.webp",
+    "search_keywords": [
+      "Drohl diabolist",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQB1",
+      "DQB2",
+      "STAR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00332"
   },
   {
     "id": "4C13Z0001",
@@ -366,7 +438,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00460"
+    "zukan_no": "No.00462"
   },
   {
     "id": "4C13Z0002",
@@ -388,7 +460,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00461"
+    "zukan_no": "No.00463"
   },
   {
     "id": "4C13Z0003",
@@ -420,7 +492,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00462"
+    "zukan_no": "No.00464"
   },
   {
     "id": "4C13Z0004",
@@ -442,7 +514,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00463"
+    "zukan_no": "No.00465"
   },
   {
     "id": "4C13Z0005",
@@ -491,7 +563,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00464"
+    "zukan_no": "No.00466"
   },
   {
     "id": "4C13Z0006",
@@ -530,7 +602,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00465"
+    "zukan_no": "No.00467"
   },
   {
     "id": "5B13Z0001",
@@ -559,7 +631,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00572"
+    "zukan_no": "No.00574"
   },
   {
     "id": "5B13Z0002",
@@ -583,7 +655,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00573"
+    "zukan_no": "No.00575"
   },
   {
     "id": "5B13Z0003",
@@ -623,7 +695,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00574"
+    "zukan_no": "No.00576"
   },
   {
     "id": "5B13Z0004",
@@ -668,7 +740,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00575"
+    "zukan_no": "No.00577"
   },
   {
     "id": "6A13Z0001",
@@ -693,7 +765,26 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00642"
+    "zukan_no": "No.00644"
+  },
+  {
+    "id": "7S13Z0001",
+    "name": "エクソダス",
+    "furigana": "えくそだす",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/01/exordas/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エクソダス.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1_HD2D",
+    "appearances": [
+      "DQ1_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00695"
   },
   {
     "id": "8SS13Z0001",
@@ -729,7 +820,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00733"
+    "zukan_no": "No.00736"
   },
   {
     "id": "8SS13Z0002",
@@ -758,7 +849,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00734"
+    "zukan_no": "No.00737"
   },
   {
     "id": "8SS13Z0003",
@@ -799,6 +890,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00735"
+    "zukan_no": "No.00738"
   }
 ]
