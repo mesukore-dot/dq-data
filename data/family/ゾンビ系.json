@@ -265,6 +265,36 @@
     "zukan_no": "No.00193"
   },
   {
+    "id": "2E13Z0005",
+    "name": "ゆうれい",
+    "furigana": "ゆうれい",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/yurei/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ゆうれい.webp",
+    "search_keywords": [
+      "Spirit",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ9",
+      "DQ10",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQB2",
+      "STAR",
+      "RIV",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00194"
+  },
+  {
     "id": "3D13Z0001",
     "name": "バンパイア",
     "furigana": "ばんぱいあ",
@@ -288,7 +318,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00329"
+    "zukan_no": "No.00330"
   },
   {
     "id": "3D13Z0002",
@@ -325,7 +355,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00330"
+    "zukan_no": "No.00331"
   },
   {
     "id": "3D13Z0003",
@@ -382,7 +412,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00331"
+    "zukan_no": "No.00332"
   },
   {
     "id": "3D13Z0004",
@@ -415,7 +445,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00332"
+    "zukan_no": "No.00333"
   },
   {
     "id": "4C13Z0001",
@@ -438,7 +468,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00462"
+    "zukan_no": "No.00463"
   },
   {
     "id": "4C13Z0002",
@@ -460,7 +490,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00463"
+    "zukan_no": "No.00464"
   },
   {
     "id": "4C13Z0003",
@@ -492,7 +522,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00464"
+    "zukan_no": "No.00465"
   },
   {
     "id": "4C13Z0004",
@@ -514,7 +544,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00465"
+    "zukan_no": "No.00466"
   },
   {
     "id": "4C13Z0005",
@@ -563,7 +593,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00466"
+    "zukan_no": "No.00467"
   },
   {
     "id": "4C13Z0006",
@@ -602,7 +632,43 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00467"
+    "zukan_no": "No.00468"
+  },
+  {
+    "id": "4C13Z0007",
+    "name": "しにがみ",
+    "furigana": "しにがみ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/shinigami/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみ.webp",
+    "search_keywords": [
+      "Mean spirit",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ9",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQB2",
+      "DQMB",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00469"
   },
   {
     "id": "5B13Z0001",
@@ -631,7 +697,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00574"
+    "zukan_no": "No.00576"
   },
   {
     "id": "5B13Z0002",
@@ -655,7 +721,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00575"
+    "zukan_no": "No.00577"
   },
   {
     "id": "5B13Z0003",
@@ -695,7 +761,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00576"
+    "zukan_no": "No.00578"
   },
   {
     "id": "5B13Z0004",
@@ -740,7 +806,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00577"
+    "zukan_no": "No.00579"
   },
   {
     "id": "6A13Z0001",
@@ -765,7 +831,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00644"
+    "zukan_no": "No.00646"
   },
   {
     "id": "7S13Z0001",
@@ -784,7 +850,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00695"
+    "zukan_no": "No.00697"
   },
   {
     "id": "8SS13Z0001",
@@ -820,7 +886,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00736"
+    "zukan_no": "No.00738"
   },
   {
     "id": "8SS13Z0002",
@@ -849,7 +915,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00737"
+    "zukan_no": "No.00739"
   },
   {
     "id": "8SS13Z0003",
@@ -890,6 +956,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00738"
+    "zukan_no": "No.00740"
   }
 ]
