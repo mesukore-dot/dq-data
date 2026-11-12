@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "3D07W0005",
+    "name": "イカずきん",
+    "furigana": "いかずきん",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/03/25/ikazukin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/イカずきん.webp",
+    "monster_family": "イカずきん族",
+    "search_keywords": ["ボス","公式イラストあり"],
+    "first_appearance": "DQM2",
+    "appearances": [
+      "DQM2","DQM2_3DS","DQM2_SP"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2001年3月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C07W0005",
     "name": "ホエールマージ",
     "furigana": "ほえーるまーじ",
