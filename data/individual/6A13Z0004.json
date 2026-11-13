@@ -1,0 +1,70 @@
+{
+  "id": "6A13Z0004",
+  "name": "メタルハンド",
+  "furigana": "めたるはんど",
+  "english_name": "Hardy hand",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/11/metal-hand/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルハンド.webp",
+  "monster_family": "がいこつけんし族",
+  "search_keywords": [
+    "Hardy hand",
+    "メタル系",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3_GBC",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ10",
+    "DQ11",
+    "DQTR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1996年12月6日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00668",
+  "prev_id": "6A13Z0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/demon-sword/",
+  "next_id": "6A14?1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosuebill/",
+  "color_variants": [
+    {
+      "id": "3D13Z0010",
+      "name": "がいこつけんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつけんし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/gaikotukenshi/"
+    },
+    {
+      "id": "4C13Z0012",
+      "name": "じごくのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じごくのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/jigokunokishi/"
+    },
+    {
+      "id": "5B13Z0008",
+      "name": "ソードイド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ソードイド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/sword-ido/"
+    },
+    {
+      "id": "6A13Z0003",
+      "name": "デーモンソード",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デーモンソード.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/demon-sword/"
+    },
+    {
+      "id": "7S13Z0001",
+      "name": "エクソダス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エクソダス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/01/exordas/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
