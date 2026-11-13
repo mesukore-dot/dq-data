@@ -38,6 +38,77 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0006",
+    "name": "グレイトライドン",
+    "furigana": "ぐれいとらいどん",
+    "english_name": "Night rider",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/great-raidon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレイトライドン.webp",
+    "monster_family": "しにがみきぞく族",
+    "search_keywords": ["Night rider","グレートライドン","ぐれーとらいどん","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ8_3D","DQ10","DQ10_OFF",
+      "DQMJ3_P",
+      "DQH2",
+      "DQBS",
+      "DQMSL","MSP","STAR","WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B13Z0009",
+    "name": "しにがみきぞく",
+    "furigana": "しにがみきぞく",
+    "english_name": "Bone baron",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/shinigamikizoku/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみきぞく.webp",
+    "monster_family": "しにがみきぞく族",
+    "search_keywords": ["Bone baron","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ7","DQ7_3D","DQ7_RM","DQ8","DQ8_3D","DQ10","DQ10_OFF",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
+      "DQSW","DQH2",
+      "DQMB","DQBS",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0013",
+    "name": "ボーンナイト",
+    "furigana": "ぼーんないと",
+    "english_name": "Grim rider",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/born-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンナイト.webp",
+    "monster_family": "しにがみきぞく族",
+    "search_keywords": ["Grim rider","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ8","DQ8_3D","DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
+      "DQSW","DQH2",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0005",
     "name": "リリアック",
     "furigana": "りりあっく",
