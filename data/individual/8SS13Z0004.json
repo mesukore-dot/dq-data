@@ -46,7 +46,7 @@
   ],
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00776",
+  "zukan_no": "No.00777",
   "prev_id": "8SS13Z0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu-zombie/",
   "next_id": "8SS14?1N020001",
@@ -68,7 +68,14 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "5B13Z0012",
+      "name": "ネクロマンサー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ネクロマンサー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/15/necromancer/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
