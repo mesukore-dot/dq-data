@@ -38,6 +38,113 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0004",
+    "name": "メタルハンド",
+    "furigana": "めたるはんど",
+    "english_name": "Hardy hand",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/11/metal-hand/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルハンド.webp",
+    "monster_family": "がいこつけんし族",
+    "search_keywords": ["Hardy hand","メタル系","公式イラストあり"],
+    "first_appearance": "DQ3_GBC",
+    "appearances": [
+      "DQ2_HD2D","DQ3_GBC","DQ3_HD2D","DQ10","DQ11",
+      "DQTR",
+      "WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1996年12月6日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A13Z0003",
+    "name": "デーモンソード",
+    "furigana": "でーもんそーど",
+    "english_name": "Grevous bodily arm",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/demon-sword/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デーモンソード.webp",
+    "monster_family": "がいこつけんし族",
+    "search_keywords": ["Grevous bodily arm","公式イラストあり"],
+    "first_appearance": "DQ3_SFC",
+    "appearances": [
+      "DQ2_HD2D","DQ3_SFC","DQ3_GBC","DQ3_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1996年12月6日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B13Z0008",
+    "name": "ソードイド",
+    "furigana": "そーどいど",
+    "english_name": "One-man army",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/sword-ido/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ソードイド.webp",
+    "monster_family": "がいこつけんし族",
+    "search_keywords": ["One-man army","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ11",
+      "DQM3",
+      "DQMSL","STAR","RIV","WALK","KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0012",
+    "name": "じごくのきし",
+    "furigana": "じごくのきし",
+    "english_name": "Armful",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/jigokunokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じごくのきし.webp",
+    "monster_family": "がいこつけんし族",
+    "search_keywords": ["Armful","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ7_RM","DQ11",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D13Z0010",
+    "name": "がいこつけんし",
+    "furigana": "がいこつけんし",
+    "english_name": "Skeleton swordsman",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/gaikotukenshi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつけんし.webp",
+    "monster_family": "がいこつけんし族",
+    "search_keywords": ["Skeleton swordsman","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D","DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ7_RM","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH",
+      "DQMSL","STAR","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C13Z0011",
     "name": "デスジャッカル",
     "furigana": "ですじゃっかる",
