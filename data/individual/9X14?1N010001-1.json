@@ -1,12 +1,12 @@
 {
-  "id": "8SS14?1N010001",
-  "name": "りゅうおう",
+  "id": "9X14?1N010001-1",
+  "name": "竜王",
   "furigana": "りゅうおう",
   "english_name": "Dragonlord",
   "taiwan_name": "龍王",
-  "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおう.webp",
-  "monster_family": "りゅうおう族",
+  "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王.webp",
+  "monster_family": "竜王族",
   "search_keywords": [
     "Dragonlord",
     "ボス",
@@ -17,6 +17,8 @@
   "appearances": [
     "DQ1",
     "DQ1_HD2D",
+    "DQ7_RM",
+    "DQ9",
     "DQ10",
     "DQM1",
     "DQM1_3DS",
@@ -25,6 +27,7 @@
     "DQM2_3DS",
     "DQM2_SP",
     "DQM3",
+    "DQMJ",
     "DQMJ2",
     "DQMJ2_P",
     "DQMJ3_P",
@@ -38,29 +41,28 @@
     "RIV",
     "WALK",
     "TACT",
-    "KSKS",
-    "DQSG"
+    "KSKS"
   ],
   "main_family": "？？？系",
   "sub_family": "-",
   "other_families": [],
   "release_date": "1986年5月27日",
-  "voice_actor": "大塚芳忠",
+  "voice_actor": "-",
   "related_items": [
     "-"
   ],
   "related_characters": [],
-  "zukan_no": "No.00778",
-  "prev_id": "8SS13Z0004",
-  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/13/gema/",
-  "next_id": "8SS14?1N020001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/25/ha-gon/",
+  "zukan_no": "No.00797",
+  "prev_id": "9X14?1N010001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
+  "next_id": "9X14?1N020001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/25/shido/",
   "color_variants": [
     {
-      "id": "7S14?1N020001",
-      "name": "りゅうおうのひまご",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおうのひまご.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/"
+      "id": "8SS14?1N020002-1",
+      "name": "竜王のひ孫",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王のひ孫.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/12/03/ryuou-no-himago2/"
     }
   ],
   "related_items_details": [

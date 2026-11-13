@@ -66,28 +66,6 @@
     "zukan_no": "No.00683"
   },
   {
-    "id": "7S14?1N020001",
-    "name": "りゅうおうのひまご",
-    "furigana": "りゅうおうのひまご",
-    "page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおうのひまご.webp",
-    "search_keywords": [
-      "ボス",
-      "公式イラストあり"
-    ],
-    "first_appearance": "DQ2",
-    "appearances": [
-      "DQ2",
-      "DQ2_HD2D",
-      "WALK",
-      "TACT"
-    ],
-    "main_family": "？？？系",
-    "sub_family": "-",
-    "release_date": "1987年1月26日",
-    "zukan_no": "No.00734"
-  },
-  {
     "id": "7S14?1N030001",
     "name": "カンダタ",
     "furigana": "かんだた",
@@ -140,52 +118,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00735"
-  },
-  {
-    "id": "8SS14?1N010001",
-    "name": "りゅうおう",
-    "furigana": "りゅうおう",
-    "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおう.webp",
-    "search_keywords": [
-      "Dragonlord",
-      "ボス",
-      "魔王",
-      "公式イラストあり"
-    ],
-    "first_appearance": "DQ1",
-    "appearances": [
-      "DQ1",
-      "DQ1_HD2D",
-      "DQ10",
-      "DQM1",
-      "DQM1_3DS",
-      "DQM1_SP",
-      "DQM2",
-      "DQM2_3DS",
-      "DQM2_SP",
-      "DQM3",
-      "DQMJ2",
-      "DQMJ2_P",
-      "DQMJ3_P",
-      "DQB1",
-      "DQMB",
-      "DQBS",
-      "XB",
-      "DQMSL",
-      "MSP",
-      "STAR",
-      "RIV",
-      "WALK",
-      "TACT",
-      "KSKS",
-      "DQSG"
-    ],
-    "main_family": "？？？系",
-    "sub_family": "-",
-    "release_date": "1986年5月27日",
-    "zukan_no": "No.00778"
+    "zukan_no": "No.00734"
   },
   {
     "id": "8SS14?1N020001",
@@ -228,10 +161,32 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00779"
+    "zukan_no": "No.00777"
   },
   {
     "id": "8SS14?1N020002",
+    "name": "りゅうおうのひまご",
+    "furigana": "りゅうおうのひまご",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおうのひまご.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00778"
+  },
+  {
+    "id": "8SS14?1N020002-1",
     "name": "竜王のひ孫",
     "furigana": "りゅうおうのひまご",
     "page_url": "https://dqfan527.xsrv.jp/2025/12/03/ryuou-no-himago2/",
@@ -249,7 +204,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00780"
+    "zukan_no": "No.00779"
   },
   {
     "id": "8SS14?1N030001",
@@ -297,7 +252,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00781"
+    "zukan_no": "No.00780"
   },
   {
     "id": "8SS14?1N030002",
@@ -332,7 +287,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00782"
+    "zukan_no": "No.00781"
   },
   {
     "id": "8SS14?2MJ30001",
@@ -353,10 +308,55 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00783"
+    "zukan_no": "No.00782"
   },
   {
     "id": "9X14?1N010001",
+    "name": "りゅうおう",
+    "furigana": "りゅうおう",
+    "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおう.webp",
+    "search_keywords": [
+      "Dragonlord",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ1",
+    "appearances": [
+      "DQ1",
+      "DQ1_HD2D",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQB1",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1986年5月27日",
+    "zukan_no": "No.00796"
+  },
+  {
+    "id": "9X14?1N010001-1",
     "name": "竜王",
     "furigana": "りゅうおう",
     "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/",
