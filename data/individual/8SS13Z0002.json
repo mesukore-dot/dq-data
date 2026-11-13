@@ -29,6 +29,12 @@
   "other_families": [],
   "release_date": "2017年7月29日",
   "voice_actor": "若本規夫",
+  "quotes": [
+    "ンフフフ。我は　魔王さまのチカラを受けし\n六軍王がひとり……屍騎軍王ゾルデ。\n闇を愛し　光を憎む者。",
+    "我は思う……。\nそなたらは　いやしい光を　望む者たち。\nそして　なにより　哀れな者たち……。",
+    "ンフフフフフフ。\nさぁ　けがれた光を　癒やしましょうぞ。",
+    "魔王さまは　闇を　お望みだ。\n我の　命つきるまで　清浄なる常闇は消えぬ。\n……なれば　この地に　光は戻らぬ。"
+  ],
   "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00774",
@@ -36,6 +42,22 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/12/captain-crow/",
   "next_id": "8SS13Z0003",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu-zombie/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "9作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "死霊騎士団を率いる　六軍王のひとり。戦いの日々で　光を憎む闇の騎士となった。六軍王の中で　一番最初に戦うことになる。",
+      "ability": "二本の剣で斬り　闇の呪文をあやつる。魔王ウルノーガから授かった　パープルオーブのチカラで　影を生み出し　ぶんしんする。影とのれんけいで　クロスドルクマを使うことも。",
+      "voice_actor": {
+        "name": "若本規夫（わかもと　のりお）",
+        "works": "\n｢ドラゴンボールZ｣セル 役\n「サザエさん」アナゴさん 役",
+        "dq_series": "\n「ドラゴンクエストライバルズ」ダークドレアム　役など"
+      },
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_items_details": [],
   "related_characters_details": []
