@@ -38,6 +38,131 @@
     "related_characters": []
   },
   {
+    "id": "5B13Z0011",
+    "name": "ゾンビナイト",
+    "furigana": "ぞんびないと",
+    "english_name": "Deadcurion",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/04/zombie-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ゾンビナイト.webp",
+    "monster_family": "がいこつへい族",
+    "search_keywords": ["Deadcurion","ゾンビソルジャー","ぞんびそるじゃー","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ4_PS","DQ5","DQ5_PS2","DQ5_DS","DQ7","DQ7_3D","DQ9"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D13Z0012",
+    "name": "しにがみへい",
+    "furigana": "しにがみへい",
+    "english_name": "Deadcurion",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/22/deadcurion/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみへい.webp",
+    "monster_family": "がいこつへい族",
+    "search_keywords": ["Deadcurion","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ7","DQ7_3D","DQ9",
+      "RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E13Z0009",
+    "name": "がいこつへい",
+    "furigana": "がいこつへい",
+    "english_name": "Lesionnaire",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/19/lesionnaire/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつへい.webp",
+    "monster_family": "がいこつへい族",
+    "search_keywords": ["Lesionnaire","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ7","DQ7_3D","DQ9",
+      "RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D13Z0011",
+    "name": "がいこつけんし",
+    "furigana": "がいこつけんし",
+    "english_name": "Skeleton swordsman",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/gaikotukenshi-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつけんし（DQ3）.webp",
+    "monster_family": "がいこつ族",
+    "search_keywords": ["Skeleton swordsman","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ7_3D",
+      "FTR2","FTR3","FY1"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0015",
+    "name": "しにがみ",
+    "furigana": "しにがみ",
+    "english_name": "Sekerleton",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/shinigami-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみ（DQ4）.webp",
+    "monster_family": "がいこつ族",
+    "search_keywords": ["Sekerleton","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "DQM3"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A07W0003",
+    "name": "ホエールロード",
+    "furigana": "ほえーるろーど",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/11/whale-lord/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ホエールロード.webp",
+    "monster_family": "ホエールマージ族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQM3",
+    "appearances": [
+      "DQM3",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2023年12月1日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A03B0013",
     "name": "レジェンドホーン",
     "furigana": "れじぇんどほーん",
