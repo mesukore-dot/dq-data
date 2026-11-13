@@ -37,6 +37,14 @@
   "sub_family": "-",
   "other_families": [],
   "release_date": "1992年9月27日",
+  "voice_actor": "中尾隆聖",
+  "quotes": [
+    "……でも　まあ　よいでしょう。\n親が子を想う気持ち　というのは\nいつ見ても　よいものですからね。",
+    "今　ここで　私が\nお前たち親子を　永遠の闇へ\nお送りしましょう。",
+    "ほっほっほっほっ……。\nいつまで　大教祖のつもりで\nいるのですか？",
+    "ふん。役立たずは　最後まで\n役立たずですね……。",
+    "ピキー！"
+  ],
   "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00777",
@@ -44,6 +52,23 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu-zombie/",
   "next_id": "8SS14?1N010001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成4年）1992年9月27日、スーパーファミコン版「ドラゴンクエストV 天空の花嫁（DQ5）」から登場。",
+      "works_count": "15作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "どんな非道もいとわない　冷酷無比で残虐な　光の教団の幹部。不敵な笑みをうかべ　主人公一族を苦しめた　大魔王よりも存在感を放つ悪のかたまり。",
+      "ability": "マホカンタ　やけつくいきが　非常にやっかい。主人公の父パパスには　とどめのメラゾーマで　絶望と悲しみを与えた。",
+      "personality": "たとえ敵だろうと部下だろうと　礼儀正しく敬語を使う。しかし　こころがなく　人々が苦しむ姿を　あざわらう外道。",
+      "voice_actor": {
+        "name": "中尾隆聖（なかお　りゅうせい）",
+        "works": "\n｢ドラゴンボールZ｣フリーザ 役\n「アンパンマン」バイキンマン 役",
+        "dq_series": "\n「ドラゴンクエストXI　過ぎ去りし時を求めて」フールフール　役\n「ドラゴンクエスト ダイの大冒険」冥竜王ヴェルザー　役"
+      },
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_items_details": [],
   "related_characters_details": []
