@@ -20,6 +20,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [
+    "6A01S0018",
     "2E05B0003",
     "2E13Z0001",
     "2E13Z0002"
@@ -254,6 +255,12 @@
   ],
   "related_items_details": [],
   "related_characters_details": [
+    {
+      "id": "6A01S0018",
+      "name": "ハロウィンキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/16/halloween-king/"
+    },
     {
       "id": "2E05B0003",
       "name": "ハロウィンドラキー",
