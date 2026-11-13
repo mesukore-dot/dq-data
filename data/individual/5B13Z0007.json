@@ -1,0 +1,55 @@
+{
+  "id": "5B13Z0007",
+  "name": "ビーストボーンズ",
+  "furigana": "びーすとぼーんず",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/11/16/beast-bones/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ビーストボーンズ.webp",
+  "monster_family": "アンデッドマン族",
+  "search_keywords": [
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ2_HD2D",
+  "appearances": [
+    "DQ2_HD2D"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2025年10月30日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00595",
+  "prev_id": "5B13Z0006",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/11/14/yamiboushi/",
+  "next_id": "6A01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/dark-king/",
+  "color_variants": [
+    {
+      "id": "3D13Z0007",
+      "name": "アンデッドマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アンデッドマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/21/anded-man/"
+    },
+    {
+      "id": "4C10M0006",
+      "name": "黄金兵",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/黄金兵.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/14/gyldenaut/"
+    },
+    {
+      "id": "4C13Z0008",
+      "name": "スカルナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/scull-knight/"
+    },
+    {
+      "id": "6A13Z0002",
+      "name": "ハーゴンのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ハーゴンのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/hagonnokishi-2/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

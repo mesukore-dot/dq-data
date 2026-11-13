@@ -1,0 +1,56 @@
+{
+  "id": "4C13Z0010",
+  "name": "シザース",
+  "furigana": "しざーす",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/11/05/siza-su/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シザース.webp",
+  "monster_family": "ミイラおとこ族",
+  "search_keywords": [
+    "ボス",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ2_HD2D",
+  "appearances": [
+    "DQ2_HD2D"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2025年10月30日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00481",
+  "prev_id": "4C13Z0009",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/dokudoku-zombie/",
+  "next_id": "4C13Z0011",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/death-jackal/",
+  "color_variants": [
+    {
+      "id": "2E13Z0002",
+      "name": "ハロウィンマミー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンマミー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/19/halloween-mummy/"
+    },
+    {
+      "id": "2E13Z0006",
+      "name": "ミイラおとこ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ミイラおとこ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/26/mirra-otoko/"
+    },
+    {
+      "id": "3D13Z0006",
+      "name": "マミー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マミー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/26/mummy/"
+    },
+    {
+      "id": "4C13Z0002",
+      "name": "悪鬼丸",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/悪鬼丸.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/23/akkimaru/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
