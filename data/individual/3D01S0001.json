@@ -86,10 +86,18 @@
   ],
   "release_date": "1986年5月27日",
   "voice_actor": "-",
-  "related_items": [
-    "item_dokubari"
+  "related_items": [],
+  "related_characters": [
+    "3D01S0038",
+    "4C01S0001",
+    "6A01S0002",
+    "5B10M0001",
+    "5B01S0019",
+    "3D11M0001",
+    "6A01S0014",
+    "8SS01S0007",
+    "9X01S0002"
   ],
-  "related_characters": [],
   "zukan_no": "No.00201",
   "prev_id": "2E4P0009",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/25/takenoko-kozou/",
@@ -322,10 +330,61 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "item_dokubari"
+      "id": "3D01S0038",
+      "name": "メタルブラザーズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルブラザーズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/25/metal-bros/"
+    },
+    {
+      "id": "4C01S0001",
+      "name": "はぐれメタル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/はぐれメタル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/22/haguremetaru/"
+    },
+    {
+      "id": "6A01S0002",
+      "name": "メタルキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/metal-king/"
+    },
+    {
+      "id": "5B10M0001",
+      "name": "ゴールドマン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ゴールドマン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/18/gold-man/"
+    },
+    {
+      "id": "5B01S0019",
+      "name": "メタルエンゼル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルエンゼル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/01/11/metal-angel/"
+    },
+    {
+      "id": "3D11M0001",
+      "name": "メタルハンター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/メタルハンター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/28/metal-hunter/"
+    },
+    {
+      "id": "6A01S0014",
+      "name": "メタルカイザー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルカイザー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/metal-kaiser/"
+    },
+    {
+      "id": "8SS01S0007",
+      "name": "ダイヤモンドスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ダイヤモンドスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/27/diamond-slime/"
+    },
+    {
+      "id": "9X01S0002",
+      "name": "メタルゴッデス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/メタルゴッデス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/28/metal-go-death/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }

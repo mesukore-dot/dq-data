@@ -34,7 +34,9 @@
   "release_date": "2009年7月11日",
   "voice_actor": "-",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "3D01S0001"
+  ],
   "zukan_no": "No.00241",
   "prev_id": "3D01S0037",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/10/05/patissier-knight/",
@@ -109,5 +111,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "3D01S0001",
+      "name": "メタルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルスライム-1.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/"
+    }
+  ]
 }

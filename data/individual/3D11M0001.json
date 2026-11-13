@@ -60,7 +60,9 @@
   "other_families": [],
   "release_date": "1987年1月26日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "3D01S0001"
+  ],
   "zukan_no": "No.00333",
   "prev_id": "3D10M0011",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/26/arrghgoyle/",
@@ -99,5 +101,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "3D01S0001",
+      "name": "メタルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルスライム-1.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/"
+    }
+  ]
 }
