@@ -19,10 +19,10 @@
   "other_families": [],
   "release_date": "2019年10月20日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "2E01S0030"
   ],
-  "related_characters": [],
   "zukan_no": "No.00627",
   "prev_id": "6A01S0017",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/31/emerald-king-slime/",
@@ -144,10 +144,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "2E01S0030",
+      "name": "ハロウィンスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ハロウィンスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/10/halloween-slime/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
