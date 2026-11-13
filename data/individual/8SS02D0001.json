@@ -42,10 +42,12 @@
   "other_families": [],
   "release_date": "1988年2月10日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "8SS14?1N030002",
+    "8SS13Z0003",
+    "9X14?1N030001"
   ],
-  "related_characters": [],
   "zukan_no": "No.00751",
   "prev_id": "8SS01S0014",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/09/12/augoostus/",
@@ -77,10 +79,25 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/06/12/gurandorago-n/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "8SS14?1N030002",
+      "name": "バラモスブロス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バラモスブロス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosuburosu/"
+    },
+    {
+      "id": "8SS13Z0003",
+      "name": "バラモスゾンビ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バラモスゾンビ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu-zombie/"
+    },
+    {
+      "id": "9X14?1N030001",
+      "name": "ゾーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ゾーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/02/25/zoma/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
