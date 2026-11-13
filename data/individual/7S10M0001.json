@@ -1,27 +1,28 @@
 {
   "id": "7S10M0001",
-  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-バルザック.webp",
-  "dqsg_release_date": "2026年11月10日",
-  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
-  "dqsg_element_resistances": {
-    "dqsg_super_weak": [
-      "炎"
-    ],
-    "dqsg_weak": [
-      "氷"
-    ],
-    "dqsg_resist": [
-      "雷"
-    ]
+  "dqsg_id": "E0059",
+  "dqsg_name": "バルザック",
+  "dqsg_furigana": "ばるざっく",
+  "dqsg_rarity": "強敵",
+  "dqsg_color": "緑",
+  "dqsg_system": "あくま系",
+  "dqsg_cost": 50,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バルザック-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/24/balzack/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 79,
+    "dqsg_attack": 66,
+    "dqsg_magic_attack": 29,
+    "dqsg_magic_heal": 61,
+    "dqsg_defense": 41,
+    "dqsg_magic_defense": 45,
+    "dqsg_dexterity": 34
   },
-  "dqsg_features": [
-    "直線範囲に　とっしんする。",
-    "こんぼうを振りおろし　前方範囲にダメージを与える。",
-    "前方範囲に　氷のブレスを吐き出す。",
-    "周囲に　衝撃波をはなつ。",
-    "周囲以外の広範囲に　氷のじゅもんをはなつ。"
+  "dqsg_effects": [
+    "ヤリ装備時：炎属性の物理ダメージ +10%"
   ],
-  "dqsg_official_mamechishiki": "究極の錬金術師を目指し　身体を魔物に作り変えた。\nそのチカラは　すでに　人間のものではない。",
   "name": "バルザック＋",
   "furigana": "ばるざっくぷらす",
   "english_name": "Balzack",
@@ -67,29 +68,28 @@
     "6A03B0005",
     "8SS03B0001"
   ],
-  "dqsg_id": "E0059",
-  "dqsg_name": "バルザック",
-  "dqsg_furigana": "ばるざっく",
-  "dqsg_rarity": "強敵",
-  "dqsg_color": "緑",
-  "dqsg_system": "あくま系",
-  "dqsg_cost": 50,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バルザック-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/24/balzack/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 79,
-    "dqsg_attack": 66,
-    "dqsg_magic_attack": 29,
-    "dqsg_magic_heal": 61,
-    "dqsg_defense": 41,
-    "dqsg_magic_defense": 45,
-    "dqsg_dexterity": 34
+  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-バルザック.webp",
+  "dqsg_release_date": "2026年11月10日",
+  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
+  "dqsg_element_resistances": {
+    "dqsg_super_weak": [
+      "炎"
+    ],
+    "dqsg_weak": [
+      "氷"
+    ],
+    "dqsg_resist": [
+      "雷"
+    ]
   },
-  "dqsg_effects": [
-    "ヤリ装備時：炎属性の物理ダメージ +10%"
+  "dqsg_features": [
+    "直線範囲に　とっしんする。",
+    "こんぼうを振りおろし　前方範囲にダメージを与える。",
+    "前方範囲に　氷のブレスを吐き出す。",
+    "周囲に　衝撃波をはなつ。",
+    "周囲以外の広範囲に　氷のじゅもんをはなつ。"
   ],
+  "dqsg_official_mamechishiki": "究極の錬金術師を目指し　身体を魔物に作り変えた。\nそのチカラは　すでに　人間のものではない。",
   "zukan_no": "No.00707",
   "prev_id": "7S08D0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/17/akumanokishi/",
