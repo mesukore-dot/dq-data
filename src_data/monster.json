@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0013",
+    "name": "レジェンドホーン",
+    "furigana": "れじぇんどほーん",
+    "english_name": "Mythsteed",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/03/mythsteed/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/レジェンドホーン.webp",
+    "monster_family": "ユニコーン族",
+    "search_keywords": ["Mythsteed","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQMJ3","DQMJ3_P",
+      "DQMSL","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "8SS13Z0004",
     "name": "ゲマ",
     "furigana": "げま",
