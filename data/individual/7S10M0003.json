@@ -1,25 +1,28 @@
 {
   "id": "7S10M0003",
-  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-ピサロナイト.webp",
-  "dqsg_release_date": "2026年11月10日",
-  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
-  "dqsg_element_resistances": {
-    "dqsg_super_weak": [
-      "炎"
-    ],
-    "dqsg_weak": [
-      "風"
-    ],
-    "dqsg_resist": [
-      "雷"
-    ]
+  "dqsg_id": "E0056",
+  "dqsg_name": "ピサロナイト",
+  "dqsg_furigana": "ぴさろないと",
+  "dqsg_rarity": "イベスト",
+  "dqsg_color": "黄",
+  "dqsg_system": "物質系",
+  "dqsg_cost": 72,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ピサロナイト-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/08/01/pisaroknight/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 124,
+    "dqsg_attack": 67,
+    "dqsg_magic_attack": 45,
+    "dqsg_magic_heal": 34,
+    "dqsg_defense": 68,
+    "dqsg_magic_defense": 56,
+    "dqsg_dexterity": 37
   },
-  "dqsg_features": [
-    "前方5本の直線範囲に　剣の衝撃波を飛ばす。",
-    "剣で　周囲をなぎはらう。",
-    "剣で　前方をきりさく。"
+  "dqsg_effects": [
+    "ドラゴン系にダメージ +7%"
   ],
-  "dqsg_official_mamechishiki": "魔族のあいだで　知らない者の　ないほどの　魔剣の使い手。\n刃を交えたピサロに　その実力を認められ　直属の騎士となった。",
   "name": "ピサロナイト",
   "furigana": "ぴさろないと",
   "english_name": "Roseguardin",
@@ -63,30 +66,27 @@
     "4C08D0003",
     "2E08D0002"
   ],
-  "dqsg_id": "E0056",
-  "dqsg_name": "ピサロナイト",
-  "dqsg_furigana": "ぴさろないと",
-  "dqsg_rarity": "イベスト",
-  "dqsg_color": "黄",
-  "dqsg_system": "物質系",
-  "dqsg_cost": 72,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ピサロナイト-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/08/01/pisaroknight/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 124,
-    "dqsg_attack": 67,
-    "dqsg_magic_attack": 45,
-    "dqsg_magic_heal": 34,
-    "dqsg_defense": 68,
-    "dqsg_magic_defense": 56,
-    "dqsg_dexterity": 37
+  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-ピサロナイト.webp",
+  "dqsg_release_date": "2026年11月10日",
+  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
+  "dqsg_element_resistances": {
+    "dqsg_super_weak": [
+      "炎"
+    ],
+    "dqsg_weak": [
+      "風"
+    ],
+    "dqsg_resist": [
+      "雷"
+    ]
   },
-  "dqsg_effects": [
-    "ドラゴン系にダメージ +7%"
+  "dqsg_features": [
+    "前方5本の直線範囲に　剣の衝撃波を飛ばす。",
+    "剣で　周囲をなぎはらう。",
+    "剣で　前方をきりさく。"
   ],
-  "zukan_no": "No.00721",
+  "dqsg_official_mamechishiki": "魔族のあいだで　知らない者の　ないほどの　魔剣の使い手。\n刃を交えたピサロに　その実力を認められ　直属の騎士となった。",
+  "zukan_no": "No.00722",
   "prev_id": "7S10M0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/10/miriera/",
   "next_id": "7S10M0004",
