@@ -38,6 +38,72 @@
     "related_characters": []
   },
   {
+    "id": "4C13Z0014",
+    "name": "エビルスピリッツ",
+    "furigana": "ふぇいすぼーる",
+    "english_name": "Soulspawn",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/soulspawn/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルスピリッツ.webp",
+    "monster_family": "エビルスピリッツ族",
+    "search_keywords": ["Soulspawn","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ8","DQ8_3D",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P",
+      "DQMB",
+      "DQMSL","STAR","RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B13Z0010",
+    "name": "フェイスボール",
+    "furigana": "ふぇいすぼーる",
+    "english_name": "Hellspawn",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/face-ball/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/フェイスボール.webp",
+    "monster_family": "エビルスピリッツ族",
+    "search_keywords": ["Hellspawn","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ8","DQ8_3D",
+      "DQM3","DQM4",
+      "STAR","RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A13Z0007",
+    "name": "デーモンスピリット",
+    "furigana": "でーもんすぴりっと",
+    "english_name": "Demonspawn",
+    "page_url": "https://dqfan527.xsrv.jp/2024/02/27/demon-spirit/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デーモンスピリット.webp",
+    "monster_family": "エビルスピリッツ族",
+    "search_keywords": ["Demonspawn","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0006",
     "name": "グレイトライドン",
     "furigana": "ぐれいとらいどん",
