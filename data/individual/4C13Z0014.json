@@ -1,0 +1,63 @@
+{
+  "id": "4C13Z0014",
+  "name": "エビルスピリッツ",
+  "furigana": "ふぇいすぼーる",
+  "english_name": "Soulspawn",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/soulspawn/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルスピリッツ.webp",
+  "monster_family": "エビルスピリッツ族",
+  "search_keywords": [
+    "Soulspawn",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ8",
+    "DQ8_3D",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMB",
+    "DQMSL",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00486",
+  "prev_id": "4C13Z0013",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/01/born-knight/",
+  "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "color_variants": [
+    {
+      "id": "5B13Z0010",
+      "name": "フェイスボール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/フェイスボール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/face-ball/"
+    },
+    {
+      "id": "6A13Z0007",
+      "name": "デーモンスピリット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デーモンスピリット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/02/27/demon-spirit/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
