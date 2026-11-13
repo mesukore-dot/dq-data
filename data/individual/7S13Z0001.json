@@ -20,12 +20,43 @@
   "release_date": "2025年10月30日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00714",
+  "zukan_no": "No.00719",
   "prev_id": "7S11M0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/03/06/killer-machine3/",
   "next_id": "7S14?1N020001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/",
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D13Z0010",
+      "name": "がいこつけんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつけんし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/gaikotukenshi/"
+    },
+    {
+      "id": "4C13Z0012",
+      "name": "じごくのきし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じごくのきし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/jigokunokishi/"
+    },
+    {
+      "id": "5B13Z0008",
+      "name": "ソードイド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ソードイド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/sword-ido/"
+    },
+    {
+      "id": "6A13Z0003",
+      "name": "デーモンソード",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デーモンソード.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/demon-sword/"
+    },
+    {
+      "id": "6A13Z0004",
+      "name": "メタルハンド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルハンド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/metal-hand/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }

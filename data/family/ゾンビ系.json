@@ -886,6 +886,44 @@
     "zukan_no": "No.00342"
   },
   {
+    "id": "3D13Z0010",
+    "name": "がいこつけんし",
+    "furigana": "がいこつけんし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/gaikotukenshi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつけんし.webp",
+    "search_keywords": [
+      "Skeleton swordsman",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ7_RM",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMSL",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00343"
+  },
+  {
     "id": "4C13Z0001",
     "name": "タタリ御前",
     "furigana": "たたりごぜん",
@@ -906,7 +944,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00472"
+    "zukan_no": "No.00473"
   },
   {
     "id": "4C13Z0002",
@@ -928,7 +966,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00473"
+    "zukan_no": "No.00474"
   },
   {
     "id": "4C13Z0003",
@@ -960,7 +998,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00474"
+    "zukan_no": "No.00475"
   },
   {
     "id": "4C13Z0004",
@@ -982,7 +1020,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00475"
+    "zukan_no": "No.00476"
   },
   {
     "id": "4C13Z0005",
@@ -1031,7 +1069,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00476"
+    "zukan_no": "No.00477"
   },
   {
     "id": "4C13Z0006",
@@ -1070,7 +1108,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00477"
+    "zukan_no": "No.00478"
   },
   {
     "id": "4C13Z0007",
@@ -1106,7 +1144,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00478"
+    "zukan_no": "No.00479"
   },
   {
     "id": "4C13Z0008",
@@ -1134,7 +1172,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00479"
+    "zukan_no": "No.00480"
   },
   {
     "id": "4C13Z0009",
@@ -1179,7 +1217,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00480"
+    "zukan_no": "No.00481"
   },
   {
     "id": "4C13Z0010",
@@ -1198,7 +1236,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00481"
+    "zukan_no": "No.00482"
   },
   {
     "id": "4C13Z0011",
@@ -1225,7 +1263,38 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00482"
+    "zukan_no": "No.00483"
+  },
+  {
+    "id": "4C13Z0012",
+    "name": "じごくのきし",
+    "furigana": "じごくのきし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/jigokunokishi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じごくのきし.webp",
+    "search_keywords": [
+      "Armful",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ7_RM",
+      "DQ11",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00484"
   },
   {
     "id": "5B13Z0001",
@@ -1254,7 +1323,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00589"
+    "zukan_no": "No.00591"
   },
   {
     "id": "5B13Z0002",
@@ -1278,7 +1347,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00590"
+    "zukan_no": "No.00592"
   },
   {
     "id": "5B13Z0003",
@@ -1318,7 +1387,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00591"
+    "zukan_no": "No.00593"
   },
   {
     "id": "5B13Z0004",
@@ -1363,7 +1432,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00592"
+    "zukan_no": "No.00594"
   },
   {
     "id": "5B13Z0005",
@@ -1412,7 +1481,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00593"
+    "zukan_no": "No.00595"
   },
   {
     "id": "5B13Z0006",
@@ -1431,7 +1500,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00594"
+    "zukan_no": "No.00596"
   },
   {
     "id": "5B13Z0007",
@@ -1449,7 +1518,38 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00595"
+    "zukan_no": "No.00597"
+  },
+  {
+    "id": "5B13Z0008",
+    "name": "ソードイド",
+    "furigana": "そーどいど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/sword-ido/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ソードイド.webp",
+    "search_keywords": [
+      "One-man army",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ1_HD2D",
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ11",
+      "DQM3",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00598"
   },
   {
     "id": "6A13Z0001",
@@ -1474,7 +1574,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00662"
+    "zukan_no": "No.00665"
   },
   {
     "id": "6A13Z0002",
@@ -1501,7 +1601,56 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00663"
+    "zukan_no": "No.00666"
+  },
+  {
+    "id": "6A13Z0003",
+    "name": "デーモンソード",
+    "furigana": "でーもんそーど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/12/demon-sword/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デーモンソード.webp",
+    "search_keywords": [
+      "Grevous bodily arm",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3_SFC",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1996年12月6日",
+    "zukan_no": "No.00667"
+  },
+  {
+    "id": "6A13Z0004",
+    "name": "メタルハンド",
+    "furigana": "めたるはんど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/11/metal-hand/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルハンド.webp",
+    "search_keywords": [
+      "Hardy hand",
+      "メタル系",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3_GBC",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ10",
+      "DQ11",
+      "DQTR",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1996年12月6日",
+    "zukan_no": "No.00668"
   },
   {
     "id": "7S13Z0001",
@@ -1520,7 +1669,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00714"
+    "zukan_no": "No.00719"
   },
   {
     "id": "8SS13Z0001",
@@ -1556,7 +1705,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00755"
+    "zukan_no": "No.00760"
   },
   {
     "id": "8SS13Z0002",
@@ -1585,7 +1734,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00756"
+    "zukan_no": "No.00761"
   },
   {
     "id": "8SS13Z0003",
@@ -1626,6 +1775,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00757"
+    "zukan_no": "No.00762"
   }
 ]
