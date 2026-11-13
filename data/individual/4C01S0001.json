@@ -76,10 +76,10 @@
   "other_families": [],
   "release_date": "1987年1月26日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "3D01S0001"
   ],
-  "related_characters": [],
   "zukan_no": "No.00348",
   "prev_id": "3D14?1N030001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
@@ -159,10 +159,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "3D01S0001",
+      "name": "メタルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルスライム-1.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
