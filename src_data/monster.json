@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0005",
+    "name": "リリアック",
+    "furigana": "りりあっく",
+    "english_name": "Madvlad",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/11/metal-hand/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/リリアック.webp",
+    "monster_family": "バンパイア族",
+    "search_keywords": ["Madvlad","ボス","公式イラストあり"],
+    "first_appearance": "DQ3_HD2D",
+    "appearances": [
+      "DQ3_HD2D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2024年11月14日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0004",
     "name": "メタルハンド",
     "furigana": "めたるはんど",
