@@ -2,7 +2,14 @@
   "id": "3D01S0001",
   "name": "メタルスライム",
   "furigana": "めたるすらいむ",
-  "english_name": "Metal slime",
+  "english_name": "Metal Slime",
+  "taiwan_name": "金屬史萊姆",
+  "korean_name": "메탈슬라임",
+  "chinese_name": "金属史莱姆",
+  "french_name": "Glu de métal",
+  "german_name": "Metallschleim",
+  "italian_name": "Limo metálico",
+  "spanish_name": "Limo metallico",
   "page_url": "https://dqfan527.xsrv.jp/2023/01/18/metarusuraimu/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルスライム-1.webp",
   "monster_family": "スライム族",
@@ -88,6 +95,21 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/25/takenoko-kozou/",
   "next_id": "3D01S0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/08/07/metal-rider/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "(昭和61年) 1986年5月27日、ファミコン版「ドラゴンクエスト (DQ1)」から登場。",
+      "works_count": "40作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "突然変異で生まれた　メタリックなスライム。たおすと　大量の経験値が手に入るため　強欲な冒険者に　つけねらわれている。",
+      "form": "光りかがやくメタルボディが特徴。でも見た目は　他のスライムと同じく　ぷにぷにしている。",
+      "ability": "じまんのメタルボディは　ほぼすべての呪文を受けつけない。メラがとくいで　経験値に目がくらんだ冒険者に　火の玉をぶつける。にげあし　すばしっこさも　じまんだ！",
+      "personality": "すこしの物音でもビックリしてしまう　ビンカンで　おくびょうな性格。ただし　にげる前に何発もメラを当てる　ゆうかんなメタルスライムがいるらしい。",
+      "ecology": "メタルスライムにあこがれたスライムが　アルミホイルを巻いて　メタルスライムのフリをするらしい。",
+      "connection": "さらに突然変異が起こると　はぐれメタルになる。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "1F01S0001",
