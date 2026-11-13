@@ -1297,6 +1297,46 @@
     "zukan_no": "No.00484"
   },
   {
+    "id": "4C13Z0013",
+    "name": "ボーンナイト",
+    "furigana": "ぼーんないと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/born-knight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンナイト.webp",
+    "search_keywords": [
+      "Grim rider",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQSW",
+      "DQH2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00485"
+  },
+  {
     "id": "5B13Z0001",
     "name": "ドラゴンコープス",
     "furigana": "どらごんこーぷす",
@@ -1323,7 +1363,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00591"
+    "zukan_no": "No.00592"
   },
   {
     "id": "5B13Z0002",
@@ -1347,7 +1387,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00592"
+    "zukan_no": "No.00593"
   },
   {
     "id": "5B13Z0003",
@@ -1387,7 +1427,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00593"
+    "zukan_no": "No.00594"
   },
   {
     "id": "5B13Z0004",
@@ -1432,7 +1472,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00594"
+    "zukan_no": "No.00595"
   },
   {
     "id": "5B13Z0005",
@@ -1481,7 +1521,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00595"
+    "zukan_no": "No.00596"
   },
   {
     "id": "5B13Z0006",
@@ -1500,7 +1540,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00596"
+    "zukan_no": "No.00597"
   },
   {
     "id": "5B13Z0007",
@@ -1518,7 +1558,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00597"
+    "zukan_no": "No.00598"
   },
   {
     "id": "5B13Z0008",
@@ -1549,7 +1589,54 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00598"
+    "zukan_no": "No.00599"
+  },
+  {
+    "id": "5B13Z0009",
+    "name": "しにがみきぞく",
+    "furigana": "しにがみきぞく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/shinigamikizoku/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみきぞく.webp",
+    "search_keywords": [
+      "Bone baron",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQSW",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00600"
   },
   {
     "id": "6A13Z0001",
@@ -1574,7 +1661,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00665"
+    "zukan_no": "No.00667"
   },
   {
     "id": "6A13Z0002",
@@ -1601,7 +1688,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00666"
+    "zukan_no": "No.00668"
   },
   {
     "id": "6A13Z0003",
@@ -1623,7 +1710,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00667"
+    "zukan_no": "No.00669"
   },
   {
     "id": "6A13Z0004",
@@ -1650,7 +1737,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00668"
+    "zukan_no": "No.00670"
   },
   {
     "id": "6A13Z0005",
@@ -1670,7 +1757,39 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2024年11月14日",
-    "zukan_no": "No.00669"
+    "zukan_no": "No.00671"
+  },
+  {
+    "id": "6A13Z0006",
+    "name": "グレイトライドン",
+    "furigana": "ぐれいとらいどん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/01/great-raidon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グレイトライドン.webp",
+    "search_keywords": [
+      "Night rider",
+      "グレートライドン",
+      "ぐれーとらいどん",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMJ3_P",
+      "DQH2",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00672"
   },
   {
     "id": "7S13Z0001",
@@ -1689,7 +1808,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00720"
+    "zukan_no": "No.00723"
   },
   {
     "id": "8SS13Z0001",
@@ -1725,7 +1844,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00761"
+    "zukan_no": "No.00764"
   },
   {
     "id": "8SS13Z0002",
@@ -1754,7 +1873,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00762"
+    "zukan_no": "No.00765"
   },
   {
     "id": "8SS13Z0003",
@@ -1795,6 +1914,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00763"
+    "zukan_no": "No.00766"
   }
 ]
