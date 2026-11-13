@@ -35,7 +35,10 @@
   "sub_family": "-",
   "other_families": "-",
   "release_date": "2004年11月27日",
-  "voice_actor": "丸山壮史",
+  "voice_actor": "マルヤマタケシ",
+  "quotes": [
+    "なんじらも　わが財宝を求める者か？\nならば　われと戦い　その資格を　しめすがよい。"
+  ],
   "related_items": [],
   "related_characters": [
     "2E01S0029"
@@ -45,6 +48,23 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/super-killer-machine/",
   "next_id": "8SS13Z0002",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/06/10/tyriant/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成16年）2004年11月27日、PlayStation2版「ドラゴンクエストVIII 空と海と大地と呪われし姫君（DQ8）」から登場。",
+      "works_count": "12作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "かつて　7つの海をまたにかけた　有名な大海賊。伝説の大陸レティシアを探していたが　寿命が尽き　亡霊となった。",
+      "form": "キャプテンハットをかぶった　長髪のワイルドな男性。片手にはカットラスを持ち　ゆうれいらしく　つねに浮いている。",
+      "ability": "テンションを高め　しんくうはを　飛ばしてくる。ナイスバディなゼシカに　みとれてしまうスケベな一面も…。",
+      "voice_actor": {
+        "name": "マルヤマタケシ（2024年に丸山壮史から改名）",
+        "works": "\n｢ズートピア｣ヤックス 役",
+        "dq_series": "\n「ドラゴンクエストXオフライン 目覚めし五つの種族」ズーボー　役\n「ドラゴンクエストXI 過ぎ去りし時を求めて」アラクラトロ　役"
+      },
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [],
   "related_items_details": [],
   "related_characters_details": [
