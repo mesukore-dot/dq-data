@@ -1,0 +1,50 @@
+{
+  "id": "2E13Z0009",
+  "name": "がいこつへい",
+  "furigana": "がいこつへい",
+  "english_name": "Lesionnaire",
+  "page_url": "https://dqfan527.xsrv.jp/2024/03/19/lesionnaire/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつへい.webp",
+  "monster_family": "がいこつへい族",
+  "search_keywords": [
+    "Lesionnaire",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ7",
+    "DQ7_3D",
+    "DQ9",
+    "RIV"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00199",
+  "prev_id": "2E13Z0008",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/animal-zombie/",
+  "next_id": "2E4P0009",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/25/takenoko-kozou/",
+  "color_variants": [
+    {
+      "id": "3D13Z0012",
+      "name": "しにがみへい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみへい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/03/22/deadcurion/"
+    },
+    {
+      "id": "5B13Z0011",
+      "name": "ゾンビナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ゾンビナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/04/zombie-knight/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

@@ -46,7 +46,7 @@
   "release_date": "1986年5月27日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00596",
+  "zukan_no": "No.00600",
   "prev_id": "5B13Z0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/dragon-zombie/",
   "next_id": "5B13Z0005",
@@ -69,6 +69,18 @@
       "name": "しりょうのきし",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しりょうのきし.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/17/shiryounokishi/"
+    },
+    {
+      "id": "3D13Z0011",
+      "name": "がいこつけんし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつけんし（DQ3）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/gaikotukenshi-2/"
+    },
+    {
+      "id": "4C13Z0015",
+      "name": "しにがみ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しにがみ（DQ4）.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/01/shinigami-2/"
     }
   ],
   "related_items_details": [],
