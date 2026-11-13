@@ -2047,7 +2047,7 @@
     "other_families": [],
     "release_date": "1988年2月10日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["8SS02D0001","8SS14?1N030002","8SS14?1N030001","9X14?1N030001"]
   },
   {
     "id": "5B13Z0003",
@@ -2118,7 +2118,7 @@
     "release_date": "1988年2月10日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["8SS13Z0003"]
   },
   {
     "id": "6A14?1N030001",
@@ -2165,7 +2165,7 @@
     "release_date": "1988年2月10日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["8SS02D0001","8SS13Z0003","9X14?1N030001"]
   },
   {
     "id": "8SS14?1N030001",
@@ -11976,8 +11976,8 @@
     "other_families": [],
     "release_date": "1988年2月10日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["8SS14?1N030002","8SS13Z0003","9X14?1N030001"]
   },
        {
     "id": "6A02D0002",
