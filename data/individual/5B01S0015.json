@@ -30,10 +30,10 @@
   "other_families": [],
   "release_date": "2003年3月29日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "1F01S0002"
   ],
-  "related_characters": [],
   "zukan_no": "No.00505",
   "prev_id": "5B01S0014",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/27/buchi-king/",
@@ -47,10 +47,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/11/30/tar-king/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "1F01S0002",
+      "name": "バブルスライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/バブルスライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/29/bubble-slime/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
