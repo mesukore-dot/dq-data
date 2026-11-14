@@ -9143,8 +9143,8 @@
     "other_families": "-",
     "release_date": "2006年12月28日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F02D0001"]
   },  
   {
     "id": "1F02D0008",
@@ -11241,8 +11241,8 @@
     "other_families": [],
     "release_date": "2000年8月26日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F02D0001"]
   },
          {
     "id": "4C02D0009",
@@ -11631,8 +11631,8 @@
     "other_families": [],
     "release_date": "1992年9月27日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F02D0001"]
   },
        {
     "id": "2E02D0003",
@@ -13001,7 +13001,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["2E02D0006","2E02D0011","3D02D0006"]
   },
           {
     "id": "6A02D0001",
