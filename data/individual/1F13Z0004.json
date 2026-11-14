@@ -77,12 +77,31 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/koumoriotoko/",
   "next_id": "2E01S0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和62年）1987年1月26日、ファミコン版「ドラゴンクエストII 悪霊の神々（DQ2）」から登場。",
+      "works_count": "36作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "ドロの中から　あらわれる　手のカタチのまもの。永遠と　なかまをよびよせ　集団でおそいかかる。",
+      "ecology": "マドハンド族同士で　ジャンケンをする姿が　何度も目撃されている。負けると　しっぺを食らうらしい。",
+      "connection": "ねこまどうに　家のそうじをまかされ　ときどき手伝っている。中でも窓拭きがとくい。",
+      "doctor": "おお　なんと！最近はジャンケンばかりか　かくれんぼまで楽しんでおるのか。ふむふむ　どうやらドロの中に潜って　気配を消すのが　得意なようじゃの。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "3D13Z0005",
       "name": "ブラッドハンド",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラッドハンド.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/05/31/brad-hand/"
+    },
+    {
+      "id": "6A13Z0004",
+      "name": "メタルハンド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルハンド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/metal-hand/"
     }
   ],
   "related_items_details": [],

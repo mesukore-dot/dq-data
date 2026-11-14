@@ -5,7 +5,7 @@
   "english_name": "Hardy hand",
   "page_url": "https://dqfan527.xsrv.jp/2023/06/11/metal-hand/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メタルハンド.webp",
-  "monster_family": "がいこつけんし族",
+  "monster_family": "マドハンド族",
   "search_keywords": [
     "Hardy hand",
     "メタル系",
@@ -35,34 +35,16 @@
   "next_page_url": "https://dqfan527.xsrv.jp/2026/11/13/ririac/",
   "color_variants": [
     {
-      "id": "3D13Z0010",
-      "name": "がいこつけんし",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/がいこつけんし.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/gaikotukenshi/"
+      "id": "1F13Z0004",
+      "name": "マドハンド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マドハンド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/31/madohand/"
     },
     {
-      "id": "4C13Z0012",
-      "name": "じごくのきし",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じごくのきし.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/jigokunokishi/"
-    },
-    {
-      "id": "5B13Z0008",
-      "name": "ソードイド",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ソードイド.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/sword-ido/"
-    },
-    {
-      "id": "6A13Z0003",
-      "name": "デーモンソード",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デーモンソード.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2023/06/12/demon-sword/"
-    },
-    {
-      "id": "7S13Z0001",
-      "name": "エクソダス",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エクソダス.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2025/11/01/exordas/"
+      "id": "3D13Z0005",
+      "name": "ブラッドハンド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラッドハンド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/31/brad-hand/"
     }
   ],
   "related_items_details": [],
