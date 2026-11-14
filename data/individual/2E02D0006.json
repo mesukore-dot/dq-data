@@ -40,10 +40,10 @@
   "other_families": [],
   "release_date": "2000年8月26日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "1F02D0001"
   ],
-  "related_characters": [],
   "zukan_no": "No.00131",
   "prev_id": "2E02D0005",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/19/fairy-dragon/",
@@ -69,10 +69,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/28/hell-jurashic/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "1F02D0001",
+      "name": "コドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/コドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/kodora/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }

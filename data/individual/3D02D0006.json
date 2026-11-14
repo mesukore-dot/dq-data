@@ -47,10 +47,10 @@
   "other_families": [],
   "release_date": "1992年9月27日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "1F02D0001"
   ],
-  "related_characters": [],
   "zukan_no": "No.00248",
   "prev_id": "3D02D0005",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/dragon-rider/",
@@ -76,10 +76,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/07/28/little-wyvern/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "1F02D0001",
+      "name": "コドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/コドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/kodora/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }

@@ -27,10 +27,10 @@
   "other_families": "-",
   "release_date": "2006年12月28日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "1F02D0001"
   ],
-  "related_characters": [],
   "zukan_no": "No.00136",
   "prev_id": "2E02D0010",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/30/lizard-fly/",
@@ -44,10 +44,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/28/sword-dragon/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "1F02D0001",
+      "name": "コドラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/コドラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/10/kodora/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
