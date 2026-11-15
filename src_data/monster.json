@@ -11895,8 +11895,8 @@
     "other_families": [],
     "release_date": "1995年12月9日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F02D0002"]
   },
        {
     "id": "3D02D0003",
@@ -12527,8 +12527,8 @@
     "other_families": [],
     "release_date": "1990年2月11日",
     "voice_actor": "-",
-    "related_items": ["-"],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["1F02D0006","3D02D0004"]
   },
        {
     "id": "8SS01S0013",
