@@ -33,10 +33,11 @@
   "other_families": [],
   "release_date": "1990年2月11日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "1F02D0006",
+    "3D02D0004"
   ],
-  "related_characters": [],
   "zukan_no": "No.00019",
   "prev_id": "1F02D0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/10/kodora/",
@@ -75,10 +76,19 @@
       "page_url": "https://dqfan527.xsrv.jp/2025/01/28/diethon-dq7/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "1F02D0006",
+      "name": "キングコブラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/キングコブラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/25/king-cobra/"
+    },
+    {
+      "id": "3D02D0004",
+      "name": "ウィングスネーク",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ウィングスネーク.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/wing-snake/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
