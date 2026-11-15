@@ -65,6 +65,7 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [
+    "4C09M0003",
     "1F10M0005"
   ],
   "zukan_no": "No.00076",
@@ -89,6 +90,12 @@
   "color_variants": [],
   "related_items_details": [],
   "related_characters_details": [
+    {
+      "id": "4C09M0003",
+      "name": "オヤカタきづち",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オヤカタきづち.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/15/oyakata-kiduchi/"
+    },
     {
       "id": "1F10M0005",
       "name": "わらいぶくろ",

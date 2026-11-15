@@ -3,7 +3,7 @@
   "name": "オヤカタきづち",
   "furigana": "おやかたきづち",
   "english_name": "-",
-  "page_url": "https://dqfan527.xsrv.jp/2024/07/15/necromancer/",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/15/oyakata-kiduchi/",
   "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オヤカタきづち.webp",
   "monster_family": "オヤカタきづち族",
   "search_keywords": [
@@ -18,7 +18,9 @@
   "other_families": [],
   "release_date": "2026年12月3日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "1F09M0004"
+  ],
   "zukan_no": "No.00459",
   "prev_id": "4C09M0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/09/kimendoshi/",
@@ -26,5 +28,12 @@
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/",
   "color_variants": [],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "1F09M0004",
+      "name": "おおきづち",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おおきづち.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/24/ookiduchi/"
+    }
+  ]
 }
