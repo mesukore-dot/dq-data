@@ -45,7 +45,11 @@
     "ふん。役立たずは　最後まで\n役立たずですね……。"
   ],
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "7S03B0003",
+    "7S03B0004",
+    "7S02D0003"
+  ],
   "zukan_no": "No.00777",
   "prev_id": "8SS13Z0003",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu-zombie/",
@@ -63,6 +67,7 @@
         "works": "\n｢ドラゴンボールZ｣フリーザ 役\n「アンパンマン」バイキンマン 役",
         "dq_series": "\n「ドラゴンクエストXI　過ぎ去りし時を求めて」フールフール　役\n「ドラゴンクエスト ダイの大冒険」冥竜王ヴェルザー　役"
       },
+      "character_design": "鳥山 明",
       "links": {
         "variants_url": "#色違い"
       }
@@ -77,5 +82,24 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "7S03B0003",
+      "name": "ジャミ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ジャミ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/06/kon-the-knight/"
+    },
+    {
+      "id": "7S03B0004",
+      "name": "ゴンズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴンズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/06/slon-the-rook/"
+    },
+    {
+      "id": "7S02D0003",
+      "name": "イブール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/イブール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/30/ibu-ru/"
+    }
+  ]
 }

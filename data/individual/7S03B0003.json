@@ -37,10 +37,11 @@
   "other_families": [],
   "release_date": "1992年9月27日",
   "voice_actor": "-",
-  "related_items": [
-    ""
+  "related_items": [],
+  "related_characters": [
+    "8SS13Z0004",
+    "7S03B0004"
   ],
-  "related_characters": [],
   "zukan_no": "No.00719",
   "prev_id": "7S03B0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/17/mojaro/",
@@ -54,10 +55,19 @@
       "page_url": "https://dqfan527.xsrv.jp/2024/04/02/revaulting-horse/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": ""
+      "id": "8SS13Z0004",
+      "name": "ゲマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ゲマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/13/gema/"
+    },
+    {
+      "id": "7S03B0004",
+      "name": "ゴンズ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ゴンズ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/06/slon-the-rook/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
