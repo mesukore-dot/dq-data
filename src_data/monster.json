@@ -38,6 +38,92 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0008",
+    "name": "ワイトキング",
+    "furigana": "わいときんぐ",
+    "english_name": "Wight king",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/17/wight-king-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ワイトキング（DQ5）.webp",
+    "monster_family": "デッドエンペラー族",
+    "search_keywords": ["Wight prince","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ11",
+      "DQM1","DQM2","DQMCH","DQTR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0016",
+    "name": "デッドエンペラー",
+    "furigana": "でっどえんぺらー",
+    "english_name": "Wight prince",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/12/wight-prince/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デッドエンペラー.webp",
+    "monster_family": "デッドエンペラー族",
+    "search_keywords": ["Wight prince","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ11",
+      "DQTR",
+      "RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E13Z0010",
+    "name": "カパーラナーガ",
+    "furigana": "かぱーらなーが",
+    "english_name": "Brrrattling snake",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/04/brrrattling-snake/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/カパーラナーガ.webp",
+    "monster_family": "スカルサーペント族",
+    "search_keywords": ["Brrrattling snake","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQMSL"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F13Z0005",
+    "name": "スカルサーペント",
+    "furigana": "すかるさーぺんと",
+    "english_name": "Bona constrictor",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/04/bona-constrictor/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルサーペント.webp",
+    "monster_family": "スカルサーペント族",
+    "search_keywords": ["Bona constrictor","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2","DQMJ2_P",
+      "DQMSL"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "2E09M0006",
     "name": "まじゅつし",
     "furigana": "まじゅつし",
