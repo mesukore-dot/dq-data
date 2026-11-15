@@ -42,7 +42,7 @@
     "name": "オヤカタきづち",
     "furigana": "おやかたきづち",
     "english_name": "-",
-    "page_url": "https://dqfan527.xsrv.jp/2024/07/15/necromancer/",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/15/oyakata-kiduchi/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オヤカタきづち.webp",
     "monster_family": "オヤカタきづち族",
     "search_keywords": ["公式イラストあり"],
@@ -55,7 +55,7 @@
     "other_families": [],
     "release_date": "2026年12月3日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["1F09M0004"]
   },
   {
     "id": "5B13Z0012",
@@ -10174,7 +10174,7 @@
     "release_date": "1992年9月27日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["1F10M0005"]
+    "related_characters": ["4C09M0003","1F10M0005"]
   },
   {
     "id": "1F09M0003",
