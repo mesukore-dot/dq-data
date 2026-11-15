@@ -448,6 +448,37 @@
     "zukan_no": "No.00183"
   },
   {
+    "id": "2E09M0006",
+    "name": "まじゅつし",
+    "furigana": "まじゅつし",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/22/majutushi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まじゅつし.webp",
+    "search_keywords": [
+      "Magus",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ9",
+      "DQM2_SP",
+      "DQH1",
+      "DQH2",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00184"
+  },
+  {
     "id": "3D09M0001",
     "name": "ドッグラマッコイ",
     "furigana": "どっぐらまっこい",
@@ -466,7 +497,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00323"
+    "zukan_no": "No.00324"
   },
   {
     "id": "3D09M0002",
@@ -498,7 +529,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00324"
+    "zukan_no": "No.00325"
   },
   {
     "id": "3D09M0003",
@@ -543,7 +574,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00325"
+    "zukan_no": "No.00326"
   },
   {
     "id": "3D09M0004",
@@ -585,7 +616,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00326"
+    "zukan_no": "No.00327"
   },
   {
     "id": "3D09M0005",
@@ -613,7 +644,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00327"
+    "zukan_no": "No.00328"
   },
   {
     "id": "4C09M0001",
@@ -644,7 +675,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00463"
+    "zukan_no": "No.00464"
   },
   {
     "id": "4C09M0002",
@@ -686,7 +717,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00464"
+    "zukan_no": "No.00465"
   },
   {
     "id": "4C09M0003",
@@ -704,7 +735,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00465"
+    "zukan_no": "No.00466"
   },
   {
     "id": "4C09M0004",
@@ -748,6 +779,6 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00466"
+    "zukan_no": "No.00467"
   }
 ]
