@@ -38,6 +38,118 @@
     "related_characters": []
   },
   {
+    "id": "2E09M0005",
+    "name": "ブラウニー",
+    "furigana": "ぶらうにー",
+    "english_name": "Brownie",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/31/brownier/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラウニー.webp",
+    "monster_family": "おおきづち族",
+    "search_keywords": ["Brownie","公式イラストあり"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FTR2","FTR3","FY1","DQH1","DQH2","DQB1","DQB2",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C09M0004",
+    "name": "スモールグール",
+    "furigana": "すもーるぐーる",
+    "english_name": "Drooling ghoul",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%82%b9%e3%83%a2%e3%83%bc%e3%83%ab%e3%82%b0%e3%83%bc%e3%83%ab/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スモールグール.webp",
+    "monster_family": "つちわらし族",
+    "search_keywords": ["Drooling ghoul","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ5","DQ5_PS2","DQ5_DS","DQ10","DQ10_OFF",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ2_P",
+      "FTR1","FTR2","FTR3","FY1",
+      "DQMB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D09M0005",
+    "name": "ベロベロ",
+    "furigana": "べろべろ",
+    "english_name": "Froliker",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%83%99%e3%83%ad%e3%83%99%e3%83%ad/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ベロベロ.webp",
+    "monster_family": "つちわらし族",
+    "search_keywords": ["Froliker","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ10","DQ10_OFF",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D09M0004",
+    "name": "アローインプ",
+    "furigana": "あろーいんぷ",
+    "english_name": "Bodkin bowyer",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/19/arrow-inpu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アローインプ.webp",
+    "monster_family": "リリパット族",
+    "search_keywords": ["Bodkin bowyer","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ7_RM","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF","DQ11",
+      "FTR2","FTR3","FY1","DQSW","DQH2","DQB1","DQB2",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","champ","DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E09M0004",
+    "name": "どくやずきん",
+    "furigana": "どくやずきん",
+    "english_name": "Bodkin flecher",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/19/dokuyazukin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どくやずきん.webp",
+    "monster_family": "リリパット族",
+    "search_keywords": ["Bodkin flecher","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ8","DQ8_3D","DQ9","DQ10","DQ10_OFF","DQ11",
+      "DQH2","DQB1","DQB2",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","champ","DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C09M0003",
     "name": "オヤカタきづち",
     "furigana": "おやかたきづち",
