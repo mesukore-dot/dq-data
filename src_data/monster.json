@@ -234,7 +234,7 @@
     "ふん。役立たずは　最後まで\n役立たずですね……。"
   ],
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["7S03B0003","7S03B0004","7S02D0003"]
   },
   {
     "id": "4C13Z0014",
@@ -8214,8 +8214,8 @@
     "other_families": [],
     "release_date": "1992年9月27日",
     "voice_actor": "-",
-    "related_items": [""],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["8SS13Z0004","7S03B0003"]
   },
   {
     "id": "7S03B0003",
@@ -8238,8 +8238,8 @@
     "other_families": [],
     "release_date": "1992年9月27日",
     "voice_actor": "-",
-    "related_items": [""],
-    "related_characters": []
+    "related_items": [],
+    "related_characters": ["8SS13Z0004","7S03B0004"]
   },
   {
     "id": "1F03B0009",
@@ -11584,7 +11584,7 @@
     "other_families": [],
     "release_date": "1992年9月27日",
     "voice_actor": "-",
-    "related_items": ["-"],
+    "related_items": [],
     "related_characters": []
   },
        {
