@@ -62,8 +62,8 @@
   "zukan_no": "No.00074",
   "prev_id": "1F09M0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/30/needler/",
-  "next_id": "1F09M0003",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%81%a4%e3%81%a1%e3%82%8f%e3%82%89%e3%81%97/",
+  "next_id": "1F09M0002-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/07/26/bodkin-bloodbow/",
   "mamechishiki_pages": [
     {
       "first_appearance": "（平成2年）1990年2月11日、ファミコン版「ドラゴンクエストIV 導かれし者たち（DQ4）」から登場。",
@@ -78,6 +78,12 @@
     }
   ],
   "color_variants": [
+    {
+      "id": "1F09M0002-1",
+      "name": "レッドアーチャー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/レッドアーチャー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/26/bodkin-bloodbow/"
+    },
     {
       "id": "2E09M0004",
       "name": "どくやずきん",

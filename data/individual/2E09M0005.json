@@ -55,17 +55,23 @@
   "release_date": "1992年9月27日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00181",
+  "zukan_no": "No.00182",
   "prev_id": "2E09M0004",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/19/dokuyazukin/",
-  "next_id": "2E10M0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/honey-eater/",
+  "next_id": "2E09M0005-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/05/16/spiked-club/",
   "color_variants": [
     {
       "id": "1F09M0004",
       "name": "おおきづち",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おおきづち.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/24/ookiduchi/"
+    },
+    {
+      "id": "2E09M0005-1",
+      "name": "とげこんぼう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/とげこんぼう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/16/spiked-club/"
     }
   ],
   "related_items_details": [],
