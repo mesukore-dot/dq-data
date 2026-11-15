@@ -38,6 +38,29 @@
     "related_characters": []
   },
   {
+    "id": "2E09M0006",
+    "name": "まじゅつし",
+    "furigana": "まじゅつし",
+    "english_name": "Magus",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/22/majutushi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まじゅつし.webp",
+    "monster_family": "まじゅつし族",
+    "search_keywords": ["Magus","公式イラストあり"],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2","DQ2_HD2D","DQ9",
+      "DQM2_SP",
+      "DQH1","DQH2","DQB2",
+      "DQMSL","MSP","STAR","RIV","TACT","KSKS"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1987年1月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "1F09M0002-1",
     "name": "レッドアーチャー",
     "furigana": "れっどあーちゃー",
