@@ -77,7 +77,20 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "2E09M0004",
+      "name": "どくやずきん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どくやずきん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/19/dokuyazukin/"
+    },
+    {
+      "id": "3D09M0004",
+      "name": "アローインプ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アローインプ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/19/arrow-inpu/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": [
     {

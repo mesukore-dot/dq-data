@@ -1,0 +1,53 @@
+{
+  "id": "3D09M0005",
+  "name": "ベロベロ",
+  "furigana": "べろべろ",
+  "english_name": "Froliker",
+  "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%83%99%e3%83%ad%e3%83%99%e3%83%ad/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ベロベロ.webp",
+  "monster_family": "つちわらし族",
+  "search_keywords": [
+    "Froliker",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00325",
+  "prev_id": "3D09M0004",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/19/arrow-inpu/",
+  "next_id": "3D10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/03/06/magical-hat/",
+  "color_variants": [
+    {
+      "id": "1F09M0003",
+      "name": "つちわらし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/つちわらし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%81%a4%e3%81%a1%e3%82%8f%e3%82%89%e3%81%97/"
+    },
+    {
+      "id": "4C09M0004",
+      "name": "スモールグール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スモールグール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%82%b9%e3%83%a2%e3%83%bc%e3%83%ab%e3%82%b0%e3%83%bc%e3%83%ab/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

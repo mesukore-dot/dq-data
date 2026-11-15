@@ -56,7 +56,20 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "3D09M0005",
+      "name": "ベロベロ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ベロベロ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%83%99%e3%83%ad%e3%83%99%e3%83%ad/"
+    },
+    {
+      "id": "4C09M0004",
+      "name": "スモールグール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スモールグール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%82%b9%e3%83%a2%e3%83%bc%e3%83%ab%e3%82%b0%e3%83%bc%e3%83%ab/"
+    }
+  ],
   "related_items_details": [
     {
       "id": "-"

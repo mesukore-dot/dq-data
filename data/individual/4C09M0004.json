@@ -1,0 +1,69 @@
+{
+  "id": "4C09M0004",
+  "name": "スモールグール",
+  "furigana": "すもーるぐーる",
+  "english_name": "Drooling ghoul",
+  "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%82%b9%e3%83%a2%e3%83%bc%e3%83%ab%e3%82%b0%e3%83%bc%e3%83%ab/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スモールグール.webp",
+  "monster_family": "つちわらし族",
+  "search_keywords": [
+    "Drooling ghoul",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ2_P",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "DQMB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00464",
+  "prev_id": "4C09M0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/15/oyakata-kiduchi/",
+  "next_id": "4C10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/18/stone-man/",
+  "color_variants": [
+    {
+      "id": "1F09M0003",
+      "name": "つちわらし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/つちわらし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%81%a4%e3%81%a1%e3%82%8f%e3%82%89%e3%81%97/"
+    },
+    {
+      "id": "3D09M0005",
+      "name": "ベロベロ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ベロベロ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%83%99%e3%83%ad%e3%83%99%e3%83%ad/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
