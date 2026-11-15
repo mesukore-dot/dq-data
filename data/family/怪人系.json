@@ -299,6 +299,98 @@
     "zukan_no": "No.00179"
   },
   {
+    "id": "2E09M0004",
+    "name": "どくやずきん",
+    "furigana": "どくやずきん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/19/dokuyazukin/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どくやずきん.webp",
+    "search_keywords": [
+      "Bodkin flecher",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00180"
+  },
+  {
+    "id": "2E09M0005",
+    "name": "ブラウニー",
+    "furigana": "ぶらうにー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/31/brownier/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラウニー.webp",
+    "search_keywords": [
+      "Brownie",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQH1",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00181"
+  },
+  {
     "id": "3D09M0001",
     "name": "ドッグラマッコイ",
     "furigana": "どっぐらまっこい",
@@ -317,7 +409,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00319"
+    "zukan_no": "No.00321"
   },
   {
     "id": "3D09M0002",
@@ -349,7 +441,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00320"
+    "zukan_no": "No.00322"
   },
   {
     "id": "3D09M0003",
@@ -394,7 +486,77 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00321"
+    "zukan_no": "No.00323"
+  },
+  {
+    "id": "3D09M0004",
+    "name": "アローインプ",
+    "furigana": "あろーいんぷ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/07/19/arrow-inpu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アローインプ.webp",
+    "search_keywords": [
+      "Bodkin bowyer",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQ11",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQSW",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00324"
+  },
+  {
+    "id": "3D09M0005",
+    "name": "ベロベロ",
+    "furigana": "べろべろ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%83%99%e3%83%ad%e3%83%99%e3%83%ad/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ベロベロ.webp",
+    "search_keywords": [
+      "Froliker",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00325"
   },
   {
     "id": "4C09M0001",
@@ -425,7 +587,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00457"
+    "zukan_no": "No.00461"
   },
   {
     "id": "4C09M0002",
@@ -467,7 +629,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00458"
+    "zukan_no": "No.00462"
   },
   {
     "id": "4C09M0003",
@@ -485,6 +647,50 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00459"
+    "zukan_no": "No.00463"
+  },
+  {
+    "id": "4C09M0004",
+    "name": "スモールグール",
+    "furigana": "すもーるぐーる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/01/26/%e3%82%b9%e3%83%a2%e3%83%bc%e3%83%ab%e3%82%b0%e3%83%bc%e3%83%ab/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スモールグール.webp",
+    "search_keywords": [
+      "Drooling ghoul",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2_P",
+      "FTR1",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQMB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00464"
   }
 ]
