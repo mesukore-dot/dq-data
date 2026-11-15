@@ -1,0 +1,53 @@
+{
+  "id": "2E09M0005-1",
+  "name": "とげこんぼう",
+  "furigana": "とげこんぼう",
+  "english_name": "Spiked club",
+  "page_url": "https://dqfan527.xsrv.jp/2024/05/16/spiked-club/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/とげこんぼう.webp",
+  "monster_family": "おおきづち族",
+  "search_keywords": [
+    "Spiked club",
+    "転生モンスター",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMJ3",
+    "DQMJ3_P",
+    "RIV",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "怪人系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年10月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00183",
+  "prev_id": "2E09M0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/31/brownier/",
+  "next_id": "2E10M0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/honey-eater/",
+  "color_variants": [
+    {
+      "id": "1F09M0004",
+      "name": "おおきづち",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/おおきづち.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/24/ookiduchi/"
+    },
+    {
+      "id": "2E09M0005",
+      "name": "ブラウニー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラウニー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/31/brownier/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

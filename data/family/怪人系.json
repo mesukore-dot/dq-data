@@ -79,6 +79,35 @@
     "zukan_no": "No.00074"
   },
   {
+    "id": "1F09M0002-1",
+    "name": "レッドアーチャー",
+    "furigana": "れっどあーちゃー",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/26/bodkin-bloodbow/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/レッドアーチャー.webp",
+    "search_keywords": [
+      "Bodkin bloodbow",
+      "転生モンスター",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQH2",
+      "DQBS",
+      "MSP",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ",
+      "DQSG"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "2012年12月26日",
+    "zukan_no": "No.00075"
+  },
+  {
     "id": "1F09M0003",
     "name": "つちわらし",
     "furigana": "つちわらし",
@@ -108,7 +137,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00075"
+    "zukan_no": "No.00076"
   },
   {
     "id": "1F09M0004",
@@ -171,7 +200,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00076"
+    "zukan_no": "No.00077"
   },
   {
     "id": "1F09M0005",
@@ -203,7 +232,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00077"
+    "zukan_no": "No.00078"
   },
   {
     "id": "2E09M0001",
@@ -226,7 +255,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00177"
+    "zukan_no": "No.00178"
   },
   {
     "id": "2E09M0002",
@@ -257,7 +286,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00178"
+    "zukan_no": "No.00179"
   },
   {
     "id": "2E09M0003",
@@ -296,7 +325,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00179"
+    "zukan_no": "No.00180"
   },
   {
     "id": "2E09M0004",
@@ -334,7 +363,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00180"
+    "zukan_no": "No.00181"
   },
   {
     "id": "2E09M0005",
@@ -388,7 +417,35 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00181"
+    "zukan_no": "No.00182"
+  },
+  {
+    "id": "2E09M0005-1",
+    "name": "とげこんぼう",
+    "furigana": "とげこんぼう",
+    "page_url": "https://dqfan527.xsrv.jp/2024/05/16/spiked-club/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/とげこんぼう.webp",
+    "search_keywords": [
+      "Spiked club",
+      "転生モンスター",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ3",
+      "DQMJ3_P",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "怪人系",
+    "sub_family": "-",
+    "release_date": "2012年10月9日",
+    "zukan_no": "No.00183"
   },
   {
     "id": "3D09M0001",
@@ -409,7 +466,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00321"
+    "zukan_no": "No.00323"
   },
   {
     "id": "3D09M0002",
@@ -441,7 +498,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00322"
+    "zukan_no": "No.00324"
   },
   {
     "id": "3D09M0003",
@@ -486,7 +543,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00323"
+    "zukan_no": "No.00325"
   },
   {
     "id": "3D09M0004",
@@ -528,7 +585,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00324"
+    "zukan_no": "No.00326"
   },
   {
     "id": "3D09M0005",
@@ -556,7 +613,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00325"
+    "zukan_no": "No.00327"
   },
   {
     "id": "4C09M0001",
@@ -587,7 +644,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00461"
+    "zukan_no": "No.00463"
   },
   {
     "id": "4C09M0002",
@@ -629,7 +686,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00462"
+    "zukan_no": "No.00464"
   },
   {
     "id": "4C09M0003",
@@ -647,7 +704,7 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00463"
+    "zukan_no": "No.00465"
   },
   {
     "id": "4C09M0004",
@@ -691,6 +748,6 @@
     "main_family": "怪人系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00464"
+    "zukan_no": "No.00466"
   }
 ]
