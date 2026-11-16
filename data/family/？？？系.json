@@ -1,6 +1,6 @@
 [
   {
-    "id": "3D14?1N030001",
+    "id": "3D14Q1N030001",
     "name": "カンダタこぶん",
     "furigana": "かんだたこぶん",
     "page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
@@ -39,7 +39,7 @@
     "zukan_no": "No.00361"
   },
   {
-    "id": "6A14?1N030001",
+    "id": "6A14Q1N030001",
     "name": "バラモスエビル",
     "furigana": "ばらもすえびる",
     "page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosuebill/",
@@ -66,7 +66,7 @@
     "zukan_no": "No.00723"
   },
   {
-    "id": "7S14?1N030001",
+    "id": "7S14Q1N030001",
     "name": "カンダタ",
     "furigana": "かんだた",
     "page_url": "https://dqfan527.xsrv.jp/2023/06/09/kandata/",
@@ -121,7 +121,7 @@
     "zukan_no": "No.00777"
   },
   {
-    "id": "8SS14?1N020001",
+    "id": "8SS14Q1N020001",
     "name": "ハーゴン",
     "furigana": "はーごん",
     "page_url": "https://dqfan527.xsrv.jp/2023/05/25/ha-gon/",
@@ -164,7 +164,7 @@
     "zukan_no": "No.00822"
   },
   {
-    "id": "8SS14?1N020002",
+    "id": "8SS14Q1N020002",
     "name": "りゅうおうのひまご",
     "furigana": "りゅうおうのひまご",
     "page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/",
@@ -186,7 +186,7 @@
     "zukan_no": "No.00823"
   },
   {
-    "id": "8SS14?1N020002-1",
+    "id": "8SS14Q1N020002-1",
     "name": "竜王のひ孫",
     "furigana": "りゅうおうのひまご",
     "page_url": "https://dqfan527.xsrv.jp/2025/12/03/ryuou-no-himago2/",
@@ -207,7 +207,7 @@
     "zukan_no": "No.00824"
   },
   {
-    "id": "8SS14?1N030001",
+    "id": "8SS14Q1N030001",
     "name": "バラモス",
     "furigana": "ばらもす",
     "page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosu/",
@@ -255,7 +255,7 @@
     "zukan_no": "No.00825"
   },
   {
-    "id": "8SS14?1N030002",
+    "id": "8SS14Q1N030002",
     "name": "バラモスブロス",
     "furigana": "ばらもすぶろす",
     "page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosuburosu/",
@@ -290,28 +290,7 @@
     "zukan_no": "No.00826"
   },
   {
-    "id": "8SS14?2MJ30001",
-    "name": "大魔王マデュラージャ",
-    "furigana": "だいまおうまでゅらーじゃ",
-    "page_url": "https://dqfan527.xsrv.jp/2026/07/10/daimao-madexuraja/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/大魔王マデュラージャ.webp",
-    "search_keywords": [
-      "ボス",
-      "公式イラストあり"
-    ],
-    "first_appearance": "DQMJ3P",
-    "appearances": [
-      "DQM2_SP",
-      "DQMJ3_P",
-      "DQMSL"
-    ],
-    "main_family": "？？？系",
-    "sub_family": "-",
-    "release_date": "2017年2月9日",
-    "zukan_no": "No.00827"
-  },
-  {
-    "id": "9X14?1N010001",
+    "id": "9X14Q1N010001",
     "name": "りゅうおう",
     "furigana": "りゅうおう",
     "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
@@ -353,10 +332,10 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00841"
+    "zukan_no": "No.00840"
   },
   {
-    "id": "9X14?1N010001-1",
+    "id": "9X14Q1N010001-1",
     "name": "竜王",
     "furigana": "りゅうおう",
     "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/",
@@ -400,10 +379,10 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00842"
+    "zukan_no": "No.00841"
   },
   {
-    "id": "9X14?1N020001",
+    "id": "9X14Q1N020001",
     "name": "シドー",
     "furigana": "しどー",
     "page_url": "https://dqfan527.xsrv.jp/2023/05/25/shido/",
@@ -449,10 +428,10 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00843"
+    "zukan_no": "No.00842"
   },
   {
-    "id": "9X14?1N020002",
+    "id": "9X14Q1N020002",
     "name": "マガシドー",
     "furigana": "まがしどー",
     "page_url": "https://dqfan527.xsrv.jp/2025/12/03/magashido/",
@@ -470,10 +449,10 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00844"
+    "zukan_no": "No.00843"
   },
   {
-    "id": "9X14?1N030001",
+    "id": "9X14Q1N030001",
     "name": "ゾーマ",
     "furigana": "ぞーま",
     "page_url": "https://dqfan527.xsrv.jp/2023/02/25/zoma/",
@@ -524,10 +503,31 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
+    "zukan_no": "No.00844"
+  },
+  {
+    "id": "9X14Q2MJ30004",
+    "name": "大魔王マデュラージャ",
+    "furigana": "だいまおうまでゅらーじゃ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/10/daimao-madexuraja/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/大魔王マデュラージャ.webp",
+    "search_keywords": [
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQMJ3P",
+    "appearances": [
+      "DQM2_SP",
+      "DQMJ3_P",
+      "DQMSL"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2017年2月9日",
     "zukan_no": "No.00845"
   },
   {
-    "id": "9X14?2MJ30002",
+    "id": "9X14Q2MJ30004-1",
     "name": "魔界神マデュラーシャ",
     "furigana": "まかいしんまでゅらーしゃ",
     "page_url": "https://dqfan527.xsrv.jp/2026/07/10/makaishin-madexuraja/",
