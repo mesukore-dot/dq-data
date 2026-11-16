@@ -46,10 +46,10 @@
   "other_families": [],
   "release_date": "1986年5月27日",
   "voice_actor": "大塚芳忠",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "9X14Q1N010001-1"
   ],
-  "related_characters": [],
   "zukan_no": "No.00840",
   "prev_id": "9X07W0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/01/13/kaioujin/",
@@ -61,7 +61,7 @@
       "works_count": "16作品 (リメイク・アニメ・漫画等は含めない数字)",
       "what_kind": "ひかりのたまを奪い　ラダトームの王女であるローラ姫をさらい　アレフガルドを恐怖に　おとしいれた　世界征服をもくろむ　悪の化身。",
       "form": "ツノのような　独特なアタマと　魔王らしい豪華なネックレス　竜の首がついた杖が特徴。人のカタチをしているが　実は かりそめの　すがたなんだとか…。",
-      "ability": "魔法使いのような見た目から想像できる通り　さまざまな呪文を使いこなす。敵を焼き尽くす　閃熱の呪文ギラグレイ度や　闇の呪文ドルマドンなど　攻撃も補助も　おてのもの。",
+      "ability": "魔法使いのような見た目から想像できる通り　さまざまな呪文を使いこなす。敵を焼き尽くす　閃熱の呪文ギラグレイドや　闇の呪文ドルマドンなど　攻撃も補助も　おてのもの。",
       "personality": "たったひとりで　城に乗り込んできた ロトの血を引く者に対して　甘いことばをささやく戦略家。もちろん 誘いにノってはいけない。",
       "voice_actor": {
         "name": "大塚芳忠（おおつか　ほうちゅう）",
@@ -82,10 +82,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/10/07/ryuounohimago/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "9X14Q1N010001-1",
+      "name": "竜王",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }

@@ -48,15 +48,29 @@
   "other_families": [],
   "release_date": "1986年5月27日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
+  "related_items": [],
+  "related_characters": [
+    "9X14Q1N010001"
   ],
-  "related_characters": [],
   "zukan_no": "No.00841",
   "prev_id": "9X14Q1N010001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/",
   "next_id": "9X14Q1N020001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/25/shido/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（昭和61年）1986年5月27日　ファミコン版「ドラゴンクエスト（DQ1）」から登場。",
+      "works_count": "16作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "悪の化身りゅうおうの　本当のすがた。すべてを焼き尽くす　れんごくのほのおは　闇の覇者の称号にふさわしい。",
+      "form": "人型からドラゴン形態へ。真のチカラを解き放ったすがたは　すべての生命体を震わせる。",
+      "ability": "何もかもを　かみくだくキバと　超高熱のしゃくねつのブレスは　アレフガルドを終焉へと向かわせる。",
+      "ecology": "DQ10の世界アストルティアに対して　かなり事細かく調べ　勉強していた。ナドラガンドや竜族たちとは　一切関わりはない。",
+      "character_design": "鳥山 明",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "8SS14Q1N020002-1",
@@ -65,10 +79,13 @@
       "page_url": "https://dqfan527.xsrv.jp/2025/12/03/ryuou-no-himago2/"
     }
   ],
-  "related_items_details": [
+  "related_items_details": [],
+  "related_characters_details": [
     {
-      "id": "-"
+      "id": "9X14Q1N010001",
+      "name": "りゅうおう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/りゅうおう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-1/"
     }
-  ],
-  "related_characters_details": []
+  ]
 }
