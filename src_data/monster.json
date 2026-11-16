@@ -38,14 +38,101 @@
     "related_characters": []
   },
   {
+    "id": "5B13Z0017",
+    "name": "ポイズンゾンビ",
+    "furigana": "ぽいずんぞんび",
+    "english_name": "Corpsickle",
+    "page_url": "https://dqfan527.xsrv.jp/2024/01/24/poison-zombie/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ポイズンゾンビ.webp",
+    "monster_family": "くさったしたい族",
+    "search_keywords": ["Corpsickle","ボス","公式イラスト待機中"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM3",
+      "DQMB",
+      "STAR","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A13Z0011",
+    "name": "ろうごくへい",
+    "furigana": "ろうごくへい",
+    "english_name": "Prison guard",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/15/prison-guard/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ろうごくへい.webp",
+    "monster_family": "ぬけがらへい族",
+    "search_keywords": ["Prison guard","ボス","公式イラスト待機中"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "STAR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B13Z0016",
+    "name": "さまようへいたい",
+    "furigana": "さまようへいたい",
+    "english_name": "Wayward armour",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/09/wayward-armour/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/さまようへいたい.webp",
+    "monster_family": "ぬけがらへい族",
+    "search_keywords": ["Wayward armour","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "STAR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0020",
+    "name": "ぬけがらへい",
+    "furigana": "ぬけがらへい",
+    "english_name": "Animated armour",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/01/animated-armour/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ぬけがらへい.webp",
+    "monster_family": "ぬけがらへい族",
+    "search_keywords": ["Animated armour","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM2_3DS","DQM2_SP",
+      "STAR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B13Z0015",
     "name": "マミーウィスプ",
     "furigana": "まみーうぃすぷ",
     "english_name": "Disgustling",
     "page_url": "https://dqfan527.xsrv.jp/2024/08/15/disgustling/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウインドマージ.webp",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マミーウィスプ.webp",
     "monster_family": "ウインドマージ族",
-    "search_keywords": ["Disgustling","公式イラストあり"],
+    "search_keywords": ["Disgustling","公式イラスト待機中"],
     "first_appearance": "DQ6",
     "appearances": [
       "DQ6",
