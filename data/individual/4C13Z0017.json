@@ -1,0 +1,62 @@
+{
+  "id": "4C13Z0017",
+  "name": "ボーンプリズナー",
+  "furigana": "ぼーんぷりずなー",
+  "english_name": "Marrow escapee",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/born-prisoner/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンプリズナー.webp",
+  "monster_family": "しのどれい族",
+  "search_keywords": [
+    "Marrow escapee",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "STAR",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00505",
+  "prev_id": "4C13Z0016",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/12/wight-prince/",
+  "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "color_variants": [
+    {
+      "id": "1F13Z0006",
+      "name": "しのどれい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しのどれい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/22/shinodorei/"
+    },
+    {
+      "id": "2E13Z0011",
+      "name": "どれいへいし",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どれいへいし.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/01/undentured-servant/"
+    },
+    {
+      "id": "6A13Z0009",
+      "name": "じごくのもんばん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じごくのもんばん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/01/grim-keeper/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
