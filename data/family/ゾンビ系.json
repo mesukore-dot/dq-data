@@ -2005,6 +2005,39 @@
     "zukan_no": "No.00623"
   },
   {
+    "id": "5B13Z0013",
+    "name": "ヘルクラッシャー",
+    "furigana": "へるくらっしゃー",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/15/hell-gladiator/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルクラッシャー.webp",
+    "search_keywords": [
+      "Hell gladiator",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM3",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00624"
+  },
+  {
     "id": "6A13Z0001",
     "name": "スカルドン",
     "furigana": "すかるどん",
@@ -2027,7 +2060,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00692"
+    "zukan_no": "No.00693"
   },
   {
     "id": "6A13Z0002",
@@ -2054,7 +2087,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00693"
+    "zukan_no": "No.00694"
   },
   {
     "id": "6A13Z0003",
@@ -2076,7 +2109,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00694"
+    "zukan_no": "No.00695"
   },
   {
     "id": "6A13Z0004",
@@ -2103,7 +2136,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00695"
+    "zukan_no": "No.00696"
   },
   {
     "id": "6A13Z0005",
@@ -2123,7 +2156,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2024年11月14日",
-    "zukan_no": "No.00696"
+    "zukan_no": "No.00697"
   },
   {
     "id": "6A13Z0006",
@@ -2155,7 +2188,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00697"
+    "zukan_no": "No.00698"
   },
   {
     "id": "6A13Z0007",
@@ -2176,7 +2209,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00698"
+    "zukan_no": "No.00699"
   },
   {
     "id": "6A13Z0008",
@@ -2202,7 +2235,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00699"
+    "zukan_no": "No.00700"
   },
   {
     "id": "6A13Z0009",
@@ -2222,7 +2255,40 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00700"
+    "zukan_no": "No.00701"
+  },
+  {
+    "id": "6A13Z0010",
+    "name": "ボーンファイター",
+    "furigana": "ぼーんふぁいたー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/16/born-fighter/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンファイター.webp",
+    "search_keywords": [
+      "Zombie gladiator",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQH1",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "champ"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00702"
   },
   {
     "id": "7S13Z0001",
@@ -2241,7 +2307,53 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00751"
+    "zukan_no": "No.00753"
+  },
+  {
+    "id": "7S13Z0002",
+    "name": "まおうのつかい",
+    "furigana": "まおうのつかい",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/maounotukai/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まおうのつかい.webp",
+    "search_keywords": [
+      "Demon-at-arms",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00754"
   },
   {
     "id": "8SS13Z0001",
@@ -2277,7 +2389,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00791"
+    "zukan_no": "No.00794"
   },
   {
     "id": "8SS13Z0002",
@@ -2306,7 +2418,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00792"
+    "zukan_no": "No.00795"
   },
   {
     "id": "8SS13Z0003",
@@ -2347,7 +2459,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00793"
+    "zukan_no": "No.00796"
   },
   {
     "id": "8SS13Z0004",
@@ -2385,6 +2497,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00794"
+    "zukan_no": "No.00797"
   }
 ]
