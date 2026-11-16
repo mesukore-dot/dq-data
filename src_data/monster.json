@@ -38,6 +38,92 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0009",
+    "name": "じごくのもんばん",
+    "furigana": "じごくのもんばん",
+    "english_name": "Grim keeper",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/01/grim-keeper/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/じごくのもんばん.webp",
+    "monster_family": "しのどれい族",
+    "search_keywords": ["Grim keeper","ボス","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0017",
+    "name": "ボーンプリズナー",
+    "furigana": "ぼーんぷりずなー",
+    "english_name": "Marrow escapee",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/born-prisoner/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンプリズナー.webp",
+    "monster_family": "しのどれい族",
+    "search_keywords": ["Marrow escapee","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ10","DQ10_OFF",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3",
+      "STAR","RIV","WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E13Z0011",
+    "name": "どれいへいし",
+    "furigana": "どれいへいし",
+    "english_name": "Undentured servant",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/01/undentured-servant/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どれいへいし.webp",
+    "monster_family": "しのどれい族",
+    "search_keywords": ["Undentured servant","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ10","DQ10_OFF",
+      "STAR","WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F13Z0006",
+    "name": "しのどれい",
+    "furigana": "しのどれい",
+    "english_name": "Dead resident",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/22/shinodorei/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/しのどれい.webp",
+    "monster_family": "しのどれい族",
+    "search_keywords": ["Dead resident","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ10","DQ10_OFF",
+      "DQM3",
+      "DQMB",
+      "STAR","RIV","WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0008",
     "name": "ワイトキング",
     "furigana": "わいときんぐ",
