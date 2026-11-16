@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "5B13Z0019",
+    "name": "ボーンライダー",
+    "furigana": "ぼーんらいだー",
+    "english_name": "Skeleton squire",
+    "page_url": "https://dqfan527.xsrv.jp/2024/09/05/skeleton-squire/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンライダー.webp",
+    "monster_family": "しにがみきぞく族",
+    "search_keywords": ["Skeleton squire","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0012",
     "name": "ヴァルハラー",
     "furigana": "ゔぁるはらー",
