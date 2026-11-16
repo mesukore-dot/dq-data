@@ -1,0 +1,45 @@
+{
+  "id": "5B13Z0020",
+  "name": "呪いのつるぎ",
+  "furigana": "のろいのつるぎ",
+  "english_name": "Major headache",
+  "page_url": "https://dqfan527.xsrv.jp/2025/03/27/cursed-sword/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/呪いのつるぎ.webp",
+  "monster_family": "スカルブレード族",
+  "search_keywords": [
+    "Major headache",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00639",
+  "prev_id": "5B13Z0019",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/05/skeleton-squire/",
+  "next_id": "5B13Z0020-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/02/08/ax-head/",
+  "color_variants": [
+    {
+      "id": "4C13Z0022",
+      "name": "スカルブレード",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルブレード.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/09/scull-blade/"
+    },
+    {
+      "id": "5B13Z0020-1",
+      "name": "アックスヘッド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アックスヘッド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/08/ax-head/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
