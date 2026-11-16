@@ -1,0 +1,45 @@
+{
+  "id": "5B13Z0015",
+  "name": "マミーウィスプ",
+  "furigana": "まみーうぃすぷ",
+  "english_name": "Disgustling",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/15/disgustling/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウインドマージ.webp",
+  "monster_family": "ウインドマージ族",
+  "search_keywords": [
+    "Disgustling",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "STAR"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00630",
+  "prev_id": "5B13Z0014",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/06/haunted-housekeeper/",
+  "next_id": "6A01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/dark-king/",
+  "color_variants": [
+    {
+      "id": "2E13Z0012",
+      "name": "ことだまつかい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ことだまつかい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/07/26/gustodian/"
+    },
+    {
+      "id": "4C13Z0019",
+      "name": "ウインドマージ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウインドマージ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/08/gustbluster/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
