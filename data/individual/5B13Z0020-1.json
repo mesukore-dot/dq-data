@@ -1,0 +1,44 @@
+{
+  "id": "5B13Z0020-1",
+  "name": "アックスヘッド",
+  "furigana": "あっくすへっど",
+  "english_name": "Splitting headache",
+  "page_url": "https://dqfan527.xsrv.jp/2025/02/08/ax-head/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アックスヘッド.webp",
+  "monster_family": "スカルブレード族",
+  "search_keywords": [
+    "Splitting headache",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7_3D",
+  "appearances": [
+    "DQ7_3D"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2013年2月7日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00640",
+  "prev_id": "5B13Z0020",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/03/27/cursed-sword/",
+  "next_id": "6A01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/dark-king/",
+  "color_variants": [
+    {
+      "id": "4C13Z0022",
+      "name": "スカルブレード",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルブレード.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/09/09/scull-blade/"
+    },
+    {
+      "id": "5B13Z0020",
+      "name": "呪いのつるぎ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/呪いのつるぎ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/27/cursed-sword/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

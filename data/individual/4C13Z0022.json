@@ -1,0 +1,50 @@
+{
+  "id": "4C13Z0022",
+  "name": "スカルブレード",
+  "furigana": "すかるぶれーど",
+  "english_name": "Mild headache",
+  "page_url": "https://dqfan527.xsrv.jp/2025/09/09/scull-blade/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルブレード.webp",
+  "monster_family": "スカルブレード族",
+  "search_keywords": [
+    "Mild headache",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMSL"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00513",
+  "prev_id": "4C13Z0021-1",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/10/15/ancient-mariner/",
+  "next_id": "5B01S0002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/25/drago-metal/",
+  "color_variants": [
+    {
+      "id": "5B13Z0020",
+      "name": "呪いのつるぎ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/呪いのつるぎ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/03/27/cursed-sword/"
+    },
+    {
+      "id": "5B13Z0020-1",
+      "name": "アックスヘッド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アックスヘッド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/02/08/ax-head/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
