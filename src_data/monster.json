@@ -38,6 +38,50 @@
     "related_characters": []
   },
   {
+    "id": "8SS14Q1N040002",
+    "name": "チキーラ",
+    "furigana": "ちきーら",
+    "english_name": "Chow Mein",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/02/chick-ra/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チキーラ.webp",
+    "monster_family": "エッグラ族",
+    "search_keywords": ["Chow Mein","裏ボス","公式イラストあり"],
+    "first_appearance": "DQ4_PS",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
+      "DQMSL","STAR","RIV","KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2001年11月22日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS14Q1N040001",
+    "name": "エッグラ",
+    "furigana": "えっぐら",
+    "english_name": "Foo Yung",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/02/eggra/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エッグラ.webp",
+    "monster_family": "エッグラ族",
+    "search_keywords": ["Foo Yung","裏ボス","公式イラストあり"],
+    "first_appearance": "DQ4_PS",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
+      "DQMSL","STAR","RIV","KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2001年11月22日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "9X14Q1N040001-1",
     "name": "デスピサロ",
     "furigana": "ですぴさろ",
@@ -46,7 +90,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2023/04/09/deathpisaro/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ.webp",
     "monster_family": "デスピサロ族",
-    "search_keywords": ["Psaro the Manslayer","公式イラストあり"],
+    "search_keywords": ["Psaro the Manslayer","ボス","魔王","公式イラストあり"],
     "first_appearance": "DQ4",
     "appearances": [
       "DQ4","DQ4_PS","DQ9",
