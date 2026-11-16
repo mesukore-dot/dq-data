@@ -38,6 +38,77 @@
     "related_characters": []
   },
   {
+    "id": "5B13Z0013",
+    "name": "ヘルクラッシャー",
+    "furigana": "へるくらっしゃー",
+    "english_name": "Hell gladiator",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/15/hell-gladiator/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルクラッシャー.webp",
+    "monster_family": "まおうのつかい族",
+    "search_keywords": ["Hell gladiator","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ8","DQ8_3D","DQ10","DQ10_OFF",
+      "DQM3","DQMJ3_P",
+      "DQH1","DQH2",
+      "DQBS",
+      "DQMSL","STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A13Z0010",
+    "name": "ボーンファイター",
+    "furigana": "ぼーんふぁいたー",
+    "english_name": "Zombie gladiator",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/16/born-fighter/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンファイター.webp",
+    "monster_family": "まおうのつかい族",
+    "search_keywords": ["Zombie gladiator","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ8","DQ8_3D","DQ10","DQ10_OFF",
+      "DQH1","DQH2",
+      "DQMB","DQBS",
+      "DQMSL","STAR","RIV","WALK","TACT","champ"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "7S13Z0002",
+    "name": "まおうのつかい",
+    "furigana": "まおうのつかい",
+    "english_name": "Demon-at-arms",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/maounotukai/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まおうのつかい.webp",
+    "monster_family": "まおうのつかい族",
+    "search_keywords": ["Demon-at-arms","ボス","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ8","DQ8_3D","DQ10","DQ10_OFF",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQH1","DQH2",
+      "DQMB","DQBS",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0009",
     "name": "じごくのもんばん",
     "furigana": "じごくのもんばん",
