@@ -38,6 +38,70 @@
     "related_characters": []
   },
   {
+    "id": "5B13Z0015",
+    "name": "マミーウィスプ",
+    "furigana": "まみーうぃすぷ",
+    "english_name": "Disgustling",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/15/disgustling/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウインドマージ.webp",
+    "monster_family": "ウインドマージ族",
+    "search_keywords": ["Disgustling","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "STAR"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C13Z0019",
+    "name": "ウインドマージ",
+    "furigana": "ういんどまーじ",
+    "english_name": "Gustbluster",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/08/gustbluster/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウインドマージ.webp",
+    "monster_family": "ウインドマージ族",
+    "search_keywords": ["Gustbluster","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP",
+      "DQMSL","STAR","RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E13Z0012",
+    "name": "ことだまつかい",
+    "furigana": "ことだまつかい",
+    "english_name": "Gustodian",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/26/gustodian/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ことだまつかい.webp",
+    "monster_family": "ウインドマージ族",
+    "search_keywords": ["Gustodian","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "STAR","RIV"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C13Z0018",
     "name": "エビルドライブ",
     "furigana": "えびるどらいぶ",
