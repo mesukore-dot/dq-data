@@ -2038,6 +2038,31 @@
     "zukan_no": "No.00624"
   },
   {
+    "id": "5B13Z0014",
+    "name": "おやぶんゴースト",
+    "furigana": "おやぶんごーすと",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/haunted-housekeeper/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おやぶんゴースト.webp",
+    "search_keywords": [
+      "Haunted housekeeper",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQMSL",
+      "STAR",
+      "KSKS"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00625"
+  },
+  {
     "id": "6A13Z0001",
     "name": "スカルドン",
     "furigana": "すかるどん",
@@ -2060,7 +2085,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00693"
+    "zukan_no": "No.00694"
   },
   {
     "id": "6A13Z0002",
@@ -2087,7 +2112,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00694"
+    "zukan_no": "No.00695"
   },
   {
     "id": "6A13Z0003",
@@ -2109,7 +2134,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00695"
+    "zukan_no": "No.00696"
   },
   {
     "id": "6A13Z0004",
@@ -2136,7 +2161,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00696"
+    "zukan_no": "No.00697"
   },
   {
     "id": "6A13Z0005",
@@ -2156,7 +2181,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2024年11月14日",
-    "zukan_no": "No.00697"
+    "zukan_no": "No.00698"
   },
   {
     "id": "6A13Z0006",
@@ -2188,7 +2213,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00698"
+    "zukan_no": "No.00699"
   },
   {
     "id": "6A13Z0007",
@@ -2209,7 +2234,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00699"
+    "zukan_no": "No.00700"
   },
   {
     "id": "6A13Z0008",
@@ -2235,7 +2260,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00700"
+    "zukan_no": "No.00701"
   },
   {
     "id": "6A13Z0009",
@@ -2255,7 +2280,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00701"
+    "zukan_no": "No.00702"
   },
   {
     "id": "6A13Z0010",
@@ -2288,7 +2313,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00702"
+    "zukan_no": "No.00703"
   },
   {
     "id": "7S13Z0001",
@@ -2307,7 +2332,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00753"
+    "zukan_no": "No.00754"
   },
   {
     "id": "7S13Z0002",
@@ -2353,7 +2378,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00754"
+    "zukan_no": "No.00755"
   },
   {
     "id": "8SS13Z0001",
@@ -2389,7 +2414,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00794"
+    "zukan_no": "No.00795"
   },
   {
     "id": "8SS13Z0002",
@@ -2418,7 +2443,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00795"
+    "zukan_no": "No.00796"
   },
   {
     "id": "8SS13Z0003",
@@ -2459,7 +2484,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00796"
+    "zukan_no": "No.00797"
   },
   {
     "id": "8SS13Z0004",
@@ -2497,6 +2522,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00797"
+    "zukan_no": "No.00798"
   }
 ]
