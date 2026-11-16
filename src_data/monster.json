@@ -38,6 +38,51 @@
     "related_characters": []
   },
   {
+    "id": "4C13Z0018",
+    "name": "エビルドライブ",
+    "furigana": "えびるどらいぶ",
+    "english_name": "Demonrider",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/evill-drive/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルドライブ.webp",
+    "monster_family": "スカルライダー族",
+    "search_keywords": ["Demonrider","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ8","DQ8_3D","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ","DQMJ2","DQMJ2_P",
+      "DQMSL","STAR","RIV","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D13Z0013",
+    "name": "スカルライダー",
+    "furigana": "すかるらいだー",
+    "english_name": "Skullrider",
+    "page_url": "https://dqfan527.xsrv.jp/2023/10/01/scull-rider/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルライダー.webp",
+    "monster_family": "スカルライダー族",
+    "search_keywords": ["Skullrider","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ8","DQ8_3D","DQ11",
+      "DQM2_3DS","DQM2_SP","DQM3",
+      "DQMB",
+      "DQMSL","STAR","RIV","TACT"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B13Z0014",
     "name": "おやぶんゴースト",
     "furigana": "おやぶんごーすと",
