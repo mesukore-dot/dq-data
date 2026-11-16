@@ -38,6 +38,56 @@
     "related_characters": []
   },
   {
+    "id": "9X14Q1N040001-1",
+    "name": "デスピサロ",
+    "furigana": "ですぴさろ",
+    "english_name": "Psaro the Manslayer",
+    "taiwan_name": "死亡皮薩羅",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/09/deathpisaro/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ.webp",
+    "monster_family": "デスピサロ族",
+    "search_keywords": ["Psaro the Manslayer","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS","DQ9",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMJ","DQMJ2","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "FY1",
+      "DQMB","DQBS","XB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS","DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "9X14Q1N040001",
+    "name": "魔剣士ピサロ",
+    "furigana": "まけんしぴさろ",
+    "english_name": "Psaro",
+    "taiwan_name": "皮薩羅",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/11/makenshipisaro/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔剣士ピサロ.webp",
+    "monster_family": "魔剣士ピサロ族",
+    "search_keywords": ["Psaro","公式イラストあり"],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4","DQ4_PS",
+      "DQM3","DQMJ3_P",
+      "DQH1","DQH2",
+      "DQMB","DQBS","XB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1990年2月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "8SS13Z0005-1",
     "name": "暗黒皇帝ガナサダイ",
     "furigana": "あんこくこうていがなさだい",
