@@ -48,7 +48,10 @@
   "voice_actor": "大塚芳忠",
   "related_items": [],
   "related_characters": [
-    "9X14Q1N010001-1"
+    "9X14Q1N010001-1",
+    "CH-1N01-001",
+    "CH-1N01-002",
+    "4C02D0001"
   ],
   "zukan_no": "No.00840",
   "prev_id": "9X07W0001",
@@ -89,6 +92,18 @@
       "name": "竜王",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/竜王.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/"
+    },
+    {
+      "id": "CH-1N01-001"
+    },
+    {
+      "id": "CH-1N01-002"
+    },
+    {
+      "id": "4C02D0001",
+      "name": "ドラゴン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/ドラゴン-green.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/18/doragon/"
     }
   ]
 }
