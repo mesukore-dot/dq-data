@@ -3073,7 +3073,7 @@
     "related_characters": []
   },
   {
-    "id": "9X14?1N030001",
+    "id": "9X14Q1N030001",
     "name": "ゾーマ",
     "furigana": "ぞーま",
     "english_name": "Zoma",
@@ -3098,7 +3098,7 @@
     "related_characters": ["8SS13Z0003"]
   },
   {
-    "id": "6A14?1N030001",
+    "id": "6A14Q1N030001",
     "name": "バラモスエビル",
     "furigana": "ばらもすえびる",
     "english_name": "Baramonster",
@@ -3121,7 +3121,7 @@
     "related_characters": []
   },
   {
-    "id": "8SS14?1N030002",
+    "id": "8SS14Q1N030002",
     "name": "バラモスブロス",
     "furigana": "ばらもすぶろす",
     "english_name": "Soul of Baramos",
@@ -3145,7 +3145,7 @@
     "related_characters": ["8SS02D0001","8SS13Z0003","9X14?1N030001"]
   },
   {
-    "id": "8SS14?1N030001",
+    "id": "8SS14Q1N030001",
     "name": "バラモス",
     "furigana": "ばらもす",
     "english_name": "Baramos",
@@ -5076,7 +5076,7 @@
     "related_characters": []
   },
   {
-    "id": "3D14?1N030001",
+    "id": "3D14Q1N030001",
     "name": "カンダタこぶん",
     "furigana": "かんだたこぶん",
     "english_name": "Robbin'hyddle",
@@ -5100,7 +5100,7 @@
     "related_characters": []
   },
   {
-    "id": "7S14?1N030001",
+    "id": "7S14Q1N030001",
     "name": "カンダタ",
     "furigana": "かんだた",
     "english_name": "Robbin''ood",
@@ -5125,7 +5125,7 @@
     "related_characters": []
   },
   {
-    "id": "8SS14?1N020002-1",
+    "id": "8SS14Q1N020002-1",
     "name": "竜王のひ孫",
     "furigana": "りゅうおうのひまご",
     "english_name": "-",
@@ -5147,7 +5147,7 @@
     "related_characters": []
   },
   {
-    "id": "8SS14?1N020002",
+    "id": "8SS14Q1N020002",
     "name": "りゅうおうのひまご",
     "furigana": "りゅうおうのひまご",
     "english_name": "-",
@@ -5169,7 +5169,7 @@
     "related_characters": []
   },
   {
-    "id": "9X14?1N020002",
+    "id": "9X14Q1N020002",
     "name": "マガシドー",
     "furigana": "まがしどー",
     "english_name": "-",
@@ -5191,7 +5191,7 @@
     "related_characters": []
   },
   {
-    "id": "9X14?1N020001",
+    "id": "9X14Q1N020001",
     "name": "シドー",
     "furigana": "しどー",
     "english_name": "Malroth",
@@ -5216,7 +5216,7 @@
     "related_characters": []
   },
   {
-    "id": "8SS14?1N020001",
+    "id": "8SS14Q1N020001",
     "name": "ハーゴン",
     "furigana": "はーごん",
     "english_name": "Hargon",
@@ -5241,7 +5241,7 @@
     "related_characters": []
   },
   {
-    "id": "9X14?1N010001-1",
+    "id": "9X14Q1N010001-1",
     "name": "竜王",
     "furigana": "りゅうおう",
     "english_name": "Dragonlord",
@@ -5267,7 +5267,7 @@
     "related_characters": []
   },
   {
-    "id": "9X14?1N010001",
+    "id": "9X14Q1N010001",
     "name": "りゅうおう",
     "furigana": "りゅうおう",
     "english_name": "Dragonlord",
@@ -17882,7 +17882,7 @@
     "related_characters": ["3D01S0001"]
   },  
         {
-    "id": "8SS14?2MJ30001",
+    "id": "9X14Q2MJ30004",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
     "english_name": "-",
@@ -17901,7 +17901,7 @@
     "related_characters": []
   },
     {
-    "id": "9X14?2MJ30002",
+    "id": "9X14Q2MJ30004-1",
     "name": "魔界神マデュラーシャ",
     "furigana": "まかいしんまでゅらーしゃ",
     "english_name": "-",
