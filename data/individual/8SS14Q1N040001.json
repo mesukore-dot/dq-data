@@ -1,0 +1,48 @@
+{
+  "id": "8SS14Q1N040001",
+  "name": "エッグラ",
+  "furigana": "えっぐら",
+  "english_name": "Foo Yung",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/02/eggra/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エッグラ.webp",
+  "monster_family": "エッグラ族",
+  "search_keywords": [
+    "Foo Yung",
+    "裏ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ4_PS",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "KSKS"
+  ],
+  "main_family": "？？？系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2001年11月22日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00827",
+  "prev_id": "8SS14Q1N030002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosuburosu/",
+  "next_id": "8SS14Q1N040002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/02/chick-ra/",
+  "color_variants": [
+    {
+      "id": "8SS14Q1N040002",
+      "name": "チキーラ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チキーラ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/02/chick-ra/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
