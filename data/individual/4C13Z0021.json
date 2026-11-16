@@ -1,0 +1,73 @@
+{
+  "id": "4C13Z0021",
+  "name": "ナイトリッチ",
+  "furigana": "ないとりっち",
+  "english_name": "Fright knight",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/fright-knight-2/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ナイトリッチ.webp",
+  "monster_family": "ナイトリッチ族",
+  "search_keywords": [
+    "Fright knight",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ9",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMCH",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00511",
+  "prev_id": "4C13Z0020",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/01/animated-armour/",
+  "next_id": "4C13Z0021-1",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/10/15/ancient-mariner/",
+  "color_variants": [
+    {
+      "id": "4C13Z0021-1",
+      "name": "デッドセーラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デッドセーラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/15/ancient-mariner/"
+    },
+    {
+      "id": "5B13Z0018",
+      "name": "ナイトキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ナイトキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/night-knight/"
+    },
+    {
+      "id": "6A13Z0012",
+      "name": "ヴァルハラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヴァルハラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/15/blight-knight/"
+    },
+    {
+      "id": "7S13Z0003",
+      "name": "マチルダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マチルダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/09/maeve/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
