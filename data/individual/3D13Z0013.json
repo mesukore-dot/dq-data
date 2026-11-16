@@ -1,0 +1,49 @@
+{
+  "id": "3D13Z0013",
+  "name": "スカルライダー",
+  "furigana": "すかるらいだー",
+  "english_name": "Skullrider",
+  "page_url": "https://dqfan527.xsrv.jp/2023/10/01/scull-rider/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカルライダー.webp",
+  "monster_family": "スカルライダー族",
+  "search_keywords": [
+    "Skullrider",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "DQ8",
+    "DQ8_3D",
+    "DQ11",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMB",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00358",
+  "prev_id": "3D13Z0012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/22/deadcurion/",
+  "next_id": "3D14?1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
+  "color_variants": [
+    {
+      "id": "4C13Z0018",
+      "name": "エビルドライブ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルドライブ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/evill-drive/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
