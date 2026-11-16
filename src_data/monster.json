@@ -165,6 +165,46 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0013",
+    "name": "ギガミュータント",
+    "furigana": "ぎがみゅーたんと",
+    "english_name": "Gigalumph",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/29/gigalumph/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ギガミュータント.webp",
+    "monster_family": "ギガミュータント族",
+    "search_keywords": ["Gigalumph","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "related_items": [],
+    "related_characters": []
+  },  {
+    "id": "3D13Z0014",
+    "name": "ブガッティ",
+    "furigana": "ぶがってぃ",
+    "english_name": "Galumph",
+    "page_url": "https://dqfan527.xsrv.jp/2024/11/01/galumph/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブガッティ.webp",
+    "monster_family": "ギガミュータント族",
+    "search_keywords": ["Galumph","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B13Z0019",
     "name": "ボーンライダー",
     "furigana": "ぼーんらいだー",
