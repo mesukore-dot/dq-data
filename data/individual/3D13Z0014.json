@@ -1,0 +1,39 @@
+{
+  "id": "3D13Z0014",
+  "name": "ブガッティ",
+  "furigana": "ぶがってぃ",
+  "english_name": "Galumph",
+  "page_url": "https://dqfan527.xsrv.jp/2024/11/01/galumph/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブガッティ.webp",
+  "monster_family": "ギガミュータント族",
+  "search_keywords": [
+    "Galumph",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00360",
+  "prev_id": "3D13Z0013",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/10/01/scull-rider/",
+  "next_id": "3D14?1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
+  "color_variants": [
+    {
+      "id": "6A13Z0013",
+      "name": "ギガミュータント",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ギガミュータント.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/29/gigalumph/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
