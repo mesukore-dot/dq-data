@@ -1,0 +1,60 @@
+{
+  "id": "6A13Z0012",
+  "name": "ヴァルハラー",
+  "furigana": "ゔぁるはらー",
+  "english_name": "Bright knight",
+  "page_url": "https://dqfan527.xsrv.jp/2024/10/15/blight-knight/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヴァルハラー.webp",
+  "monster_family": "ナイトリッチ族",
+  "search_keywords": [
+    "Bright knight",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ9",
+  "appearances": [
+    "DQ9",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "WALK"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2009年7月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00716",
+  "prev_id": "6A13Z0011",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/15/prison-guard/",
+  "next_id": "6A14?1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/baramosuebill/",
+  "color_variants": [
+    {
+      "id": "4C13Z0021",
+      "name": "ナイトリッチ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ナイトリッチ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/fright-knight-2/"
+    },
+    {
+      "id": "4C13Z0021-1",
+      "name": "デッドセーラー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デッドセーラー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/15/ancient-mariner/"
+    },
+    {
+      "id": "5B13Z0018",
+      "name": "ナイトキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ナイトキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/night-knight/"
+    },
+    {
+      "id": "7S13Z0003",
+      "name": "マチルダ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マチルダ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/09/maeve/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
