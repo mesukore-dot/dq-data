@@ -49,8 +49,8 @@
   "related_items": [],
   "related_characters": [
     "9X14Q1N010001-1",
-    "CH-1N01-001",
-    "CH-1N01-002",
+    "ch_CH-1N01-001",
+    "ch_CH-1N01-002",
     "4C02D0001"
   ],
   "zukan_no": "No.00840",
@@ -94,10 +94,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2023/02/27/ryuou-2/"
     },
     {
-      "id": "CH-1N01-001"
+      "id": "ch_CH-1N01-001",
+      "name": "ロトの血を引く者",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/01/ロトの血を引く者.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/17/syujinkou1/"
     },
     {
-      "id": "CH-1N01-002"
+      "id": "ch_CH-1N01-002",
+      "name": "ローラ姫",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/ローラ姫.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/01/17/%e3%83%ad%e3%83%88%e3%81%ae%e8%a1%80%e3%82%92%e5%bc%95%e3%81%8f%e8%80%85-2/"
     },
     {
       "id": "4C02D0001",
