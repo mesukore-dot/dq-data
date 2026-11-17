@@ -25,31 +25,36 @@
     "zukan_no": "No.00098"
   },
   {
-    "id": "1F14Q1N050002",
-    "name": "プチターク",
-    "furigana": "ぷちたーく",
-    "page_url": "https://dqfan527.xsrv.jp/2023/05/02/petitta-ku/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/プチターク1.webp",
+    "id": "1F14Q1N060001",
+    "name": "とうのへいたい",
+    "furigana": "とうのへいたい",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/16/tower-sentry/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/とうのへいたい.webp",
     "search_keywords": [
+      "Tower sentry",
+      "ボス",
+      "ねるそん",
+      "ネルソン",
+      "がるしあ",
+      "ガルシア",
+      "すこっと",
+      "スコット",
+      "ほりでぃ",
+      "ホリディ",
+      "ぶらすと",
+      "ブラスト",
       "公式イラストあり"
     ],
-    "first_appearance": "DQ5_PS2",
+    "first_appearance": "DQ6",
     "appearances": [
-      "DQ5_PS2",
-      "DQ5_DS",
-      "DQM1_3DS",
-      "DQM1_SP",
-      "DQM2_3DS",
-      "DQM2_SP",
-      "DQMJ3_P",
-      "DQMSL",
+      "DQ6",
       "STAR",
       "RIV",
-      "TACT"
+      "WALK"
     ],
     "main_family": "？？？系",
     "sub_family": "-",
-    "release_date": "2004年3月25日",
+    "release_date": "1995年12月9日",
     "zukan_no": "No.00099"
   },
   {
@@ -114,6 +119,34 @@
     "zukan_no": "No.00364"
   },
   {
+    "id": "5B14Q1N050001",
+    "name": "プチターク",
+    "furigana": "ぷちたーく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/02/petitta-ku/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/プチターク1.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5_PS2",
+    "appearances": [
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2004年3月25日",
+    "zukan_no": "No.00645"
+  },
+  {
     "id": "6A14Q1N030001",
     "name": "バラモスエビル",
     "furigana": "ばらもすえびる",
@@ -138,7 +171,28 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00726"
+    "zukan_no": "No.00727"
+  },
+  {
+    "id": "6A14Q1N060001",
+    "name": "ブースカ",
+    "furigana": "ぶーすか",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/16/pudgedevil/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブースカ.webp",
+    "search_keywords": [
+      "Pudgedevil",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQMJ3_P",
+      "STAR"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00728"
   },
   {
     "id": "7S14Q1N030001",
@@ -193,7 +247,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00780"
+    "zukan_no": "No.00782"
   },
   {
     "id": "8SS14Q1N020001",
@@ -236,7 +290,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00825"
+    "zukan_no": "No.00827"
   },
   {
     "id": "8SS14Q1N020002",
@@ -258,7 +312,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00826"
+    "zukan_no": "No.00828"
   },
   {
     "id": "8SS14Q1N020002-1",
@@ -279,7 +333,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00827"
+    "zukan_no": "No.00829"
   },
   {
     "id": "8SS14Q1N030001",
@@ -327,7 +381,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00828"
+    "zukan_no": "No.00830"
   },
   {
     "id": "8SS14Q1N030002",
@@ -362,7 +416,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00829"
+    "zukan_no": "No.00831"
   },
   {
     "id": "8SS14Q1N040001",
@@ -391,7 +445,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2001年11月22日",
-    "zukan_no": "No.00830"
+    "zukan_no": "No.00832"
   },
   {
     "id": "8SS14Q1N040002",
@@ -420,7 +474,49 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2001年11月22日",
-    "zukan_no": "No.00831"
+    "zukan_no": "No.00833"
+  },
+  {
+    "id": "8SS14Q1N060001",
+    "name": "ムドー",
+    "furigana": "むどー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/murdaw/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ムドー.webp",
+    "search_keywords": [
+      "Murdaw",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ9",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00834"
   },
   {
     "id": "9X14Q1N010001",
@@ -465,7 +561,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00845"
+    "zukan_no": "No.00848"
   },
   {
     "id": "9X14Q1N010001-1",
@@ -512,7 +608,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00846"
+    "zukan_no": "No.00849"
   },
   {
     "id": "9X14Q1N020001",
@@ -561,7 +657,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00847"
+    "zukan_no": "No.00850"
   },
   {
     "id": "9X14Q1N020002",
@@ -582,7 +678,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00848"
+    "zukan_no": "No.00851"
   },
   {
     "id": "9X14Q1N030001",
@@ -636,7 +732,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00849"
+    "zukan_no": "No.00852"
   },
   {
     "id": "9X14Q1N040001",
@@ -670,7 +766,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00850"
+    "zukan_no": "No.00853"
   },
   {
     "id": "9X14Q1N040001-1",
@@ -718,7 +814,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00851"
+    "zukan_no": "No.00854"
   },
   {
     "id": "9X14Q1N050001",
@@ -752,7 +848,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00852"
+    "zukan_no": "No.00855"
   },
   {
     "id": "9X14Q1N050001-1",
@@ -799,7 +895,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00853"
+    "zukan_no": "No.00856"
   },
   {
     "id": "9X14Q1N050002",
@@ -850,7 +946,183 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00854"
+    "zukan_no": "No.00857"
+  },
+  {
+    "id": "9X14Q1N060001",
+    "name": "老王デスタムーア",
+    "furigana": "ろうおうですたむーあ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/04/04/mortamor-1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/老王デスタムーア.webp",
+    "search_keywords": [
+      "Mortamor",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMB",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00858"
+  },
+  {
+    "id": "9X14Q1N060002",
+    "name": "大魔王デスタムーア",
+    "furigana": "だいまおうですたむーあ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mortamor/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/大魔王デスタムーア.webp",
+    "search_keywords": [
+      "Mortamor",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMB",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00859"
+  },
+  {
+    "id": "9X14Q1N060003",
+    "name": "みぎて",
+    "furigana": "みぎて",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/15/daimaounomigite/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/みぎて.webp",
+    "search_keywords": [
+      "Mortamor",
+      "ボス",
+      "だいまおうのみぎて",
+      "大魔王の右手",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00860"
+  },
+  {
+    "id": "9X14Q1N060004",
+    "name": "幻魔王デスタムーア",
+    "furigana": "げんまおうですたむーあ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/12/15/mortamor3/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/幻魔王デスタムーア.webp",
+    "search_keywords": [
+      "Mortamor",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ9",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00861"
+  },
+  {
+    "id": "9X14Q1N060005",
+    "name": "ひだりて",
+    "furigana": "ひだりて",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/15/daimaounohidarite/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ひだりて.webp",
+    "search_keywords": [
+      "Mortamor",
+      "ボス",
+      "だいまおうのひだりて",
+      "大魔王の右手",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00862"
   },
   {
     "id": "9X14Q2MJ30004",
@@ -871,7 +1143,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00855"
+    "zukan_no": "No.00863"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -892,6 +1164,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00856"
+    "zukan_no": "No.00864"
   }
 ]
