@@ -76,12 +76,18 @@
   "release_date": "1987年1月26日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00207",
+  "zukan_no": "No.00209",
   "prev_id": "2E13Z0006",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/05/26/mirra-otoko/",
   "next_id": "2E13Z0008",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/06/12/animal-zombie/",
   "color_variants": [
+    {
+      "id": "1F14Q1N070002",
+      "name": "エテポンゲ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/エテポンゲ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/26/putric-stinkenheimer/"
+    },
     {
       "id": "3D13Z0008",
       "name": "リビングデッド",

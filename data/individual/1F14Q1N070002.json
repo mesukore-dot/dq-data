@@ -1,0 +1,70 @@
+{
+  "id": "1F14Q1N070002",
+  "name": "エテポンゲ",
+  "furigana": "えてぽんげ",
+  "english_name": "Putric Stinkenheimer",
+  "page_url": "https://dqfan527.xsrv.jp/2024/10/26/putric-stinkenheimer/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/エテポンゲ.webp",
+  "monster_family": "くさったしたい族",
+  "search_keywords": [
+    "Putric Stinkenheimer",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ7",
+  "appearances": [
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "？？？系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年8月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00101",
+  "prev_id": "1F14Q1N070001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/16/tower-sentry/",
+  "next_id": "2E01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/",
+  "color_variants": [
+    {
+      "id": "2E13Z0007",
+      "name": "くさったしたい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/くさったしたい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/27/kusattashitai/"
+    },
+    {
+      "id": "3D13Z0008",
+      "name": "リビングデッド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/リビングデッド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/27/living-dead/"
+    },
+    {
+      "id": "4C13Z0009",
+      "name": "どくどくゾンビ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/どくどくゾンビ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/11/dokudoku-zombie/"
+    },
+    {
+      "id": "5B13Z0005",
+      "name": "グール",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/グール.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/gool/"
+    },
+    {
+      "id": "5B13Z0017",
+      "name": "ポイズンゾンビ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ポイズンゾンビ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/01/24/poison-zombie/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
