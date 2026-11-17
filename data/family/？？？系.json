@@ -1,5 +1,58 @@
 [
   {
+    "id": "1F14Q1N050001",
+    "name": "ザイル",
+    "furigana": "ざいる",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/04/dwight/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ザイル.webp",
+    "search_keywords": [
+      "Dwight",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQMB",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00098"
+  },
+  {
+    "id": "1F14Q1N050002",
+    "name": "プチターク",
+    "furigana": "ぷちたーく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/02/petitta-ku/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/プチターク.webp",
+    "search_keywords": [
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5_PS2",
+    "appearances": [
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2004年3月25日",
+    "zukan_no": "No.00099"
+  },
+  {
     "id": "3D14Q1N030001",
     "name": "カンダタこぶん",
     "furigana": "かんだたこぶん",
@@ -36,7 +89,29 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00361"
+    "zukan_no": "No.00363"
+  },
+  {
+    "id": "3D14Q1N050001",
+    "name": "カンダタこぶん",
+    "furigana": "かんだたこぶん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/07/17/robbin-huddle-dq5/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/カンダタこぶん（DQ5）.webp",
+    "search_keywords": [
+      "Robbin huddle",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00364"
   },
   {
     "id": "6A14Q1N030001",
@@ -63,7 +138,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1996年12月6日",
-    "zukan_no": "No.00723"
+    "zukan_no": "No.00726"
   },
   {
     "id": "7S14Q1N030001",
@@ -118,7 +193,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00777"
+    "zukan_no": "No.00780"
   },
   {
     "id": "8SS14Q1N020001",
@@ -161,7 +236,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00822"
+    "zukan_no": "No.00825"
   },
   {
     "id": "8SS14Q1N020002",
@@ -183,7 +258,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00823"
+    "zukan_no": "No.00826"
   },
   {
     "id": "8SS14Q1N020002-1",
@@ -204,7 +279,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00824"
+    "zukan_no": "No.00827"
   },
   {
     "id": "8SS14Q1N030001",
@@ -252,7 +327,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00825"
+    "zukan_no": "No.00828"
   },
   {
     "id": "8SS14Q1N030002",
@@ -287,7 +362,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00826"
+    "zukan_no": "No.00829"
   },
   {
     "id": "8SS14Q1N040001",
@@ -316,7 +391,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2001年11月22日",
-    "zukan_no": "No.00827"
+    "zukan_no": "No.00830"
   },
   {
     "id": "8SS14Q1N040002",
@@ -345,7 +420,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2001年11月22日",
-    "zukan_no": "No.00828"
+    "zukan_no": "No.00831"
   },
   {
     "id": "9X14Q1N010001",
@@ -390,7 +465,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00842"
+    "zukan_no": "No.00845"
   },
   {
     "id": "9X14Q1N010001-1",
@@ -437,7 +512,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00843"
+    "zukan_no": "No.00846"
   },
   {
     "id": "9X14Q1N020001",
@@ -486,7 +561,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00844"
+    "zukan_no": "No.00847"
   },
   {
     "id": "9X14Q1N020002",
@@ -507,7 +582,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00845"
+    "zukan_no": "No.00848"
   },
   {
     "id": "9X14Q1N030001",
@@ -561,7 +636,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00846"
+    "zukan_no": "No.00849"
   },
   {
     "id": "9X14Q1N040001",
@@ -595,7 +670,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00847"
+    "zukan_no": "No.00850"
   },
   {
     "id": "9X14Q1N040001-1",
@@ -643,7 +718,139 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00848"
+    "zukan_no": "No.00851"
+  },
+  {
+    "id": "9X14Q1N050001",
+    "name": "ミルドラース",
+    "furigana": "みるどらーす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/13/mirdra-su1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ミルドラース1.webp",
+    "search_keywords": [
+      "Nimzo",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00852"
+  },
+  {
+    "id": "9X14Q1N050001-1",
+    "name": "大魔王ミルドラース",
+    "furigana": "だいまおうみるどらーす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/13/mirdra-su2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ミルドラース2.webp",
+    "search_keywords": [
+      "Nimzo",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ9",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00853"
+  },
+  {
+    "id": "9X14Q1N050002",
+    "name": "エスターク",
+    "furigana": "えすたーく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/14/esuta-ku/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エスターク.webp",
+    "search_keywords": [
+      "Estark",
+      "裏ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ8_3D",
+      "DQ9",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1990年2月11日",
+    "zukan_no": "No.00854"
   },
   {
     "id": "9X14Q2MJ30004",
@@ -664,7 +871,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00849"
+    "zukan_no": "No.00855"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -685,6 +892,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00850"
+    "zukan_no": "No.00856"
   }
 ]
