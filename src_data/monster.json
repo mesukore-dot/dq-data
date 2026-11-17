@@ -487,7 +487,7 @@
     "other_families": [],
     "release_date": "1990年2月11日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["9X14Q1N040001","7S10M0003","9X14Q1N050002","7S02D0001","7S10M0001","8SS03B0001"]
   },
   {
     "id": "9X14Q1N040001",
@@ -512,7 +512,7 @@
     "other_families": [],
     "release_date": "1990年2月11日",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["9X14Q1N040001-1"]
   },
   {
     "id": "8SS13Z0005-1",
@@ -5388,7 +5388,7 @@
     "other_families": [],
     "release_date": "1990年2月11日",
     "related_items": [],
-    "related_characters": ["4C08D0003","2E08D0002"]
+    "related_characters": ["4C08D0003","2E08D0002","9X14Q1N040001"]
   },
   {
     "id": "6A10M0002",
@@ -7922,7 +7922,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["6A03B0005","8SS03B0001"]
+    "related_characters": ["6A03B0005","8SS03B0001","9X14Q1N040001-1"]
   },
   {
     "id": "3D07W0002",
@@ -8796,7 +8796,7 @@
     "release_date": "1990年2月11日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": ["7S10M0001","6A03B0005"]
+    "related_characters": ["7S10M0001","6A03B0005","9X14Q1N040001-1"]
   },
   {
     "id": "5B03B0007",
