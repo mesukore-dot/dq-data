@@ -38,6 +38,30 @@
     "related_characters": []
   },
   {
+    "id": "9X14Q1N060006",
+    "name": "ダークドレアム",
+    "furigana": "だーくどれあむ",
+    "english_name": "Nokturnus",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/nokturnus/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダークドレアム.webp",
+    "monster_family": "サタンジェネラル族",
+    "search_keywords": ["Nokturnus","裏ボス","魔王","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6","DQ9","DQ10",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQMB","DQBS","XB",
+      "DQMSL","MSP","STAR","RIV","TACT","KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "voice_actor": "若本規夫",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "9X14Q1N060004",
     "name": "幻魔王デスタムーア",
     "furigana": "げんまおうですたむーあ",
@@ -187,7 +211,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2024/08/16/pudgedevil/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブースカ.webp",
     "monster_family": "ムドー族",
-    "search_keywords": ["Pudgedevil","公式イラストあり"],
+    "search_keywords": ["Pudgedevil","公式イラスト待機中"],
     "first_appearance": "DQ6",
     "appearances": [
       "DQ6",
