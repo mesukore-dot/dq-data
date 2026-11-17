@@ -290,6 +290,64 @@
     "zukan_no": "No.00826"
   },
   {
+    "id": "8SS14Q1N040001",
+    "name": "エッグラ",
+    "furigana": "えっぐら",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/02/eggra/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エッグラ.webp",
+    "search_keywords": [
+      "Foo Yung",
+      "裏ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4_PS",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2001年11月22日",
+    "zukan_no": "No.00827"
+  },
+  {
+    "id": "8SS14Q1N040002",
+    "name": "チキーラ",
+    "furigana": "ちきーら",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/02/chick-ra/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チキーラ.webp",
+    "search_keywords": [
+      "Chow Mein",
+      "裏ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ4_PS",
+    "appearances": [
+      "DQ4",
+      "DQ4_PS",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2001年11月22日",
+    "zukan_no": "No.00828"
+  },
+  {
     "id": "9X14Q1N010001",
     "name": "りゅうおう",
     "furigana": "りゅうおう",
@@ -332,7 +390,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00840"
+    "zukan_no": "No.00842"
   },
   {
     "id": "9X14Q1N010001-1",
@@ -379,7 +437,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00841"
+    "zukan_no": "No.00843"
   },
   {
     "id": "9X14Q1N020001",
@@ -428,7 +486,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00842"
+    "zukan_no": "No.00844"
   },
   {
     "id": "9X14Q1N020002",
@@ -449,7 +507,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00843"
+    "zukan_no": "No.00845"
   },
   {
     "id": "9X14Q1N030001",
@@ -503,7 +561,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00844"
+    "zukan_no": "No.00846"
   },
   {
     "id": "9X14Q1N040001",
@@ -537,7 +595,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00845"
+    "zukan_no": "No.00847"
   },
   {
     "id": "9X14Q1N040001-1",
@@ -547,6 +605,8 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ.webp",
     "search_keywords": [
       "Psaro the Manslayer",
+      "ボス",
+      "魔王",
       "公式イラストあり"
     ],
     "first_appearance": "DQ4",
@@ -583,7 +643,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00846"
+    "zukan_no": "No.00848"
   },
   {
     "id": "9X14Q2MJ30004",
@@ -604,7 +664,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00847"
+    "zukan_no": "No.00849"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -625,6 +685,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00848"
+    "zukan_no": "No.00850"
   }
 ]
