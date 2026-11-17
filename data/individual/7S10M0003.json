@@ -61,7 +61,8 @@
   "related_items": [],
   "related_characters": [
     "4C08D0003",
-    "2E08D0002"
+    "2E08D0002",
+    "9X14Q1N040001"
   ],
   "dqsg_id": "E0056",
   "dqsg_name": "ピサロナイト",
@@ -160,6 +161,12 @@
       "name": "おおめだま",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/07/おおめだま.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/28/oomedama/"
+    },
+    {
+      "id": "9X14Q1N040001",
+      "name": "魔剣士ピサロ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔剣士ピサロ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/03/11/makenshipisaro/"
     }
   ]
 }
