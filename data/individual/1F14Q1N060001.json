@@ -37,9 +37,16 @@
   "zukan_no": "No.00099",
   "prev_id": "1F14Q1N050001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/07/04/dwight/",
-  "next_id": "2E01S0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2023/01/18/suraimubesu/",
-  "color_variants": [],
+  "next_id": "1F14Q1N070001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/08/16/tower-sentry/",
+  "color_variants": [
+    {
+      "id": "1F14Q1N070001",
+      "name": "フォロッド兵",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/フォロッド兵.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/16/tower-sentry/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }

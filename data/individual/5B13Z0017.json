@@ -25,12 +25,18 @@
   "release_date": "1995年12月9日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00640",
+  "zukan_no": "No.00642",
   "prev_id": "5B13Z0016",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/09/wayward-armour/",
   "next_id": "5B13Z0018",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/night-knight/",
   "color_variants": [
+    {
+      "id": "1F14Q1N070002",
+      "name": "エテポンゲ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/04/エテポンゲ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/10/26/putric-stinkenheimer/"
+    },
     {
       "id": "2E13Z0007",
       "name": "くさったしたい",
