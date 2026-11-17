@@ -1,5 +1,27 @@
 {
   "id": "9X14Q1N040001-1",
+  "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-デスピサロ.webp",
+  "dqsg_release_date": "2026年11月17日",
+  "dqsg_release_event": "ハーフアニバーサリー「ドラゴンクエストIVイベント」",
+  "dqsg_element_resistances": {
+    "dqsg_super_weak": [
+      "炎"
+    ],
+    "dqsg_weak": [
+      "風"
+    ],
+    "dqsg_resist": [
+      "雷",
+      "闇"
+    ]
+  },
+  "dqsg_features": [
+    "前方範囲を　ツメでひっかく。",
+    "周囲にギラを放ち　炎属性の呪文ダメージを与える。",
+    "時計回りに　扇形範囲の氷のブレスを吐き出す。",
+    "前方範囲を　ふみつける。"
+  ],
+  "dqsg_official_mamechishiki": "進化の秘法のチカラで　変わり果てた　魔族の王。\nすべての人間たちを　根絶やしにしようと企む。",
   "name": "デスピサロ",
   "furigana": "ですぴさろ",
   "english_name": "Psaro the Manslayer",
@@ -50,6 +72,30 @@
   "release_date": "1990年2月11日",
   "related_items": [],
   "related_characters": [],
+  "dqsg_id": "E0062",
+  "dqsg_name": "デスピサロ",
+  "dqsg_furigana": "ですぴさろ",
+  "dqsg_rarity": "ほこら",
+  "dqsg_color": "黄",
+  "dqsg_system": "？？？系",
+  "dqsg_cost": 103,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ-メモリ.webp",
+  "dqsg_url": "",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 175,
+    "dqsg_attack": 121,
+    "dqsg_magic_attack": 67,
+    "dqsg_magic_heal": 34,
+    "dqsg_defense": 94,
+    "dqsg_magic_defense": 74,
+    "dqsg_dexterity": 101
+  },
+  "dqsg_effects": [
+    "冒険スキル：ソード系のダメージ +5%",
+    "炎属性のブレスダメージ +10%"
+  ],
   "zukan_no": "No.00856",
   "prev_id": "9X14Q1N040001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/03/11/makenshipisaro/",
