@@ -181,7 +181,7 @@
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブースカ.webp",
     "search_keywords": [
       "Pudgedevil",
-      "公式イラストあり"
+      "公式イラスト待機中"
     ],
     "first_appearance": "DQ6",
     "appearances": [
@@ -1125,6 +1125,48 @@
     "zukan_no": "No.00862"
   },
   {
+    "id": "9X14Q1N060006",
+    "name": "ダークドレアム",
+    "furigana": "だーくどれあむ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/nokturnus/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダークドレアム.webp",
+    "search_keywords": [
+      "Nokturnus",
+      "裏ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQ9",
+      "DQ10",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00863"
+  },
+  {
     "id": "9X14Q2MJ30004",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
@@ -1143,7 +1185,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00863"
+    "zukan_no": "No.00864"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -1164,6 +1206,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00864"
+    "zukan_no": "No.00865"
   }
 ]
