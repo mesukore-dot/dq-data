@@ -74,7 +74,8 @@
   "related_items": [],
   "related_characters": [
     "7S10M0001",
-    "6A03B0005"
+    "6A03B0005",
+    "9X14Q1N040001-1"
   ],
   "dqsg_id": "E0060",
   "dqsg_name": "キングレオ",
@@ -132,6 +133,12 @@
       "name": "バルザック",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/バルザックビースト.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/13/balzac-beast/"
+    },
+    {
+      "id": "9X14Q1N040001-1",
+      "name": "デスピサロ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/09/deathpisaro/"
     }
   ]
 }
