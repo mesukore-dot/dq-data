@@ -1,0 +1,153 @@
+[
+    {
+      "id": "1F01S0001",
+      "dqm3_no": "001",
+      "dqm3_name": "スライム",
+      "dqm3_ruby": "すらいむ",
+      "dqm3_rank": "G",
+      "dqm3_family": "スライム系",
+      "dqm3_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/02/DQM3-スライム.webp",
+      "dqm3_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/02/DQM3アイコン-スライム-1.webp",
+      "dqm3_page_url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/#DQM3",
+      "dqm3_mamechishiki": "丸っこいユーモラスな姿から　みんなに癒される　メジャーアイドル級の魔物。見てると　どこかホッとする。",
+  
+      "dqm3_max_stats": {
+        "hp": 1410,
+        "mp": 430,
+        "atk": 460,
+        "def": 370,
+        "spd": 640,
+        "int": 260
+      },
+  
+      "dqm3_obtain_methods": [
+        "野生"
+          ],
+  
+      "dqm3_habitats": [
+        {
+          "area": "人間界・初級",
+          "season": "全季節",
+          "weather": "全天候"
+        },
+        {
+            "area": "煉獄峠の魔界・初級",
+            "season": "全季節",
+            "weather": "全天候"
+          },
+          {
+            "area": "流神殿の魔界・初級",
+            "season": "全季節",
+            "weather": "全天候"
+          }
+      ],
+  
+      "dqm3_drops": {
+        "normal": "IT-05H1N0001",
+        "rare": ""
+      },
+  
+      "dqm3_default_skill": "",
+      "dqm3_wild_skills": ["", ""],
+        
+      "dqm3_traits_s": [
+        { "level": 1, "trait_id": "" },
+        { "level": 20, "trait_id": "" },
+        { "level": 40, "trait_id": "" }
+      ],
+  
+      "dqm3_traits_l": [
+        { "level": 1, "trait_id": "" },
+        { "level": 1, "trait_id": "" },
+        { "level": 60, "trait_id": "" }
+      ],
+  
+      "dqm3_parents": [
+        {
+          "type": "special",
+          "materials": ["", ""]
+        },
+        {
+          "type": "four_body",
+          "materials": ["", ""]
+        }
+      ],
+  
+      "dqm3_children": [
+        {
+          "result_id": "016",
+          "type": "special",
+          "partners": ["437"]
+        },
+        {
+            "result_id": "011",
+            "type": "special",
+            "partners": ["205"]
+        },
+        {
+            "result_id": "018",
+            "type": "special",
+            "partners": ["ドラゴン系"]
+        },
+        {
+            "result_id": "019",
+            "type": "special",
+            "partners": ["魔獣系"]
+        },
+        {
+            "result_id": "030",
+            "type": "special",
+            "partners": ["080"]
+        },
+        {
+            "result_id": "043",
+            "type": "special",
+            "partners": ["385"]
+        }
+      ],
+  
+      "dqm3_resistances_s": {
+        "fire": "0",
+        "water": "50",
+        "wind": "0",
+        "earth": "-25",
+        "explosion": "50",
+        "ice": "0",
+        "thunder": "50",
+        "light": "50",
+        "dark": "-25",
+        "weaken": "25",
+        "dazzle": "50",
+        "seal": "0",
+        "mp_drain": "-25",
+        "confusion": "25",
+        "sleep": "0",
+        "paralyze": "50",
+        "skip_turn": "0",
+        "poison": "25",
+        "death": "0"
+      },
+      "dqm3_resistances_l": {
+        "fire": "0",
+        "water": "50",
+        "wind": "0",
+        "earth": "-25",
+        "explosion": "50",
+        "ice": "0",
+        "thunder": "50",
+        "light": "50",
+        "dark": "-25",
+        "weaken": "25",
+        "dazzle": "50",
+        "seal": "0",
+        "mp_drain": "-25",
+        "confusion": "75",
+        "sleep": "50",
+        "paralyze": "100",
+        "skip_turn": "50",
+        "poison": "75",
+        "death": "50"
+      }
+    }
+  ]
+  

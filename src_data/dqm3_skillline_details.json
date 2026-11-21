@@ -1,0 +1,25 @@
+[
+    {
+      "id": "",
+      "dqm3_page_url": "",
+      "dqm3_name": "スラフォース",
+      "dqm3_ruby": "すらふぉーす",
+      "dqm3_category": "固有",
+      "dqm3_obtain": ["固有スキル", "証アイテム"],
+      "dqm3_learnset": [
+        { "sp": 3,   "type": "skill", "id": "" },
+        { "sp": 10,  "type": "skill", "id": "" },
+        { "sp": 20,  "type": "skill", "id": "" },
+        { "sp": 30,  "type": "skill", "id": "" },
+        { "sp": 50,  "type": "skill", "id": "" },
+        { "sp": 70,  "type": "skill", "id": "" },
+        { "sp": 85,  "type": "skill", "id": "" },
+        { "sp": 100, "type": "trait", "id": "" }
+      ],
+      "dqm3_evolutions": [
+        { "partner_id": "", "result_id": "" }
+      ],      
+      "dqm3_monsters": ["001","007"]
+    }
+  ]
+  

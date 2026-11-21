@@ -1,0 +1,25 @@
+[
+    {
+      "id": "",
+      "dqm3_page_url": "",
+      "dqm3_name": "スライムピアス",
+      "dqm3_ruby": "すらいむぴあす",
+      "dqm3_icon_url": "",
+      "dqm3_description": "スライムの　形をした　かわいいピアス。",
+      "dqm3_stats": {
+        "hp": 0,
+        "mp": 10,
+        "atk": 0,
+        "def": 5,
+        "spd": 5,
+        "int": 0
+      },
+      "dqm3_traits": [
+        ""
+      ],
+      "dqm3_obtain": ["ショップ", "宝箱", "ドロップ"],
+      "dqm3_drop_normal": [],
+      "dqm3_drop_rare": []
+    }
+  ]
+  

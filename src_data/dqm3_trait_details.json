@@ -1,0 +1,35 @@
+[
+    {
+      "id": "",
+      "dqm3_page_url": "",
+      "dqm3_name": "電撃のコツ",
+      "dqm3_ruby": "でんげきのこつ",
+      "dqm3_description": "電撃属性の攻撃が強くなり　消費MPが半分になる。",
+      "dqm3_monsters_s": [
+        { "no": "001", "level": 1 },
+        { "no": "014", "level": 1 },
+        { "no": "046", "level": 40 },
+        { "no": "123", "level": 20 },
+        { "no": "125", "level": 1 },
+        { "no": "128", "level": 1 },
+        { "no": "172", "level": 20 },
+        { "no": "270", "level": 1 },
+        { "no": "287", "level": 20 },
+        { "no": "344", "level": 20 },
+        { "no": "348", "level": 20 },
+        { "no": "364", "level": 1 },
+        { "no": "401", "level": 1 },
+        { "no": "414", "level": 1 },
+        { "no": "455", "level": 1 },
+        { "no": "524", "level": 1 }
+      ],
+      "dqm3_monsters_l": [
+        { "no": "030", "level": 1 },
+        { "no": "063", "level": 60 },
+        { "no": "347", "level": 1 },
+        { "no": "471", "level": 1 }
+      ],
+      "dqm3_skilllines": []
+    }
+  ]
+  
