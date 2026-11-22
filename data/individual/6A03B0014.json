@@ -21,12 +21,18 @@
   "release_date": "2025年10月30日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00715",
+  "zukan_no": "No.00716",
   "prev_id": "6A03B0013",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/03/mythsteed/",
   "next_id": "6A03B0015",
   "next_page_url": "https://dqfan527.xsrv.jp/2025/11/14/wild-hog/",
   "color_variants": [
+    {
+      "id": "2E03B0018",
+      "name": "ひぐれバット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ひぐれバット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/28/higure-bat/"
+    },
     {
       "id": "3D03B0026",
       "name": "ジャイアントバット",

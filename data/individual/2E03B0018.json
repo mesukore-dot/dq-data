@@ -1,0 +1,50 @@
+{
+  "id": "2E03B0018",
+  "name": "ひぐれバット",
+  "furigana": "ひぐればっと",
+  "english_name": "Sunset Sultan",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/28/higure-bat/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ひぐれバット.webp",
+  "monster_family": "よるのていおう族",
+  "search_keywords": [
+    "Sunset Sultan",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQM3",
+  "appearances": [
+    "DQM3"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年12月1日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00165",
+  "prev_id": "2E03B0017",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/mimitobinezumi-dq4/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "color_variants": [
+    {
+      "id": "3D03B0026",
+      "name": "ジャイアントバット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ジャイアントバット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/giant-bat/"
+    },
+    {
+      "id": "4C03B0012",
+      "name": "よるのていおう",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/よるのていおう.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/yorunoteiou/"
+    },
+    {
+      "id": "6A03B0014",
+      "name": "ファットバット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファットバット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/08/fat-bat/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

@@ -36,12 +36,18 @@
   "voice_actor": "-",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00451",
+  "zukan_no": "No.00452",
   "prev_id": "4C03B0011",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/12/raino-soldier/",
   "next_id": "4C03B0013",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/07/13/hanbaba/",
   "color_variants": [
+    {
+      "id": "2E03B0018",
+      "name": "ひぐれバット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ひぐれバット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/28/higure-bat/"
+    },
     {
       "id": "3D03B0026",
       "name": "ジャイアントバット",
