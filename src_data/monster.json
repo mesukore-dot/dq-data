@@ -38,6 +38,149 @@
     "related_characters": []
   },
   {
+    "id": "5B03B0021",
+    "name": "ビヒーモス",
+    "furigana": "びひーもす",
+    "english_name": "Hippopotamiss",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/11/sealed-hipo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ビヒーモス.webp",
+    "monster_family": "シールドヒッポ族",
+    "search_keywords": ["Hippopotamiss","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0031",
+    "name": "シールドヒッポ",
+    "furigana": "しーるどひっぽ",
+    "english_name": "Hippoblockomus",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/11/sealed-hipo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シールドヒッポ.webp",
+    "monster_family": "シールドヒッポ族",
+    "search_keywords": ["Hippoblockomus","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQM4",
+      "DQMB"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0020",
+    "name": "ベロゴンロード",
+    "furigana": "べろごんろーど",
+    "english_name": "Toxtongue",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/11/berogon-lord/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ベロゴンロード.webp",
+    "monster_family": "ベロゴン族",
+    "search_keywords": ["Toxtongue","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0030",
+    "name": "ベロゴン",
+    "furigana": "べろごん",
+    "english_name": "Poxtongue",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/11/berogon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ベロゴン.webp",
+    "monster_family": "ベロゴン族",
+    "search_keywords": ["Poxtongue","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0027",
+    "name": "ガスミンク",
+    "furigana": "がすみんく",
+    "english_name": "Flatulent ferret",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/10/gas-mink/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガスミンク.webp",
+    "monster_family": "くびながイタチ族",
+    "search_keywords": ["Flatulent ferret","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E03B0019",
+    "name": "スカンカー",
+    "furigana": "すかんかー",
+    "english_name": "Foetid ferret",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/10/skunker/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカンカー.webp",
+    "monster_family": "くびながイタチ族",
+    "search_keywords": ["Foetid ferret","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F03B0014",
+    "name": "くびながイタチ",
+    "furigana": "くびながいたち",
+    "english_name": "Funky ferret",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/10/kubinagaitachi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/くびながイタチ.webp",
+    "monster_family": "くびながイタチ族",
+    "search_keywords": ["Funky ferret","公式イラスト待機中"],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5","DQ5_PS2","DQ5_DS",
+      "DQM4"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1992年9月27日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "2E03B0018",
     "name": "ひぐれバット",
     "furigana": "ひぐればっと",
