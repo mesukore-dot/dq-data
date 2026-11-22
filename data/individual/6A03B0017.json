@@ -1,0 +1,52 @@
+{
+  "id": "6A03B0017",
+  "name": "ホワイトライオン",
+  "furigana": "ほわいとらいおん",
+  "english_name": "White Lion",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/06/white-lion/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ホワイトライオン.webp",
+  "monster_family": "ライオンヘッド族",
+  "search_keywords": [
+    "White Lion",
+    "氷・雪",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ3_GBC",
+  "appearances": [
+    "DQ3_GBC",
+    "DQ3_HD2D"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "氷・雪",
+  "other_families": [],
+  "release_date": "2000年12月8日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00714",
+  "prev_id": "6A03B0016",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/silver-bear/",
+  "next_id": "6A04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/27/malign-vine/",
+  "color_variants": [
+    {
+      "id": "3D03B0024",
+      "name": "ライオンヘッド",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ライオンヘッド.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/06/lion-head/"
+    },
+    {
+      "id": "4C03B0029",
+      "name": "ラゴンヌ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ラゴンヌ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/06/ragonnu/"
+    },
+    {
+      "id": "5B03B0019",
+      "name": "マントゴーア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マントゴーア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/06/mantogo-a/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
