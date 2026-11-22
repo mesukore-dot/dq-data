@@ -38,6 +38,72 @@
     "related_characters": []
   },
   {
+    "id": "4C03B0032",
+    "name": "ダーティラビッツ",
+    "furigana": "だーてぃらびっつ",
+    "english_name": "Bad hare",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/18/bad-hare/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダーティラビッツ.webp",
+    "monster_family": "ぬすっとウサギ族",
+    "search_keywords": ["Bad hare","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF","DQ11",
+      "DQMJ3","DQMJ3_P",
+      "DQMSL","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "1F03B0015",
+    "name": "ぬすっとウサギ",
+    "furigana": "ぬすっとうさぎ",
+    "english_name": "Robber rabbit",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/28/nusutto-usagi/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ぬすっとウサギ.webp",
+    "monster_family": "ぬすっとウサギ族",
+    "search_keywords": ["Robber rabbit","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF","DQ11",
+      "DQM3","DQMJ3","DQMJ3_P",
+      "DQMSL","RIV","WALK","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E03B0020",
+    "name": "あらくれチャッピー",
+    "furigana": "あらくれちゃっぴー",
+    "english_name": "Wild chappy",
+    "page_url": "https://dqfan527.xsrv.jp/2023/08/11/sealed-hipo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/あらくれチャッピー.webp",
+    "monster_family": "ぬすっとウサギ族",
+    "search_keywords": ["Wild chappy","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF","DQ11",
+      "DQM2_3DS","DQM2_SP","DQM3","DQMJ3","DQMJ3_P",
+      "DQMSL","STAR","RIV","WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C07W0006",
     "name": "ウパパロン",
     "furigana": "うぱぱろん",
