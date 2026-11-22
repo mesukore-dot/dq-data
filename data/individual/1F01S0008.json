@@ -1,37 +1,5 @@
 {
   "id": "1F01S0008",
-  "name": "スライムツリー",
-  "furigana": "すらいむつりー",
-  "english_name": "Buddy slime",
-  "chinese_name": "树史莱姆",
-  "page_url": "https://dqfan527.xsrv.jp/2023/09/17/slime-tree/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スライムツリー01.webp",
-  "monster_family": "スライムツリー族",
-  "search_keywords": [
-    "Buddy slime",
-    "公式イラストあり"
-  ],
-  "first_appearance": "DQM1",
-  "appearances": [
-    "DQM1",
-    "DQM1_3DS",
-    "DQM1_SP",
-    "DQM2",
-    "DQM2_3DS",
-    "DQM2_SP",
-    "DQM3",
-    "DQM4",
-    "RIV"
-  ],
-  "main_family": "スライム系",
-  "sub_family": "-",
-  "other_families": [],
-  "release_date": "1998年9月25日",
-  "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
-  "related_characters": [],
   "dqm3_no": "004",
   "dqm3_name": "スライムツリー",
   "dqm3_ruby": "すらいむつりー",
@@ -158,6 +126,38 @@
     "poison": "50",
     "death": "50"
   },
+  "name": "スライムツリー",
+  "furigana": "すらいむつりー",
+  "english_name": "Buddy slime",
+  "chinese_name": "树史莱姆",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/17/slime-tree/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スライムツリー01.webp",
+  "monster_family": "スライムツリー族",
+  "search_keywords": [
+    "Buddy slime",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM1",
+  "appearances": [
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "RIV"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1998年9月25日",
+  "voice_actor": "-",
+  "related_items": [
+    "-"
+  ],
+  "related_characters": [],
   "zukan_no": "No.00009",
   "prev_id": "1F01S0007",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/18/mandora/",
