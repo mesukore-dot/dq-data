@@ -38,6 +38,28 @@
     "related_characters": []
   },
   {
+    "id": "1F02D0009",
+    "name": "スマイルリザード",
+    "furigana": "すまいるりざーど",
+    "english_name": "Raptile",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/25/smile-lizard/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマイルリザード.webp",
+    "monster_family": "スマイルリザード族",
+    "search_keywords": ["Raptile","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ3","DQMJ3_P",
+      "DQMSL","STAR"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "7S02D0011",
     "name": "アメジストワーム",
     "furigana": "あめじすとわーむ",
