@@ -38,6 +38,91 @@
     "related_characters": []
   },
   {
+    "id": "5B03B0017",
+    "name": "コング",
+    "furigana": "こんぐ",
+    "english_name": "Smackanape",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/05/kong/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/コング.webp",
+    "monster_family": "あばれザル族",
+    "search_keywords": ["Smackanape","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D",
+      "STAR"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0028",
+    "name": "キラーエイプ",
+    "furigana": "きらーえいぷ",
+    "english_name": "Whackanape",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/05/killer-ape/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キラーエイプ.webp",
+    "monster_family": "あばれザル族",
+    "search_keywords": ["Whackanape","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQMCH","DQMJ2_P",
+      "STAR","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0022",
+    "name": "あばれザル",
+    "furigana": "あばれざる",
+    "english_name": "Jacknape",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/05/abarezaru/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/あばれザル.webp",
+    "monster_family": "あばれザル族",
+    "search_keywords": ["Jacknape","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D",
+      "STAR","RIV"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D03B0021",
+    "name": "キャットバット",
+    "furigana": "きゃっとばっと",
+    "english_name": "Catula",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/14/wild-hog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キャットバット.webp",
+    "monster_family": "キャットフライ族",
+    "search_keywords": ["Catula","公式イラスト待機中"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ10","DQ10_OFF",
+      "DQMSL","STAR","RIV","WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A03B0015",
     "name": "ワイルドホッグ",
     "furigana": "わいるどほっぐ",
