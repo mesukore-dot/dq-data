@@ -25,6 +25,19 @@
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/04/01/scorching-dragon/",
   "next_id": "7S03B0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成29年）2017年7月29日「ドラゴンクエストXI 過ぎ去りし時を求めて（DQ11）」から登場。",
+      "works_count": "1作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "背中に　美しい宝石が生えた　神秘の巨竜。その宝石には　絶大な魔力がこめれらている。",
+      "ability": "トゲミサイルや　マホステを使うほか　はげしいたつまきを起こす。洞くつ内は　大荒れの模様。",
+      "habitat": "伝説の鉱石がとれる　まぼろしの採掘場に生息している。その中でも　ヌシのような存在で　封印された場所で　ねむっている。",
+      "ecology": "洞くつにある原石をまるのみし　体内で　紫色の宝石アメジストを精製する。その宝石は　神話時代の武具にも　つかわれたという。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "5B02D0025",
