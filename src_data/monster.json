@@ -38,6 +38,90 @@
     "related_characters": []
   },
   {
+    "id": "3D03B0024",
+    "name": "ライオンヘッド",
+    "furigana": "らいおんへっど",
+    "english_name": "Infanticore",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/lion-head/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ライオンヘッド.webp",
+    "monster_family": "ライオンヘッド族",
+    "search_keywords": ["Infanticore","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ7_RM","DQ11",
+      "DQM2_3DS","DQM2_SP",
+      "DQMSL","STAR","WALK","TACT","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0029",
+    "name": "ラゴンヌ",
+    "furigana": "らごんぬ",
+    "english_name": "Manticore",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/ragonnu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ラゴンヌ.webp",
+    "monster_family": "ライオンヘッド族",
+    "search_keywords": ["Manticore","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ7_RM","DQ11",
+      "STAR","WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0019",
+    "name": "マントゴーア",
+    "furigana": "まんとごーあ",
+    "english_name": "Franticore",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/mantogo-a/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マントゴーア.webp",
+    "monster_family": "ライオンヘッド族",
+    "search_keywords": ["Franticore","公式イラスト待機中"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ7_RM","DQ11",
+      "DQMSL","STAR","KSKS"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A03B0017",
+    "name": "ホワイトライオン",
+    "furigana": "ほわいとらいおん",
+    "english_name": "White Lion",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/06/white-lion/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ホワイトライオン.webp",
+    "monster_family": "ライオンヘッド族",
+    "search_keywords": ["White Lion","氷・雪","公式イラスト待機中"],
+    "first_appearance": "DQ3_GBC",
+    "appearances": [
+      "DQ3_GBC","DQ3_HD2D"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "氷・雪",
+    "other_families": [],
+    "release_date": "2000年12月8日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A03B0016",
     "name": "シルバーベア",
     "furigana": "しるばーべあ",
