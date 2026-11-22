@@ -1,0 +1,50 @@
+{
+  "id": "1F03B0012",
+  "name": "おおありくい",
+  "furigana": "おおありくい",
+  "english_name": "Antnibbler",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/05/ooarikui/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おおありくい.webp",
+  "monster_family": "おおありくい族",
+  "search_keywords": [
+    "Antnibbler",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "STAR",
+    "RIV"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00041",
+  "prev_id": "1F03B0011",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/06/13/wanwan-duck/",
+  "next_id": "1F04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/28/bushy-baby/",
+  "color_variants": [
+    {
+      "id": "2E03B0016",
+      "name": "おばけありくい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/おばけありくい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/obakearikui/"
+    },
+    {
+      "id": "3D03B0023",
+      "name": "アントベア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アントベア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/ant-bear/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

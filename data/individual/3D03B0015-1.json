@@ -27,7 +27,7 @@
   "related_characters": [
     "3D03B0019"
   ],
-  "zukan_no": "No.00293",
+  "zukan_no": "No.00295",
   "prev_id": "3D03B0015",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/gouketuguma/",
   "next_id": "3D03B0016",
@@ -44,6 +44,18 @@
       "name": "グリズリー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グリズリー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/18/grizzly/"
+    },
+    {
+      "id": "5B03B0018",
+      "name": "ダースリカント",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダースリカント.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/dars-rikanto/"
+    },
+    {
+      "id": "6A03B0016",
+      "name": "シルバーベア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シルバーベア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/silver-bear/"
     }
   ],
   "related_items_details": [],
