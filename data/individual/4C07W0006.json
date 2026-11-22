@@ -1,0 +1,48 @@
+{
+  "id": "4C07W0006",
+  "name": "ウパパロン",
+  "furigana": "うぱぱろん",
+  "english_name": "Axolhoti",
+  "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upaparon/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウパパロン.webp",
+  "monster_family": "ウパソルジャー族",
+  "search_keywords": [
+    "Axolhoti",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ9",
+  "appearances": [
+    "DQ9",
+    "DQMJ3_P",
+    "MRMR3",
+    "DQMSL",
+    "TACT"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2009年7月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00496",
+  "prev_id": "4C07W0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/whale-mage/",
+  "next_id": "4C08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/17/yoroinokishi/",
+  "color_variants": [
+    {
+      "id": "2E07W0005",
+      "name": "ウパソルジャー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウパソルジャー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upa-soldier/"
+    },
+    {
+      "id": "3D07W0008",
+      "name": "かいぞくウーパー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/かいぞくウーパー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upa-soldier/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

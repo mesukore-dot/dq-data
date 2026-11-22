@@ -312,6 +312,36 @@
     "zukan_no": "No.00189"
   },
   {
+    "id": "2E07W0005",
+    "name": "ウパソルジャー",
+    "furigana": "うぱそるじゃー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upa-soldier/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウパソルジャー.webp",
+    "search_keywords": [
+      "Wooper Trooper",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQ10",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM4",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMSL",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00190"
+  },
+  {
     "id": "3D07W0001",
     "name": "しびれくらげ",
     "furigana": "しびれくらげ",
@@ -364,7 +394,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00337"
+    "zukan_no": "No.00338"
   },
   {
     "id": "3D07W0002",
@@ -402,7 +432,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00338"
+    "zukan_no": "No.00339"
   },
   {
     "id": "3D07W0003",
@@ -431,7 +461,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00339"
+    "zukan_no": "No.00340"
   },
   {
     "id": "3D07W0004",
@@ -461,7 +491,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00340"
+    "zukan_no": "No.00341"
   },
   {
     "id": "3D07W0005",
@@ -482,7 +512,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00341"
+    "zukan_no": "No.00342"
   },
   {
     "id": "3D07W0006",
@@ -504,7 +534,49 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00342"
+    "zukan_no": "No.00343"
+  },
+  {
+    "id": "3D07W0007",
+    "name": "ニードルオクト",
+    "furigana": "にーどるおくと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/29/needle-octopus/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ニードルオクト.webp",
+    "search_keywords": [
+      "Knocktopus",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00344"
+  },
+  {
+    "id": "3D07W0008",
+    "name": "かいぞくウーパー",
+    "furigana": "かいぞくうーぱー",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upa-soldier/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/かいぞくウーパー.webp",
+    "search_keywords": [
+      "Salamarauder",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQ10",
+      "DQMSL",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00345"
   },
   {
     "id": "4C07W0001",
@@ -529,7 +601,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00488"
+    "zukan_no": "No.00491"
   },
   {
     "id": "4C07W0002",
@@ -550,7 +622,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00489"
+    "zukan_no": "No.00492"
   },
   {
     "id": "4C07W0003",
@@ -574,7 +646,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00490"
+    "zukan_no": "No.00493"
   },
   {
     "id": "4C07W0004",
@@ -592,7 +664,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00491"
+    "zukan_no": "No.00494"
   },
   {
     "id": "4C07W0005",
@@ -616,7 +688,30 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00492"
+    "zukan_no": "No.00495"
+  },
+  {
+    "id": "4C07W0006",
+    "name": "ウパパロン",
+    "furigana": "うぱぱろん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upaparon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウパパロン.webp",
+    "search_keywords": [
+      "Axolhoti",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQMJ3_P",
+      "MRMR3",
+      "DQMSL",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00496"
   },
   {
     "id": "5B07W0001",
@@ -634,7 +729,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年9月9日",
-    "zukan_no": "No.00633"
+    "zukan_no": "No.00637"
   },
   {
     "id": "5B07W0002",
@@ -658,7 +753,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00634"
+    "zukan_no": "No.00638"
   },
   {
     "id": "6A07W0001",
@@ -679,7 +774,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00737"
+    "zukan_no": "No.00741"
   },
   {
     "id": "6A07W0002",
@@ -700,7 +795,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2018年2月21日",
-    "zukan_no": "No.00738"
+    "zukan_no": "No.00742"
   },
   {
     "id": "6A07W0003",
@@ -719,7 +814,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00739"
+    "zukan_no": "No.00743"
   },
   {
     "id": "7S07W0001",
@@ -761,7 +856,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00811"
+    "zukan_no": "No.00815"
   },
   {
     "id": "8SS07W0001",
@@ -796,7 +891,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00855"
+    "zukan_no": "No.00859"
   },
   {
     "id": "9X07W0001",
@@ -822,7 +917,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00888"
+    "zukan_no": "No.00892"
   },
   {
     "id": "CPM-CO07W0001",
@@ -842,7 +937,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2023年11月14日",
-    "zukan_no": "No.00911"
+    "zukan_no": "No.00915"
   },
   {
     "id": "CPM-MV07W0001",
@@ -862,6 +957,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00916"
+    "zukan_no": "No.00920"
   }
 ]
