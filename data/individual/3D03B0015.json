@@ -30,7 +30,7 @@
   "release_date": "1988年2月10日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00292",
+  "zukan_no": "No.00294",
   "prev_id": "3D03B0014",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/03/11/clawcerer/",
   "next_id": "3D03B0015-1",
@@ -47,6 +47,18 @@
       "name": "グリズリー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/グリズリー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/04/18/grizzly/"
+    },
+    {
+      "id": "5B03B0018",
+      "name": "ダースリカント",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダースリカント.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/dars-rikanto/"
+    },
+    {
+      "id": "6A03B0016",
+      "name": "シルバーベア",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シルバーベア.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/05/silver-bear/"
     }
   ],
   "related_items_details": [],
