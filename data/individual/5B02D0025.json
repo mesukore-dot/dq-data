@@ -37,7 +37,20 @@
       }
     }
   ],
-  "color_variants": [],
+  "color_variants": [
+    {
+      "id": "6A02D0012",
+      "name": "コーラルモンス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/コーラルモンス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/22/coral-mons/"
+    },
+    {
+      "id": "7S02D0011",
+      "name": "アメジストワーム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アメジストワーム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/22/crystalotl/"
+    }
+  ],
   "related_items_details": [],
   "related_characters_details": []
 }
