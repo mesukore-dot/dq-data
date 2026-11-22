@@ -38,6 +38,51 @@
     "related_characters": []
   },
   {
+    "id": "3D07W0006",
+    "name": "サンダーフロッグ",
+    "furigana": "さんだーふろっぐ",
+    "english_name": "Thunder Frog",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/thunder-frog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/サンダーフロッグ.webp",
+    "monster_family": "スマイルリザード族",
+    "search_keywords": ["Thunder Frog","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQM3",
+      "DQBS"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C02D0024",
+    "name": "ファンキードラゴ",
+    "furigana": "ふぁんきーどらご",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/22/funky-drago/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファンキードラゴ.webp",
+    "monster_family": "スマイルリザード族",
+    "search_keywords": ["公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "DQMJ3","DQMJ3_P",
+      "DQBS",
+      "DQMSL"
+    ],
+    "main_family": "ドラゴン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2012年8月2日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "1F02D0009",
     "name": "スマイルリザード",
     "furigana": "すまいるりざーど",
