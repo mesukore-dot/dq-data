@@ -38,6 +38,92 @@
     "related_characters": []
   },
   {
+    "id": "4C07W0006",
+    "name": "ウパパロン",
+    "furigana": "うぱぱろん",
+    "english_name": "Axolhoti",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upaparon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウパパロン.webp",
+    "monster_family": "ウパソルジャー族",
+    "search_keywords": ["Axolhoti","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQMJ3_P",
+      "MRMR3",
+      "DQMSL","TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D07W0008",
+    "name": "かいぞくウーパー",
+    "furigana": "かいぞくうーぱー",
+    "english_name": "Salamarauder",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upa-soldier/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/かいぞくウーパー.webp",
+    "monster_family": "ウパソルジャー族",
+    "search_keywords": ["Salamarauder","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9","DQ10",
+      "DQMSL","RIV","TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D07W0007",
+    "name": "ニードルオクト",
+    "furigana": "にーどるおくと",
+    "english_name": "Knocktopus",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/29/needle-octopus/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ニードルオクト.webp",
+    "monster_family": "ニードルオクト族",
+    "search_keywords": ["Knocktopus","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E07W0005",
+    "name": "ウパソルジャー",
+    "furigana": "うぱそるじゃー",
+    "english_name": "Wooper Trooper",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/07/upa-soldier/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ウパソルジャー.webp",
+    "monster_family": "ウパソルジャー族",
+    "search_keywords": ["Wooper Trooper","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9","DQ10",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM4","DQMJ2_P","DQMJ3_P",
+      "DQMSL","RIV","TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "3D07W0006",
     "name": "サンダーフロッグ",
     "furigana": "さんだーふろっぐ",
