@@ -1,0 +1,47 @@
+{
+  "id": "2E03B0017",
+  "name": "みみとびねずみ",
+  "furigana": "みみとびねずみ",
+  "english_name": "Mouseflap",
+  "page_url": "https://dqfan527.xsrv.jp/2023/07/11/mimitobinezumi-dq4/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/みみとびねずみ（DQ4）.webp",
+  "monster_family": "エアラット族",
+  "search_keywords": [
+    "Mouseflap",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ4",
+  "appearances": [
+    "DQ4",
+    "DQ4_PS",
+    "DQM3",
+    "DQMSL"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1990年2月11日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00164",
+  "prev_id": "2E03B0016",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/05/obakearikui/",
+  "next_id": "2E04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/30/maneater/",
+  "color_variants": [
+    {
+      "id": "1F03B0013",
+      "name": "エアラット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エアラット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/air-rat-2/"
+    },
+    {
+      "id": "3D03B0025",
+      "name": "エビルハムスター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルハムスター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/11/ebill-hamustar/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

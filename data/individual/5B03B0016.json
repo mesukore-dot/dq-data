@@ -21,7 +21,7 @@
   "release_date": "2025年10月30日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00603",
+  "zukan_no": "No.00607",
   "prev_id": "5B03B0015",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/06/big-horn/",
   "next_id": "5B03B0017",
@@ -38,6 +38,12 @@
       "name": "ライノソルジャー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ライノソルジャー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/07/12/raino-soldier/"
+    },
+    {
+      "id": "6A03B0018",
+      "name": "ライノスキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ライノスキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/12/rainos-king/"
     }
   ],
   "related_items_details": [],
