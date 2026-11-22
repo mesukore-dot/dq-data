@@ -26,12 +26,18 @@
   "release_date": "1990年2月11日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00308",
+  "zukan_no": "No.00309",
   "prev_id": "3D03B0025",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/11/ebill-hamustar/",
   "next_id": "3D04P0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
   "color_variants": [
+    {
+      "id": "2E03B0018",
+      "name": "ひぐれバット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ひぐれバット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/28/higure-bat/"
+    },
     {
       "id": "4C03B0012",
       "name": "よるのていおう",
