@@ -38,6 +38,86 @@
     "related_characters": []
   },
   {
+    "id": "6A03B0015",
+    "name": "ワイルドホッグ",
+    "furigana": "わいるどほっぐ",
+    "english_name": "Wild Hog",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/14/wild-hog/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ワイルドホッグ.webp",
+    "monster_family": "イノブタマン族",
+    "search_keywords": ["Wild Hog","ボス","公式イラスト待機中"],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2025年10月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "6A03B0014",
+    "name": "ファットバット",
+    "furigana": "ふぁっとばっと",
+    "english_name": "Brute Bat",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/08/fat-bat/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファットバット.webp",
+    "monster_family": "よるのていおう族",
+    "search_keywords": ["Brute Bat","ボス","公式イラスト待機中"],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2025年10月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C03B0027",
+    "name": "ネコノマンサー",
+    "furigana": "ねこのまんさー",
+    "english_name": "Nekomancer",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/08/nekono-mansa/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ネコノマンサー.webp",
+    "monster_family": "ねこまどう族",
+    "search_keywords": ["Nekomancer","ボス","公式イラスト待機中"],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2025年10月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B03B0016",
+    "name": "パープルライノ",
+    "furigana": "ぱーぷるらいの",
+    "english_name": "Winoceros",
+    "page_url": "https://dqfan527.xsrv.jp/2025/11/07/purple-rino/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/パープルライノ.webp",
+    "monster_family": "サイおとこ族",
+    "search_keywords": ["Winoceros","ボス","公式イラスト待機中"],
+    "first_appearance": "DQ2_HD2D",
+    "appearances": [
+      "DQ2_HD2D"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2025年10月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B03B0015",
     "name": "ビッグホーン",
     "furigana": "びっぐほーん",
