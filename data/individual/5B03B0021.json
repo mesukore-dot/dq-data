@@ -1,0 +1,40 @@
+{
+  "id": "5B03B0021",
+  "name": "ビヒーモス",
+  "furigana": "びひーもす",
+  "english_name": "Hippopotamiss",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/11/sealed-hipo/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ビヒーモス.webp",
+  "monster_family": "シールドヒッポ族",
+  "search_keywords": [
+    "Hippopotamiss",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00618",
+  "prev_id": "5B03B0020",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/08/11/berogon-lord/",
+  "next_id": "5B04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/09/27/ubergine/",
+  "color_variants": [
+    {
+      "id": "4C03B0031",
+      "name": "シールドヒッポ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シールドヒッポ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/11/sealed-hipo/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
