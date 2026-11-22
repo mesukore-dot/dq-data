@@ -1,0 +1,47 @@
+{
+  "id": "3D07W0006",
+  "name": "サンダーフロッグ",
+  "furigana": "さんだーふろっぐ",
+  "english_name": "Thunder Frog",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/thunder-frog/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/サンダーフロッグ.webp",
+  "monster_family": "スマイルリザード族",
+  "search_keywords": [
+    "Thunder Frog",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ10",
+  "appearances": [
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQBS"
+  ],
+  "main_family": "水系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2012年8月2日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00342",
+  "prev_id": "3D07W0005",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/03/25/ikazukin/",
+  "next_id": "3D08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/08/shaman/",
+  "color_variants": [
+    {
+      "id": "1F02D0009",
+      "name": "スマイルリザード",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマイルリザード.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/25/smile-lizard/"
+    },
+    {
+      "id": "4C02D0024",
+      "name": "ファンキードラゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファンキードラゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/22/funky-drago/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
