@@ -1,0 +1,44 @@
+{
+  "id": "7S02D0011",
+  "name": "アメジストワーム",
+  "furigana": "あめじすとわーむ",
+  "english_name": "Crystalotl",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/22/crystalotl/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/アメジストワーム.webp",
+  "monster_family": "サバクくじら族",
+  "search_keywords": [
+    "Crystalotl",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ11"
+  ],
+  "main_family": "ドラゴン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00799",
+  "prev_id": "7S02D0010",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/04/01/scorching-dragon/",
+  "next_id": "7S03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/11/purrgatroyd/",
+  "color_variants": [
+    {
+      "id": "5B02D0025",
+      "name": "サバクくじら",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/サバクくじら.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/18/sabaku-kujira/"
+    },
+    {
+      "id": "6A02D0012",
+      "name": "コーラルモンス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/コーラルモンス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/22/coral-mons/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
