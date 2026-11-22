@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "5B01S0033",
+    "name": "コスモキャンディ",
+    "furigana": "こすもきゃんでぃ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/23/cosmo-candy/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/コスモキャンディ.webp",
+    "monster_family": "こんぺいとう族",
+    "search_keywords": ["たべもの","公式イラストあり"],
+    "first_appearance": "DQM4",
+    "appearances": [
+      "DQM4"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2026年12月3日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C03B0032",
     "name": "ダーティラビッツ",
     "furigana": "だーてぃらびっつ",
