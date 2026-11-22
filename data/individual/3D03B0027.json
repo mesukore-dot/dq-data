@@ -1,0 +1,46 @@
+{
+  "id": "3D03B0027",
+  "name": "ガスミンク",
+  "furigana": "がすみんく",
+  "english_name": "Flatulent ferret",
+  "page_url": "https://dqfan527.xsrv.jp/2023/08/10/gas-mink/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガスミンク.webp",
+  "monster_family": "くびながイタチ族",
+  "search_keywords": [
+    "Flatulent ferret",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ5",
+  "appearances": [
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1992年9月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00312",
+  "prev_id": "3D03B0026",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/07/12/giant-bat/",
+  "next_id": "3D04P0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/05/29/jinmenju/",
+  "color_variants": [
+    {
+      "id": "1F03B0014",
+      "name": "くびながイタチ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/くびながイタチ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/kubinagaitachi/"
+    },
+    {
+      "id": "2E03B0019",
+      "name": "スカンカー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スカンカー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/skunker/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
