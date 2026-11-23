@@ -6079,6 +6079,66 @@
     "zukan_no": "No.00930"
   },
   {
+    "id": "CPM-QSR_YS01S0001",
+    "name": "どんぶりスライム",
+    "furigana": "どんぶりすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
+    "search_keywords": [
+      "吉野家",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00931"
+  },
+  {
+    "id": "CPM-QSR_YS01S0002",
+    "name": "つゆだくスライム",
+    "furigana": "つゆだくすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
+    "search_keywords": [
+      "吉野家",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00932"
+  },
+  {
+    "id": "CPM-QSR_YS01S0003",
+    "name": "どんぶりキング",
+    "furigana": "どんぶりきんぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
+    "search_keywords": [
+      "吉野家",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00933"
+  },
+  {
     "id": "CPM-SP01S0001",
     "name": "DDスライム",
     "furigana": "だいやもんどどるふぃんずすらいむ",
@@ -6097,7 +6157,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月12日",
-    "zukan_no": "No.00931"
+    "zukan_no": "No.00934"
   },
   {
     "id": "CPM-SP01S0002",
@@ -6118,7 +6178,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月7日",
-    "zukan_no": "No.00932"
+    "zukan_no": "No.00935"
   },
   {
     "id": "CPM-VJ01S0001",
@@ -6139,7 +6199,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年4月21日",
-    "zukan_no": "No.00933"
+    "zukan_no": "No.00936"
   },
   {
     "id": "CPM-VJ01S0002",
@@ -6159,66 +6219,6 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年7月18日",
-    "zukan_no": "No.00934"
-  },
-  {
-    "id": "CPM-YS01S0001",
-    "name": "どんぶりスライム",
-    "furigana": "どんぶりすらいむ",
-    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
-    "search_keywords": [
-      "吉野家",
-      "コラボ",
-      "公式イラストあり"
-    ],
-    "first_appearance": "WALK",
-    "appearances": [
-      "WALK"
-    ],
-    "main_family": "スライム系",
-    "sub_family": "-",
-    "release_date": "2026年7月1日",
-    "zukan_no": "No.00935"
-  },
-  {
-    "id": "CPM-YS01S0002",
-    "name": "つゆだくスライム",
-    "furigana": "つゆだくすらいむ",
-    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
-    "search_keywords": [
-      "吉野家",
-      "コラボ",
-      "公式イラストあり"
-    ],
-    "first_appearance": "WALK",
-    "appearances": [
-      "WALK"
-    ],
-    "main_family": "スライム系",
-    "sub_family": "-",
-    "release_date": "2026年7月1日",
-    "zukan_no": "No.00936"
-  },
-  {
-    "id": "CPM-YS01S0003",
-    "name": "どんぶりキング",
-    "furigana": "どんぶりきんぐ",
-    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
-    "search_keywords": [
-      "吉野家",
-      "コラボ",
-      "公式イラストあり"
-    ],
-    "first_appearance": "WALK",
-    "appearances": [
-      "WALK"
-    ],
-    "main_family": "スライム系",
-    "sub_family": "-",
-    "release_date": "2026年7月1日",
     "zukan_no": "No.00937"
   }
 ]
