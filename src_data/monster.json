@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "CPM-GGL01S0001",
+    "name": "スラミィ",
+    "furigana": "すらみぃ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スラミィ.webp",
+    "monster_family": "スライム族",
+    "search_keywords": ["おしゃべりスラミィ","Google","コラボ","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2026年4月20日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "5B01S0033",
     "name": "コスモキャンディ",
     "furigana": "こすもきゃんでぃ",
@@ -3561,7 +3581,7 @@
     "related_characters": []
   },
   {
-    "id": "CPM-CO07W0001",
+    "id": "CPM-DL_CO07W0001",
     "name": "グレープマーマン",
     "furigana": "ぐれーぷまーまん",
     "english_name": "-",
@@ -4077,7 +4097,7 @@
     "related_characters": []
   },
   {
-    "id": "CPM-CO01S0003",
+    "id": "CPM-DL_CO01S0003",
     "name": "Coke ONコラボ大王",
     "furigana": "こーくおんこらぼだいおう",
     "english_name": "-",
@@ -15290,7 +15310,7 @@
     "related_characters": []
   },
        {
-    "id": "CPM-CO01S0002",
+    "id": "CPM-DL_CO01S0002",
     "name": "かじゅうナイト",
     "furigana": "かじゅうないと",
     "english_name": "",
@@ -15311,7 +15331,7 @@
     "related_characters": []
   },
        {
-    "id": "CPM-CO01S0001",
+    "id": "CPM-DL_CO01S0001",
     "name": "エナジーバブル",
     "furigana": "えなじーばぶる",
     "english_name": "",
