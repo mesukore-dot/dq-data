@@ -5852,7 +5852,7 @@
     "zukan_no": "No.00915"
   },
   {
-    "id": "CPM-CO01S0001",
+    "id": "CPM-DL_CO01S0001",
     "name": "エナジーバブル",
     "furigana": "えなじーばぶる",
     "page_url": "https://dqfan527.xsrv.jp/2023/03/15/energy-bubble/",
@@ -5872,7 +5872,7 @@
     "zukan_no": "No.00916"
   },
   {
-    "id": "CPM-CO01S0002",
+    "id": "CPM-DL_CO01S0002",
     "name": "かじゅうナイト",
     "furigana": "かじゅうないと",
     "page_url": "https://dqfan527.xsrv.jp/2025/10/30/kaju-knight/",
@@ -5892,7 +5892,7 @@
     "zukan_no": "No.00917"
   },
   {
-    "id": "CPM-CO01S0003",
+    "id": "CPM-DL_CO01S0003",
     "name": "Coke ONコラボ大王",
     "furigana": "こーくおんこらぼだいおう",
     "page_url": "https://dqfan527.xsrv.jp/2023/03/15/cokeon-collaboration-daiou/",
@@ -5910,6 +5910,27 @@
     "sub_family": "-",
     "release_date": "2022年12月3日",
     "zukan_no": "No.00918"
+  },
+  {
+    "id": "CPM-GGL01S0001",
+    "name": "スラミィ",
+    "furigana": "すらみぃ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スラミィ.webp",
+    "search_keywords": [
+      "おしゃべりスラミィ",
+      "Google",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年4月20日",
+    "zukan_no": "No.00920"
   },
   {
     "id": "CPM-ISL01S0001",
@@ -5931,7 +5952,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00920"
+    "zukan_no": "No.00921"
   },
   {
     "id": "CPM-ISL01S0002",
@@ -5951,7 +5972,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00921"
+    "zukan_no": "No.00922"
   },
   {
     "id": "CPM-ISL01S0003",
@@ -5972,7 +5993,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00922"
+    "zukan_no": "No.00923"
   },
   {
     "id": "CPM-MC01S0001",
@@ -5993,7 +6014,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00923"
+    "zukan_no": "No.00924"
   },
   {
     "id": "CPM-SP01S0001",
@@ -6014,7 +6035,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月12日",
-    "zukan_no": "No.00925"
+    "zukan_no": "No.00926"
   },
   {
     "id": "CPM-SP01S0002",
@@ -6035,7 +6056,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月7日",
-    "zukan_no": "No.00926"
+    "zukan_no": "No.00927"
   },
   {
     "id": "CPM-VJ01S0001",
@@ -6056,7 +6077,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年4月21日",
-    "zukan_no": "No.00927"
+    "zukan_no": "No.00928"
   },
   {
     "id": "CPM-VJ01S0002",
@@ -6076,7 +6097,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年7月18日",
-    "zukan_no": "No.00928"
+    "zukan_no": "No.00929"
   },
   {
     "id": "CPM-YS01S0001",
@@ -6096,7 +6117,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00929"
+    "zukan_no": "No.00930"
   },
   {
     "id": "CPM-YS01S0002",
@@ -6116,7 +6137,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00930"
+    "zukan_no": "No.00931"
   },
   {
     "id": "CPM-YS01S0003",
@@ -6136,6 +6157,6 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00931"
+    "zukan_no": "No.00932"
   }
 ]

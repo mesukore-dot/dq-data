@@ -25,7 +25,7 @@
   "zukan_no": "No.00915",
   "prev_id": "9X14Q2MJ30004-1",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/10/makaishin-madexuraja/",
-  "next_id": "CPM-CO01S0001",
+  "next_id": "CPM-DL_CO01S0001",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/03/15/energy-bubble/",
   "mamechishiki_pages": [
     {
@@ -230,6 +230,12 @@
       "name": "スラクト",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/スラクト.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/"
+    },
+    {
+      "id": "CPM-GGL01S0001",
+      "name": "スラミィ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スラミィ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/"
     },
     {
       "id": "CPM-ISL01S0001",
