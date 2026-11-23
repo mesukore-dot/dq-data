@@ -22,7 +22,7 @@
   "release_date": "2021年5月7日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00930",
+  "zukan_no": "No.00931",
   "prev_id": "CPM-SP01S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
   "next_id": "CPM-VJ01S0001",
@@ -75,6 +75,12 @@
       "name": "ジェノライダー",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ジェノライダー.webp",
       "page_url": "https://dqfan527.xsrv.jp/2025/09/30/geno-rider/"
+    },
+    {
+      "id": "CPM-CVS_FM01S0001",
+      "name": "ファミリナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファミリナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/23/family-mart-slime-knight/"
     },
     {
       "id": "CPM-DL_CO01S0002",
