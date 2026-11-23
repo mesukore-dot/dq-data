@@ -5832,26 +5832,6 @@
     "zukan_no": "No.00885"
   },
   {
-    "id": "CPM-3101S0001",
-    "name": "ポッピングシャワースライム",
-    "furigana": "ぽっぴんぐしゃわーすらいむ",
-    "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/",
-    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
-    "search_keywords": [
-      "サーティーワン31コラボ",
-      "たべもの",
-      "公式イラストあり"
-    ],
-    "first_appearance": "-",
-    "appearances": [
-      "-"
-    ],
-    "main_family": "スライム系",
-    "sub_family": "-",
-    "release_date": "2026年6月1日",
-    "zukan_no": "No.00915"
-  },
-  {
     "id": "CPM-CVS_FM01S0001",
     "name": "ファミリナイト",
     "furigana": "ふぁみりないと",
@@ -5872,7 +5852,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00916"
+    "zukan_no": "No.00915"
   },
   {
     "id": "CPM-CVS_LW01S0001",
@@ -5891,7 +5871,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2020年10月27日",
-    "zukan_no": "No.00917"
+    "zukan_no": "No.00916"
   },
   {
     "id": "CPM-DL_CO01S0001",
@@ -5911,7 +5891,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年11月1日",
-    "zukan_no": "No.00920"
+    "zukan_no": "No.00919"
   },
   {
     "id": "CPM-DL_CO01S0002",
@@ -5931,7 +5911,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00921"
+    "zukan_no": "No.00920"
   },
   {
     "id": "CPM-DL_CO01S0003",
@@ -5951,7 +5931,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年12月3日",
-    "zukan_no": "No.00922"
+    "zukan_no": "No.00921"
   },
   {
     "id": "CPM-GGL01S0001",
@@ -5972,7 +5952,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月20日",
-    "zukan_no": "No.00924"
+    "zukan_no": "No.00923"
   },
   {
     "id": "CPM-ISL01S0001",
@@ -5994,7 +5974,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00925"
+    "zukan_no": "No.00924"
   },
   {
     "id": "CPM-ISL01S0002",
@@ -6014,7 +5994,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00926"
+    "zukan_no": "No.00925"
   },
   {
     "id": "CPM-ISL01S0003",
@@ -6035,10 +6015,30 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00927"
+    "zukan_no": "No.00926"
   },
   {
-    "id": "CPM-MC01S0001",
+    "id": "CPM-QSR_3101S0001",
+    "name": "ポッピングシャワースライム",
+    "furigana": "ぽっぴんぐしゃわーすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
+    "search_keywords": [
+      "サーティーワン31コラボ",
+      "たべもの",
+      "公式イラストあり"
+    ],
+    "first_appearance": "-",
+    "appearances": [
+      "-"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年6月1日",
+    "zukan_no": "No.00928"
+  },
+  {
+    "id": "CPM-QSR_MC01S0001",
     "name": "バーガースライム",
     "furigana": "ばーがーすらいむ",
     "page_url": "https://dqfan527.xsrv.jp/2026/01/18/burger-slime/",
@@ -6056,7 +6056,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00928"
+    "zukan_no": "No.00929"
   },
   {
     "id": "CPM-SP01S0001",

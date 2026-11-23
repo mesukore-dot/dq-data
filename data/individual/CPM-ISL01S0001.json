@@ -28,7 +28,7 @@
     "CPM-ISL01S0002",
     "CPM-ISL01S0003"
   ],
-  "zukan_no": "No.00925",
+  "zukan_no": "No.00924",
   "prev_id": "CPM-GGL01S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/",
   "next_id": "CPM-ISL01S0002",
@@ -240,16 +240,16 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/09/12/majellan/"
     },
     {
-      "id": "CPM-3101S0001",
-      "name": "ポッピングシャワースライム",
-      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
-      "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
-    },
-    {
       "id": "CPM-GGL01S0001",
       "name": "スラミィ",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スラミィ.webp",
       "page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/"
+    },
+    {
+      "id": "CPM-QSR_3101S0001",
+      "name": "ポッピングシャワースライム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ポッピングシャワースライム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
     },
     {
       "id": "CPM-VJ01S0001",
