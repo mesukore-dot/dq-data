@@ -18,19 +18,28 @@
     "DQMCH"
   ],
   "main_family": "スライム系",
-  "sub_family": [],
+  "sub_family": "-",
   "other_families": [],
   "release_date": "2003年3月29日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00417",
   "prev_id": "4C01S0027",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/12/07/slime-joker/",
   "next_id": "4C01S0029",
   "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/morimori-beth/",
+  "mamechishiki_pages": [
+    {
+      "first_appearance": "（平成15年）2003年3月29日、ゲームボーイアドバンス用ソフト「ドラゴンクエストモンスターズ キャラバンハート」から登場。",
+      "works_count": "4作品 (リメイク・アニメ・漫画等は含めない数字)",
+      "what_kind": "いつも　砂糖をたべている　星型のスライム。なめてみると　あまい。",
+      "connection": "まちガエルという　巨大なカエルの背中で　わちゃわちゃと暮らしている。",
+      "links": {
+        "variants_url": "#色違い"
+      }
+    }
+  ],
   "color_variants": [
     {
       "id": "5B01S0033",
@@ -39,10 +48,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/11/23/cosmo-candy/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }
