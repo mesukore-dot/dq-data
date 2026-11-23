@@ -6038,6 +6038,26 @@
     "zukan_no": "No.00928"
   },
   {
+    "id": "CPM-QSR_LY01S0001",
+    "name": "ラヤキングスライム",
+    "furigana": "らやきんぐすらいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/23/laya-king-slime/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ラヤキングスライム.webp",
+    "search_keywords": [
+      "台湾",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "-",
+    "appearances": [
+      "-"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2026年5月19日",
+    "zukan_no": "No.00929"
+  },
+  {
     "id": "CPM-QSR_MC01S0001",
     "name": "バーガースライム",
     "furigana": "ばーがーすらいむ",
@@ -6056,7 +6076,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00929"
+    "zukan_no": "No.00930"
   },
   {
     "id": "CPM-SP01S0001",
@@ -6077,7 +6097,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月12日",
-    "zukan_no": "No.00930"
+    "zukan_no": "No.00931"
   },
   {
     "id": "CPM-SP01S0002",
@@ -6098,7 +6118,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月7日",
-    "zukan_no": "No.00931"
+    "zukan_no": "No.00932"
   },
   {
     "id": "CPM-VJ01S0001",
@@ -6119,7 +6139,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年4月21日",
-    "zukan_no": "No.00932"
+    "zukan_no": "No.00933"
   },
   {
     "id": "CPM-VJ01S0002",
@@ -6139,7 +6159,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年7月18日",
-    "zukan_no": "No.00933"
+    "zukan_no": "No.00934"
   },
   {
     "id": "CPM-YS01S0001",
@@ -6159,7 +6179,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00934"
+    "zukan_no": "No.00935"
   },
   {
     "id": "CPM-YS01S0002",
@@ -6179,7 +6199,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00935"
+    "zukan_no": "No.00936"
   },
   {
     "id": "CPM-YS01S0003",
@@ -6199,6 +6219,6 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00936"
+    "zukan_no": "No.00937"
   }
 ]
