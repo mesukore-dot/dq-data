@@ -38,6 +38,27 @@
     "related_characters": []
   },
   {
+    "id": "6A12E0002",
+    "name": "ダースギズモ",
+    "furigana": "だーすぎずも",
+    "english_name": "EvilCloud",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/10/dars-gizumo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダースギズモ.webp",
+    "monster_family": "ギズモ族",
+    "search_keywords": ["EvilCloud","公式イラストあり"],
+    "first_appearance": "DQ3_GBC",
+    "appearances": [
+      "DQ2_HD2D","DQ3_GBC","DQ3_HD2D","DQ10",
+      "MSP","STAR","TACT"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年12月8日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "4C12E0002",
     "name": "フロストギズモ",
     "furigana": "ふろすとぎずも",
