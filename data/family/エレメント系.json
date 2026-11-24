@@ -25,5 +25,129 @@
     "sub_family": "-",
     "release_date": "2012年8月2日",
     "zukan_no": "No.00095"
+  },
+  {
+    "id": "1F12E0002",
+    "name": "スモーク",
+    "furigana": "すもーく",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/smoke/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スモーク.webp",
+    "search_keywords": [
+      "Smog",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ11",
+      "DQM2_SP",
+      "RIV"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00096"
+  },
+  {
+    "id": "2E12E0001",
+    "name": "ドロヌーバ",
+    "furigana": "どろぬーば",
+    "page_url": "https://dqfan527.xsrv.jp/2023/09/29/doronu-ba/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドロヌーバ.webp",
+    "search_keywords": [
+      "Mudraker",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ5",
+    "appearances": [
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ10",
+      "DQ9",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMCH",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "-",
+    "release_date": "1992年9月27日",
+    "zukan_no": "No.00215"
+  },
+  {
+    "id": "4C12E0001",
+    "name": "ガスト",
+    "furigana": "がすと",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/30/gust/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガスト.webp",
+    "search_keywords": [
+      "Miasma",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ11",
+      "RIV"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "-",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00530"
+  },
+  {
+    "id": "5B12E0001",
+    "name": "ブラッドミスト",
+    "furigana": "ぶらっどみすと",
+    "page_url": "https://dqfan527.xsrv.jp/2025/08/22/red-mist/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラッドミスト.webp",
+    "search_keywords": [
+      "Red mist",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00669"
+  },
+  {
+    "id": "6A12E0001",
+    "name": "ダークドリーマー",
+    "furigana": "だーくどりーまー",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/31/dark-dreamer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダークドリーマー.webp",
+    "search_keywords": [
+      "Mirage",
+      "公式イラスト待機中"
+    ],
+    "first_appearance": "DQ1_HD2D",
+    "appearances": [
+      "DQ1_HD2D"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "-",
+    "release_date": "2025年10月30日",
+    "zukan_no": "No.00766"
   }
 ]
