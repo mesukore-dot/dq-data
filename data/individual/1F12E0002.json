@@ -1,0 +1,54 @@
+{
+  "id": "1F12E0002",
+  "name": "スモーク",
+  "furigana": "すもーく",
+  "english_name": "Smog",
+  "page_url": "https://dqfan527.xsrv.jp/2023/05/30/smoke/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スモーク.webp",
+  "monster_family": "スモーク族",
+  "search_keywords": [
+    "Smog",
+    "公式イラスト待機中"
+  ],
+  "first_appearance": "DQ2",
+  "appearances": [
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ11",
+    "DQM2_SP",
+    "RIV"
+  ],
+  "main_family": "エレメント系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1987年1月26日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00096",
+  "prev_id": "1F12E0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/23/whip-ghost/",
+  "next_id": "1F13Z0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/04/29/ghost/",
+  "color_variants": [
+    {
+      "id": "4C12E0001",
+      "name": "ガスト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ガスト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/30/gust/"
+    },
+    {
+      "id": "5B12E0001",
+      "name": "ブラッドミスト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラッドミスト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/08/22/red-mist/"
+    },
+    {
+      "id": "6A12E0001",
+      "name": "ダークドリーマー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダークドリーマー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/31/dark-dreamer/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
