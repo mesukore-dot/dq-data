@@ -1,0 +1,56 @@
+{
+  "id": "6A12E0002",
+  "name": "ダースギズモ",
+  "furigana": "だーすぎずも",
+  "english_name": "EvilCloud",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/10/dars-gizumo/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダースギズモ.webp",
+  "monster_family": "ギズモ族",
+  "search_keywords": [
+    "EvilCloud",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3_GBC",
+  "appearances": [
+    "DQ2_HD2D",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ10",
+    "MSP",
+    "STAR",
+    "TACT"
+  ],
+  "main_family": "エレメント系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2000年12月8日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00772",
+  "prev_id": "6A12E0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/10/31/dark-dreamer/",
+  "next_id": "6A13Z0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/05/31/drakenstein/",
+  "color_variants": [
+    {
+      "id": "1F12E0003",
+      "name": "ギズモ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ギズモ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/gizumo/"
+    },
+    {
+      "id": "3D12E0001",
+      "name": "ヒートギズモ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヒートギズモ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/09/heat-gizumo/"
+    },
+    {
+      "id": "4C12E0002",
+      "name": "フロストギズモ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/フロストギズモ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/10/frost-gizumo/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
