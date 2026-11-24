@@ -38,6 +38,26 @@
     "related_characters": []
   },
   {
+    "id": "CPM-DIV01S0001",
+    "name": "ホミータ",
+    "furigana": "ほみーた",
+    "english_name": "",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/24/homita/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミータ.webp",
+    "monster_family": "ホイミスライム族",
+    "search_keywords": ["ドラクエDIVE","小倉唯","おぐらゆい","公式イラストあり"],
+    "first_appearance": "DIVE",
+    "appearances": ["DIVE"
+      ],
+    "main_family": "スライム系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2021年5月15日",
+    "voice_actor": "小倉唯",
+    "related_items": [],
+    "related_characters": ["4C03B0015"]
+  },
+  {
     "id": "CPM-MAG_VJ05B0001",
     "name": "Vジャンキーマ",
     "furigana": "ぶいじゃんきーま",
@@ -9768,7 +9788,7 @@
     "release_date": "1992年9月27日",
     "voice_actor": "-",
     "related_items": [],
-    "related_characters": []
+    "related_characters": ["CPM-DIV01S0001"]
   },
   {
     "id": "2E03B0013",
