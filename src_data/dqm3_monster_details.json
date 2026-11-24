@@ -1,5 +1,243 @@
 [
   {
+    "id": "2E01S0004",
+    "dqm3_no": "015",
+    "dqm3_name": "スライムナイト",
+    "dqm3_ruby": "すらいむないと",
+    "dqm3_rank": "F",
+    "dqm3_family": "スライム系",
+    "dqm3_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3-スライムナイト.webp",
+    "dqm3_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3アイコン-スライムナイト.webp",
+    "dqm3_page_url": "https://dqfan527.xsrv.jp/2023/08/07/slime-knight/#DQM3",
+    "dqm3_mamechishiki": "卑怯な　行いを嫌う　誇り高い　スライム族の騎士。仲間たちの平和を守るため　今日もパトロール。",
+
+    "dqm3_max_stats": {
+      "hp": 1320,
+      "mp": 410,
+      "atk": 580,
+      "def": 590,
+      "spd": 470,
+      "int": 520
+    },
+
+    "dqm3_obtain_methods": [
+      "野生","特殊配合"
+        ],
+
+    "dqm3_habitats": [
+      {
+        "area": "鉄鋼砦の魔界・初級",
+        "season": "秋",
+        "weather": "全天候"
+      }
+    ],
+
+    "dqm3_drops": {
+      "normal": "",
+      "rare": ""
+    },
+
+    "dqm3_default_skill": "",
+    "dqm3_wild_skills": ["", ""],
+      
+    "dqm3_traits_s": [
+      { "level": 1, "trait_id": "" },
+      { "level": 20, "trait_id": "" },
+      { "level": 40, "trait_id": "" }
+    ],
+
+    "dqm3_traits_l": [
+      { "level": 1, "trait_id": "" },
+      { "level": 1, "trait_id": "" },
+      { "level": 60, "trait_id": "" }
+    ],
+
+    "dqm3_parents": [
+      {
+        "type": "special",
+        "materials": ["014", "354"]
+      }
+    ],
+
+    "dqm3_children": [
+      {
+        "result_id": "440",
+        "type": "special",
+        "partners": ["283"]
+      },
+      {
+        "result_id": "096",
+        "type": "special",
+        "partners": ["099"]
+      },
+      {
+        "result_id": "049",
+        "type": "special",
+        "partners": ["029"]
+      }
+    ],
+
+    "dqm3_resistances_s": {
+      "fire": "25",
+      "water": "25",
+      "wind": "0",
+      "earth": "-25",
+      "explosion": "50",
+      "ice": "25",
+      "thunder": "50",
+      "light": "25",
+      "dark": "-25",
+      "weaken": "25",
+      "dazzle": "50",
+      "seal": "0",
+      "mp_drain": "-25",
+      "confusion": "0",
+      "sleep": "50",
+      "paralyze": "50",
+      "skip_turn": "0",
+      "poison": "0",
+      "death": "0"
+    },
+    "dqm3_resistances_l": {
+      "fire": "25",
+      "water": "25",
+      "wind": "0",
+      "earth": "-25",
+      "explosion": "50",
+      "ice": "25",
+      "thunder": "50",
+      "light": "25",
+      "dark": "-25",
+      "weaken": "25",
+      "dazzle": "50",
+      "seal": "0",
+      "mp_drain": "-25",
+      "confusion": "50",
+      "sleep": "100",
+      "paralyze": "100",
+      "skip_turn": "50",
+      "poison": "50",
+      "death": "50"
+    }
+  },
+    {
+      "id": "3D01S0007",
+      "dqm3_no": "014",
+      "dqm3_name": "スライムタワー",
+      "dqm3_ruby": "すらいむたわー",
+      "dqm3_rank": "F",
+      "dqm3_family": "スライム系",
+      "dqm3_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3-スライムタワー.webp",
+      "dqm3_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3アイコン-スライムタワー.webp",
+      "dqm3_page_url": "https://dqfan527.xsrv.jp/2023/09/24/slime-tower/#DQM3",
+      "dqm3_mamechishiki": "3匹の仲良しスライムが　なんとなく積み重なった　キングスライムへと　合体するため修行中。",
+  
+      "dqm3_max_stats": {
+        "hp": 1340,
+        "mp": 390,
+        "atk": 570,
+        "def": 510,
+        "spd": 490,
+        "int": 520
+      },
+  
+      "dqm3_obtain_methods": [
+        "野生","系統配合"
+          ],
+  
+      "dqm3_habitats": [
+        {
+          "area": "鉄鋼砦の魔界・初級",
+          "season": "秋",
+          "weather": "全天候"
+        }
+      ],
+  
+      "dqm3_drops": {
+        "normal": "",
+        "rare": ""
+      },
+  
+      "dqm3_default_skill": "",
+      "dqm3_wild_skills": ["", ""],
+        
+      "dqm3_traits_s": [
+        { "level": 1, "trait_id": "" },
+        { "level": 20, "trait_id": "" },
+        { "level": 40, "trait_id": "" }
+      ],
+  
+      "dqm3_traits_l": [
+        { "level": 1, "trait_id": "" },
+        { "level": 1, "trait_id": "" },
+        { "level": 60, "trait_id": "" }
+      ],
+  
+      "dqm3_parents": [
+        {
+          "type": "family",
+          "materials": ["スライム系", "物質系"],
+          "note": "どちらかがGランク以上"
+        }
+      ],
+  
+      "dqm3_children": [
+        {
+          "result_id": "015",
+          "type": "special",
+          "partners": ["354"]
+        },
+        {
+          "result_id": "036",
+          "type": "special",
+          "partners": ["452"]
+        }
+      ],
+  
+      "dqm3_resistances_s": {
+        "fire": "0",
+        "water": "50",
+        "wind": "0",
+        "earth": "-25",
+        "explosion": "50",
+        "ice": "25",
+        "thunder": "50",
+        "light": "25",
+        "dark": "-25",
+        "weaken": "25",
+        "dazzle": "50",
+        "seal": "0",
+        "mp_drain": "-25",
+        "confusion": "25",
+        "sleep": "25",
+        "paralyze": "50",
+        "skip_turn": "0",
+        "poison": "0",
+        "death": "0"
+      },
+      "dqm3_resistances_l": {
+        "fire": "0",
+        "water": "50",
+        "wind": "0",
+        "earth": "-25",
+        "explosion": "50",
+        "ice": "25",
+        "thunder": "50",
+        "light": "25",
+        "dark": "-25",
+        "weaken": "25",
+        "dazzle": "50",
+        "seal": "0",
+        "mp_drain": "-25",
+        "confusion": "75",
+        "sleep": "75",
+        "paralyze": "100",
+        "skip_turn": "50",
+        "poison": "50",
+        "death": "50"
+      }
+    },
+  {
     "id": "2E01S0022",
     "dqm3_no": "013",
     "dqm3_name": "スライムカルゴ",
@@ -21,10 +259,15 @@
     },
 
     "dqm3_obtain_methods": [
-      "特殊配合"
+      "野生","特殊配合"
         ],
 
     "dqm3_habitats": [
+      {
+        "area": "流神殿の魔界・初級",
+        "season": "冬",
+        "weather": "全天候"
+      }
     ],
 
     "dqm3_drops": {
