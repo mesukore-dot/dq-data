@@ -1,20 +1,5 @@
 {
   "id": "it_IT-05H1N0001",
-  "dqm3_page_url": "",
-  "dqm3_name": "やくそう",
-  "dqm3_ruby": "やくそう",
-  "dqm3_category": "どうぐ",
-  "dqm3_icon_url": "",
-  "dqm3_description": "なかま　ひとりの　HPを　30～　かいふくする。",
-  "dqm3_obtain": [
-    "ショップ",
-    "ドロップ",
-    "宝箱"
-  ],
-  "dqm3_drop_normal": [
-    "001"
-  ],
-  "dqm3_drop_rare": [],
   "name": "やくそう",
   "furigana": "やくそう",
   "english_name": "Medicinal herb",
@@ -91,6 +76,21 @@
   "release_date": "1986年5月27日",
   "related_items": [],
   "related_characters": [],
+  "dqm3_page_url": "",
+  "dqm3_name": "やくそう",
+  "dqm3_ruby": "やくそう",
+  "dqm3_category": "どうぐ",
+  "dqm3_icon_url": "",
+  "dqm3_description": "なかま　ひとりの　HPを　30～　かいふくする。",
+  "dqm3_obtain": [
+    "ショップ",
+    "ドロップ",
+    "宝箱"
+  ],
+  "dqm3_drop_normal": [
+    "001"
+  ],
+  "dqm3_drop_rare": [],
   "zukan_no": "No.00002",
   "prev_id": "it_AF-1V0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/09/02/huwahuwakomugi/",

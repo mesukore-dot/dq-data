@@ -1,5 +1,105 @@
 {
   "id": "1F01S0001",
+  "name": "スライム",
+  "furigana": "すらいむ",
+  "english_name": "Slime",
+  "taiwan_name": "史萊姆",
+  "korean_name": "슬라임",
+  "chinese_name": "史莱姆",
+  "french_name": "Glu",
+  "german_name": "Schleim",
+  "italian_name": "Limo",
+  "spanish_name": "Limo",
+  "page_url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スライム-1.webp",
+  "monster_family": "スライム族",
+  "search_keywords": [
+    "Slime",
+    "かわいい",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ1",
+  "appearances": [
+    "DQ1",
+    "DQ1_HD2D",
+    "DQ2",
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ4",
+    "DQ4_PS",
+    "DQ5",
+    "DQ5_PS2",
+    "DQ5_DS",
+    "DQ6",
+    "DQ7",
+    "DQ7_3D",
+    "DQ7_RM",
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQ11",
+    "DQM1",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQM4",
+    "DQMCH",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "ARK1",
+    "ARK2",
+    "FTR1",
+    "FTR2",
+    "FTR3",
+    "FY1",
+    "MRMR1",
+    "MRMR2",
+    "MRMR3",
+    "KS",
+    "DQSW",
+    "DQH1",
+    "DQH2",
+    "DQB1",
+    "DQB2",
+    "DQTR",
+    "DQMB",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS",
+    "champ",
+    "DQSG"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1986年5月27日",
+  "voice_actor": "-",
+  "quotes": [
+    "ピキー！　いじめないで！\nぼく　わるいスライムじゃないよ！\nいいこと教えてあげるから　信じて！",
+    "ピキー！！",
+    "ぼくは　いいスライムだから\nいい子に　してるよ！",
+    "モンスターおじさん\nやさしいから　好き。\nアルスたちは　大好き！",
+    "ピキー！"
+  ],
+  "related_items": [],
+  "related_characters": [],
   "dqm3_no": "001",
   "dqm3_name": "スライム",
   "dqm3_ruby": "すらいむ",
@@ -176,106 +276,182 @@
     "poison": "75",
     "death": "50"
   },
-  "name": "スライム",
-  "furigana": "すらいむ",
-  "english_name": "Slime",
-  "taiwan_name": "史萊姆",
-  "korean_name": "슬라임",
-  "chinese_name": "史莱姆",
-  "french_name": "Glu",
-  "german_name": "Schleim",
-  "italian_name": "Limo",
-  "spanish_name": "Limo",
-  "page_url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スライム-1.webp",
-  "monster_family": "スライム族",
-  "search_keywords": [
-    "Slime",
-    "かわいい",
-    "公式イラストあり"
+  "dqm4_no": "001",
+  "dqm4_name": "スライム",
+  "dqm4_ruby": "すらいむ",
+  "dqm4_rank": "G",
+  "dqm4_family": "スライム系",
+  "dqm4_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/02/DQM3-スライム.webp",
+  "dqm4_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2024/02/DQM3アイコン-スライム-1.webp",
+  "dqm4_page_url": "https://dqfan527.xsrv.jp/2024/02/10/suraimu/#DQM3",
+  "dqm4_mamechishiki": "丸っこいユーモラスな姿から　みんなに癒される　メジャーアイドル級の魔物。見てると　どこかホッとする。",
+  "dqm4_max_stats": {
+    "hp": 1410,
+    "mp": 430,
+    "atk": 460,
+    "def": 370,
+    "spd": 640,
+    "int": 260
+  },
+  "dqm4_obtain_methods": [
+    "野生"
   ],
-  "first_appearance": "DQ1",
-  "appearances": [
-    "DQ1",
-    "DQ1_HD2D",
-    "DQ2",
-    "DQ2_HD2D",
-    "DQ3",
-    "DQ3_SFC",
-    "DQ3_GBC",
-    "DQ3_HD2D",
-    "DQ4",
-    "DQ4_PS",
-    "DQ5",
-    "DQ5_PS2",
-    "DQ5_DS",
-    "DQ6",
-    "DQ7",
-    "DQ7_3D",
-    "DQ7_RM",
-    "DQ8",
-    "DQ8_3D",
-    "DQ9",
-    "DQ10",
-    "DQ10_OFF",
-    "DQ11",
-    "DQM1",
-    "DQM1_3DS",
-    "DQM1_SP",
-    "DQM2",
-    "DQM2_3DS",
-    "DQM2_SP",
-    "DQM3",
-    "DQM4",
-    "DQMCH",
-    "DQMJ",
-    "DQMJ2",
-    "DQMJ2_P",
-    "DQMJ3",
-    "DQMJ3_P",
-    "ARK1",
-    "ARK2",
-    "FTR1",
-    "FTR2",
-    "FTR3",
-    "FY1",
-    "MRMR1",
-    "MRMR2",
-    "MRMR3",
-    "KS",
-    "DQSW",
-    "DQH1",
-    "DQH2",
-    "DQB1",
-    "DQB2",
-    "DQTR",
-    "DQMB",
-    "DQBS",
-    "XB",
-    "DQMSL",
-    "MSP",
-    "STAR",
-    "RIV",
-    "WALK",
-    "TACT",
-    "KSKS",
-    "champ",
-    "DQSG"
+  "dqm4_habitats": [
+    {
+      "area": "人間界・初級",
+      "season": "全季節",
+      "weather": "全天候"
+    },
+    {
+      "area": "煉獄峠の魔界・初級",
+      "season": "全季節",
+      "weather": "全天候"
+    },
+    {
+      "area": "流神殿の魔界・初級",
+      "season": "全季節",
+      "weather": "全天候"
+    }
   ],
-  "main_family": "スライム系",
-  "sub_family": "-",
-  "other_families": [],
-  "release_date": "1986年5月27日",
-  "voice_actor": "-",
-  "quotes": [
-    "ピキー！　いじめないで！\nぼく　わるいスライムじゃないよ！\nいいこと教えてあげるから　信じて！",
-    "ピキー！！",
-    "ぼくは　いいスライムだから\nいい子に　してるよ！",
-    "モンスターおじさん\nやさしいから　好き。\nアルスたちは　大好き！",
-    "ピキー！"
+  "dqm4_drops": {
+    "normal": "IT-05H1N0001",
+    "rare": ""
+  },
+  "dqm4_default_skill": "",
+  "dqm4_wild_skills": [
+    "",
+    ""
   ],
-  "related_items": [],
-  "related_characters": [],
+  "dqm4_traits_s": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 20,
+      "trait_id": ""
+    },
+    {
+      "level": 40,
+      "trait_id": ""
+    }
+  ],
+  "dqm4_traits_l": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 60,
+      "trait_id": ""
+    }
+  ],
+  "dqm4_parents": [
+    {
+      "type": "special",
+      "materials": [
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "four_body",
+      "materials": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "dqm4_children": [
+    {
+      "result_id": "016",
+      "type": "special",
+      "partners": [
+        "437"
+      ]
+    },
+    {
+      "result_id": "011",
+      "type": "special",
+      "partners": [
+        "205"
+      ]
+    },
+    {
+      "result_id": "018",
+      "type": "special",
+      "partners": [
+        "ドラゴン系"
+      ]
+    },
+    {
+      "result_id": "019",
+      "type": "special",
+      "partners": [
+        "魔獣系"
+      ]
+    },
+    {
+      "result_id": "030",
+      "type": "special",
+      "partners": [
+        "080"
+      ]
+    },
+    {
+      "result_id": "043",
+      "type": "special",
+      "partners": [
+        "385"
+      ]
+    }
+  ],
+  "dqm4_resistances_s": {
+    "fire": "0",
+    "water": "50",
+    "wind": "0",
+    "earth": "-25",
+    "explosion": "50",
+    "ice": "0",
+    "thunder": "50",
+    "light": "50",
+    "dark": "-25",
+    "weaken": "25",
+    "dazzle": "50",
+    "seal": "0",
+    "mp_drain": "-25",
+    "confusion": "25",
+    "sleep": "0",
+    "paralyze": "50",
+    "skip_turn": "0",
+    "poison": "25",
+    "death": "0"
+  },
+  "dqm4_resistances_l": {
+    "fire": "0",
+    "water": "50",
+    "wind": "0",
+    "earth": "-25",
+    "explosion": "50",
+    "ice": "0",
+    "thunder": "50",
+    "light": "50",
+    "dark": "-25",
+    "weaken": "25",
+    "dazzle": "50",
+    "seal": "0",
+    "mp_drain": "-25",
+    "confusion": "75",
+    "sleep": "50",
+    "paralyze": "100",
+    "skip_turn": "50",
+    "poison": "75",
+    "death": "50"
+  },
   "zukan_no": "No.00001",
   "prev_id": "",
   "prev_page_url": "",
