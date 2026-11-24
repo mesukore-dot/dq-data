@@ -23,6 +23,133 @@
     "-"
   ],
   "related_characters": [],
+  "dqm3_no": "011",
+  "dqm3_name": "ジャングラー",
+  "dqm3_ruby": "じゃんぐらー",
+  "dqm3_rank": "F",
+  "dqm3_family": "スライム系",
+  "dqm3_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3-ジャングラー.webp",
+  "dqm3_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3アイコン-ジャングラー.webp",
+  "dqm3_page_url": "https://dqfan527.xsrv.jp/2023/09/24/jungler/#DQM3",
+  "dqm3_mamechishiki": "過酷な熱帯雨林で生きるスライム。ときには泥水にもぐり　ときには木にのぼって生きのびる　サバイバルの達人だ。",
+  "dqm3_max_stats": {
+    "hp": 1390,
+    "mp": 270,
+    "atk": 690,
+    "def": 380,
+    "spd": 430,
+    "int": 450
+  },
+  "dqm3_obtain_methods": [
+    "系統配合",
+    "特殊配合"
+  ],
+  "dqm3_habitats": [],
+  "dqm3_drops": {
+    "normal": "",
+    "rare": ""
+  },
+  "dqm3_default_skill": "",
+  "dqm3_wild_skills": [
+    "",
+    ""
+  ],
+  "dqm3_traits_s": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 20,
+      "trait_id": ""
+    },
+    {
+      "level": 40,
+      "trait_id": ""
+    }
+  ],
+  "dqm3_traits_l": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 60,
+      "trait_id": ""
+    }
+  ],
+  "dqm3_parents": [
+    {
+      "type": "family",
+      "materials": [
+        "スライム系",
+        "魔獣系"
+      ],
+      "note": "どちらかがGランク以上"
+    },
+    {
+      "type": "special",
+      "materials": [
+        "001",
+        "205"
+      ]
+    }
+  ],
+  "dqm3_children": [
+    {
+      "result_id": "032",
+      "type": "special",
+      "partners": [
+        "227"
+      ]
+    }
+  ],
+  "dqm3_resistances_s": {
+    "fire": "25",
+    "water": "0",
+    "wind": "0",
+    "earth": "0",
+    "explosion": "50",
+    "ice": "0",
+    "thunder": "50",
+    "light": "25",
+    "dark": "0",
+    "weaken": "25",
+    "dazzle": "50",
+    "seal": "0",
+    "mp_drain": "-25",
+    "confusion": "25",
+    "sleep": "25",
+    "paralyze": "50",
+    "skip_turn": "0",
+    "poison": "0",
+    "death": "0"
+  },
+  "dqm3_resistances_l": {
+    "fire": "25",
+    "water": "0",
+    "wind": "0",
+    "earth": "0",
+    "explosion": "50",
+    "ice": "0",
+    "thunder": "50",
+    "light": "25",
+    "dark": "0",
+    "weaken": "25",
+    "dazzle": "50",
+    "seal": "0",
+    "mp_drain": "-25",
+    "confusion": "50",
+    "sleep": "75",
+    "paralyze": "100",
+    "skip_turn": "50",
+    "poison": "50",
+    "death": "50"
+  },
   "zukan_no": "No.00126",
   "prev_id": "2E01S0018",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/03/22/tropical-slime/",
