@@ -1,5 +1,117 @@
 [
   {
+    "id": "3D01S0031",
+    "dqm3_no": "012",
+    "dqm3_name": "スノーム",
+    "dqm3_ruby": "すのーむ",
+    "dqm3_rank": "F",
+    "dqm3_family": "スライム系",
+    "dqm3_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3-スノーム.webp",
+    "dqm3_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3アイコン-スノーム.webp",
+    "dqm3_page_url": "https://dqfan527.xsrv.jp/2023/09/25/snowm/#DQM3",
+    "dqm3_mamechishiki": "雪だるま　そっくりの　雪でできたスライム。身体がとけると水になって　エンゼルスライムが　お出迎え。",
+
+    "dqm3_max_stats": {
+      "hp": 1370,
+      "mp": 480,
+      "atk": 500,
+      "def": 580,
+      "spd": 390,
+      "int": 580
+    },
+
+    "dqm3_obtain_methods": [
+      "系統配合"
+        ],
+
+    "dqm3_habitats": [
+    ],
+
+    "dqm3_drops": {
+      "normal": "",
+      "rare": ""
+    },
+
+    "dqm3_default_skill": "",
+    "dqm3_wild_skills": ["", ""],
+      
+    "dqm3_traits_s": [
+      { "level": 1, "trait_id": "" },
+      { "level": 20, "trait_id": "" },
+      { "level": 40, "trait_id": "" }
+    ],
+
+    "dqm3_traits_l": [
+      { "level": 1, "trait_id": "" },
+      { "level": 1, "trait_id": "" },
+      { "level": 60, "trait_id": "" }
+    ],
+
+    "dqm3_parents": [
+      {
+        "type": "family",
+        "materials": ["スライム系", "ゾンビ系"],
+        "note": "どちらかがGランク以上"
+      }
+    ],
+
+    "dqm3_children": [
+      {
+        "result_id": "025",
+        "type": "special",
+        "partners": ["293"]
+      },
+      {
+        "result_id": "312",
+        "type": "special",
+        "partners": ["280"]
+      }
+    ],
+
+    "dqm3_resistances_s": {
+      "fire": "-25",
+      "water": "25",
+      "wind": "0",
+      "earth": "-25",
+      "explosion": "50",
+      "ice": "100",
+      "thunder": "50",
+      "light": "0",
+      "dark": "-25",
+      "weaken": "25",
+      "dazzle": "50",
+      "seal": "0",
+      "mp_drain": "-25",
+      "confusion": "0",
+      "sleep": "25",
+      "paralyze": "50",
+      "skip_turn": "0",
+      "poison": "0",
+      "death": "0"
+    },
+    "dqm3_resistances_l": {
+      "fire": "-25",
+      "water": "25",
+      "wind": "0",
+      "earth": "-25",
+      "explosion": "50",
+      "ice": "100",
+      "thunder": "50",
+      "light": "0",
+      "dark": "-25",
+      "weaken": "25",
+      "dazzle": "50",
+      "seal": "0",
+      "mp_drain": "-25",
+      "confusion": "50",
+      "sleep": "75",
+      "paralyze": "100",
+      "skip_turn": "75",
+      "poison": "50",
+      "death": "50"
+    }
+  },
+  {
     "id": "2E01S0019",
     "dqm3_no": "011",
     "dqm3_name": "ジャングラー",
