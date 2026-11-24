@@ -59,7 +59,9 @@
   "release_date": "1992年9月27日",
   "voice_actor": "-",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "CPM-DIV01S0001"
+  ],
   "zukan_no": "No.00466",
   "prev_id": "4C03B0014",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/20/arm-lion/",
@@ -74,5 +76,12 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "CPM-DIV01S0001",
+      "name": "ホミータ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミータ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/24/homita/"
+    }
+  ]
 }

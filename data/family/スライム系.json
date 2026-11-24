@@ -5874,6 +5874,27 @@
     "zukan_no": "No.00916"
   },
   {
+    "id": "CPM-DIV01S0001",
+    "name": "ホミータ",
+    "furigana": "ほみーた",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/24/homita/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミータ.webp",
+    "search_keywords": [
+      "ドラクエDIVE",
+      "小倉唯",
+      "おぐらゆい",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DIVE",
+    "appearances": [
+      "DIVE"
+    ],
+    "main_family": "スライム系",
+    "sub_family": "-",
+    "release_date": "2021年5月15日",
+    "zukan_no": "No.00919"
+  },
+  {
     "id": "CPM-DL_CO01S0001",
     "name": "エナジーバブル",
     "furigana": "えなじーばぶる",
@@ -5891,7 +5912,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年11月1日",
-    "zukan_no": "No.00919"
+    "zukan_no": "No.00920"
   },
   {
     "id": "CPM-DL_CO01S0002",
@@ -5911,7 +5932,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00920"
+    "zukan_no": "No.00921"
   },
   {
     "id": "CPM-DL_CO01S0003",
@@ -5931,7 +5952,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2022年12月3日",
-    "zukan_no": "No.00921"
+    "zukan_no": "No.00922"
   },
   {
     "id": "CPM-GGL01S0001",
@@ -5952,7 +5973,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月20日",
-    "zukan_no": "No.00923"
+    "zukan_no": "No.00924"
   },
   {
     "id": "CPM-ISL01S0001",
@@ -5974,7 +5995,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00924"
+    "zukan_no": "No.00925"
   },
   {
     "id": "CPM-ISL01S0002",
@@ -5994,7 +6015,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00925"
+    "zukan_no": "No.00926"
   },
   {
     "id": "CPM-ISL01S0003",
@@ -6015,7 +6036,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月15日",
-    "zukan_no": "No.00926"
+    "zukan_no": "No.00927"
   },
   {
     "id": "CPM-MAG_VJ01S0001",
@@ -6036,7 +6057,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年4月21日",
-    "zukan_no": "No.00927"
+    "zukan_no": "No.00928"
   },
   {
     "id": "CPM-MAG_VJ01S0002",
@@ -6056,7 +6077,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2014年7月18日",
-    "zukan_no": "No.00928"
+    "zukan_no": "No.00929"
   },
   {
     "id": "CPM-QSR_3101S0001",
@@ -6076,7 +6097,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年6月1日",
-    "zukan_no": "No.00931"
+    "zukan_no": "No.00932"
   },
   {
     "id": "CPM-QSR_LY01S0001",
@@ -6096,7 +6117,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年5月19日",
-    "zukan_no": "No.00932"
+    "zukan_no": "No.00933"
   },
   {
     "id": "CPM-QSR_MC01S0001",
@@ -6117,7 +6138,7 @@
     "main_family": "スライム系",
     "sub_family": [],
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00933"
+    "zukan_no": "No.00934"
   },
   {
     "id": "CPM-QSR_YS01S0001",
@@ -6137,7 +6158,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00934"
+    "zukan_no": "No.00935"
   },
   {
     "id": "CPM-QSR_YS01S0002",
@@ -6157,7 +6178,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00935"
+    "zukan_no": "No.00936"
   },
   {
     "id": "CPM-QSR_YS01S0003",
@@ -6177,7 +6198,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年7月1日",
-    "zukan_no": "No.00936"
+    "zukan_no": "No.00937"
   },
   {
     "id": "CPM-SP01S0001",
@@ -6198,7 +6219,7 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2026年4月12日",
-    "zukan_no": "No.00937"
+    "zukan_no": "No.00938"
   },
   {
     "id": "CPM-SP01S0002",
@@ -6219,6 +6240,6 @@
     "main_family": "スライム系",
     "sub_family": "-",
     "release_date": "2021年5月7日",
-    "zukan_no": "No.00938"
+    "zukan_no": "No.00939"
   }
 ]
