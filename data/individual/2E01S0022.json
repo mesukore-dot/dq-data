@@ -49,9 +49,16 @@
     "int": 630
   },
   "dqm3_obtain_methods": [
+    "野生",
     "特殊配合"
   ],
-  "dqm3_habitats": [],
+  "dqm3_habitats": [
+    {
+      "area": "流神殿の魔界・初級",
+      "season": "冬",
+      "weather": "全天候"
+    }
+  ],
   "dqm3_drops": {
     "normal": "",
     "rare": ""
