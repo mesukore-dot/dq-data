@@ -91,6 +91,63 @@
     "zukan_no": "No.00215"
   },
   {
+    "id": "2E12E0002",
+    "name": "フレイム",
+    "furigana": "ふれいむ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/29/flame/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/フレイム.webp",
+    "search_keywords": [
+      "Dancing flame",
+      "炎・マグマ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "MRMR1",
+      "MRMR2",
+      "MRMR3",
+      "DQSW",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "炎・マグマ",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00216"
+  },
+  {
     "id": "4C12E0001",
     "name": "ガスト",
     "furigana": "がすと",
@@ -110,7 +167,7 @@
     "main_family": "エレメント系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00530"
+    "zukan_no": "No.00531"
   },
   {
     "id": "5B12E0001",
@@ -129,7 +186,60 @@
     "main_family": "エレメント系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00669"
+    "zukan_no": "No.00670"
+  },
+  {
+    "id": "5B12E0002",
+    "name": "ブリザード",
+    "furigana": "ぶりざーど",
+    "page_url": "https://dqfan527.xsrv.jp/2023/05/31/blizzard/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブリザード.webp",
+    "search_keywords": [
+      "Frostburn",
+      "氷・雪",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ2",
+    "appearances": [
+      "DQ2",
+      "DQ2_HD2D",
+      "DQ8",
+      "DQ8_3D",
+      "DQ10",
+      "DQ10_OFF",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "FTR2",
+      "FTR3",
+      "FY1",
+      "DQSW",
+      "DQH2",
+      "DQB1",
+      "DQB2",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "氷・雪",
+    "release_date": "1987年1月26日",
+    "zukan_no": "No.00671"
   },
   {
     "id": "6A12E0001",
@@ -148,6 +258,6 @@
     "main_family": "エレメント系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00766"
+    "zukan_no": "No.00768"
   }
 ]
