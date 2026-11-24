@@ -49,6 +49,155 @@
     "-"
   ],
   "related_characters": [],
+  "dqm3_no": "018",
+  "dqm3_name": "ドラゴスライム",
+  "dqm3_ruby": "どらごすらいむ",
+  "dqm3_rank": "F",
+  "dqm3_family": "スライム系",
+  "dqm3_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3-ドラゴスライム.webp",
+  "dqm3_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3アイコン-ドラゴスライム.webp",
+  "dqm3_page_url": "https://dqfan527.xsrv.jp/2023/09/23/drago-slime/#DQM3",
+  "dqm3_mamechishiki": "ドラゴンにあこがれて　ちょっと形をマネてみたスライム。いつか　大きなドラゴンになることを　夢見ている。",
+  "dqm3_max_stats": {
+    "hp": 1380,
+    "mp": 460,
+    "atk": 540,
+    "def": 380,
+    "spd": 550,
+    "int": 360
+  },
+  "dqm3_obtain_methods": [
+    "野生",
+    "系統配合",
+    "特殊配合"
+  ],
+  "dqm3_habitats": [],
+  "dqm3_drops": {
+    "normal": "",
+    "rare": ""
+  },
+  "dqm3_default_skill": "",
+  "dqm3_wild_skills": [
+    "",
+    ""
+  ],
+  "dqm3_traits_s": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 20,
+      "trait_id": ""
+    },
+    {
+      "level": 40,
+      "trait_id": ""
+    }
+  ],
+  "dqm3_traits_l": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 60,
+      "trait_id": ""
+    }
+  ],
+  "dqm3_parents": [
+    {
+      "type": "family",
+      "materials": [
+        "スライム系",
+        "ドラゴン系"
+      ],
+      "note": "どちらかがFランク以上"
+    },
+    {
+      "type": "special",
+      "materials": [
+        "001",
+        "ドラゴン系"
+      ]
+    },
+    {
+      "type": "special",
+      "materials": [
+        "006",
+        "067"
+      ]
+    }
+  ],
+  "dqm3_children": [
+    {
+      "result_id": "233",
+      "type": "special",
+      "partners": [
+        "212"
+      ]
+    },
+    {
+      "result_id": "311",
+      "type": "special",
+      "partners": [
+        "280"
+      ]
+    },
+    {
+      "result_id": "033",
+      "type": "special",
+      "partners": [
+        "087"
+      ]
+    }
+  ],
+  "dqm3_resistances_s": {
+    "fire": "50",
+    "water": "0",
+    "wind": "0",
+    "earth": "-25",
+    "explosion": "50",
+    "ice": "0",
+    "thunder": "50",
+    "light": "25",
+    "dark": "0",
+    "weaken": "25",
+    "dazzle": "50",
+    "seal": "25",
+    "mp_drain": "-25",
+    "confusion": "0",
+    "sleep": "25",
+    "paralyze": "50",
+    "skip_turn": "0",
+    "poison": "0",
+    "death": "0"
+  },
+  "dqm3_resistances_l": {
+    "fire": "50",
+    "water": "0",
+    "wind": "0",
+    "earth": "-25",
+    "explosion": "50",
+    "ice": "0",
+    "thunder": "50",
+    "light": "25",
+    "dark": "0",
+    "weaken": "25",
+    "dazzle": "50",
+    "seal": "25",
+    "mp_drain": "-25",
+    "confusion": "50",
+    "sleep": "75",
+    "paralyze": "100",
+    "skip_turn": "50",
+    "poison": "50",
+    "death": "50"
+  },
   "zukan_no": "No.00011",
   "prev_id": "1F01S0009",
   "prev_page_url": "https://dqfan527.xsrv.jp/2023/09/17/hane-slime/",

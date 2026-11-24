@@ -28,6 +28,132 @@
     "CPM-ISL01S0002",
     "CPM-ISL01S0003"
   ],
+  "dqm3_no": "017",
+  "dqm3_name": "たまねぎスライム",
+  "dqm3_ruby": "たまねぎすらいむ",
+  "dqm3_rank": "F",
+  "dqm3_family": "スライム系",
+  "dqm3_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3-たまねぎスライム.webp",
+  "dqm3_icon_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/DQM3アイコン-たまねぎスライム.webp",
+  "dqm3_page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/#DQM3",
+  "dqm3_mamechishiki": "たまねぎを食べすぎて　そっくりの姿になったスライム。たまねぎの名産地で生まれ　交易の活発化で世界に分布した。",
+  "dqm3_max_stats": {
+    "hp": 1390,
+    "mp": 430,
+    "atk": 510,
+    "def": 530,
+    "spd": 570,
+    "int": 220
+  },
+  "dqm3_obtain_methods": [
+    "系統配合",
+    "特殊配合"
+  ],
+  "dqm3_habitats": [],
+  "dqm3_drops": {
+    "normal": "",
+    "rare": ""
+  },
+  "dqm3_default_skill": "",
+  "dqm3_wild_skills": [
+    "",
+    ""
+  ],
+  "dqm3_traits_s": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 20,
+      "trait_id": ""
+    },
+    {
+      "level": 40,
+      "trait_id": ""
+    }
+  ],
+  "dqm3_traits_l": [
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 1,
+      "trait_id": ""
+    },
+    {
+      "level": 60,
+      "trait_id": ""
+    }
+  ],
+  "dqm3_parents": [
+    {
+      "type": "family",
+      "materials": [
+        "スライム系",
+        "自然系"
+      ],
+      "note": "どちらかがFランク以上"
+    },
+    {
+      "type": "special",
+      "materials": [
+        "010",
+        "自然系"
+      ]
+    },
+    {
+      "type": "special",
+      "materials": [
+        "004",
+        "137"
+      ]
+    }
+  ],
+  "dqm3_children": [],
+  "dqm3_resistances_s": {
+    "fire": "0",
+    "water": "50",
+    "wind": "0",
+    "earth": "0",
+    "explosion": "25",
+    "ice": "0",
+    "thunder": "50",
+    "light": "50",
+    "dark": "-25",
+    "weaken": "0",
+    "dazzle": "50",
+    "seal": "0",
+    "mp_drain": "-25",
+    "confusion": "50",
+    "sleep": "0",
+    "paralyze": "50",
+    "skip_turn": "25",
+    "poison": "0",
+    "death": "0"
+  },
+  "dqm3_resistances_l": {
+    "fire": "0",
+    "water": "50",
+    "wind": "0",
+    "earth": "0",
+    "explosion": "25",
+    "ice": "0",
+    "thunder": "50",
+    "light": "50",
+    "dark": "-25",
+    "weaken": "0",
+    "dazzle": "50",
+    "seal": "0",
+    "mp_drain": "-25",
+    "confusion": "100",
+    "sleep": "50",
+    "paralyze": "100",
+    "skip_turn": "75",
+    "poison": "50",
+    "death": "50"
+  },
   "zukan_no": "No.00924",
   "prev_id": "CPM-GGL01S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/",
