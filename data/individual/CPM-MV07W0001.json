@@ -21,7 +21,7 @@
   "release_date": "2014年12月24日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00930",
+  "zukan_no": "No.00931",
   "prev_id": "CPM-MAG_VJ05B0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/23/vjump-drakym/",
   "next_id": "CPM-QSR_3101S0001",
@@ -104,6 +104,12 @@
       "name": "ホミロン",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミロン.webp",
       "page_url": "https://dqfan527.xsrv.jp/2024/08/28/healix/"
+    },
+    {
+      "id": "CPM-DIV01S0001",
+      "name": "ホミータ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/ホミータ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/24/homita/"
     },
     {
       "id": "CPM-ISL01S0003",
