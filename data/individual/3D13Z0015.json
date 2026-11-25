@@ -1,0 +1,64 @@
+{
+  "id": "3D13Z0015",
+  "name": "ぼうれい剣士",
+  "furigana": "ぼうれいけんし",
+  "english_name": "Phantom fencer",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/boureikenshi/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ぼうれいけんし.webp",
+  "monster_family": "ぼうれい剣士族",
+  "search_keywords": [
+    "Phantom fencer",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "FY1",
+    "DQSW",
+    "DQMB",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "TACT",
+    "DQSG"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00392",
+  "prev_id": "3D13Z0014",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/11/01/galumph/",
+  "next_id": "3D13Z0016",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/11/30/tortured-soul/",
+  "color_variants": [
+    {
+      "id": "4C13Z0023",
+      "name": "ソードファントム",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ソードファントム.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/24/sword-fantome/"
+    },
+    {
+      "id": "5B13Z0021",
+      "name": "ダークナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダークナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/30/invisible-swordsman/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

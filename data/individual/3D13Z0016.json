@@ -1,0 +1,67 @@
+{
+  "id": "3D13Z0016",
+  "name": "なげきのぼうれい",
+  "furigana": "なげきのぼうれい",
+  "english_name": "Tortured soul",
+  "page_url": "https://dqfan527.xsrv.jp/2023/11/30/tortured-soul/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/なげきのぼうれい.webp",
+  "monster_family": "なげきのぼうれい族",
+  "search_keywords": [
+    "Tortured soul",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM1_3DS",
+    "DQM1_SP",
+    "DQM2_3DS",
+    "DQM2_SP",
+    "DQM3",
+    "DQMJ",
+    "DQMJ2",
+    "DQMJ2_P",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQMB",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00393",
+  "prev_id": "3D13Z0015",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/11/30/boureikenshi/",
+  "next_id": "3D14Q1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/11/kandatakobun/",
+  "color_variants": [
+    {
+      "id": "4C13Z0024",
+      "name": "デスプリースト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスプリースト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/05/25/wight-priest/"
+    },
+    {
+      "id": "5B13Z0022",
+      "name": "ワイトキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ワイトキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/wight-king/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

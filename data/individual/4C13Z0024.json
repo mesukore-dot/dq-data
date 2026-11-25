@@ -1,0 +1,58 @@
+{
+  "id": "4C13Z0024",
+  "name": "デスプリースト",
+  "furigana": "ですぷりーすと",
+  "english_name": "Wight priest",
+  "page_url": "https://dqfan527.xsrv.jp/2024/05/25/wight-priest/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスプリースト.webp",
+  "monster_family": "なげきのぼうれい族",
+  "search_keywords": [
+    "Wight priest",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQMJ3",
+    "DQMJ3_P",
+    "DQH2",
+    "DQBS",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00563",
+  "prev_id": "4C13Z0023",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/04/24/sword-fantome/",
+  "next_id": "4C13Z0025",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/14/blood-mummy/",
+  "color_variants": [
+    {
+      "id": "3D13Z0016",
+      "name": "なげきのぼうれい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/なげきのぼうれい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/tortured-soul/"
+    },
+    {
+      "id": "5B13Z0022",
+      "name": "ワイトキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ワイトキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/wight-king/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
