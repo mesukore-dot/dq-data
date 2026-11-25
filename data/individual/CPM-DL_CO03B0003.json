@@ -1,0 +1,45 @@
+{
+  "id": "CPM-DL_CO03B0003",
+  "name": "チルアイ",
+  "furigana": "ちるあい",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2025/10/30/chill-eye/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チルアイ.webp",
+  "monster_family": "ビックアイ族",
+  "search_keywords": [
+    "コカ・コーラCokeON",
+    "コラボ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "WALK",
+  "appearances": [
+    "WALK"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2025年10月30日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00949",
+  "prev_id": "CPM-DL_CO03B0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/10/26/red-sabrecat/",
+  "next_id": "CPM-DL_CO07W0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/02/21/grape-merman/",
+  "color_variants": [
+    {
+      "id": "3D03B0012",
+      "name": "ビックアイ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ビックアイ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/big-eye/"
+    },
+    {
+      "id": "4C03B0017",
+      "name": "ケムケムベス",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ケムケムベス.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/08/10/kemukemubes/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
