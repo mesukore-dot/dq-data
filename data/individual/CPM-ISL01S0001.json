@@ -1,5 +1,33 @@
 {
   "id": "CPM-ISL01S0001",
+  "name": "たまねぎスライム",
+  "furigana": "たまねぎすらいむ",
+  "english_name": "",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
+  "monster_family": "スライム族",
+  "search_keywords": [
+    "ドラクエアイランド",
+    "公式イラストあり"
+  ],
+  "first_appearance": "Island",
+  "appearances": [
+    "DQ10",
+    "DQM3",
+    "STAR",
+    "WALK"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2021年5月15日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [
+    "1F04P0009",
+    "CPM-ISL01S0002",
+    "CPM-ISL01S0003"
+  ],
   "dqm3_no": "017",
   "dqm3_name": "たまねぎスライム",
   "dqm3_ruby": "たまねぎすらいむ",
@@ -126,34 +154,6 @@
     "poison": "50",
     "death": "50"
   },
-  "name": "たまねぎスライム",
-  "furigana": "たまねぎすらいむ",
-  "english_name": "",
-  "page_url": "https://dqfan527.xsrv.jp/2023/09/25/tamanegi-slime/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/たまねぎスライム.webp",
-  "monster_family": "スライム族",
-  "search_keywords": [
-    "ドラクエアイランド",
-    "公式イラストあり"
-  ],
-  "first_appearance": "Island",
-  "appearances": [
-    "DQ10",
-    "DQM3",
-    "STAR",
-    "WALK"
-  ],
-  "main_family": "スライム系",
-  "sub_family": "-",
-  "other_families": [],
-  "release_date": "2021年5月15日",
-  "voice_actor": "-",
-  "related_items": [],
-  "related_characters": [
-    "1F04P0009",
-    "CPM-ISL01S0002",
-    "CPM-ISL01S0003"
-  ],
   "zukan_no": "No.00949",
   "prev_id": "CPM-GGL01S0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/",
