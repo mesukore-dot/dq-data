@@ -47,7 +47,7 @@
   "release_date": "1995年12月9日",
   "related_items": [],
   "related_characters": [],
-  "zukan_no": "No.00843",
+  "zukan_no": "No.00851",
   "prev_id": "7S13Z0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2025/11/01/exordas/",
   "next_id": "7S13Z0003",
@@ -64,6 +64,12 @@
       "name": "ボーンファイター",
       "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンファイター.webp",
       "page_url": "https://dqfan527.xsrv.jp/2023/10/16/born-fighter/"
+    },
+    {
+      "id": "7S13Z0004",
+      "name": "暗黒の使い",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/暗黒の使い.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/01/12/messenger-of-darkness/"
     }
   ],
   "related_items_details": [],

@@ -1,0 +1,70 @@
+{
+  "id": "4C13Z0025",
+  "name": "ブラッドマミー",
+  "furigana": "ぶらっどまみー",
+  "english_name": "Blood mummy",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/14/blood-mummy/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ブラッドマミー.webp",
+  "monster_family": "ミイラおとこ族",
+  "search_keywords": [
+    "Blood mummy",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ9",
+    "DQ10",
+    "DQH2",
+    "DQMSL",
+    "STAR",
+    "WALK",
+    "TACT"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00564",
+  "prev_id": "4C13Z0024",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/05/25/wight-priest/",
+  "next_id": "4C13Z0026",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/01/11/flower-zombie/",
+  "color_variants": [
+    {
+      "id": "2E13Z0002",
+      "name": "ハロウィンマミー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ハロウィンマミー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/10/19/halloween-mummy/"
+    },
+    {
+      "id": "2E13Z0006",
+      "name": "ミイラおとこ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ミイラおとこ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/26/mirra-otoko/"
+    },
+    {
+      "id": "3D13Z0006",
+      "name": "マミー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マミー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/05/26/mummy/"
+    },
+    {
+      "id": "4C13Z0002",
+      "name": "悪鬼丸",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/09/悪鬼丸.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/09/23/akkimaru/"
+    },
+    {
+      "id": "4C13Z0010",
+      "name": "シザース",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/シザース.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2025/11/05/siza-su/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

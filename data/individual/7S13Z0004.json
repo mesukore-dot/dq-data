@@ -1,0 +1,57 @@
+{
+  "id": "7S13Z0004",
+  "name": "暗黒の使い",
+  "furigana": "あんこくのつかい",
+  "english_name": "Flower zombie",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/12/messenger-of-darkness/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/暗黒の使い.webp",
+  "monster_family": "まおうのつかい族",
+  "search_keywords": [
+    "Flower zombie",
+    "ボス",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ8",
+  "appearances": [
+    "DQ8",
+    "DQ8_3D",
+    "DQ10",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "WALK"
+  ],
+  "main_family": "ゾンビ系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2004年11月27日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00853",
+  "prev_id": "7S13Z0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/09/maeve/",
+  "next_id": "7S14Q1N030001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/06/09/kandata/",
+  "color_variants": [
+    {
+      "id": "5B13Z0013",
+      "name": "ヘルクラッシャー",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ヘルクラッシャー.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/15/hell-gladiator/"
+    },
+    {
+      "id": "6A13Z0010",
+      "name": "ボーンファイター",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ボーンファイター.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/16/born-fighter/"
+    },
+    {
+      "id": "7S13Z0002",
+      "name": "まおうのつかい",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/まおうのつかい.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/maounotukai/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
