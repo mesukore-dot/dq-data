@@ -38,6 +38,29 @@
     "related_characters": []
   },
   {
+    "id": "6A13Z0014",
+    "name": "黒騎士レオコーン",
+    "furigana": "くろきしれおこーん",
+    "english_name": "Wight Knight",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/19/kurokishireokoko-n/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/黒騎士レオコーン.webp",
+    "monster_family": "黒騎士レオコーン族",
+    "search_keywords": ["Wight Knight","ボス","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P",
+      "DQMB","DQBS",
+      "DQMSL","RIV","WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "7S13Z0004",
     "name": "暗黒の使い",
     "furigana": "あんこくのつかい",
