@@ -397,5 +397,30 @@
     "sub_family": "-",
     "release_date": "2025年10月30日",
     "zukan_no": "No.00771"
+  },
+  {
+    "id": "6A12E0002",
+    "name": "ダースギズモ",
+    "furigana": "だーすぎずも",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/10/dars-gizumo/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ダースギズモ.webp",
+    "search_keywords": [
+      "EvilCloud",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3_GBC",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ10",
+      "MSP",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "エレメント系",
+    "sub_family": "-",
+    "release_date": "2000年12月8日",
+    "zukan_no": "No.00772"
   }
 ]
