@@ -3054,6 +3054,36 @@
     "zukan_no": "No.00796"
   },
   {
+    "id": "6A13Z0014",
+    "name": "黒騎士レオコーン",
+    "furigana": "くろきしれおこーん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/19/kurokishireokoko-n/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/黒騎士レオコーン.webp",
+    "search_keywords": [
+      "Wight Knight",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "RIV",
+      "WALK"
+    ],
+    "main_family": "ゾンビ系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00797"
+  },
+  {
     "id": "7S13Z0001",
     "name": "エクソダス",
     "furigana": "えくそだす",
@@ -3070,7 +3100,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00850"
+    "zukan_no": "No.00851"
   },
   {
     "id": "7S13Z0002",
@@ -3116,7 +3146,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00851"
+    "zukan_no": "No.00852"
   },
   {
     "id": "7S13Z0003",
@@ -3142,7 +3172,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00852"
+    "zukan_no": "No.00853"
   },
   {
     "id": "7S13Z0004",
@@ -3168,7 +3198,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00853"
+    "zukan_no": "No.00854"
   },
   {
     "id": "8SS13Z0001",
@@ -3204,7 +3234,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00893"
+    "zukan_no": "No.00894"
   },
   {
     "id": "8SS13Z0002",
@@ -3233,7 +3263,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00894"
+    "zukan_no": "No.00895"
   },
   {
     "id": "8SS13Z0003",
@@ -3274,7 +3304,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00895"
+    "zukan_no": "No.00896"
   },
   {
     "id": "8SS13Z0004",
@@ -3312,7 +3342,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00896"
+    "zukan_no": "No.00897"
   },
   {
     "id": "8SS13Z0005",
@@ -3339,7 +3369,7 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00897"
+    "zukan_no": "No.00898"
   },
   {
     "id": "8SS13Z0005-1",
@@ -3372,6 +3402,6 @@
     "main_family": "ゾンビ系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00898"
+    "zukan_no": "No.00899"
   }
 ]
