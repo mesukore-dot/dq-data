@@ -38,6 +38,66 @@
     "related_characters": []
   },
   {
+    "id": "CPM-DL_CO03B0003",
+    "name": "チルアイ",
+    "furigana": "ちるあい",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2025/10/30/chill-eye/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/チルアイ.webp",
+    "monster_family": "ビックアイ族",
+    "search_keywords": ["コカ・コーラCokeON","コラボ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2025年10月30日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-DL_CO03B0002",
+    "name": "レッドパンサー",
+    "furigana": "れっどぱんさー",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2024/10/26/red-sabrecat/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/レッドパンサー.webp",
+    "monster_family": "キラーパンサー族",
+    "search_keywords": ["コカ・コーラCokeON","コラボ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2023年11月14日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-DL_CO03B0001",
+    "name": "コーヒーライオン",
+    "furigana": "こーひーらいおん",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/15/coffee-lion/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/コーヒーライオン.webp",
+    "monster_family": "アームライオン族",
+    "search_keywords": ["コカ・コーラCokeON","コラボ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "けもの系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2022年11月11日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A13Z0014",
     "name": "黒騎士レオコーン",
     "furigana": "くろきしれおこーん",
