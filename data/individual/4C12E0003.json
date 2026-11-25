@@ -1,0 +1,62 @@
+{
+  "id": "4C12E0003",
+  "name": "ようがんまじん",
+  "furigana": "ようがんまじん",
+  "english_name": "Hell nino",
+  "page_url": "https://dqfan527.xsrv.jp/2023/06/09/heat-gizumo/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ようがんまじん.webp",
+  "monster_family": "ようがんまじん族",
+  "search_keywords": [
+    "Hell nino",
+    "炎・マグマ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ3",
+  "appearances": [
+    "DQ1_HD2D",
+    "DQ2_HD2D",
+    "DQ3",
+    "DQ3_SFC",
+    "DQ3_GBC",
+    "DQ3_HD2D",
+    "DQ6",
+    "DQ7_3D",
+    "DQ9",
+    "DQ10",
+    "DQ10_OFF",
+    "DQM3",
+    "DQMJ3",
+    "DQMJ3_P",
+    "FY1",
+    "DQH2",
+    "DQB2",
+    "DQMSL",
+    "MSP",
+    "STAR",
+    "RIV",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "エレメント系",
+  "sub_family": "炎・マグマ",
+  "other_families": [],
+  "release_date": "1988年2月10日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00535",
+  "prev_id": "4C12E0002",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2023/06/10/frost-gizumo/",
+  "next_id": "4C13Z0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2023/10/16/tatariozen/",
+  "color_variants": [
+    {
+      "id": "5B12E0003",
+      "name": "ひょうがまじん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ひょうがまじん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/06/10/frost-gizumo/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
