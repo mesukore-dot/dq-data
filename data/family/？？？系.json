@@ -566,6 +566,125 @@
     "zukan_no": "No.00907"
   },
   {
+    "id": "8SS14Q1N080001",
+    "name": "ドルマゲス",
+    "furigana": "どるまげす",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/dhoulmagus1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドルマゲス.webp",
+    "search_keywords": [
+      "Dhoulmagus",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00908"
+  },
+  {
+    "id": "8SS14Q1N080002",
+    "name": "ドルマゲス",
+    "furigana": "どるまげす",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/06/dhoulmagus2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ドルマゲス2.webp",
+    "search_keywords": [
+      "Dhoulmagus",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00909"
+  },
+  {
+    "id": "8SS14Q1N080003",
+    "name": "呪われしゼシカ",
+    "furigana": "のろわれしぜしか",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/23/cursed-jessica/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/呪われしゼシカ.webp",
+    "search_keywords": [
+      "Evil Jessica",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQMB",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "WALK"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00910"
+  },
+  {
+    "id": "8SS14Q1N080004",
+    "name": "ジャハガロス",
+    "furigana": "じゃはがろす",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/12/jahagaros/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2025/01/ジャハガロス.webp",
+    "search_keywords": [
+      "Juggerwroth",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8_3D",
+    "appearances": [
+      "DQ8_3D",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2015年8月27日",
+    "zukan_no": "No.00911"
+  },
+  {
     "id": "9X14Q1N010001",
     "name": "りゅうおう",
     "furigana": "りゅうおう",
@@ -608,7 +727,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00921"
+    "zukan_no": "No.00925"
   },
   {
     "id": "9X14Q1N010001-1",
@@ -655,7 +774,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00922"
+    "zukan_no": "No.00926"
   },
   {
     "id": "9X14Q1N020001",
@@ -704,7 +823,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00923"
+    "zukan_no": "No.00927"
   },
   {
     "id": "9X14Q1N020002",
@@ -725,7 +844,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00924"
+    "zukan_no": "No.00928"
   },
   {
     "id": "9X14Q1N030001",
@@ -779,7 +898,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00925"
+    "zukan_no": "No.00929"
   },
   {
     "id": "9X14Q1N040001",
@@ -813,7 +932,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00926"
+    "zukan_no": "No.00930"
   },
   {
     "id": "9X14Q1N040001-1",
@@ -861,7 +980,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00927"
+    "zukan_no": "No.00931"
   },
   {
     "id": "9X14Q1N050001",
@@ -895,7 +1014,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00928"
+    "zukan_no": "No.00932"
   },
   {
     "id": "9X14Q1N050001-1",
@@ -942,7 +1061,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00929"
+    "zukan_no": "No.00933"
   },
   {
     "id": "9X14Q1N050002",
@@ -993,7 +1112,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00930"
+    "zukan_no": "No.00934"
   },
   {
     "id": "9X14Q1N060001",
@@ -1028,7 +1147,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00931"
+    "zukan_no": "No.00935"
   },
   {
     "id": "9X14Q1N060002",
@@ -1061,7 +1180,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00932"
+    "zukan_no": "No.00936"
   },
   {
     "id": "9X14Q1N060003",
@@ -1093,7 +1212,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00933"
+    "zukan_no": "No.00937"
   },
   {
     "id": "9X14Q1N060004",
@@ -1137,7 +1256,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00934"
+    "zukan_no": "No.00938"
   },
   {
     "id": "9X14Q1N060005",
@@ -1169,7 +1288,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00935"
+    "zukan_no": "No.00939"
   },
   {
     "id": "9X14Q1N060006",
@@ -1211,7 +1330,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00936"
+    "zukan_no": "No.00940"
   },
   {
     "id": "9X14Q1N070001",
@@ -1254,7 +1373,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00937"
+    "zukan_no": "No.00941"
   },
   {
     "id": "9X14Q1N070002",
@@ -1291,7 +1410,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00938"
+    "zukan_no": "No.00942"
   },
   {
     "id": "9X14Q1N070003",
@@ -1317,7 +1436,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00939"
+    "zukan_no": "No.00943"
   },
   {
     "id": "9X14Q1N070004",
@@ -1343,7 +1462,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00940"
+    "zukan_no": "No.00944"
   },
   {
     "id": "9X14Q1N070005",
@@ -1381,7 +1500,85 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00941"
+    "zukan_no": "No.00945"
+  },
+  {
+    "id": "9X14Q1N080001",
+    "name": "魔王ラプソーン",
+    "furigana": "まおうらぷそーん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/14/rhapthorne1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ラプソーン.webp",
+    "search_keywords": [
+      "Rhapthorne",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00946"
+  },
+  {
+    "id": "9X14Q1N080002",
+    "name": "暗黒神ラプソーン",
+    "furigana": "あんこくしんらぷそーん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/rhapthorne2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/暗黒神ラプソーン.webp",
+    "search_keywords": [
+      "Rhapthorne",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00947"
   },
   {
     "id": "9X14Q2MJ30004",
@@ -1402,7 +1599,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00942"
+    "zukan_no": "No.00948"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -1423,6 +1620,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00943"
+    "zukan_no": "No.00949"
   }
 ]
