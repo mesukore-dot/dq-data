@@ -38,6 +38,30 @@
     "related_characters": []
   },
   {
+    "id": "9X14Q1N070005",
+    "name": "神さま",
+    "furigana": "かみさま",
+    "english_name": "The Almighty",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/the-almighty/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/神さま.webp",
+    "monster_family": "神さま族",
+    "search_keywords": ["The Almighty","裏ボス","公式イラストあり"],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7","DQ7_3D","DQ7_RM",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQMJ2","DQMJ2_P","DQMJ3_P",
+      "DQBS","XB",
+      "DQMSL","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2000年8月26日",
+    "voice_actor": "緒方賢一",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "9X14Q1N070004",
     "name": "オルゴ・デミーラ",
     "furigana": "おるご・でみーら",
@@ -55,7 +79,7 @@
     "sub_family": "-",
     "other_families": [],
     "release_date": "2000年8月26日",
-    "voice_actor": "-",
+    "voice_actor": "関俊彦",
     "related_items": [],
     "related_characters": []
   },
@@ -77,7 +101,7 @@
     "sub_family": "-",
     "other_families": [],
     "release_date": "2000年8月26日",
-    "voice_actor": "-",
+    "voice_actor": "関俊彦",
     "related_items": [],
     "related_characters": []
   },
@@ -101,7 +125,7 @@
     "sub_family": "-",
     "other_families": [],
     "release_date": "2000年8月26日",
-    "voice_actor": "-",
+    "voice_actor": "関俊彦",
     "related_items": [],
     "related_characters": []
   },
@@ -125,7 +149,7 @@
     "sub_family": "-",
     "other_families": [],
     "release_date": "2000年8月26日",
-    "voice_actor": "-",
+    "voice_actor": "関俊彦",
     "related_items": [],
     "related_characters": []
   },
