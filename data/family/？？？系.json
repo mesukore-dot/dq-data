@@ -1772,6 +1772,64 @@
     "zukan_no": "No.00953"
   },
   {
+    "id": "9X14Q1N110001",
+    "name": "魔道士ウルノーガ",
+    "furigana": "まどうしうるのーが",
+    "page_url": "https://dqfan527.xsrv.jp/2025/01/10/mage-urnoga/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔道士ウルノーガ.webp",
+    "search_keywords": [
+      "Mordegon",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00954"
+  },
+  {
+    "id": "9X14Q1N110002",
+    "name": "魔王ウルノーガ",
+    "furigana": "まおううるのーが",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/12/mordegon-lord-of-shadows/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔王ウルノーガ.webp",
+    "search_keywords": [
+      "Mordegon, Lord of Shadows",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM1_SP",
+      "DQM2_SP",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "champ"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00955"
+  },
+  {
     "id": "9X14Q2MJ30004",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
@@ -1790,7 +1848,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00954"
+    "zukan_no": "No.00956"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -1811,6 +1869,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00955"
+    "zukan_no": "No.00957"
   }
 ]

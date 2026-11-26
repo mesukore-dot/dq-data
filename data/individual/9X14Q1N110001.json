@@ -1,0 +1,47 @@
+{
+  "id": "9X14Q1N110001",
+  "name": "魔道士ウルノーガ",
+  "furigana": "まどうしうるのーが",
+  "english_name": "Mordegon",
+  "page_url": "https://dqfan527.xsrv.jp/2025/01/10/mage-urnoga/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔道士ウルノーガ.webp",
+  "monster_family": "魔道士ウルノーガ族",
+  "search_keywords": [
+    "Mordegon",
+    "ボス",
+    "魔王",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ11",
+  "appearances": [
+    "DQ11",
+    "DQBS",
+    "XB",
+    "DQMSL",
+    "STAR",
+    "RIV",
+    "TACT"
+  ],
+  "main_family": "？？？系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2017年7月29日",
+  "voice_actor": "黒田崇矢",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00954",
+  "prev_id": "9X14Q1N100012",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2024/06/19/maldragora/",
+  "next_id": "9X14Q1N110002",
+  "next_page_url": "https://dqfan527.xsrv.jp/2024/06/12/mordegon-lord-of-shadows/",
+  "color_variants": [
+    {
+      "id": "9X14Q1N110002",
+      "name": "魔王ウルノーガ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔王ウルノーガ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/06/12/mordegon-lord-of-shadows/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
