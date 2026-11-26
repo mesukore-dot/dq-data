@@ -1,5 +1,36 @@
 {
   "id": "1F01S0013",
+  "name": "スライムコロネ",
+  "furigana": "すらいむころね",
+  "english_name": "Goonache goodie",
+  "chinese_name": "螺旋卷史莱姆",
+  "page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムコロネ.webp",
+  "monster_family": "スライムコロネ族",
+  "search_keywords": [
+    "Goonache goodie",
+    "パン",
+    "たべもの",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM3",
+  "appearances": [
+    "DQM3",
+    "DQM4",
+    "WALK",
+    "TACT",
+    "KSKS"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2023年12月1日",
+  "voice_actor": "-",
+  "related_items": [],
+  "related_characters": [
+    "1F02D0005",
+    "2E01S0026"
+  ],
   "dqm3_no": "002",
   "dqm3_name": "スライムコロネ",
   "dqm3_ruby": "すらいむころね",
@@ -144,37 +175,6 @@
     "poison": "50",
     "death": "50"
   },
-  "name": "スライムコロネ",
-  "furigana": "すらいむころね",
-  "english_name": "Goonache goodie",
-  "chinese_name": "螺旋卷史莱姆",
-  "page_url": "https://dqfan527.xsrv.jp/2023/09/19/slime-kolone/",
-  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/スライムコロネ.webp",
-  "monster_family": "スライムコロネ族",
-  "search_keywords": [
-    "Goonache goodie",
-    "パン",
-    "たべもの",
-    "公式イラストあり"
-  ],
-  "first_appearance": "DQM3",
-  "appearances": [
-    "DQM3",
-    "DQM4",
-    "WALK",
-    "TACT",
-    "KSKS"
-  ],
-  "main_family": "スライム系",
-  "sub_family": "-",
-  "other_families": [],
-  "release_date": "2023年12月1日",
-  "voice_actor": "-",
-  "related_items": [],
-  "related_characters": [
-    "1F02D0005",
-    "2E01S0026"
-  ],
   "zukan_no": "No.00014",
   "prev_id": "1F01S0012",
   "prev_page_url": "https://dqfan527.xsrv.jp/2024/08/02/cutie-slime/",
