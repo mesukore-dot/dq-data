@@ -1581,6 +1581,141 @@
     "zukan_no": "No.00947"
   },
   {
+    "id": "9X14Q1N090001",
+    "name": "エルギオス",
+    "furigana": "えるぎおす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/14/datenshierugiosu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エルギオス.webp",
+    "search_keywords": [
+      "Corvus",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL",
+      "STAR",
+      "RIV",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00948"
+  },
+  {
+    "id": "9X14Q1N090002",
+    "name": "堕天使エルギオス",
+    "furigana": "だてんしえるぎおす",
+    "page_url": "https://dqfan527.xsrv.jp/2023/04/14/datenshierugiosu2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/堕天使エルギオス.webp",
+    "search_keywords": [
+      "Corvus",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQ10",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00949"
+  },
+  {
+    "id": "9X14Q1N100001",
+    "name": "冥王ネルゲル",
+    "furigana": "めいおうねるげる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/nelgel1/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/冥王ネルゲル.webp",
+    "search_keywords": [
+      "Nelgel",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00950"
+  },
+  {
+    "id": "9X14Q1N100002",
+    "name": "冥獣王ネルゲル",
+    "furigana": "めいじゅうねるげる",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/nelgel2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/冥獣王ネルゲル.webp",
+    "search_keywords": [
+      "Nelgel",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "WALK",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2012年8月2日",
+    "zukan_no": "No.00951"
+  },
+  {
     "id": "9X14Q2MJ30004",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
@@ -1599,7 +1734,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00948"
+    "zukan_no": "No.00952"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -1620,6 +1755,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00949"
+    "zukan_no": "No.00953"
   }
 ]
