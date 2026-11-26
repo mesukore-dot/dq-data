@@ -1214,6 +1214,138 @@
     "zukan_no": "No.00936"
   },
   {
+    "id": "9X14Q1N070001",
+    "name": "オルゴ・デミーラ",
+    "furigana": "おるご・でみーら",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/orgodemir/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オルゴデミーラ2-1-1.webp",
+    "search_keywords": [
+      "Orgodemir",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00937"
+  },
+  {
+    "id": "9X14Q1N070002",
+    "name": "オルゴ・デミーラ",
+    "furigana": "おるご・でみーら",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/11/orgodemir2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オルゴデミーラ2-2-1.webp",
+    "search_keywords": [
+      "Orgodemir",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00938"
+  },
+  {
+    "id": "9X14Q1N070003",
+    "name": "オルゴ・デミーラ",
+    "furigana": "おるご・でみーら",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/27/orgodemir3/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オルゴデミーラ2-3-1.webp",
+    "search_keywords": [
+      "Orgodemir",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQMSL",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00939"
+  },
+  {
+    "id": "9X14Q1N070004",
+    "name": "オルゴ・デミーラ",
+    "furigana": "おるご・でみーら",
+    "page_url": "https://dqfan527.xsrv.jp/2025/03/27/orgodemir4/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/オルゴデミーラ2-4-1.webp",
+    "search_keywords": [
+      "Orgodemir",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ7",
+    "appearances": [
+      "DQ7",
+      "DQ7_3D",
+      "DQ7_RM",
+      "DQMSL",
+      "STAR",
+      "RIV"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2000年8月26日",
+    "zukan_no": "No.00940"
+  },
+  {
     "id": "9X14Q2MJ30004",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
@@ -1232,7 +1364,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00937"
+    "zukan_no": "No.00941"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -1253,6 +1385,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00938"
+    "zukan_no": "No.00942"
   }
 ]
