@@ -206,7 +206,7 @@
     "other_families": [],
     "release_date": "2026年12月3日",
     "related_items": [],
-    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU01S0001","CPM-DL_SU08D0001","CPM-MAG_VJ05B0001","CPM-MAG_TV13Z0001"]
+    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU01S0001","CPM-DL_SU08D0001","CPM-MAG_VJ05B0001","CPM-MAG_TV11M0001"]
   },
   {
     "id": "CPM-DL_SU08D0001",
@@ -226,7 +226,7 @@
     "other_families": [],
     "release_date": "2026年12月3日",
     "related_items": [],
-    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU01S0001","CPM-DL_SU03B0001","CPM-MAG_VJ05B0001","CPM-MAG_TV13Z0001"]
+    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU01S0001","CPM-DL_SU03B0001","CPM-MAG_VJ05B0001","CPM-MAG_TV11M0001"]
   },
   {
     "id": "CPM-DL_SU01S0001",
@@ -246,7 +246,7 @@
     "other_families": [],
     "release_date": "2026年12月3日",
     "related_items": [],
-    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU08D0001","CPM-DL_SU03B0001","CPM-MAG_VJ05B0001","CPM-MAG_TV13Z0001"]
+    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU08D0001","CPM-DL_SU03B0001","CPM-MAG_VJ05B0001","CPM-MAG_TV11M0001"]
   },
   {
     "id": "CPM-MAG_TV11M0001",
@@ -1444,7 +1444,7 @@
     "other_families": [],
     "release_date": "2026年12月3日",
     "related_items": [],
-    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU01S0001","CPM-DL_SU08D0001","CPM-DL_SU03B0001","CPM-MAG_TV13Z0001"]
+    "related_characters": ["CPM-CVS_FM01S0001","CPM-DL_SU01S0001","CPM-DL_SU08D0001","CPM-DL_SU03B0001","CPM-MAG_TV11M0001"]
   },
   {
     "id": "CPM-QSR_LY01S0001",
@@ -1484,7 +1484,7 @@
     "other_families": [],
     "release_date": "2026年12月3日",
     "related_items": [],
-    "related_characters": ["CPM-DL_SU01S0001","CPM-DL_SU08D0001","CPM-DL_SU03B0001","CPM-MAG_VJ05B0001","CPM-MAG_TV13Z0001"]
+    "related_characters": ["CPM-DL_SU01S0001","CPM-DL_SU08D0001","CPM-DL_SU03B0001","CPM-MAG_VJ05B0001","CPM-MAG_TV11M0001"]
   },
   {
     "id": "CPM-CVS_LW11M0001",
