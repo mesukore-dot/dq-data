@@ -8,6 +8,7 @@
   "monster_family": "スライム族",
   "search_keywords": [
     "吉野家",
+    "よしのや",
     "コラボ",
     "公式イラストあり"
   ],
@@ -20,9 +21,7 @@
   "other_families": [],
   "release_date": "2026年7月1日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00989",
   "prev_id": "CPM-QSR_MC01S0001",
@@ -247,10 +246,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/09/26/popping-shower-slime/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }
