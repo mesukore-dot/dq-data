@@ -685,6 +685,90 @@
     "zukan_no": "No.00911"
   },
   {
+    "id": "8SS14Q1N090001",
+    "name": "破壊神フォロボス",
+    "furigana": "はかいしんふぉろぼす",
+    "page_url": "https://dqfan527.xsrv.jp/2025/08/04/hakaisinforobosu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/破壊神フォロボス.webp",
+    "search_keywords": [
+      "Tyrannosaurus Wrecks",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQ10",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2_P",
+      "DQMJ3_P",
+      "DQMSL",
+      "RIV",
+      "TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2009年7月11日",
+    "zukan_no": "No.00912"
+  },
+  {
+    "id": "8SS14Q1N090002",
+    "name": "フォロボシータ",
+    "furigana": "ふぉろぼしーた",
+    "page_url": "https://dqfan527.xsrv.jp/2025/07/10/foroboshita/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/フォロボシータ.webp",
+    "search_keywords": [
+      "Tyrannosaura Wrecks",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMSL"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2009年11月13日",
+    "zukan_no": "No.00913"
+  },
+  {
+    "id": "8SS14Q1N100201",
+    "name": "魔勇者アンルシア",
+    "furigana": "まゆうしゃあんるしあ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/19/evil-ann-lucia/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔勇者アンルシア.webp",
+    "search_keywords": [
+      "Anlucia the Maluminary",
+      "ボス",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10",
+      "DQ10_OFF",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2013年12月5日",
+    "zukan_no": "No.00914"
+  },
+  {
     "id": "9X14Q1N010001",
     "name": "りゅうおう",
     "furigana": "りゅうおう",
@@ -727,7 +811,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00925"
+    "zukan_no": "No.00928"
   },
   {
     "id": "9X14Q1N010001-1",
@@ -774,7 +858,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1986年5月27日",
-    "zukan_no": "No.00926"
+    "zukan_no": "No.00929"
   },
   {
     "id": "9X14Q1N020001",
@@ -823,7 +907,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00927"
+    "zukan_no": "No.00930"
   },
   {
     "id": "9X14Q1N020002",
@@ -844,7 +928,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2025年10月30日",
-    "zukan_no": "No.00928"
+    "zukan_no": "No.00931"
   },
   {
     "id": "9X14Q1N030001",
@@ -898,7 +982,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1988年2月10日",
-    "zukan_no": "No.00929"
+    "zukan_no": "No.00932"
   },
   {
     "id": "9X14Q1N040001",
@@ -932,7 +1016,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00930"
+    "zukan_no": "No.00933"
   },
   {
     "id": "9X14Q1N040001-1",
@@ -980,7 +1064,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00931"
+    "zukan_no": "No.00934"
   },
   {
     "id": "9X14Q1N050001",
@@ -1014,7 +1098,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00932"
+    "zukan_no": "No.00935"
   },
   {
     "id": "9X14Q1N050001-1",
@@ -1061,7 +1145,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00933"
+    "zukan_no": "No.00936"
   },
   {
     "id": "9X14Q1N050002",
@@ -1112,7 +1196,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00934"
+    "zukan_no": "No.00937"
   },
   {
     "id": "9X14Q1N060001",
@@ -1147,7 +1231,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00935"
+    "zukan_no": "No.00938"
   },
   {
     "id": "9X14Q1N060002",
@@ -1180,7 +1264,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00936"
+    "zukan_no": "No.00939"
   },
   {
     "id": "9X14Q1N060003",
@@ -1212,7 +1296,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00937"
+    "zukan_no": "No.00940"
   },
   {
     "id": "9X14Q1N060004",
@@ -1256,7 +1340,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00938"
+    "zukan_no": "No.00941"
   },
   {
     "id": "9X14Q1N060005",
@@ -1288,7 +1372,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00939"
+    "zukan_no": "No.00942"
   },
   {
     "id": "9X14Q1N060006",
@@ -1330,7 +1414,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00940"
+    "zukan_no": "No.00943"
   },
   {
     "id": "9X14Q1N070001",
@@ -1373,7 +1457,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00941"
+    "zukan_no": "No.00944"
   },
   {
     "id": "9X14Q1N070002",
@@ -1410,7 +1494,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00942"
+    "zukan_no": "No.00945"
   },
   {
     "id": "9X14Q1N070003",
@@ -1436,7 +1520,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00943"
+    "zukan_no": "No.00946"
   },
   {
     "id": "9X14Q1N070004",
@@ -1462,7 +1546,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00944"
+    "zukan_no": "No.00947"
   },
   {
     "id": "9X14Q1N070005",
@@ -1500,7 +1584,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2000年8月26日",
-    "zukan_no": "No.00945"
+    "zukan_no": "No.00948"
   },
   {
     "id": "9X14Q1N080001",
@@ -1535,7 +1619,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00946"
+    "zukan_no": "No.00949"
   },
   {
     "id": "9X14Q1N080002",
@@ -1578,7 +1662,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00947"
+    "zukan_no": "No.00950"
   },
   {
     "id": "9X14Q1N090001",
@@ -1608,7 +1692,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00948"
+    "zukan_no": "No.00951"
   },
   {
     "id": "9X14Q1N090002",
@@ -1648,7 +1732,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00949"
+    "zukan_no": "No.00952"
   },
   {
     "id": "9X14Q1N100001",
@@ -1681,7 +1765,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00950"
+    "zukan_no": "No.00953"
   },
   {
     "id": "9X14Q1N100002",
@@ -1713,7 +1797,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00951"
+    "zukan_no": "No.00954"
   },
   {
     "id": "9X14Q1N100011",
@@ -1740,7 +1824,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2014年12月25日",
-    "zukan_no": "No.00952"
+    "zukan_no": "No.00955"
   },
   {
     "id": "9X14Q1N100012",
@@ -1769,7 +1853,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2014年12月25日",
-    "zukan_no": "No.00953"
+    "zukan_no": "No.00956"
   },
   {
     "id": "9X14Q1N110001",
@@ -1796,7 +1880,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00954"
+    "zukan_no": "No.00957"
   },
   {
     "id": "9X14Q1N110002",
@@ -1827,7 +1911,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00955"
+    "zukan_no": "No.00958"
   },
   {
     "id": "9X14Q1N110003",
@@ -1854,7 +1938,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年7月29日",
-    "zukan_no": "No.00956"
+    "zukan_no": "No.00959"
   },
   {
     "id": "9X14Q2MJ30004",
@@ -1875,7 +1959,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00957"
+    "zukan_no": "No.00960"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -1896,6 +1980,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00958"
+    "zukan_no": "No.00961"
   }
 ]
