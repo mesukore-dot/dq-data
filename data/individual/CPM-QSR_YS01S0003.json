@@ -8,6 +8,7 @@
   "monster_family": "キングスライム族",
   "search_keywords": [
     "吉野家",
+    "よしのや",
     "コラボ",
     "公式イラストあり"
   ],
@@ -20,15 +21,13 @@
   "other_families": [],
   "release_date": "2026年7月1日",
   "voice_actor": "-",
-  "related_items": [
-    "-"
-  ],
+  "related_items": [],
   "related_characters": [],
   "zukan_no": "No.00991",
   "prev_id": "CPM-QSR_YS01S0002",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
-  "next_id": "CPM-SP01S0001",
-  "next_page_url": "https://dqfan527.xsrv.jp/2026/04/13/dd-slime/",
+  "next_id": "CPM-QSR_YS08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/07/02/gyuurem/",
   "color_variants": [
     {
       "id": "4C01S0003",
@@ -157,10 +156,6 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/11/23/laya-king-slime/"
     }
   ],
-  "related_items_details": [
-    {
-      "id": "-"
-    }
-  ],
+  "related_items_details": [],
   "related_characters_details": []
 }

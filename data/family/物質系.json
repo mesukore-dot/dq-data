@@ -2404,5 +2404,68 @@
     "sub_family": "-",
     "release_date": "2004年11月27日",
     "zukan_no": "No.00889"
+  },
+  {
+    "id": "CPM-QSR_YS08D0001",
+    "name": "牛丼デーモン",
+    "furigana": "ぎゅうどんでーもん",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/gyuurem/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/02/ギュウレム.webp",
+    "search_keywords": [
+      "吉野家",
+      "よしのや",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00992"
+  },
+  {
+    "id": "CPM-QSR_YS10M0001",
+    "name": "ギュウレム",
+    "furigana": "ぎゅうれむ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/gyuudon-demon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/05/牛丼デーモン.webp",
+    "search_keywords": [
+      "吉野家",
+      "よしのや",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00993"
+  },
+  {
+    "id": "CPM-QSR_YS10M0002",
+    "name": "ひとくい紅生姜ばこ",
+    "furigana": "ひとくいべにしょうがばこ",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/hitokui-benishoga-bako/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/ひとくい紅生姜ばこ.webp",
+    "search_keywords": [
+      "吉野家",
+      "よしのや",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "物質系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00994"
   }
 ]
