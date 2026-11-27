@@ -38,6 +38,73 @@
     "related_characters": []
   },
   {
+    "id": "6A11M0004",
+    "name": "エビルフランケン",
+    "furigana": "えびるふらんけん",
+    "english_name": "Mechalomaniac",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/16/mechalomaniac/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルフランケン.webp",
+    "monster_family": "メガボーグ族",
+    "search_keywords": ["Mechalomaniac","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "RIV"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "5B11M0004",
+    "name": "メガボーグ",
+    "furigana": "めがぼーぐ",
+    "english_name": "Scytheborg",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/14/scytheborg/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メガボーグ.webp",
+    "monster_family": "メガボーグ族",
+    "search_keywords": ["Scytheborg","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P",
+      "RIV"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "7S11M0002",
+    "name": "キラーマジンガ",
+    "furigana": "きらーまじんが",
+    "english_name": "Überkilling machine",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/killer-machine-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キラーマジンガ.webp",
+    "monster_family": "キラーマシン2族",
+    "search_keywords": ["Überkilling machine","公式イラストあり"],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ2_HD2D","DQ6","DQ7_3D","DQ10","DQ11",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ2_P","DQMJ3","DQMJ3_P",
+      "DQH1","DQH2",
+      "DQMB","DQBS","XB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1995年12月9日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "CPM-DL_CO11M0001",
     "name": "お茶コッコ",
     "furigana": "おちゃこっこ",
