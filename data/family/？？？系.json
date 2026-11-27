@@ -1830,6 +1830,33 @@
     "zukan_no": "No.00955"
   },
   {
+    "id": "9X14Q1N110003",
+    "name": "邪竜ウルナーガ&魔王ウルノーガ",
+    "furigana": "じゃりゅううるなーがあんどまおううるのーが",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/mordragon-tail/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/邪竜ウルナーガ＆魔王ウルノーガ.webp",
+    "search_keywords": [
+      "Mordragon & tail",
+      "ボス",
+      "魔王",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ11",
+    "appearances": [
+      "DQ11",
+      "DQM2_SP",
+      "DQM3",
+      "DQBS",
+      "DQMSL",
+      "STAR",
+      "KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "release_date": "2017年7月29日",
+    "zukan_no": "No.00956"
+  },
+  {
     "id": "9X14Q2MJ30004",
     "name": "大魔王マデュラージャ",
     "furigana": "だいまおうまでゅらーじゃ",
@@ -1848,7 +1875,7 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00956"
+    "zukan_no": "No.00957"
   },
   {
     "id": "9X14Q2MJ30004-1",
@@ -1869,6 +1896,6 @@
     "main_family": "？？？系",
     "sub_family": "-",
     "release_date": "2017年2月9日",
-    "zukan_no": "No.00957"
+    "zukan_no": "No.00958"
   }
 ]
