@@ -791,7 +791,27 @@
     "zukan_no": "No.00965"
   },
   {
-    "id": "CPM-MAG_TV13Z0001",
+    "id": "CPM-DL_CO11M0001",
+    "name": "お茶コッコ",
+    "furigana": "おちゃこっこ",
+    "page_url": "https://dqfan527.xsrv.jp/2023/03/15/ochakokko/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/お茶コッコ.webp",
+    "search_keywords": [
+      "コカ・コーラCokeON",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2023年1月13日",
+    "zukan_no": "No.00974"
+  },
+  {
+    "id": "CPM-MAG_TV11M0001",
     "name": "てれびあん",
     "furigana": "てれびあん",
     "page_url": "https://dqfan527.xsrv.jp/2026/11/27/tvan/",
@@ -808,6 +828,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00981"
+    "zukan_no": "No.00982"
   }
 ]
