@@ -38,6 +38,69 @@
     "related_characters": []
   },
   {
+    "id": "CPM-QSR_YS10M0002",
+    "name": "ひとくい紅生姜ばこ",
+    "furigana": "ひとくいべにしょうがばこ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/hitokui-benishoga-bako/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/03/ひとくい紅生姜ばこ.webp",
+    "monster_family": "ミミック族",
+    "search_keywords": ["吉野家","よしのや","コラボ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "物質系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2026年7月1日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-QSR_YS10M0001",
+    "name": "ギュウレム",
+    "furigana": "ぎゅうれむ",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/gyuudon-demon/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/05/牛丼デーモン.webp",
+    "monster_family": "ゴーレム族",
+    "search_keywords": ["吉野家","よしのや","コラボ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "物質系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2026年7月1日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "CPM-QSR_YS08D0001",
+    "name": "牛丼デーモン",
+    "furigana": "ぎゅうどんでーもん",
+    "english_name": "-",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/gyuurem/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/02/ギュウレム.webp",
+    "monster_family": "アークデーモン族",
+    "search_keywords": ["吉野家","よしのや","コラボ","公式イラストあり"],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+      ],
+    "main_family": "物質系",
+    "sub_family":"-",
+    "other_families": [],
+    "release_date": "2026年7月1日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "CPM-DL_SU03B0001",
     "name": "よくぼうキャット",
     "furigana": "よくぼうきゃっと",
@@ -16592,7 +16655,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-king/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりキング.webp",
     "monster_family": "キングスライム族",
-    "search_keywords": ["吉野家","コラボ","公式イラストあり"],
+    "search_keywords": ["吉野家","よしのや","コラボ","公式イラストあり"],
     "first_appearance": "WALK",
     "appearances": [
       "WALK"
@@ -16602,7 +16665,7 @@
     "other_families": [],
     "release_date": "2026年7月1日",
     "voice_actor": "-",
-    "related_items": ["-"],
+    "related_items": [],
     "related_characters": []
   },
        {
@@ -16613,7 +16676,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2026/07/02/tsuyudaku-slime/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/つゆだくスライム.webp",
     "monster_family": "バブルスライム族",
-    "search_keywords": ["吉野家","コラボ","公式イラストあり"],
+    "search_keywords": ["吉野家","よしのや","コラボ","公式イラストあり"],
     "first_appearance": "WALK",
     "appearances": [
       "WALK"
@@ -16623,7 +16686,7 @@
     "other_families": [],
     "release_date": "2026年7月1日",
     "voice_actor": "-",
-    "related_items": ["-"],
+    "related_items": [],
     "related_characters": []
   },
        {
@@ -16634,7 +16697,7 @@
     "page_url": "https://dqfan527.xsrv.jp/2026/07/02/donburi-slime/",
     "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/01/どんぶりスライム.webp",
     "monster_family": "スライム族",
-    "search_keywords": ["吉野家","コラボ","公式イラストあり"],
+    "search_keywords": ["吉野家","よしのや","コラボ","公式イラストあり"],
     "first_appearance": "WALK",
     "appearances": [
       "WALK"
@@ -16644,7 +16707,7 @@
     "other_families": [],
     "release_date": "2026年7月1日",
     "voice_actor": "-",
-    "related_items": ["-"],
+    "related_items": [],
     "related_characters": []
   },
        {
