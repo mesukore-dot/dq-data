@@ -789,5 +789,25 @@
     "sub_family": "-",
     "release_date": "2023年1月24日",
     "zukan_no": "No.00965"
+  },
+  {
+    "id": "CPM-MAG_TV13Z0001",
+    "name": "てれびあん",
+    "furigana": "てれびあん",
+    "page_url": "https://dqfan527.xsrv.jp/2026/11/27/vjump-drakym/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てれびあん.webp",
+    "search_keywords": [
+      "てれびくん",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQM4",
+    "appearances": [
+      "DQM4"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "2026年12月3日",
+    "zukan_no": "No.00978"
   }
 ]
