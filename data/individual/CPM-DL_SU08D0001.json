@@ -1,0 +1,47 @@
+{
+  "id": "CPM-DL_SU08D0001",
+  "name": "やみつきサタン",
+  "furigana": "やみつきさたん",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/27/yamitsuki-satan/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/やみつきサタン.webp",
+  "monster_family": "ベビーサタン族",
+  "search_keywords": [
+    "ぎるてぃたんさんのーぷ",
+    "ギルティ炭酸NOPE",
+    "サントリー",
+    "コラボ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM4",
+  "appearances": [
+    "DQM4"
+  ],
+  "main_family": "あくま系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年12月3日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00976",
+  "prev_id": "CPM-DL_SU03B0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/27/yokubou-cat/",
+  "next_id": "CPM-GGL01S0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/11/23/suramy/",
+  "color_variants": [
+    {
+      "id": "1F08D0003",
+      "name": "つかいま",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/つかいま.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/07/22/tukaima/"
+    },
+    {
+      "id": "CPM-CVS_LW09D0001",
+      "name": "からあげサタン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/からあげサタン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/23/karaage-satan/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

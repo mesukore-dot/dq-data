@@ -1,0 +1,47 @@
+{
+  "id": "CPM-DL_SU01S0001",
+  "name": "ギルティバブル",
+  "furigana": "ぎるてぃばぶる",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/27/gilty-bubble/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ギルティバブル.webp",
+  "monster_family": "バブルキング族",
+  "search_keywords": [
+    "ぎるてぃたんさんのーぷ",
+    "ギルティ炭酸NOPE",
+    "サントリー",
+    "コラボ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM4",
+  "appearances": [
+    "DQM4"
+  ],
+  "main_family": "スライム系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年12月3日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00974",
+  "prev_id": "CPM-DL_CO07W0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/02/21/grape-merman/",
+  "next_id": "CPM-DL_SU03B0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/11/27/yokubou-cat/",
+  "color_variants": [
+    {
+      "id": "5B01S0015",
+      "name": "バブルキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/バブルキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/10/26/bubble-king/"
+    },
+    {
+      "id": "6A01S0011",
+      "name": "タールキング",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/08/タールキング.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/tar-king/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

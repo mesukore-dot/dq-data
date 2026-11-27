@@ -1,0 +1,65 @@
+{
+  "id": "CPM-DL_SU03B0001",
+  "name": "よくぼうキャット",
+  "furigana": "よくぼうきゃっと",
+  "english_name": "-",
+  "page_url": "https://dqfan527.xsrv.jp/2026/11/27/yokubou-cat/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/よくぼうキャット.webp",
+  "monster_family": "プリズニャン族",
+  "search_keywords": [
+    "ぎるてぃたんさんのーぷ",
+    "ギルティ炭酸NOPE",
+    "サントリー",
+    "コラボ",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQM4",
+  "appearances": [
+    "DQM4"
+  ],
+  "main_family": "けもの系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "2026年12月3日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00975",
+  "prev_id": "CPM-DL_SU01S0001",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/27/gilty-bubble/",
+  "next_id": "CPM-DL_SU08D0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2026/11/27/yamitsuki-satan/",
+  "color_variants": [
+    {
+      "id": "1F03B0003",
+      "name": "しましまキャット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/しましまキャット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/09/29/shimashima-cat/"
+    },
+    {
+      "id": "1F03B0003-1",
+      "name": "マーブルン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/マーブルン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/04/10/marblen/"
+    },
+    {
+      "id": "2E03B0005",
+      "name": "プリズニャン",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/プリズニャン.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/purizunyan/"
+    },
+    {
+      "id": "4C03B0004",
+      "name": "ベロニャーゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/10/ベロニャーゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/03/terror-tabby/"
+    },
+    {
+      "id": "5B03B0012",
+      "name": "デスニャーゴ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスニャーゴ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2023/11/30/death-nyago/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}
