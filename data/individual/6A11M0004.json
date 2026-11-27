@@ -1,0 +1,39 @@
+{
+  "id": "6A11M0004",
+  "name": "エビルフランケン",
+  "furigana": "えびるふらんけん",
+  "english_name": "Mechalomaniac",
+  "page_url": "https://dqfan527.xsrv.jp/2024/08/16/mechalomaniac/",
+  "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルフランケン.webp",
+  "monster_family": "メガボーグ族",
+  "search_keywords": [
+    "Mechalomaniac",
+    "公式イラストあり"
+  ],
+  "first_appearance": "DQ6",
+  "appearances": [
+    "DQ6",
+    "RIV"
+  ],
+  "main_family": "マシン系",
+  "sub_family": "-",
+  "other_families": [],
+  "release_date": "1995年12月9日",
+  "related_items": [],
+  "related_characters": [],
+  "zukan_no": "No.00783",
+  "prev_id": "6A11M0003",
+  "prev_page_url": "https://dqfan527.xsrv.jp/2025/03/08/durandal/",
+  "next_id": "6A12E0001",
+  "next_page_url": "https://dqfan527.xsrv.jp/2025/10/31/dark-dreamer/",
+  "color_variants": [
+    {
+      "id": "5B11M0004",
+      "name": "メガボーグ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メガボーグ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2024/08/14/scytheborg/"
+    }
+  ],
+  "related_items_details": [],
+  "related_characters_details": []
+}

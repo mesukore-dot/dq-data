@@ -511,6 +511,31 @@
     "zukan_no": "No.00680"
   },
   {
+    "id": "5B11M0004",
+    "name": "メガボーグ",
+    "furigana": "めがぼーぐ",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/14/scytheborg/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/メガボーグ.webp",
+    "search_keywords": [
+      "Scytheborg",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQMJ2_P",
+      "RIV"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00681"
+  },
+  {
     "id": "6A11M0001",
     "name": "メカバーン",
     "furigana": "めかばーん",
@@ -549,7 +574,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1992年9月27日",
-    "zukan_no": "No.00779"
+    "zukan_no": "No.00780"
   },
   {
     "id": "6A11M0002",
@@ -596,7 +621,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00780"
+    "zukan_no": "No.00781"
   },
   {
     "id": "6A11M0003",
@@ -621,7 +646,27 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2015年4月30日",
-    "zukan_no": "No.00781"
+    "zukan_no": "No.00782"
+  },
+  {
+    "id": "6A11M0004",
+    "name": "エビルフランケン",
+    "furigana": "えびるふらんけん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/08/16/mechalomaniac/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/エビルフランケン.webp",
+    "search_keywords": [
+      "Mechalomaniac",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ6",
+      "RIV"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00783"
   },
   {
     "id": "7S11M0001",
@@ -647,7 +692,52 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年3月14日",
-    "zukan_no": "No.00850"
+    "zukan_no": "No.00852"
+  },
+  {
+    "id": "7S11M0002",
+    "name": "キラーマジンガ",
+    "furigana": "きらーまじんが",
+    "page_url": "https://dqfan527.xsrv.jp/2023/11/30/killer-machine-2/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キラーマジンガ.webp",
+    "search_keywords": [
+      "Überkilling machine",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ6",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ6",
+      "DQ7_3D",
+      "DQ10",
+      "DQ11",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ2_P",
+      "DQMJ3",
+      "DQMJ3_P",
+      "DQH1",
+      "DQH2",
+      "DQMB",
+      "DQBS",
+      "XB",
+      "DQMSL",
+      "MSP",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS"
+    ],
+    "main_family": "マシン系",
+    "sub_family": "-",
+    "release_date": "1995年12月9日",
+    "zukan_no": "No.00853"
   },
   {
     "id": "8SS11M0001",
@@ -680,7 +770,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00890"
+    "zukan_no": "No.00893"
   },
   {
     "id": "8SS11M0002",
@@ -704,7 +794,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2003年3月29日",
-    "zukan_no": "No.00891"
+    "zukan_no": "No.00894"
   },
   {
     "id": "8SS11M0003",
@@ -726,7 +816,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2014年2月6日",
-    "zukan_no": "No.00892"
+    "zukan_no": "No.00895"
   },
   {
     "id": "8SS11M0004",
@@ -765,7 +855,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2008年1月11日",
-    "zukan_no": "No.00893"
+    "zukan_no": "No.00896"
   },
   {
     "id": "CPM-CVS_LW11M0001",
@@ -788,7 +878,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2023年1月24日",
-    "zukan_no": "No.00965"
+    "zukan_no": "No.00968"
   },
   {
     "id": "CPM-DL_CO11M0001",
@@ -808,7 +898,7 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2023年1月13日",
-    "zukan_no": "No.00974"
+    "zukan_no": "No.00977"
   },
   {
     "id": "CPM-MAG_TV11M0001",
@@ -828,6 +918,6 @@
     "main_family": "マシン系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00982"
+    "zukan_no": "No.00985"
   }
 ]
