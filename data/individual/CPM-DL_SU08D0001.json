@@ -22,7 +22,13 @@
   "other_families": [],
   "release_date": "2026年12月3日",
   "related_items": [],
-  "related_characters": [],
+  "related_characters": [
+    "CPM-CVS_FM01S0001",
+    "CPM-DL_SU01S0001",
+    "CPM-DL_SU03B0001",
+    "CPM-MAG_VJ05B0001",
+    "CPM-MAG_TV13Z0001"
+  ],
   "zukan_no": "No.00976",
   "prev_id": "CPM-DL_SU03B0001",
   "prev_page_url": "https://dqfan527.xsrv.jp/2026/11/27/yokubou-cat/",
@@ -43,5 +49,36 @@
     }
   ],
   "related_items_details": [],
-  "related_characters_details": []
+  "related_characters_details": [
+    {
+      "id": "CPM-CVS_FM01S0001",
+      "name": "ファミリナイト",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ファミリナイト.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/23/family-mart-slime-knight/"
+    },
+    {
+      "id": "CPM-DL_SU01S0001",
+      "name": "ギルティバブル",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ギルティバブル.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/27/gilty-bubble/"
+    },
+    {
+      "id": "CPM-DL_SU03B0001",
+      "name": "よくぼうキャット",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/よくぼうキャット.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/27/yokubou-cat/"
+    },
+    {
+      "id": "CPM-MAG_VJ05B0001",
+      "name": "Vジャンキーマ",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/Vジャンキーマ.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/23/vjump-drakym/"
+    },
+    {
+      "id": "CPM-MAG_TV13Z0001",
+      "name": "てれびあん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てれびあん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/27/tvan/"
+    }
+  ]
 }
