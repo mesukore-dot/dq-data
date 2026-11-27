@@ -38,6 +38,75 @@
     "related_characters": []
   },
   {
+    "id": "8SS14Q1N100201",
+    "name": "魔勇者アンルシア",
+    "furigana": "まゆうしゃあんるしあ",
+    "english_name": "Anlucia the Maluminary",
+    "page_url": "https://dqfan527.xsrv.jp/2024/06/19/evil-ann-lucia/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/魔勇者アンルシア.webp",
+    "monster_family": "魔勇者アンルシア族",
+    "search_keywords": ["Anlucia the Maluminary","ボス","公式イラストあり"],
+    "first_appearance": "DQ10",
+    "appearances": [
+      "DQ10","DQ10_OFF",
+      "XB",
+      "DQMSL","MSP","STAR","RIV","WALK","TACT","KSKS"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2013年12月5日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS14Q1N090002",
+    "name": "フォロボシータ",
+    "furigana": "ふぉろぼしーた",
+    "english_name": "Tyrannosaura Wrecks",
+    "page_url": "https://dqfan527.xsrv.jp/2025/07/10/foroboshita/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/07/フォロボシータ.webp",
+    "monster_family": "うみうしひめ族",
+    "search_keywords": ["Tyrannosaura Wrecks","ボス","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP",
+      "DQMSL"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年11月13日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "8SS14Q1N090001",
+    "name": "破壊神フォロボス",
+    "furigana": "はかいしんふぉろぼす",
+    "english_name": "Tyrannosaurus Wrecks",
+    "page_url": "https://dqfan527.xsrv.jp/2025/08/04/hakaisinforobosu/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/破壊神フォロボス.webp",
+    "monster_family": "破壊神フォロボス族",
+    "search_keywords": ["Tyrannosaurus Wrecks","ボス","公式イラストあり"],
+    "first_appearance": "DQ9",
+    "appearances": [
+      "DQ9","DQ10",
+      "DQM1_3DS","DQM1_SP","DQM2_3DS","DQM2_SP","DQMJ2_P","DQMJ3_P",
+      "DQMSL","RIV","TACT"
+    ],
+    "main_family": "？？？系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2009年7月11日",
+    "voice_actor": "-",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "9X14Q1N110003",
     "name": "邪竜ウルナーガ&魔王ウルノーガ",
     "furigana": "じゃりゅううるなーがあんどまおううるのーが",
