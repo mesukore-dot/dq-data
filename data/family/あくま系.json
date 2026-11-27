@@ -981,5 +981,26 @@
     "sub_family": "-",
     "release_date": "2026年12月3日",
     "zukan_no": "No.00976"
+  },
+  {
+    "id": "CPM-QSR_YS08D0001",
+    "name": "牛丼デーモン",
+    "furigana": "ぎゅうどんでーもん",
+    "page_url": "https://dqfan527.xsrv.jp/2026/07/02/gyuurem/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2023/05/牛丼デーモン.webp",
+    "search_keywords": [
+      "吉野家",
+      "よしのや",
+      "コラボ",
+      "公式イラストあり"
+    ],
+    "first_appearance": "WALK",
+    "appearances": [
+      "WALK"
+    ],
+    "main_family": "あくま系",
+    "sub_family": "-",
+    "release_date": "2026年7月1日",
+    "zukan_no": "No.00992"
   }
 ]
