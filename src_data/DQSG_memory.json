@@ -176,6 +176,28 @@
             "dqsg_effects": ["メモリアスキル：ホイミンとの絆","けもの系への耐性 +2%"]
   },
   {
+    "dqsg_id": "E0063",
+            "dqsg_name": "デスピサロ軍",
+            "dqsg_furigana": "ですぴさろぐん",
+            "dqsg_rarity": "マルチ",
+            "dqsg_color": "黄",
+            "dqsg_system": "？？？系",
+            "dqsg_cost": 103,
+            "dqsg_available": true,
+            "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ軍-メモリ.webp",
+            "dqsg_url": "",
+            "dqsg_panels": [],
+            "dqsg_status": { 
+              "dqsg_hp": 136,
+              "dqsg_attack": 105, 
+              "dqsg_magic_attack": 48, 
+              "dqsg_magic_heal": 27, 
+              "dqsg_defense": 73, 
+              "dqsg_magic_defense": 61, 
+              "dqsg_dexterity": 38},
+            "dqsg_effects": ["氷属性のダメージ +6%"]
+  },
+  {
     "id": "9X14Q1N040001-1",
     "dqsg_id": "E0062",
             "dqsg_name": "デスピサロ",
