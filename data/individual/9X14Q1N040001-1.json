@@ -1,29 +1,5 @@
 {
   "id": "9X14Q1N040001-1",
-  "dqsg_id": "E0062",
-  "dqsg_name": "デスピサロ",
-  "dqsg_furigana": "ですぴさろ",
-  "dqsg_rarity": "ほこら",
-  "dqsg_color": "黄",
-  "dqsg_system": "？？？系",
-  "dqsg_cost": 103,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/04/09/deathpisaro/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 175,
-    "dqsg_attack": 121,
-    "dqsg_magic_attack": 67,
-    "dqsg_magic_heal": 34,
-    "dqsg_defense": 94,
-    "dqsg_magic_defense": 74,
-    "dqsg_dexterity": 101
-  },
-  "dqsg_effects": [
-    "冒険スキル：ソード系のダメージ +5%",
-    "炎属性のブレスダメージ +10%"
-  ],
   "name": "デスピサロ",
   "furigana": "ですぴさろ",
   "english_name": "Psaro the Manslayer",
@@ -80,6 +56,30 @@
     "7S02D0001",
     "7S10M0001",
     "8SS03B0001"
+  ],
+  "dqsg_id": "E0062",
+  "dqsg_name": "デスピサロ",
+  "dqsg_furigana": "ですぴさろ",
+  "dqsg_rarity": "ほこら",
+  "dqsg_color": "黄",
+  "dqsg_system": "？？？系",
+  "dqsg_cost": 103,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/デスピサロ-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/04/09/deathpisaro/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 175,
+    "dqsg_attack": 121,
+    "dqsg_magic_attack": 67,
+    "dqsg_magic_heal": 34,
+    "dqsg_defense": 94,
+    "dqsg_magic_defense": 74,
+    "dqsg_dexterity": 101
+  },
+  "dqsg_effects": [
+    "冒険スキル：ソード系のダメージ +5%",
+    "炎属性のブレスダメージ +10%"
   ],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-デスピサロ.webp",
   "dqsg_release_date": "2026年11月17日",

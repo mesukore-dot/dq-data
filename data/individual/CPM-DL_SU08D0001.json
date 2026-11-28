@@ -27,7 +27,7 @@
     "CPM-DL_SU01S0001",
     "CPM-DL_SU03B0001",
     "CPM-MAG_VJ05B0001",
-    "CPM-MAG_TV13Z0001"
+    "CPM-MAG_TV11M0001"
   ],
   "zukan_no": "No.00980",
   "prev_id": "CPM-DL_SU03B0001",
@@ -75,7 +75,10 @@
       "page_url": "https://dqfan527.xsrv.jp/2026/11/23/vjump-drakym/"
     },
     {
-      "id": "CPM-MAG_TV13Z0001"
+      "id": "CPM-MAG_TV11M0001",
+      "name": "てれびあん",
+      "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/てれびあん.webp",
+      "page_url": "https://dqfan527.xsrv.jp/2026/11/27/tvan/"
     }
   ]
 }

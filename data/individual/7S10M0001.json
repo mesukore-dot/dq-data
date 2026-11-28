@@ -1,28 +1,5 @@
 {
   "id": "7S10M0001",
-  "dqsg_id": "E0059",
-  "dqsg_name": "バルザック",
-  "dqsg_furigana": "ばるざっく",
-  "dqsg_rarity": "強敵",
-  "dqsg_color": "緑",
-  "dqsg_system": "あくま系",
-  "dqsg_cost": 50,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バルザック-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/24/balzack/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 79,
-    "dqsg_attack": 66,
-    "dqsg_magic_attack": 29,
-    "dqsg_magic_heal": 61,
-    "dqsg_defense": 41,
-    "dqsg_magic_defense": 45,
-    "dqsg_dexterity": 34
-  },
-  "dqsg_effects": [
-    "ヤリ装備時：炎属性の物理ダメージ +10%"
-  ],
   "name": "バルザック＋",
   "furigana": "ばるざっくぷらす",
   "english_name": "Balzack",
@@ -68,6 +45,29 @@
     "6A03B0005",
     "8SS03B0001",
     "9X14Q1N040001-1"
+  ],
+  "dqsg_id": "E0059",
+  "dqsg_name": "バルザック",
+  "dqsg_furigana": "ばるざっく",
+  "dqsg_rarity": "強敵",
+  "dqsg_color": "緑",
+  "dqsg_system": "あくま系",
+  "dqsg_cost": 50,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/バルザック-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/07/24/balzack/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 79,
+    "dqsg_attack": 66,
+    "dqsg_magic_attack": 29,
+    "dqsg_magic_heal": 61,
+    "dqsg_defense": 41,
+    "dqsg_magic_defense": 45,
+    "dqsg_dexterity": 34
+  },
+  "dqsg_effects": [
+    "ヤリ装備時：炎属性の物理ダメージ +10%"
   ],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-バルザック.webp",
   "dqsg_release_date": "2026年11月10日",

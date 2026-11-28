@@ -1,28 +1,5 @@
 {
   "id": "7S10M0003",
-  "dqsg_id": "E0056",
-  "dqsg_name": "ピサロナイト",
-  "dqsg_furigana": "ぴさろないと",
-  "dqsg_rarity": "イベスト",
-  "dqsg_color": "黄",
-  "dqsg_system": "物質系",
-  "dqsg_cost": 72,
-  "dqsg_available": true,
-  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ピサロナイト-メモリ.webp",
-  "dqsg_url": "https://dqfan527.xsrv.jp/2023/08/01/pisaroknight/",
-  "dqsg_panels": [],
-  "dqsg_status": {
-    "dqsg_hp": 124,
-    "dqsg_attack": 67,
-    "dqsg_magic_attack": 45,
-    "dqsg_magic_heal": 34,
-    "dqsg_defense": 68,
-    "dqsg_magic_defense": 56,
-    "dqsg_dexterity": 37
-  },
-  "dqsg_effects": [
-    "ドラゴン系にダメージ +7%"
-  ],
   "name": "ピサロナイト",
   "furigana": "ぴさろないと",
   "english_name": "Roseguardin",
@@ -66,6 +43,29 @@
     "4C08D0003",
     "2E08D0002",
     "9X14Q1N040001"
+  ],
+  "dqsg_id": "E0056",
+  "dqsg_name": "ピサロナイト",
+  "dqsg_furigana": "ぴさろないと",
+  "dqsg_rarity": "イベスト",
+  "dqsg_color": "黄",
+  "dqsg_system": "物質系",
+  "dqsg_cost": 72,
+  "dqsg_available": true,
+  "dqsg_memory_image": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ピサロナイト-メモリ.webp",
+  "dqsg_url": "https://dqfan527.xsrv.jp/2023/08/01/pisaroknight/",
+  "dqsg_panels": [],
+  "dqsg_status": {
+    "dqsg_hp": 124,
+    "dqsg_attack": 67,
+    "dqsg_magic_attack": 45,
+    "dqsg_magic_heal": 34,
+    "dqsg_defense": 68,
+    "dqsg_magic_defense": 56,
+    "dqsg_dexterity": 37
+  },
+  "dqsg_effects": [
+    "ドラゴン系にダメージ +7%"
   ],
   "dqsg_image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/スマグロ-ピサロナイト.webp",
   "dqsg_release_date": "2026年11月10日",
