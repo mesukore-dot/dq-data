@@ -38,6 +38,95 @@
     "related_characters": []
   },
   {
+    "id": "5B07W0003",
+    "name": "キングマーマン",
+    "furigana": "きんぐまーまん",
+    "english_name": "Merking",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/king-ma-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キングマーマン.webp",
+    "monster_family": "マーマン族",
+    "search_keywords": ["Merking","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ7_RM","DQ8","DQ8_3D","DQ11",
+      "FY1","DQB2",
+      "STAR","TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "4C07W0007",
+    "name": "ザバン",
+    "furigana": "ざばん",
+    "english_name": "Geyzer",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/25/geyzer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ザバン.webp",
+    "monster_family": "マーマン族",
+    "search_keywords": ["Geyzer","公式イラストあり"],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8","DQ8_3D",
+      "STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "2004年11月27日",
+    "voice_actor": "青山穣",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "3D07W0009",
+    "name": "マーマンダイン",
+    "furigana": "まーまんだいん",
+    "english_name": "Mermaniac",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/ma-man-dyne/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マーマンダイン.webp",
+    "monster_family": "マーマン族",
+    "search_keywords": ["Mermaniac","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ7_RM","DQ11",
+      "DQB2",
+      "STAR","RIV","WALK","TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
+    "id": "2E07W0006",
+    "name": "マーマン",
+    "furigana": "まーまん",
+    "english_name": "Merman",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/ma-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マーマン.webp",
+    "monster_family": "マーマン族",
+    "search_keywords": ["Merman","公式イラストあり"],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D","DQ3","DQ3_SFC","DQ3_GBC","DQ3_HD2D","DQ5","DQ5_PS2","DQ5_DS","DQ7_RM","DQ8","DQ8_3D","DQ11",
+      "DQM1","DQM1_3DS","DQM1_SP","DQM2","DQM2_3DS","DQM2_SP","DQM3","DQM4","DQMCH","DQMJ","DQMJ2","DQMJ2_P",
+      "FY1","DQSW","DQB2",
+      "STAR","RIV","WALK","TACT","KSKS","DQSG"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "other_families": [],
+    "release_date": "1988年2月10日",
+    "related_items": [],
+    "related_characters": []
+  },
+  {
     "id": "6A11M0004",
     "name": "エビルフランケン",
     "furigana": "えびるふらんけん",
