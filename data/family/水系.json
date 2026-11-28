@@ -342,6 +342,57 @@
     "zukan_no": "No.00194"
   },
   {
+    "id": "2E07W0006",
+    "name": "マーマン",
+    "furigana": "まーまん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/ma-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マーマン.webp",
+    "search_keywords": [
+      "Merman",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "DQM1",
+      "DQM1_3DS",
+      "DQM1_SP",
+      "DQM2",
+      "DQM2_3DS",
+      "DQM2_SP",
+      "DQM3",
+      "DQM4",
+      "DQMCH",
+      "DQMJ",
+      "DQMJ2",
+      "DQMJ2_P",
+      "FY1",
+      "DQSW",
+      "DQB2",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT",
+      "KSKS",
+      "DQSG"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00195"
+  },
+  {
     "id": "3D07W0001",
     "name": "しびれくらげ",
     "furigana": "しびれくらげ",
@@ -394,7 +445,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1987年1月26日",
-    "zukan_no": "No.00344"
+    "zukan_no": "No.00345"
   },
   {
     "id": "3D07W0002",
@@ -432,7 +483,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00345"
+    "zukan_no": "No.00346"
   },
   {
     "id": "3D07W0003",
@@ -461,7 +512,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00346"
+    "zukan_no": "No.00347"
   },
   {
     "id": "3D07W0004",
@@ -491,7 +542,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00347"
+    "zukan_no": "No.00348"
   },
   {
     "id": "3D07W0005",
@@ -512,7 +563,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00348"
+    "zukan_no": "No.00349"
   },
   {
     "id": "3D07W0006",
@@ -534,7 +585,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00349"
+    "zukan_no": "No.00350"
   },
   {
     "id": "3D07W0007",
@@ -553,7 +604,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00350"
+    "zukan_no": "No.00351"
   },
   {
     "id": "3D07W0008",
@@ -576,7 +627,40 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00351"
+    "zukan_no": "No.00352"
+  },
+  {
+    "id": "3D07W0009",
+    "name": "マーマンダイン",
+    "furigana": "まーまんだいん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/ma-man-dyne/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/マーマンダイン.webp",
+    "search_keywords": [
+      "Mermaniac",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_RM",
+      "DQ11",
+      "DQB2",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00353"
   },
   {
     "id": "4C07W0001",
@@ -601,7 +685,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1990年2月11日",
-    "zukan_no": "No.00502"
+    "zukan_no": "No.00504"
   },
   {
     "id": "4C07W0002",
@@ -622,7 +706,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00503"
+    "zukan_no": "No.00505"
   },
   {
     "id": "4C07W0003",
@@ -646,7 +730,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2004年11月27日",
-    "zukan_no": "No.00504"
+    "zukan_no": "No.00506"
   },
   {
     "id": "4C07W0004",
@@ -664,7 +748,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年12月3日",
-    "zukan_no": "No.00505"
+    "zukan_no": "No.00507"
   },
   {
     "id": "4C07W0005",
@@ -688,7 +772,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2001年3月9日",
-    "zukan_no": "No.00506"
+    "zukan_no": "No.00508"
   },
   {
     "id": "4C07W0006",
@@ -711,7 +795,31 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00507"
+    "zukan_no": "No.00509"
+  },
+  {
+    "id": "4C07W0007",
+    "name": "ザバン",
+    "furigana": "ざばん",
+    "page_url": "https://dqfan527.xsrv.jp/2024/03/25/geyzer/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/ザバン.webp",
+    "search_keywords": [
+      "Geyzer",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ8",
+    "appearances": [
+      "DQ8",
+      "DQ8_3D",
+      "STAR",
+      "RIV",
+      "WALK",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "2004年11月27日",
+    "zukan_no": "No.00510"
   },
   {
     "id": "5B07W0001",
@@ -729,7 +837,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2026年9月9日",
-    "zukan_no": "No.00656"
+    "zukan_no": "No.00659"
   },
   {
     "id": "5B07W0002",
@@ -753,7 +861,41 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00657"
+    "zukan_no": "No.00660"
+  },
+  {
+    "id": "5B07W0003",
+    "name": "キングマーマン",
+    "furigana": "きんぐまーまん",
+    "page_url": "https://dqfan527.xsrv.jp/2023/06/08/king-ma-man/",
+    "image_url": "https://dqfan527.xsrv.jp/wp-content/uploads/2026/11/キングマーマン.webp",
+    "search_keywords": [
+      "Merking",
+      "公式イラストあり"
+    ],
+    "first_appearance": "DQ3",
+    "appearances": [
+      "DQ2_HD2D",
+      "DQ3",
+      "DQ3_SFC",
+      "DQ3_GBC",
+      "DQ3_HD2D",
+      "DQ5",
+      "DQ5_PS2",
+      "DQ5_DS",
+      "DQ7_RM",
+      "DQ8",
+      "DQ8_3D",
+      "DQ11",
+      "FY1",
+      "DQB2",
+      "STAR",
+      "TACT"
+    ],
+    "main_family": "水系",
+    "sub_family": "-",
+    "release_date": "1988年2月10日",
+    "zukan_no": "No.00661"
   },
   {
     "id": "6A07W0001",
@@ -774,7 +916,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2012年8月2日",
-    "zukan_no": "No.00766"
+    "zukan_no": "No.00770"
   },
   {
     "id": "6A07W0002",
@@ -795,7 +937,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2018年2月21日",
-    "zukan_no": "No.00767"
+    "zukan_no": "No.00771"
   },
   {
     "id": "6A07W0003",
@@ -814,7 +956,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2023年12月1日",
-    "zukan_no": "No.00768"
+    "zukan_no": "No.00772"
   },
   {
     "id": "7S07W0001",
@@ -856,7 +998,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "1995年12月9日",
-    "zukan_no": "No.00844"
+    "zukan_no": "No.00848"
   },
   {
     "id": "8SS07W0001",
@@ -891,7 +1033,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2009年7月11日",
-    "zukan_no": "No.00890"
+    "zukan_no": "No.00894"
   },
   {
     "id": "9X07W0001",
@@ -917,7 +1059,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2010年4月28日",
-    "zukan_no": "No.00930"
+    "zukan_no": "No.00934"
   },
   {
     "id": "CPM-DL_CO07W0001",
@@ -937,7 +1079,7 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2023年11月14日",
-    "zukan_no": "No.00976"
+    "zukan_no": "No.00980"
   },
   {
     "id": "CPM-MV07W0001",
@@ -957,6 +1099,6 @@
     "main_family": "水系",
     "sub_family": "-",
     "release_date": "2014年12月24日",
-    "zukan_no": "No.00989"
+    "zukan_no": "No.00993"
   }
 ]
